@@ -22,7 +22,9 @@ async def emitRequest(url: str, client: httpx.AsyncClient, headers={}):
         await asyncio.sleep(retry_timeout)
         retry_timeout = min(retry_timeout * 2, RETRY_TIMEOUT_MAX)
       else:
-        print("Got response: " + r.headers + r.text)
+        print("Got response: ")
+        print(r.headers)
+        print(r.text)
         r.raise_for_status()
         raise Exception(r.status_code, url)
     except (httpx.PoolTimeout, httpx.ReadTimeout, httpx.ReadError) as e:
