@@ -23,6 +23,7 @@ async def emitRequest(url: str, client: httpx.AsyncClient, headers={}):
         retry_timeout = min(retry_timeout * 2, RETRY_TIMEOUT_MAX)
       else:
         r.raise_for_status()
+        print("Got response: " + r.headers + r.text)
         raise Exception(r.status_code, url)
     except (httpx.PoolTimeout, httpx.ReadTimeout, httpx.ReadError) as e:
       logger.warning(
