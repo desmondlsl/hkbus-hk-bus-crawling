@@ -29503,6 +29503,42 @@
                 ]
             }
         },
+        "118R+1+SIU SAI WAN SPORTS GROUND+MONG KOK": {
+            "bound": {
+                "kmb": "O"
+            },
+            "co": [
+                "kmb"
+            ],
+            "dest": {
+                "en": "MONG KOK",
+                "zh": "\u65fa\u89d2"
+            },
+            "fares": null,
+            "faresHoliday": null,
+            "freq": null,
+            "gtfsId": null,
+            "jt": null,
+            "nlbId": null,
+            "orig": {
+                "en": "SIU SAI WAN SPORTS GROUND",
+                "zh": "\u5c0f\u897f\u7063\u904b\u52d5\u5834"
+            },
+            "route": "118R",
+            "seq": 7,
+            "serviceType": "1",
+            "stops": {
+                "kmb": [
+                    "1CB893E0DE8F8B43",
+                    "153D32217234A0F0",
+                    "893BBB901005C3E6",
+                    "BBE77B90CE43AEFA",
+                    "3A43E432D0588F79",
+                    "0F4F935A9F14F111",
+                    "D7C46496C9C7B7BA"
+                ]
+            }
+        },
         "118R+1+Siu Sai Wan Sports Ground+Mong Kok": {
             "bound": {
                 "ctb": "O"
@@ -580165,6 +580201,10 @@
             ],
             [
                 "kmb",
+                "1CB893E0DE8F8B43"
+            ],
+            [
+                "kmb",
                 "C41D6E03AEFFA431"
             ],
             [
@@ -596302,6 +596342,10 @@
             [
                 "ctb",
                 "001394"
+            ],
+            [
+                "kmb",
+                "1CB893E0DE8F8B43"
             ],
             [
                 "kmb",
@@ -620799,15 +620843,7 @@
             ],
             [
                 "kmb",
-                "C41D6E03AEFFA431"
-            ],
-            [
-                "kmb",
                 "C498AA2390E7555F"
-            ],
-            [
-                "kmb",
-                "E7EEC8527FE110F4"
             ]
         ],
         "1CBA941164585ABC": [
@@ -739430,6 +739466,10 @@
             [
                 "ctb",
                 "002790"
+            ],
+            [
+                "kmb",
+                "1CB893E0DE8F8B43"
             ],
             [
                 "ctb",
