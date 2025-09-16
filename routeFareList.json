@@ -106103,7 +106103,7 @@
                 ]
             }
         },
-        "278K+2+FANLING (LUEN WO HUI)+FANLING STATION (CIRCULAR)": {
+        "278K+2+FANLING (LUEN WO HUI)+FANLING STATION (CIR.) [AM Special Route]": {
             "bound": {
                 "kmb": "O"
             },
@@ -106111,8 +106111,8 @@
                 "kmb"
             ],
             "dest": {
-                "en": "FANLING STATION (CIRCULAR)",
-                "zh": "FANLING STATION (CIRCULAR)"
+                "en": "FANLING STATION (CIR.) [AM Special Route]",
+                "zh": "\u7c89\u5dba\u7ad9(\u5faa\u74b0\u7dda) [\u4e0a\u5348\u7279\u5225\u8def\u7dda]"
             },
             "fares": [
                 "4.3",
@@ -106163,7 +106163,7 @@
                 ]
             }
         },
-        "278K+3+FANLING (LUEN WO HUI)+FANLING STATION (CIRCULAR)": {
+        "278K+3+FANLING (LUEN WO HUI)+FANLING STATION (CIR.) [PM Special Route]": {
             "bound": {
                 "kmb": "O"
             },
@@ -106171,8 +106171,8 @@
                 "kmb"
             ],
             "dest": {
-                "en": "FANLING STATION (CIRCULAR)",
-                "zh": "FANLING STATION (CIRCULAR)"
+                "en": "FANLING STATION (CIR.) [PM Special Route]",
+                "zh": "\u7c89\u5dba\u7ad9(\u5faa\u74b0\u7dda) [\u4e0b\u5348\u7279\u5225\u8def\u7dda]"
             },
             "fares": [
                 "4.3",
@@ -453471,8 +453471,8 @@
                 "lng": 114.224346
             },
             "name": {
-                "en": "KWUN TONG BBI - KWUN TONG TOWN CENTRE (KT348)",
-                "zh": "\u89c0\u5858\u8f49\u8eca\u7ad9 - \u89c0\u5858\u5e02\u4e2d\u5fc3"
+                "en": "KWUN TONG BBI-KWUN TONG TOWN CENTRE (KT348)",
+                "zh": "\u89c0\u5858\u8f49\u8eca\u7ad9-\u89c0\u5858\u5e02\u4e2d\u5fc3 (KT348)"
             }
         },
         "0B8D095A45B05587": {
@@ -456821,8 +456821,8 @@
                 "lng": 114.224212
             },
             "name": {
-                "en": "KWUN TONG BBI - KWUN TONG TOWN CENTRE (KT346)",
-                "zh": "\u89c0\u5858\u8f49\u8eca\u7ad9 - \u89c0\u5858\u5e02\u4e2d\u5fc3"
+                "en": "KWUN TONG BBI-KWUN TONG TOWN CENTRE (KT346)",
+                "zh": "\u89c0\u5858\u8f49\u8eca\u7ad9-\u89c0\u5858\u5e02\u4e2d\u5fc3 (KT346)"
             }
         },
         "14DDE929D10FE4B7": {
@@ -459457,12 +459457,12 @@
         },
         "1D0E096C4E9766C6": {
             "location": {
-                "lat": 22.318422,
-                "lng": 114.194044
+                "lat": 22.318032,
+                "lng": 114.193541
             },
             "name": {
-                "en": "KOWLOON CITY FERRY BUS TERMINUS (ALIGHTING STOP)",
-                "zh": "\u4e5d\u9f8d\u57ce\u78bc\u982d\u5df4\u58eb\u7e3d\u7ad9(\u843d\u5ba2\u7ad9)"
+                "en": "KOWLOON CITY FERRY BUS TERMINUS",
+                "zh": "\u4e5d\u9f8d\u57ce\u78bc\u982d\u5df4\u58eb\u7e3d\u7ad9"
             }
         },
         "1D13B640481F4CD1": {
@@ -509311,8 +509311,8 @@
                 "lng": 114.22487
             },
             "name": {
-                "en": "KWUN TONG BBI - KWUN TONG TOWN CENTRE (KT350)",
-                "zh": "\u89c0\u5858\u8f49\u8eca\u7ad9 - \u89c0\u5858\u5e02\u4e2d\u5fc3"
+                "en": "KWUN TONG BBI-KWUN TONG TOWN CENTRE (KT350)",
+                "zh": "\u89c0\u5858\u8f49\u8eca\u7ad9-\u89c0\u5858\u5e02\u4e2d\u5fc3 (KT350)"
             }
         },
         "243A28F74F73A045": {
@@ -526681,8 +526681,8 @@
                 "lng": 114.224419
             },
             "name": {
-                "en": "KWUN TONG BBI - KWUN TONG TOWN CENTRE (KT349)",
-                "zh": "\u89c0\u5858\u8f49\u8eca\u7ad9 - \u89c0\u5858\u5e02\u4e2d\u5fc3"
+                "en": "KWUN TONG BBI-KWUN TONG TOWN CENTRE (KT349)",
+                "zh": "\u89c0\u5858\u8f49\u8eca\u7ad9-\u89c0\u5858\u5e02\u4e2d\u5fc3 (KT349)"
             }
         },
         "5FD9F31BE3249D43": {
@@ -526927,8 +526927,8 @@
         },
         "60C1F7910C07C52B": {
             "location": {
-                "lat": 22.318413,
-                "lng": 114.193434
+                "lat": 22.318592,
+                "lng": 114.193507
             },
             "name": {
                 "en": "KOWLOON CITY FERRY BUS TERMINUS (KC954)",
@@ -526941,8 +526941,8 @@
                 "lng": 114.214661
             },
             "name": {
-                "en": "HONG KONG INSTITUTE OF CONSTRUCTION - KOWLOON BAY",
-                "zh": "\u9999\u6e2f\u5efa\u9020\u5b78\u9662 - \u4e5d\u9f8d\u7063\u9662\u6821"
+                "en": "HONG KONG INSTITUTE OF CONSTRUCTION-KOWLOON BAY",
+                "zh": "\u9999\u6e2f\u5efa\u9020\u5b78\u9662-\u4e5d\u9f8d\u7063\u9662\u6821"
             }
         },
         "60D5F0433813AA06": {
@@ -535161,8 +535161,8 @@
                 "lng": 114.225006
             },
             "name": {
-                "en": "KWUN TONG BBI - KWUN TONG TOWN CENTRE (KT352)",
-                "zh": "\u89c0\u5858\u8f49\u8eca\u7ad9 - \u89c0\u5858\u5e02\u4e2d\u5fc3"
+                "en": "KWUN TONG BBI-KWUN TONG TOWN CENTRE (KT352)",
+                "zh": "\u89c0\u5858\u8f49\u8eca\u7ad9-\u89c0\u5858\u5e02\u4e2d\u5fc3 (KT352)"
             }
         },
         "80C801672D7D560D": {
@@ -552491,8 +552491,8 @@
                 "lng": 114.194041
             },
             "name": {
-                "en": "KOWLOON CITY FERRY BUS TERMINUS (KC941)",
-                "zh": "\u4e5d\u9f8d\u57ce\u78bc\u982d\u5df4\u58eb\u7e3d\u7ad9 (KC941)"
+                "en": "KOWLOON CITY FERRY BUS TERMINUS (ALIGHTING STOP)",
+                "zh": "\u4e5d\u9f8d\u57ce\u78bc\u982d\u5df4\u58eb\u7e3d\u7ad9(\u843d\u5ba2\u7ad9)"
             }
         },
         "C355E5F825B9864F": {
@@ -557437,8 +557437,8 @@
         },
         "D6BE89205CDC6645": {
             "location": {
-                "lat": 22.318225,
-                "lng": 114.193566
+                "lat": 22.318087,
+                "lng": 114.193576
             },
             "name": {
                 "en": "KOWLOON CITY FERRY BUS TERMINUS (KC952)",
@@ -561467,8 +561467,8 @@
         },
         "E6DCDD4CCE10E4B7": {
             "location": {
-                "lat": 22.318413,
-                "lng": 114.193434
+                "lat": 22.31825,
+                "lng": 114.193247
             },
             "name": {
                 "en": "KOWLOON CITY FERRY BUS TERMINUS (KC945)",
@@ -562581,8 +562581,8 @@
                 "lng": 114.224287
             },
             "name": {
-                "en": "KWUN TONG BBI - KWUN TONG TOWN CENTRE (KT347)",
-                "zh": "\u89c0\u5858\u8f49\u8eca\u7ad9 - \u89c0\u5858\u5e02\u4e2d\u5fc3"
+                "en": "KWUN TONG BBI-KWUN TONG TOWN CENTRE (KT347)",
+                "zh": "\u89c0\u5858\u8f49\u8eca\u7ad9-\u89c0\u5858\u5e02\u4e2d\u5fc3 (KT347)"
             }
         },
         "EB3A1D751C96E053": {
@@ -564067,8 +564067,8 @@
         },
         "F088E9BC1B13B13D": {
             "location": {
-                "lat": 22.318413,
-                "lng": 114.193434
+                "lat": 22.318607,
+                "lng": 114.193449
             },
             "name": {
                 "en": "KOWLOON CITY FERRY BUS TERMINUS (KC953)",
@@ -564472,7 +564472,7 @@
             },
             "name": {
                 "en": "KWUN TONG BBI-KWUN TONG TOWN CENTRE (KT351)",
-                "zh": "\u89c0\u5858\u8f49\u8eca\u7ad9 - \u89c0\u5858\u5e02\u4e2d\u5fc3"
+                "zh": "\u89c0\u5858\u8f49\u8eca\u7ad9-\u89c0\u5858\u5e02\u4e2d\u5fc3 (KT351)"
             }
         },
         "F21DC659FA565E2F": {
@@ -621064,23 +621064,11 @@
             ],
             [
                 "kmb",
-                "3241EDA71CCCF867"
-            ],
-            [
-                "kmb",
-                "C3427DE8E291FFA6"
-            ],
-            [
-                "kmb",
                 "6098480103C44C62"
             ],
             [
                 "kmb",
-                "60C1F7910C07C52B"
-            ],
-            [
-                "kmb",
-                "C72D7C053FC3AEBB"
+                "A92AD89F447B3339"
             ],
             [
                 "kmb",
@@ -621088,7 +621076,19 @@
             ],
             [
                 "kmb",
-                "A92AD89F447B3339"
+                "3241EDA71CCCF867"
+            ],
+            [
+                "kmb",
+                "60C1F7910C07C52B"
+            ],
+            [
+                "kmb",
+                "C3427DE8E291FFA6"
+            ],
+            [
+                "kmb",
+                "C72D7C053FC3AEBB"
             ]
         ],
         "1D13B640481F4CD1": [
@@ -655210,15 +655210,15 @@
         "20015298": [
             [
                 "kmb",
+                "C3427DE8E291FFA6"
+            ],
+            [
+                "kmb",
                 "D6BE89205CDC6645"
             ],
             [
                 "kmb",
                 "A678D9D2809B3BE4"
-            ],
-            [
-                "kmb",
-                "F088E9BC1B13B13D"
             ]
         ],
         "20015299": [
@@ -677148,10 +677148,6 @@
             ],
             [
                 "kmb",
-                "1D0E096C4E9766C6"
-            ],
-            [
-                "kmb",
                 "60C1F7910C07C52B"
             ],
             [
@@ -677164,11 +677160,15 @@
             ],
             [
                 "kmb",
-                "E6DCDD4CCE10E4B7"
+                "1D0E096C4E9766C6"
             ],
             [
                 "kmb",
                 "6098480103C44C62"
+            ],
+            [
+                "kmb",
+                "E6DCDD4CCE10E4B7"
             ],
             [
                 "kmb",
@@ -698182,7 +698182,7 @@
             ],
             [
                 "kmb",
-                "60C1F7910C07C52B"
+                "1D0E096C4E9766C6"
             ],
             [
                 "kmb",
@@ -698194,11 +698194,11 @@
             ],
             [
                 "kmb",
-                "1D0E096C4E9766C6"
+                "3241EDA71CCCF867"
             ],
             [
                 "kmb",
-                "3241EDA71CCCF867"
+                "60C1F7910C07C52B"
             ],
             [
                 "kmb",
@@ -698280,14 +698280,6 @@
             ],
             [
                 "kmb",
-                "6098480103C44C62"
-            ],
-            [
-                "kmb",
-                "A92AD89F447B3339"
-            ],
-            [
-                "kmb",
                 "C72D7C053FC3AEBB"
             ],
             [
@@ -698300,7 +698292,15 @@
             ],
             [
                 "kmb",
+                "6098480103C44C62"
+            ],
+            [
+                "kmb",
                 "C3427DE8E291FFA6"
+            ],
+            [
+                "kmb",
+                "A92AD89F447B3339"
             ]
         ],
         "60D5F0433813AA06": [
@@ -727005,10 +727005,6 @@
                 "D6BE89205CDC6645"
             ],
             [
-                "kmb",
-                "F088E9BC1B13B13D"
-            ],
-            [
                 "gmb",
                 "20015298"
             ]
@@ -728452,11 +728448,11 @@
         "A92AD89F447B3339": [
             [
                 "kmb",
-                "6098480103C44C62"
+                "1D0E096C4E9766C6"
             ],
             [
                 "kmb",
-                "60C1F7910C07C52B"
+                "6098480103C44C62"
             ],
             [
                 "kmb",
@@ -728468,7 +728464,7 @@
             ],
             [
                 "kmb",
-                "3241EDA71CCCF867"
+                "60C1F7910C07C52B"
             ],
             [
                 "kmb",
@@ -728476,7 +728472,7 @@
             ],
             [
                 "kmb",
-                "1D0E096C4E9766C6"
+                "3241EDA71CCCF867"
             ],
             [
                 "kmb",
@@ -739001,12 +738997,16 @@
                 "003026"
             ],
             [
-                "kmb",
-                "1D0E096C4E9766C6"
+                "gmb",
+                "20015298"
             ],
             [
                 "kmb",
                 "3241EDA71CCCF867"
+            ],
+            [
+                "kmb",
+                "1D0E096C4E9766C6"
             ],
             [
                 "kmb",
@@ -739023,6 +739023,10 @@
             [
                 "kmb",
                 "E6DCDD4CCE10E4B7"
+            ],
+            [
+                "kmb",
+                "F088E9BC1B13B13D"
             ],
             [
                 "kmb",
@@ -746737,10 +746741,6 @@
             [
                 "kmb",
                 "A678D9D2809B3BE4"
-            ],
-            [
-                "kmb",
-                "F088E9BC1B13B13D"
             ]
         ],
         "D6C06E7091666AB4": [
@@ -753312,7 +753312,7 @@
             ],
             [
                 "kmb",
-                "3241EDA71CCCF867"
+                "1D0E096C4E9766C6"
             ],
             [
                 "kmb",
@@ -753332,7 +753332,7 @@
             ],
             [
                 "kmb",
-                "1D0E096C4E9766C6"
+                "3241EDA71CCCF867"
             ],
             [
                 "kmb",
@@ -757429,20 +757429,6 @@
             [
                 "kmb",
                 "ED0A8F0BF375EA10"
-            ]
-        ],
-        "F088E9BC1B13B13D": [
-            [
-                "kmb",
-                "A678D9D2809B3BE4"
-            ],
-            [
-                "kmb",
-                "D6BE89205CDC6645"
-            ],
-            [
-                "gmb",
-                "20015298"
             ]
         ],
         "F09516C266163337": [
