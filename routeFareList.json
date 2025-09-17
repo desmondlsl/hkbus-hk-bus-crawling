@@ -65692,7 +65692,7 @@
                 "zh": "\u555f\u5fb7\u7ad9"
             },
             "route": "22D",
-            "seq": 8,
+            "seq": 9,
             "serviceType": 1,
             "stops": {
                 "ctb": [
@@ -65703,7 +65703,8 @@
                     "003790",
                     "003520",
                     "003890",
-                    "003877"
+                    "003877",
+                    "003885"
                 ]
             }
         },
@@ -106103,7 +106104,7 @@
                 ]
             }
         },
-        "278K+2+FANLING (LUEN WO HUI)+FANLING STATION (CIR.) [AM Special Route]": {
+        "278K+2+FANLING (LUEN WO HUI)+FANLING STATION (CIR.) [AM]": {
             "bound": {
                 "kmb": "O"
             },
@@ -106111,7 +106112,7 @@
                 "kmb"
             ],
             "dest": {
-                "en": "FANLING STATION (CIR.) [AM Special Route]",
+                "en": "FANLING STATION (CIR.) [AM]",
                 "zh": "\u7c89\u5dba\u7ad9(\u5faa\u74b0\u7dda) [\u4e0a\u5348\u7279\u5225\u8def\u7dda]"
             },
             "fares": [
@@ -106163,7 +106164,7 @@
                 ]
             }
         },
-        "278K+3+FANLING (LUEN WO HUI)+FANLING STATION (CIR.) [PM Special Route]": {
+        "278K+3+FANLING (LUEN WO HUI)+FANLING STATION (CIR.) [PM]": {
             "bound": {
                 "kmb": "O"
             },
@@ -106171,7 +106172,7 @@
                 "kmb"
             ],
             "dest": {
-                "en": "FANLING STATION (CIR.) [PM Special Route]",
+                "en": "FANLING STATION (CIR.) [PM]",
                 "zh": "\u7c89\u5dba\u7ad9(\u5faa\u74b0\u7dda) [\u4e0b\u5348\u7279\u5225\u8def\u7dda]"
             },
             "fares": [
@@ -201758,7 +201759,6 @@
                 "8.1",
                 "8.1",
                 "8.1",
-                "8.1",
                 "8.1"
             ],
             "faresHoliday": null,
@@ -201778,7 +201778,7 @@
                 "zh": "\u555f\u5fb7\u90f5\u8f2a\u78bc\u982d"
             },
             "route": "5R",
-            "seq": 14,
+            "seq": 13,
             "serviceType": "1",
             "stops": {
                 "kmb": [
@@ -201794,8 +201794,7 @@
                     "D39533060940818A",
                     "14894C859FDFE8C3",
                     "DBB2582C87F91983",
-                    "1094B993AA8409D0",
-                    "5F1C669F444A0556"
+                    "1094B993AA8409D0"
                 ]
             }
         },
@@ -201853,7 +201852,6 @@
                 "8.1",
                 "8.1",
                 "8.1",
-                "8.1",
                 "8.1"
             ],
             "faresHoliday": null,
@@ -201872,7 +201870,7 @@
                 "zh": "\u725b\u982d\u89d2\u7ad9"
             },
             "route": "5R",
-            "seq": 8,
+            "seq": 7,
             "serviceType": "3",
             "stops": {
                 "kmb": [
@@ -201882,8 +201880,7 @@
                     "D39533060940818A",
                     "14894C859FDFE8C3",
                     "DBB2582C87F91983",
-                    "1094B993AA8409D0",
-                    "5F1C669F444A0556"
+                    "1094B993AA8409D0"
                 ]
             }
         },
@@ -359462,7 +359459,7 @@
                 ]
             }
         },
-        "B7+1+Heung Yuen Wai Port (via Fanling Station)+Sheung Shui (Po Wan Road) (via Fanling Station)": {
+        "B7+1+Heung Yuen Wai (Liantang) Port (via Fanling Station)+Sheung Shui (Po Wan Road) (via Fanling Station)": {
             "bound": {
                 "ctb": "I"
             },
@@ -359580,8 +359577,8 @@
             "jt": "32",
             "nlbId": null,
             "orig": {
-                "en": "Heung Yuen Wai Port (via Fanling Station)",
-                "zh": "\u9999\u5712\u570d\u53e3\u5cb8 (\u7d93\u7c89\u5dba\u7ad9)"
+                "en": "Heung Yuen Wai (Liantang) Port (via Fanling Station)",
+                "zh": "\u9999\u5712\u570d (\u84ee\u5858) \u53e3\u5cb8 (\u7d93\u7c89\u5dba\u7ad9)"
             },
             "route": "B7",
             "seq": 9,
@@ -359600,7 +359597,7 @@
                 ]
             }
         },
-        "B7+1+Sheung Shui (Po Wan Road) (via Fanling Station)+Heung Yuen Wai Port (via Fanling Station)": {
+        "B7+1+Sheung Shui (Po Wan Road) (via Fanling Station)+Heung Yuen Wai (Liantang) Port (via Fanling Station)": {
             "bound": {
                 "ctb": "O"
             },
@@ -359608,8 +359605,8 @@
                 "ctb"
             ],
             "dest": {
-                "en": "Heung Yuen Wai Port (via Fanling Station)",
-                "zh": "\u9999\u5712\u570d\u53e3\u5cb8 (\u7d93\u7c89\u5dba\u7ad9)"
+                "en": "Heung Yuen Wai (Liantang) Port (via Fanling Station)",
+                "zh": "\u9999\u5712\u570d (\u84ee\u5858) \u53e3\u5cb8 (\u7d93\u7c89\u5dba\u7ad9)"
             },
             "fares": [
                 "11.3",
@@ -359712,7 +359709,7 @@
                 ]
             }
         },
-        "B8+1+Heung Yuen Wai Port (via Tai Po)+Tai Wai Station (via Tai Po)": {
+        "B8+1+Heung Yuen Wai (Liantang) Port (via Tai Po)+Tai Wai Station (via Tai Po)": {
             "bound": {
                 "ctb": "I"
             },
@@ -360232,8 +360229,8 @@
             "jt": "53",
             "nlbId": null,
             "orig": {
-                "en": "Heung Yuen Wai Port (via Tai Po)",
-                "zh": "\u9999\u5712\u570d\u53e3\u5cb8 (\u7d93\u5927\u57d4)"
+                "en": "Heung Yuen Wai (Liantang) Port (via Tai Po)",
+                "zh": "\u9999\u5712\u570d (\u84ee\u5858) \u53e3\u5cb8 (\u7d93\u5927\u57d4)"
             },
             "route": "B8",
             "seq": 15,
@@ -360258,7 +360255,7 @@
                 ]
             }
         },
-        "B8+1+Tai Wai Station (via Tai Po)+Heung Yuen Wai Port (via Tai Po)": {
+        "B8+1+Tai Wai Station (via Tai Po)+Heung Yuen Wai (Liantang) Port (via Tai Po)": {
             "bound": {
                 "ctb": "O"
             },
@@ -360266,8 +360263,8 @@
                 "ctb"
             ],
             "dest": {
-                "en": "Heung Yuen Wai Port (via Tai Po)",
-                "zh": "\u9999\u5712\u570d\u53e3\u5cb8 (\u7d93\u5927\u57d4)"
+                "en": "Heung Yuen Wai (Liantang) Port (via Tai Po)",
+                "zh": "\u9999\u5712\u570d (\u84ee\u5858) \u53e3\u5cb8 (\u7d93\u5927\u57d4)"
             },
             "fares": [
                 "18.1",
@@ -444711,8 +444708,8 @@
                 "lng": 114.10983153053
             },
             "name": {
-                "en": "Ching Tao House Cheung Ching Estate, Tsing Yi Road",
-                "zh": "\u9577\u9752\u90a8\u9752\u6843\u6a13, \u9752\u8863\u8def"
+                "en": "Cheung Ching Commercial Complex, Tsing Yi Road",
+                "zh": "\u9577\u9752\u5546\u5834, \u9752\u8863\u8def"
             }
         },
         "003139": {
@@ -444721,8 +444718,8 @@
                 "lng": 114.10986737053
             },
             "name": {
-                "en": "Ching Tao House Cheung Ching Estate, Tsing Yi Road",
-                "zh": "\u9577\u9752\u90a8\u9752\u6843\u6a13, \u9752\u8863\u8def"
+                "en": "Cheung Ching Commercial Complex, Tsing Yi Road",
+                "zh": "\u9577\u9752\u5546\u5834, \u9752\u8863\u8def"
             }
         },
         "003140": {
@@ -450811,8 +450808,8 @@
                 "lng": 114.20470907053
             },
             "name": {
-                "en": "18 Shing Fung Road, Shing Fung Road",
-                "zh": "\u627f\u8c50\u9053 18 \u865f, \u627f\u8c50\u9053"
+                "en": "Victoria Voyage, Shing Fung Road",
+                "zh": "\u7dad\u6e2f\uff0e\u7063\u7554, \u627f\u8c50\u9053"
             }
         },
         "003891": {
@@ -604069,10 +604066,6 @@
         ],
         "003535": [
             [
-                "kmb",
-                "1094B993AA8409D0"
-            ],
-            [
                 "gmb",
                 "20021713"
             ]
@@ -614400,11 +614393,23 @@
         "1094B993AA8409D0": [
             [
                 "ctb",
+                "003520"
+            ],
+            [
+                "ctb",
                 "003535"
             ],
             [
                 "gmb",
+                "20017522"
+            ],
+            [
+                "gmb",
                 "20021713"
+            ],
+            [
+                "kmb",
+                "F573BDBB62023031"
             ]
         ],
         "10A25AF26C9972AC": [
@@ -668243,10 +668248,6 @@
             [
                 "ctb",
                 "003535"
-            ],
-            [
-                "kmb",
-                "1094B993AA8409D0"
             ]
         ],
         "20021756": [
