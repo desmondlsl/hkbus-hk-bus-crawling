@@ -235852,6 +235852,7 @@
                 "7.6",
                 "7.6",
                 "7.6",
+                "7.6",
                 "7.6"
             ],
             "faresHoliday": null,
@@ -235883,7 +235884,7 @@
                 "zh": "\u6c99\u7530\u7ad9(\u6392\u982d\u8857)"
             },
             "route": "69K",
-            "seq": 6,
+            "seq": 7,
             "serviceType": 1,
             "stops": {
                 "gmb": [
@@ -235891,6 +235892,7 @@
                     "20015751",
                     "20015752",
                     "20015753",
+                    "20022175",
                     "20015754",
                     "20015742"
                 ]
@@ -235908,6 +235910,7 @@
                 "zh": "\u6c99\u7530\u7ad9(\u6392\u982d\u8857)"
             },
             "fares": [
+                "7.6",
                 "7.6",
                 "7.6",
                 "7.6",
@@ -235943,12 +235946,13 @@
                 "zh": "\u6c99\u7530\u6e23\u7538\u5c71\u82b1\u5712\u2215\u83ef\u7fe0\u5712"
             },
             "route": "69K",
-            "seq": 6,
+            "seq": 7,
             "serviceType": 1,
             "stops": {
                 "gmb": [
                     "20015742",
                     "20015755",
+                    "20022174",
                     "20015756",
                     "20015744",
                     "20015757",
@@ -279682,6 +279686,7 @@
                 "10.2",
                 "10.2",
                 "10.2",
+                "10.2",
                 "10.2"
             ],
             "faresHoliday": null,
@@ -279701,11 +279706,12 @@
                 "zh": "\u83ef\u7fe0\u5712"
             },
             "route": "811A",
-            "seq": 13,
+            "seq": 14,
             "serviceType": 2,
             "stops": {
                 "gmb": [
                     "20015742",
+                    "20022174",
                     "20015706",
                     "20015708",
                     "20015709",
@@ -279743,6 +279749,7 @@
                 "10.2",
                 "10.2",
                 "10.2",
+                "10.2",
                 "10.2"
             ],
             "faresHoliday": null,
@@ -279762,11 +279769,12 @@
                 "zh": "\u83ef\u7fe0\u5712"
             },
             "route": "811A",
-            "seq": 12,
+            "seq": 13,
             "serviceType": "3",
             "stops": {
                 "gmb": [
                     "20015742",
+                    "20022174",
                     "20015708",
                     "20015709",
                     "20013022",
@@ -279803,6 +279811,7 @@
                 "10.2",
                 "10.2",
                 "10.2",
+                "10.2",
                 "10.2"
             ],
             "faresHoliday": null,
@@ -279822,7 +279831,7 @@
                 "zh": "\u78a7\u6fe4\u82b1\u5712"
             },
             "route": "811A",
-            "seq": 12,
+            "seq": 13,
             "serviceType": 3,
             "stops": {
                 "gmb": [
@@ -279837,6 +279846,7 @@
                     "20015709",
                     "20015729",
                     "20019501",
+                    "20022175",
                     "20015742"
                 ]
             }
@@ -279853,6 +279863,7 @@
                 "zh": "\u83ef\u7fe0\u5712"
             },
             "fares": [
+                "10.2",
                 "10.2",
                 "10.2",
                 "10.2",
@@ -279881,7 +279892,7 @@
                 "zh": "\u78a7\u6fe4\u82b1\u5712"
             },
             "route": "811A",
-            "seq": 11,
+            "seq": 12,
             "serviceType": "4",
             "stops": {
                 "gmb": [
@@ -279895,6 +279906,7 @@
                     "20015709",
                     "20015729",
                     "20019501",
+                    "20022175",
                     "20015742"
                 ]
             }
@@ -459344,8 +459356,8 @@
                 "lng": 114.19354
             },
             "name": {
-                "en": "KOWLOON CITY FERRY BUS TERMINUS",
-                "zh": "\u4e5d\u9f8d\u57ce\u78bc\u982d\u5df4\u58eb\u7e3d\u7ad9"
+                "en": "KOWLOON CITY FERRY BUS TERMINUS (KC944)",
+                "zh": "\u4e5d\u9f8d\u57ce\u78bc\u982d\u5df4\u58eb\u7e3d\u7ad9 (KC944)"
             }
         },
         "1D13B640481F4CD1": {
@@ -507788,6 +507800,26 @@
                 "zh": "\u8584\u6276\u6797\u9053, \u5bf6\u7fe0\u5712\u5916"
             }
         },
+        "20022174": {
+            "location": {
+                "lat": 22.39374,
+                "lng": 114.18865
+            },
+            "name": {
+                "en": "Siu Wo Road, opposite Sha Tin Junior School",
+                "zh": "\u7a57\u79be\u8def\u6c99\u7530\u5c0f\u5b78\u5c0d\u9762"
+            }
+        },
+        "20022175": {
+            "location": {
+                "lat": 22.39364,
+                "lng": 114.18858
+            },
+            "name": {
+                "en": "Siu Wo Road, outside Sha Tin Junior School",
+                "zh": "\u7a57\u79be\u8def\u6c99\u7530\u5c0f\u5b78\u5916"
+            }
+        },
         "201": {
             "location": {
                 "lat": 22.42959,
@@ -513744,8 +513776,8 @@
                 "lng": 114.19361
             },
             "name": {
-                "en": "KOWLOON CITY FERRY BUS TERMINUS",
-                "zh": "\u4e5d\u9f8d\u57ce\u78bc\u982d\u5df4\u58eb\u7e3d\u7ad9"
+                "en": "KOWLOON CITY FERRY BUS TERMINUS (KC951)",
+                "zh": "\u4e5d\u9f8d\u57ce\u78bc\u982d\u5df4\u58eb\u7e3d\u7ad9 (KC951)"
             }
         },
         "32450B36AD15FDE7": {
@@ -526814,8 +526846,8 @@
                 "lng": 114.19351
             },
             "name": {
-                "en": "KOWLOON CITY FERRY BUS TERMINUS (KC954)",
-                "zh": "\u4e5d\u9f8d\u57ce\u78bc\u982d\u5df4\u58eb\u7e3d\u7ad9 (KC954)"
+                "en": "KOWLOON CITY FERRY BUS TERMINUS (KC949)",
+                "zh": "\u4e5d\u9f8d\u57ce\u78bc\u982d\u5df4\u58eb\u7e3d\u7ad9 (KC949)"
             }
         },
         "60D0B9706B352D1C": {
@@ -544754,8 +544786,8 @@
                 "lng": 114.19351
             },
             "name": {
-                "en": "KOWLOON CITY FERRY BUS TERMINUS (KC944)",
-                "zh": "\u4e5d\u9f8d\u57ce\u78bc\u982d\u5df4\u58eb\u7e3d\u7ad9 (KC944)"
+                "en": "KOWLOON CITY FERRY BUS TERMINUS (KC943)",
+                "zh": "\u4e5d\u9f8d\u57ce\u78bc\u982d\u5df4\u58eb\u7e3d\u7ad9 (KC943)"
             }
         },
         "A67A34E89E860BB8": {
@@ -545714,8 +545746,8 @@
                 "lng": 114.19314
             },
             "name": {
-                "en": "KOWLOON CITY FERRY BUS TERMINUS (KC943)",
-                "zh": "\u4e5d\u9f8d\u57ce\u78bc\u982d\u5df4\u58eb\u7e3d\u7ad9 (KC943)"
+                "en": "KOWLOON CITY FERRY BUS TERMINUS (KC946)",
+                "zh": "\u4e5d\u9f8d\u57ce\u78bc\u982d\u5df4\u58eb\u7e3d\u7ad9 (KC946)"
             }
         },
         "A930EDA042B0F47A": {
@@ -553244,8 +553276,8 @@
                 "lng": 114.19355
             },
             "name": {
-                "en": "KOWLOON CITY FERRY BUS TERMINUS",
-                "zh": "\u4e5d\u9f8d\u57ce\u78bc\u982d\u5df4\u58eb\u7e3d\u7ad9"
+                "en": "KOWLOON CITY FERRY BUS TERMINUS (KC950)",
+                "zh": "\u4e5d\u9f8d\u57ce\u78bc\u982d\u5df4\u58eb\u7e3d\u7ad9 (KC950)"
             }
         },
         "C7392BC1280A591E": {
@@ -557324,8 +557356,8 @@
                 "lng": 114.19358
             },
             "name": {
-                "en": "KOWLOON CITY FERRY BUS TERMINUS (KC952)",
-                "zh": "\u4e5d\u9f8d\u57ce\u78bc\u982d\u5df4\u58eb\u7e3d\u7ad9 (KC952)"
+                "en": "KOWLOON CITY FERRY BUS TERMINUS (KC945)",
+                "zh": "\u4e5d\u9f8d\u57ce\u78bc\u982d\u5df4\u58eb\u7e3d\u7ad9 (KC945)"
             }
         },
         "D6C06E7091666AB4": {
@@ -561354,8 +561386,8 @@
                 "lng": 114.19325
             },
             "name": {
-                "en": "KOWLOON CITY FERRY BUS TERMINUS (KC945)",
-                "zh": "\u4e5d\u9f8d\u57ce\u78bc\u982d\u5df4\u58eb\u7e3d\u7ad9 (KC945)"
+                "en": "KOWLOON CITY FERRY BUS TERMINUS (KC947)",
+                "zh": "\u4e5d\u9f8d\u57ce\u78bc\u982d\u5df4\u58eb\u7e3d\u7ad9 (KC947)"
             }
         },
         "E6ED785726AED4AE": {
@@ -563954,8 +563986,8 @@
                 "lng": 114.19345
             },
             "name": {
-                "en": "KOWLOON CITY FERRY BUS TERMINUS (KC953)",
-                "zh": "\u4e5d\u9f8d\u57ce\u78bc\u982d\u5df4\u58eb\u7e3d\u7ad9 (KC953)"
+                "en": "KOWLOON CITY FERRY BUS TERMINUS (KC948)",
+                "zh": "\u4e5d\u9f8d\u57ce\u78bc\u982d\u5df4\u58eb\u7e3d\u7ad9 (KC948)"
             }
         },
         "F09516C266163337": {
