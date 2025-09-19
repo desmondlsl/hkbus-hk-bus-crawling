@@ -65692,7 +65692,7 @@
                 "zh": "\u555f\u5fb7\u7ad9"
             },
             "route": "22D",
-            "seq": 9,
+            "seq": 8,
             "serviceType": 1,
             "stops": {
                 "ctb": [
@@ -65703,8 +65703,7 @@
                     "003790",
                     "003520",
                     "003890",
-                    "003877",
-                    "003885"
+                    "003877"
                 ]
             }
         },
@@ -201759,6 +201758,7 @@
                 "8.1",
                 "8.1",
                 "8.1",
+                "8.1",
                 "8.1"
             ],
             "faresHoliday": null,
@@ -201778,7 +201778,7 @@
                 "zh": "\u555f\u5fb7\u90f5\u8f2a\u78bc\u982d"
             },
             "route": "5R",
-            "seq": 13,
+            "seq": 14,
             "serviceType": "1",
             "stops": {
                 "kmb": [
@@ -201794,7 +201794,8 @@
                     "D39533060940818A",
                     "14894C859FDFE8C3",
                     "DBB2582C87F91983",
-                    "1094B993AA8409D0"
+                    "1094B993AA8409D0",
+                    "5F1C669F444A0556"
                 ]
             }
         },
@@ -201852,6 +201853,7 @@
                 "8.1",
                 "8.1",
                 "8.1",
+                "8.1",
                 "8.1"
             ],
             "faresHoliday": null,
@@ -201870,7 +201872,7 @@
                 "zh": "\u725b\u982d\u89d2\u7ad9"
             },
             "route": "5R",
-            "seq": 7,
+            "seq": 8,
             "serviceType": "3",
             "stops": {
                 "kmb": [
@@ -201880,7 +201882,8 @@
                     "D39533060940818A",
                     "14894C859FDFE8C3",
                     "DBB2582C87F91983",
-                    "1094B993AA8409D0"
+                    "1094B993AA8409D0",
+                    "5F1C669F444A0556"
                 ]
             }
         },
@@ -418660,7 +418663,7 @@
                 ]
             }
         },
-        "W4+1+HIGH SPEED RAIL (WEST KOWLOON STATION)+HONG KONG PALACE MUSEUM (CIRCULAR)": {
+        "W4+1+HIGH SPEED RAIL (WEST KOWLOON STATION) (YT290)+HIGH SPEED RAIL (WEST KOWLOON STATION) (YT290)": {
             "bound": {
                 "kmb": "O"
             },
@@ -418668,8 +418671,8 @@
                 "kmb"
             ],
             "dest": {
-                "en": "HONG KONG PALACE MUSEUM (CIRCULAR)",
-                "zh": "\u9999\u6e2f\u6545\u5bae\u6587\u5316\u535a\u7269\u9928(\u5faa\u74b0\u7dda)"
+                "en": "HIGH SPEED RAIL (WEST KOWLOON STATION) (YT290)",
+                "zh": "\u9ad8\u9435(\u897f\u4e5d\u9f8d\u7ad9) (YT290)"
             },
             "fares": [
                 "5.7",
@@ -418699,8 +418702,8 @@
             "jt": "8",
             "nlbId": null,
             "orig": {
-                "en": "HIGH SPEED RAIL (WEST KOWLOON STATION)",
-                "zh": "\u9ad8\u9435(\u897f\u4e5d\u9f8d\u7ad9)"
+                "en": "HIGH SPEED RAIL (WEST KOWLOON STATION) (YT290)",
+                "zh": "\u9ad8\u9435(\u897f\u4e5d\u9f8d\u7ad9) (YT290)"
             },
             "route": "W4",
             "seq": 6,
@@ -418712,7 +418715,7 @@
                     "0CC0B21EFF42EE19",
                     "B3E70C6DEFD93416",
                     "C50C67D1BFF70DDF",
-                    "5F60283656DF3016"
+                    "1A0F813116024D92"
                 ]
             }
         },
@@ -512650,6 +512653,16 @@
                 "zh": "\u5408\u76ca\u8def (YL500)"
             }
         },
+        "2F9C6EBE1A9AA07E": {
+            "location": {
+                "lat": 22.309269,
+                "lng": 114.210888
+            },
+            "name": {
+                "en": "SHING KING STREET (KA541)",
+                "zh": "\u627f\u666f\u8857 (KA541)"
+            }
+        },
         "2FA93329F924968F": {
             "location": {
                 "lat": 22.327265,
@@ -603984,6 +603997,10 @@
         ],
         "003535": [
             [
+                "kmb",
+                "1094B993AA8409D0"
+            ],
+            [
                 "gmb",
                 "20021713"
             ]
@@ -614311,23 +614328,11 @@
         "1094B993AA8409D0": [
             [
                 "ctb",
-                "003520"
-            ],
-            [
-                "ctb",
                 "003535"
             ],
             [
                 "gmb",
-                "20017522"
-            ],
-            [
-                "gmb",
                 "20021713"
-            ],
-            [
-                "kmb",
-                "F573BDBB62023031"
             ]
         ],
         "10A25AF26C9972AC": [
@@ -668166,6 +668171,10 @@
             [
                 "ctb",
                 "003535"
+            ],
+            [
+                "kmb",
+                "1094B993AA8409D0"
             ]
         ],
         "20021756": [
@@ -675412,6 +675421,12 @@
             [
                 "kmb",
                 "75EF762BDAB6F5C3"
+            ]
+        ],
+        "2F9C6EBE1A9AA07E": [
+            [
+                "gmb",
+                "20017521"
             ]
         ],
         "2FA93329F924968F": [
