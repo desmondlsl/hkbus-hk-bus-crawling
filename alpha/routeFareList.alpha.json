@@ -29546,42 +29546,6 @@
                 ]
             }
         },
-        "118R+1+Siu Sai Wan Sports Ground+Mong Kok": {
-            "bound": {
-                "ctb": "O"
-            },
-            "co": [
-                "ctb"
-            ],
-            "dest": {
-                "en": "Mong Kok",
-                "zh": "\u65fa\u89d2"
-            },
-            "fares": null,
-            "faresHoliday": null,
-            "freq": null,
-            "gtfsId": null,
-            "jt": null,
-            "nlbId": null,
-            "orig": {
-                "en": "Siu Sai Wan Sports Ground",
-                "zh": "\u5c0f\u897f\u7063\u904b\u52d5\u5834"
-            },
-            "route": "118R",
-            "seq": 7,
-            "serviceType": 1,
-            "stops": {
-                "ctb": [
-                    "001394",
-                    "001475",
-                    "001769",
-                    "001547",
-                    "001549",
-                    "001552",
-                    "001554"
-                ]
-            }
-        },
         "11A+1+Hang Hau Station Public Transport Interchange+Hang Hau Village": {
             "bound": {
                 "gmb": "I"
@@ -349443,7 +349407,7 @@
                 ]
             }
         },
-        "A33+1+TUEN MUN ROAD INTERCHANGE+AIRPORT (GROUND TRANSPORTATION CENTRE)": {
+        "A33+1+TUEN MUN ROAD BBI+AIRPORT (GROUND TRANSPORTATION CENTRE)": {
             "bound": {
                 "kmb": "O"
             },
@@ -349539,7 +349503,7 @@
             "jt": "70",
             "nlbId": null,
             "orig": {
-                "en": "TUEN MUN ROAD INTERCHANGE",
+                "en": "TUEN MUN ROAD BBI",
                 "zh": "\u5c6f\u9580\u516c\u8def\u8f49\u8eca\u7ad9"
             },
             "route": "A33",
@@ -349583,7 +349547,7 @@
                 ]
             }
         },
-        "A33+2+TUEN MUN ROAD INTERCHANGE+AIRPORT (GROUND TRANSPORTATION CENTRE)": {
+        "A33+2+TUEN MUN ROAD BBI+AIRPORT (GROUND TRANSPORTATION CENTRE)": {
             "bound": {
                 "kmb": "O"
             },
@@ -349650,7 +349614,7 @@
             "jt": "76",
             "nlbId": null,
             "orig": {
-                "en": "TUEN MUN ROAD INTERCHANGE",
+                "en": "TUEN MUN ROAD BBI",
                 "zh": "\u5c6f\u9580\u516c\u8def\u8f49\u8eca\u7ad9"
             },
             "route": "A33",
@@ -411255,7 +411219,7 @@
                 ]
             }
         },
-        "NA33+1+Cathay Pacific City+TUEN MUN (FU TAI ESTATE)": {
+        "NA33+1+Cathay City+TUEN MUN (FU TAI ESTATE)": {
             "bound": {
                 "kmb": "O"
             },
@@ -411310,7 +411274,7 @@
             "jt": "83",
             "nlbId": null,
             "orig": {
-                "en": "Cathay Pacific City",
+                "en": "Cathay City",
                 "zh": "\u570b\u6cf0\u57ce"
             },
             "route": "NA33",
@@ -411349,7 +411313,7 @@
                 ]
             }
         },
-        "NA33+1+TUEN MUN (FU TAI ESTATE)+Cathay Pacific City": {
+        "NA33+1+TUEN MUN (FU TAI ESTATE)+Cathay City": {
             "bound": {
                 "kmb": "I"
             },
@@ -411357,7 +411321,7 @@
                 "kmb"
             ],
             "dest": {
-                "en": "Cathay Pacific City",
+                "en": "Cathay City",
                 "zh": "\u570b\u6cf0\u57ce"
             },
             "fares": [
@@ -443534,8 +443498,8 @@
         },
         "003026": {
             "location": {
-                "lat": 22.31832,
-                "lng": 114.19362
+                "lat": 22.31843,
+                "lng": 114.19392
             },
             "name": {
                 "en": "Kowloon City Ferry Pier",
@@ -580176,24 +580140,12 @@
         ],
         "001394": [
             [
-                "ctb",
-                "002790"
-            ],
-            [
-                "kmb",
-                "1CB893E0DE8F8B43"
-            ],
-            [
                 "kmb",
                 "C41D6E03AEFFA431"
             ],
             [
                 "kmb",
                 "E7EEC8527FE110F4"
-            ],
-            [
-                "kmb",
-                "C498AA2390E7555F"
             ]
         ],
         "001395": [
@@ -596320,10 +596272,6 @@
         ],
         "002790": [
             [
-                "ctb",
-                "001394"
-            ],
-            [
                 "kmb",
                 "1CB893E0DE8F8B43"
             ],
@@ -598419,15 +598367,7 @@
         "003026": [
             [
                 "kmb",
-                "1D0E096C4E9766C6"
-            ],
-            [
-                "kmb",
                 "3241EDA71CCCF867"
-            ],
-            [
-                "kmb",
-                "6098480103C44C62"
             ],
             [
                 "kmb",
@@ -598444,6 +598384,14 @@
             [
                 "kmb",
                 "E6DCDD4CCE10E4B7"
+            ],
+            [
+                "kmb",
+                "1D0E096C4E9766C6"
+            ],
+            [
+                "kmb",
+                "6098480103C44C62"
             ],
             [
                 "kmb",
@@ -620831,10 +620779,6 @@
         "1CB893E0DE8F8B43": [
             [
                 "ctb",
-                "001394"
-            ],
-            [
-                "ctb",
                 "002790"
             ],
             [
@@ -620982,10 +620926,6 @@
         ],
         "1D0E096C4E9766C6": [
             [
-                "ctb",
-                "003026"
-            ],
-            [
                 "kmb",
                 "6098480103C44C62"
             ],
@@ -620999,19 +620939,23 @@
             ],
             [
                 "kmb",
-                "3241EDA71CCCF867"
-            ],
-            [
-                "kmb",
                 "60C1F7910C07C52B"
             ],
             [
                 "kmb",
-                "C3427DE8E291FFA6"
+                "C72D7C053FC3AEBB"
+            ],
+            [
+                "ctb",
+                "003026"
             ],
             [
                 "kmb",
-                "C72D7C053FC3AEBB"
+                "3241EDA71CCCF867"
+            ],
+            [
+                "kmb",
+                "C3427DE8E291FFA6"
             ]
         ],
         "1D13B640481F4CD1": [
@@ -677083,15 +677027,15 @@
             ],
             [
                 "kmb",
+                "E6DCDD4CCE10E4B7"
+            ],
+            [
+                "kmb",
                 "1D0E096C4E9766C6"
             ],
             [
                 "kmb",
                 "6098480103C44C62"
-            ],
-            [
-                "kmb",
-                "E6DCDD4CCE10E4B7"
             ],
             [
                 "kmb",
@@ -698094,10 +698038,6 @@
         ],
         "6098480103C44C62": [
             [
-                "ctb",
-                "003026"
-            ],
-            [
                 "kmb",
                 "1D0E096C4E9766C6"
             ],
@@ -698111,19 +698051,23 @@
             ],
             [
                 "kmb",
-                "3241EDA71CCCF867"
-            ],
-            [
-                "kmb",
                 "60C1F7910C07C52B"
             ],
             [
                 "kmb",
-                "C3427DE8E291FFA6"
+                "C72D7C053FC3AEBB"
+            ],
+            [
+                "ctb",
+                "003026"
             ],
             [
                 "kmb",
-                "C72D7C053FC3AEBB"
+                "3241EDA71CCCF867"
+            ],
+            [
+                "kmb",
+                "C3427DE8E291FFA6"
             ]
         ],
         "60A445D9ACD40C12": [
@@ -698205,15 +698149,15 @@
             ],
             [
                 "kmb",
+                "C3427DE8E291FFA6"
+            ],
+            [
+                "kmb",
                 "1D0E096C4E9766C6"
             ],
             [
                 "kmb",
                 "6098480103C44C62"
-            ],
-            [
-                "kmb",
-                "C3427DE8E291FFA6"
             ],
             [
                 "kmb",
@@ -728376,16 +728320,16 @@
                 "E6DCDD4CCE10E4B7"
             ],
             [
-                "ctb",
-                "003026"
-            ],
-            [
                 "kmb",
                 "60C1F7910C07C52B"
             ],
             [
                 "kmb",
                 "C72D7C053FC3AEBB"
+            ],
+            [
+                "ctb",
+                "003026"
             ],
             [
                 "kmb",
@@ -738923,14 +738867,6 @@
             ],
             [
                 "kmb",
-                "1D0E096C4E9766C6"
-            ],
-            [
-                "kmb",
-                "6098480103C44C62"
-            ],
-            [
-                "kmb",
                 "60C1F7910C07C52B"
             ],
             [
@@ -738939,11 +738875,19 @@
             ],
             [
                 "kmb",
-                "E6DCDD4CCE10E4B7"
+                "1D0E096C4E9766C6"
             ],
             [
                 "kmb",
                 "F088E9BC1B13B13D"
+            ],
+            [
+                "kmb",
+                "E6DCDD4CCE10E4B7"
+            ],
+            [
+                "kmb",
+                "6098480103C44C62"
             ],
             [
                 "kmb",
@@ -739426,10 +739370,6 @@
             [
                 "kmb",
                 "1CB893E0DE8F8B43"
-            ],
-            [
-                "ctb",
-                "001394"
             ]
         ],
         "C49D1FFAEBDFE617": [
@@ -740479,15 +740419,15 @@
             ],
             [
                 "kmb",
+                "C3427DE8E291FFA6"
+            ],
+            [
+                "kmb",
                 "1D0E096C4E9766C6"
             ],
             [
                 "kmb",
                 "6098480103C44C62"
-            ],
-            [
-                "kmb",
-                "C3427DE8E291FFA6"
             ],
             [
                 "kmb",
@@ -753224,10 +753164,6 @@
         ],
         "E6DCDD4CCE10E4B7": [
             [
-                "ctb",
-                "003026"
-            ],
-            [
                 "kmb",
                 "1D0E096C4E9766C6"
             ],
@@ -753246,6 +753182,10 @@
             [
                 "kmb",
                 "C72D7C053FC3AEBB"
+            ],
+            [
+                "ctb",
+                "003026"
             ],
             [
                 "kmb",
