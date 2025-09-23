@@ -123005,7 +123005,6 @@
                 "7.5",
                 "7.5",
                 "7.5",
-                "7.5",
                 "7.5"
             ],
             "faresHoliday": null,
@@ -123041,12 +123040,11 @@
                 "zh": "\u5927\u540c\u65b0\u90a8"
             },
             "route": "3",
-            "seq": 16,
+            "seq": 15,
             "serviceType": 1,
             "stops": {
                 "gmb": [
                     "20000454",
-                    "20019969",
                     "20021026",
                     "20014305",
                     "20000458",
@@ -504914,16 +504912,6 @@
             "name": {
                 "en": "Reclamation Street, near Soy Street",
                 "zh": "\u65b0\u586b\u5730\u8857, \u8fd1\u8c49\u6cb9\u8857"
-            }
-        },
-        "20019969": {
-            "location": {
-                "lat": 22.32045,
-                "lng": 114.16662
-            },
-            "name": {
-                "en": "Mong Kok Road, near Canton Road",
-                "zh": "\u65fa\u89d2\u9053, \u8fd1\u5ee3\u6771\u9053"
             }
         },
         "20019970": {
