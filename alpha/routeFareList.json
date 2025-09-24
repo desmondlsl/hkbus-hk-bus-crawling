@@ -286157,7 +286157,6 @@
                 "6.3",
                 "6.3",
                 "6.3",
-                "6.3",
                 "6.3"
             ],
             "faresHoliday": null,
@@ -286219,7 +286218,7 @@
                 "zh": "\u5bcc\u5b89\u82b1\u5712"
             },
             "route": "84M",
-            "seq": 17,
+            "seq": 16,
             "serviceType": "1",
             "stops": {
                 "kmb": [
@@ -286238,8 +286237,7 @@
                     "1DF17F085C6C1B78",
                     "AA2D8DCDD78651B0",
                     "93D9D88C2D990D67",
-                    "FBAA9F0F9B1893F7",
-                    "8569ED53DDB3A570"
+                    "FBAA9F0F9B1893F7"
                 ]
             }
         },
@@ -535893,7 +535891,7 @@
             },
             "name": {
                 "en": "FUNG WO HOUSE WO CHE ESTATE (ST720)",
-                "zh": "\u79be\u8f0b\u90a8\u8c50\u79be\u6a13 (ST720)"
+                "zh": "\u79be\u8f0b\u90a8\u8c50\u548c\u6a13 (ST720)"
             }
         },
         "839276ED5C3F4F4C": {
