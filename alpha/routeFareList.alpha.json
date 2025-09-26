@@ -411364,7 +411364,7 @@
                 ]
             }
         },
-        "NA36+1+Cathay Pacific City+KAM SHEUNG ROAD STATION": {
+        "NA36+1+Cathay City+KAM SHEUNG ROAD STATION": {
             "bound": {
                 "kmb": "O"
             },
@@ -411408,7 +411408,7 @@
             "jt": "67",
             "nlbId": null,
             "orig": {
-                "en": "Cathay Pacific City",
+                "en": "Cathay City",
                 "zh": "\u570b\u6cf0\u57ce"
             },
             "route": "NA36",
@@ -411436,7 +411436,7 @@
                 ]
             }
         },
-        "NA36+1+KAM SHEUNG ROAD STATION+Cathay Pacific City": {
+        "NA36+1+KAM SHEUNG ROAD STATION+Cathay City": {
             "bound": {
                 "kmb": "I"
             },
@@ -411444,7 +411444,7 @@
                 "kmb"
             ],
             "dest": {
-                "en": "Cathay Pacific City",
+                "en": "Cathay City",
                 "zh": "\u570b\u6cf0\u57ce"
             },
             "fares": [
@@ -411510,7 +411510,7 @@
                 ]
             }
         },
-        "NA37+1+Cathay Pacific City+TIN SHUI WAI TOWN CENTRE": {
+        "NA37+1+Cathay City+TIN SHUI WAI TOWN CENTRE": {
             "bound": {
                 "kmb": "I"
             },
@@ -411565,7 +411565,7 @@
             "jt": "79",
             "nlbId": null,
             "orig": {
-                "en": "Cathay Pacific City",
+                "en": "Cathay City",
                 "zh": "\u570b\u6cf0\u57ce"
             },
             "route": "NA37",
@@ -411604,7 +411604,7 @@
                 ]
             }
         },
-        "NA37+1+TIN SHUI WAI TOWN CENTRE+Cathay Pacific City": {
+        "NA37+1+TIN SHUI WAI TOWN CENTRE+Cathay City": {
             "bound": {
                 "kmb": "O"
             },
@@ -411612,7 +411612,7 @@
                 "kmb"
             ],
             "dest": {
-                "en": "Cathay Pacific City",
+                "en": "Cathay City",
                 "zh": "\u570b\u6cf0\u57ce"
             },
             "fares": [
