@@ -137,11 +137,13 @@ def matchRoutes(co):
         if route['gtfsId'] == gtfsId:
           route['fares'] = [gtfsRoute['fares']['1'][0]
                             for i in range(len(route['stops']) - 1)]
+          route['jt'] = gtfsRoute['jt']
     elif (co == "sunferry" or co == "fortuneferry") and "ferry" in gtfsRoute['co']:
       for route in routeList:
         if route['gtfsId'] == gtfsId:
           route['fares'] = [gtfsRoute['fares']['1'][0]
                             for i in range(len(route['stops']) - 1)]
+          route['jt'] = gtfsRoute['jt']
     # handle for other companies
     elif co in gtfsRoute['co'] or (co == "hkkf" and 'ferry' in gtfsRoute['co']):
       for bound, stops in gtfsRoute['stops'].items():
