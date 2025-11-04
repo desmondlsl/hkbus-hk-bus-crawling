@@ -26,7 +26,7 @@ routes = {
     "IICMWCHC": ["Chi Ma Wan", "Cheung Chau"],
     "IICHCCMW": ["Cheung Chau", "Chi Ma Wan"],
     "IICHCMUW": ["Cheung Chau", "Mui Wo"],
-    "IIMUWCHC": ["Mui Wo", "Cheung Chau "],
+    "IIMUWCHC": ["Mui Wo", "Cheung Chau"],
 }
 
 routeList = []
