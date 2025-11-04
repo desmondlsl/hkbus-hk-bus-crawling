@@ -11545,7 +11545,7 @@
                     "5C6534DD562AEF61",
                     "7DF81D14A8CE574E",
                     "2F7C67769B9FB896",
-                    "6AEFD1C261E8E4D8",
+                    "BB172B3A5DAC85A4",
                     "661FEE32A0D73EB0",
                     "8815F901477E6435",
                     "20915DF05723C615",
@@ -12401,7 +12401,7 @@
                     "5C6534DD562AEF61",
                     "7DF81D14A8CE574E",
                     "2F7C67769B9FB896",
-                    "6AEFD1C261E8E4D8",
+                    "BB172B3A5DAC85A4",
                     "661FEE32A0D73EB0",
                     "8815F901477E6435",
                     "20915DF05723C615",
@@ -12717,7 +12717,7 @@
                     "5C6534DD562AEF61",
                     "7DF81D14A8CE574E",
                     "2F7C67769B9FB896",
-                    "6AEFD1C261E8E4D8",
+                    "BB172B3A5DAC85A4",
                     "661FEE32A0D73EB0",
                     "8815F901477E6435",
                     "20915DF05723C615",
@@ -16540,7 +16540,7 @@
                     "1C02C4A92902FE95",
                     "9C1D2401E1E06544",
                     "3FB80081AB2FF6FB",
-                    "6AEFD1C261E8E4D8",
+                    "BB172B3A5DAC85A4",
                     "661FEE32A0D73EB0",
                     "8815F901477E6435",
                     "20915DF05723C615",
@@ -21040,7 +21040,7 @@
                     "C847FC07707BC068",
                     "AA62C03711F778F2",
                     "2F7C67769B9FB896",
-                    "6AEFD1C261E8E4D8",
+                    "BB172B3A5DAC85A4",
                     "0543B8455A70833F",
                     "D446D1EA79502BF2",
                     "FE3B13A457EEA70C",
@@ -216484,6 +216484,73 @@
                 ]
             }
         },
+        "61S+1+TUEN MUN CENTRAL+WO HOP SHEK": {
+            "bound": {
+                "kmb": "O"
+            },
+            "co": [
+                "kmb"
+            ],
+            "dest": {
+                "en": "WO HOP SHEK",
+                "zh": "\u548c\u5408\u77f3"
+            },
+            "fares": null,
+            "faresHoliday": null,
+            "freq": null,
+            "gtfsId": null,
+            "jt": null,
+            "nlbId": null,
+            "orig": {
+                "en": "TUEN MUN CENTRAL",
+                "zh": "\u5c6f\u9580\u5dff\u4e2d\u5fc3"
+            },
+            "route": "61S",
+            "seq": 5,
+            "serviceType": "1",
+            "stops": {
+                "kmb": [
+                    "8660BDF2C013FAC2",
+                    "EC49B6F5634BC0C2",
+                    "7AC6625D894BA101",
+                    "CBE54DB551C24A02",
+                    "AA5CBDB0758443A9"
+                ]
+            }
+        },
+        "61S+1+WO HOP SHEK+TUEN MUN CENTRAL": {
+            "bound": {
+                "kmb": "I"
+            },
+            "co": [
+                "kmb"
+            ],
+            "dest": {
+                "en": "TUEN MUN CENTRAL",
+                "zh": "\u5c6f\u9580\u5dff\u4e2d\u5fc3"
+            },
+            "fares": null,
+            "faresHoliday": null,
+            "freq": null,
+            "gtfsId": null,
+            "jt": null,
+            "nlbId": null,
+            "orig": {
+                "en": "WO HOP SHEK",
+                "zh": "\u548c\u5408\u77f3"
+            },
+            "route": "61S",
+            "seq": 4,
+            "serviceType": "1",
+            "stops": {
+                "kmb": [
+                    "AA5CBDB0758443A9",
+                    "6FB7BC1E5BC1E4EE",
+                    "5238463F47B490D6",
+                    "8660BDF2C013FAC2"
+                ]
+            }
+        },
         "61X+1+KOWLOON CITY FERRY+TUEN MUN CENTRAL": {
             "bound": {
                 "kmb": "I"
@@ -253254,6 +253321,67 @@
                     "391FD1F8D3A9167F",
                     "5A264033612771AA",
                     "20B7C6B56788E484"
+                ]
+            }
+        },
+        "73S+1+FANLING STATION+WO HOP SHEK (KIU TAU ROAD)": {
+            "bound": {
+                "kmb": "O"
+            },
+            "co": [
+                "kmb"
+            ],
+            "dest": {
+                "en": "WO HOP SHEK (KIU TAU ROAD)",
+                "zh": "\u548c\u5408\u77f3(\u6a4b\u982d\u8def)"
+            },
+            "fares": null,
+            "faresHoliday": null,
+            "freq": null,
+            "gtfsId": null,
+            "jt": null,
+            "nlbId": null,
+            "orig": {
+                "en": "FANLING STATION",
+                "zh": "\u7c89\u5dba\u7ad9"
+            },
+            "route": "73S",
+            "seq": 1,
+            "serviceType": "1",
+            "stops": {
+                "kmb": [
+                    "60952B4A38F3D82E"
+                ]
+            }
+        },
+        "73S+1+WO HOP SHEK (KIU TAU ROAD)+FANLING STATION": {
+            "bound": {
+                "kmb": "I"
+            },
+            "co": [
+                "kmb"
+            ],
+            "dest": {
+                "en": "FANLING STATION",
+                "zh": "\u7c89\u5dba\u7ad9"
+            },
+            "fares": null,
+            "faresHoliday": null,
+            "freq": null,
+            "gtfsId": null,
+            "jt": null,
+            "nlbId": null,
+            "orig": {
+                "en": "WO HOP SHEK (KIU TAU ROAD)",
+                "zh": "\u548c\u5408\u77f3(\u6a4b\u982d\u8def)"
+            },
+            "route": "73S",
+            "seq": 2,
+            "serviceType": "1",
+            "stops": {
+                "kmb": [
+                    "2EAB4A9D81722720",
+                    "60952B4A38F3D82E"
                 ]
             }
         },
@@ -306422,7 +306550,7 @@
                     "6C1DEF32B8CB92C4",
                     "161B32AD4C6996AD",
                     "6965D1D655C2DD5F",
-                    "6AEFD1C261E8E4D8",
+                    "BB172B3A5DAC85A4",
                     "0543B8455A70833F",
                     "D446D1EA79502BF2",
                     "8815F901477E6435",
@@ -396441,7 +396569,7 @@
                     "C847FC07707BC068",
                     "AA62C03711F778F2",
                     "47B6BE5FC95C2042",
-                    "6AEFD1C261E8E4D8",
+                    "BB172B3A5DAC85A4",
                     "0543B8455A70833F",
                     "D446D1EA79502BF2",
                     "FE3B13A457EEA70C",
@@ -398233,7 +398361,7 @@
                     "6C1DEF32B8CB92C4",
                     "161B32AD4C6996AD",
                     "6965D1D655C2DD5F",
-                    "6AEFD1C261E8E4D8",
+                    "BB172B3A5DAC85A4",
                     "A0EFE3E68568F194",
                     "3D717F0365D5505B",
                     "29759ECB92E1A91B",
@@ -398487,7 +398615,7 @@
                     "6C1DEF32B8CB92C4",
                     "161B32AD4C6996AD",
                     "6965D1D655C2DD5F",
-                    "6AEFD1C261E8E4D8",
+                    "BB172B3A5DAC85A4",
                     "0543B8455A70833F",
                     "D446D1EA79502BF2",
                     "FE3B13A457EEA70C",
@@ -401966,7 +402094,7 @@
                     "A9C847312AE9E37A",
                     "4884DCF89AD7BA6A",
                     "6965D1D655C2DD5F",
-                    "6AEFD1C261E8E4D8",
+                    "BB172B3A5DAC85A4",
                     "A0EFE3E68568F194",
                     "A1C65E46464147A0",
                     "811D4A91C1134CEA",
@@ -584346,10 +584474,6 @@
             ],
             [
                 "kmb",
-                "6AEFD1C261E8E4D8"
-            ],
-            [
-                "kmb",
                 "A46B6AC99CE8722E"
             ],
             [
@@ -612607,10 +612731,6 @@
             [
                 "kmb",
                 "EBE826ABDCE44F0C"
-            ],
-            [
-                "kmb",
-                "6AEFD1C261E8E4D8"
             ],
             [
                 "kmb",
@@ -651386,10 +651506,6 @@
             ],
             [
                 "kmb",
-                "6AEFD1C261E8E4D8"
-            ],
-            [
-                "kmb",
                 "7F25B423230F5BEE"
             ],
             [
@@ -654722,10 +654838,6 @@
             ],
             [
                 "kmb",
-                "6AEFD1C261E8E4D8"
-            ],
-            [
-                "kmb",
                 "BB172B3A5DAC85A4"
             ],
             [
@@ -655075,10 +655187,6 @@
             [
                 "kmb",
                 "448C1B8AECA89A6E"
-            ],
-            [
-                "kmb",
-                "6AEFD1C261E8E4D8"
             ],
             [
                 "kmb",
@@ -663206,10 +663314,6 @@
             ],
             [
                 "kmb",
-                "6AEFD1C261E8E4D8"
-            ],
-            [
-                "kmb",
                 "BB172B3A5DAC85A4"
             ],
             [
@@ -669815,10 +669919,6 @@
             [
                 "kmb",
                 "EBE826ABDCE44F0C"
-            ],
-            [
-                "kmb",
-                "6AEFD1C261E8E4D8"
             ],
             [
                 "kmb",
@@ -686093,10 +686193,6 @@
             [
                 "gmb",
                 "20015164"
-            ],
-            [
-                "kmb",
-                "6AEFD1C261E8E4D8"
             ],
             [
                 "kmb",
@@ -703515,6 +703611,14 @@
             [
                 "kmb",
                 "EBE826ABDCE44F0C"
+            ],
+            [
+                "gmb",
+                "20014190"
+            ],
+            [
+                "kmb",
+                "0BB21609A0E86B96"
             ]
         ],
         "6B0535DA4880425B": [
@@ -711415,10 +711519,6 @@
                 "EBE826ABDCE44F0C"
             ],
             [
-                "kmb",
-                "6AEFD1C261E8E4D8"
-            ],
-            [
                 "ctb",
                 "001572"
             ],
@@ -714755,6 +714855,10 @@
                 "F490C6051AA2E1F3"
             ],
             [
+                "lrtfeeder",
+                "K54-U070"
+            ],
+            [
                 "gmb",
                 "20001314"
             ],
@@ -714765,6 +714869,30 @@
             [
                 "lightRail",
                 "LR280"
+            ],
+            [
+                "kmb",
+                "4521D614AE85C1A5"
+            ],
+            [
+                "kmb",
+                "818F12340BA8CA4B"
+            ],
+            [
+                "lrtfeeder",
+                "K51-D200"
+            ],
+            [
+                "lrtfeeder",
+                "K51A-D180"
+            ],
+            [
+                "ctb",
+                "003198"
+            ],
+            [
+                "gmb",
+                "20001319"
             ]
         ],
         "8667AD096EEED0A8": [
@@ -726936,10 +727064,6 @@
             ],
             [
                 "kmb",
-                "6AEFD1C261E8E4D8"
-            ],
-            [
-                "kmb",
                 "BB172B3A5DAC85A4"
             ],
             [
@@ -736333,10 +736457,6 @@
             [
                 "kmb",
                 "448C1B8AECA89A6E"
-            ],
-            [
-                "kmb",
-                "6AEFD1C261E8E4D8"
             ],
             [
                 "kmb",
@@ -755226,10 +755346,6 @@
             ],
             [
                 "kmb",
-                "6AEFD1C261E8E4D8"
-            ],
-            [
-                "kmb",
                 "7F25B423230F5BEE"
             ],
             [
@@ -755947,10 +756063,6 @@
             [
                 "kmb",
                 "7F25B423230F5BEE"
-            ],
-            [
-                "kmb",
-                "6AEFD1C261E8E4D8"
             ],
             [
                 "kmb",
@@ -771129,6 +771241,12 @@
             [
                 "lrtfeeder",
                 "K51A-U060"
+            ]
+        ],
+        "K54-U070": [
+            [
+                "kmb",
+                "8660BDF2C013FAC2"
             ]
         ],
         "K54A-D010": [
