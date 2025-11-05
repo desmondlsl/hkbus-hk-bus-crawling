@@ -253346,11 +253346,12 @@
                 "zh": "\u7c89\u5dba\u7ad9"
             },
             "route": "73S",
-            "seq": 1,
+            "seq": 2,
             "serviceType": "1",
             "stops": {
                 "kmb": [
-                    "60952B4A38F3D82E"
+                    "60952B4A38F3D82E",
+                    "2BD35970A9125DB3"
                 ]
             }
         },
@@ -253376,10 +253377,11 @@
                 "zh": "\u548c\u5408\u77f3(\u6a4b\u982d\u8def)"
             },
             "route": "73S",
-            "seq": 2,
+            "seq": 3,
             "serviceType": "1",
             "stops": {
                 "kmb": [
+                    "2BD35970A9125DB3",
                     "2EAB4A9D81722720",
                     "60952B4A38F3D82E"
                 ]
@@ -512787,6 +512789,16 @@
             "name": {
                 "en": "TSING SIN PLAYGROUND (TM238)",
                 "zh": "\u9752\u5584\u904a\u6a02\u5834 (TM238)"
+            }
+        },
+        "2BD35970A9125DB3": {
+            "location": {
+                "lat": 22.48119,
+                "lng": 114.15233
+            },
+            "name": {
+                "en": "WO HOP SHEK (KIU TAU ROAD) (ND871)",
+                "zh": "\u548c\u5408\u77f3(\u6a4b\u982d\u8def) (ND871)"
             }
         },
         "2BDB4CC59A344CA3": {
