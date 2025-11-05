@@ -374666,43 +374666,6 @@
                 ]
             }
         },
-        "IIMUWCHC+1+MUI WO+CHEUNG CHAU": {
-            "bound": {
-                "sunferry": "O"
-            },
-            "co": [
-                "sunferry"
-            ],
-            "dest": {
-                "en": "CHEUNG CHAU",
-                "zh": "\u9577\u6d32"
-            },
-            "fares": [
-                "14"
-            ],
-            "faresHoliday": null,
-            "freq": {
-                "287": {
-                    "1720": null
-                }
-            },
-            "gtfsId": "7000009",
-            "jt": null,
-            "nlbId": null,
-            "orig": {
-                "en": "MUI WO",
-                "zh": "\u6885\u7aa9"
-            },
-            "route": "IIMUWCHC",
-            "seq": 2,
-            "serviceType": 1,
-            "stops": {
-                "sunferry": [
-                    "101107",
-                    "101101"
-                ]
-            }
-        },
         "IIMUWPEC+1+MUI WO+PENG CHAU": {
             "bound": {
                 "sunferry": "I"
