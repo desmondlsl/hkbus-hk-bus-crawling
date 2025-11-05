@@ -530911,16 +530911,6 @@
                 "zh": "\u535a\u5eb7\u90a8\u535a\u6cf0\u6a13 (ST656)"
             }
         },
-        "6AEFD1C261E8E4D8": {
-            "location": {
-                "lat": 22.3286,
-                "lng": 114.19196
-            },
-            "name": {
-                "en": "KOWLOON CITY BBI - REGAL ORIENTAL HOTEL (KC283)",
-                "zh": "\u4e5d\u9f8d\u57ce\u8f49\u8eca\u7ad9-\u5bcc\u8c6a\u6771\u65b9\u9152\u5e97"
-            }
-        },
         "6B0535DA4880425B": {
             "location": {
                 "lat": 22.37744,
@@ -703569,68 +703559,6 @@
             [
                 "kmb",
                 "4D30DF225016CBB0"
-            ]
-        ],
-        "6AEFD1C261E8E4D8": [
-            [
-                "ctb",
-                "001572"
-            ],
-            [
-                "gmb",
-                "20014204"
-            ],
-            [
-                "gmb",
-                "20015164"
-            ],
-            [
-                "kmb",
-                "448C1B8AECA89A6E"
-            ],
-            [
-                "kmb",
-                "A46B6AC99CE8722E"
-            ],
-            [
-                "kmb",
-                "BB172B3A5DAC85A4"
-            ],
-            [
-                "kmb",
-                "E99D3F96A9F7B5EB"
-            ],
-            [
-                "gmb",
-                "20015113"
-            ],
-            [
-                "kmb",
-                "0AB522DFFCD4CD4F"
-            ],
-            [
-                "gmb",
-                "20017063"
-            ],
-            [
-                "kmb",
-                "20A7DAD5A8294964"
-            ],
-            [
-                "kmb",
-                "7F25B423230F5BEE"
-            ],
-            [
-                "kmb",
-                "EBE826ABDCE44F0C"
-            ],
-            [
-                "gmb",
-                "20014190"
-            ],
-            [
-                "kmb",
-                "0BB21609A0E86B96"
             ]
         ],
         "6B0535DA4880425B": [
