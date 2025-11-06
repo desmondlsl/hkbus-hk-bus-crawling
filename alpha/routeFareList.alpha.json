@@ -135349,8 +135349,7 @@
                     "2000": [
                         "2115",
                         "900"
-                    ],
-                    "2155": null
+                    ]
                 }
             },
             "gtfsId": "2008622",
@@ -135500,8 +135499,7 @@
                     "1930": [
                         "2100",
                         "900"
-                    ],
-                    "2130": null
+                    ]
                 }
             },
             "gtfsId": "2008622",
@@ -135719,6 +135717,41 @@
                     "20001287",
                     "20015409"
                 ]
+            }
+        },
+        "36+2+Yuen Long (Fook Hong Street)+Tai Shang Wai Rural Office (via Yau Pok Road Light Public Housing)": {
+            "bound": {
+                "gmb": "O"
+            },
+            "co": [
+                "gmb"
+            ],
+            "dest": {
+                "en": "Tai Shang Wai Rural Office (via Yau Pok Road Light Public Housing)",
+                "zh": "\u5927\u751f\u570d\u6751\u516c\u6240 (\u7d93\u6538\u58c6\u8def\u7c21\u7d04\u516c\u5c4b)"
+            },
+            "fares": null,
+            "faresHoliday": null,
+            "freq": {
+                "127": {
+                    "2130": [
+                        "2130",
+                        "60"
+                    ]
+                }
+            },
+            "gtfsId": "2011193",
+            "jt": null,
+            "nlbId": null,
+            "orig": {
+                "en": "Yuen Long (Fook Hong Street)",
+                "zh": "\u5143\u6717(\u798f\u5eb7\u8857)"
+            },
+            "route": "36",
+            "seq": 0,
+            "serviceType": 2,
+            "stops": {
+                "gmb": []
             }
         },
         "36A+1+Crocodile Hill (Hong Lee Court)+Yue Man Square Public Transport Interchange": {
