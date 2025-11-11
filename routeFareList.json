@@ -224808,7 +224808,6 @@
         },
         "671+1+AP LEI CHAU LEE LOK ST+DIAMOND HILL STATION": {
             "bound": {
-                "ctb": "O",
                 "kmb": "I"
             },
             "co": [
@@ -224817,6 +224816,177 @@
             ],
             "dest": {
                 "en": "DIAMOND HILL STATION",
+                "zh": "\u947d\u77f3\u5c71\u7ad9"
+            },
+            "fares": [
+                "14.7",
+                "14.7",
+                "14.7",
+                "14.7",
+                "14.7",
+                "14.7",
+                "14.7",
+                "14.7",
+                "14.7",
+                "14.7",
+                "14.7",
+                "14.7",
+                "14.7",
+                "14.7",
+                "14.7",
+                "12.2",
+                "12.2",
+                "12.2",
+                "12.2",
+                "12.2",
+                "12.2",
+                "12.2",
+                "12.2",
+                "12.2",
+                "7.7",
+                "7.7",
+                "7.7",
+                "7.7",
+                "7.7",
+                "7.7",
+                "7.7",
+                "7.7",
+                "7.7",
+                "7.7",
+                "7.7",
+                "7.7"
+            ],
+            "faresHoliday": null,
+            "freq": {
+                "287": {
+                    "0625": [
+                        "0650",
+                        "1500"
+                    ],
+                    "0650": [
+                        "0710",
+                        "1200"
+                    ],
+                    "0710": [
+                        "0740",
+                        "1800"
+                    ],
+                    "0740": [
+                        "0755",
+                        "900"
+                    ],
+                    "0755": [
+                        "0935",
+                        "1500"
+                    ],
+                    "0935": [
+                        "1705",
+                        "1800"
+                    ],
+                    "1705": [
+                        "1725",
+                        "1200"
+                    ],
+                    "1725": [
+                        "1825",
+                        "1800"
+                    ],
+                    "1825": [
+                        "1915",
+                        "1500"
+                    ],
+                    "1915": [
+                        "2015",
+                        "1800"
+                    ]
+                },
+                "288": {
+                    "0625": [
+                        "1855",
+                        "1800"
+                    ],
+                    "1855": [
+                        "2015",
+                        "2400"
+                    ]
+                },
+                "448": {
+                    "0730": [
+                        "0755",
+                        "1500"
+                    ],
+                    "0755": [
+                        "1825",
+                        "1800"
+                    ],
+                    "1825": [
+                        "1945",
+                        "2400"
+                    ]
+                }
+            },
+            "gtfsId": "1278",
+            "jt": "81",
+            "nlbId": null,
+            "orig": {
+                "en": "AP LEI CHAU LEE LOK ST",
+                "zh": "\u9d28\u8137\u6d32(\u5229\u6a02\u8857)"
+            },
+            "route": "671",
+            "seq": 37,
+            "serviceType": "1",
+            "stops": {
+                "kmb": [
+                    "FBBA97AE1E9F4B53",
+                    "7F3F90F0B2C4306B",
+                    "05E2DF7FFDEA4F9A",
+                    "90268774329160D9",
+                    "96BA48FFCBDB7791",
+                    "2208DE69AD7B38DA",
+                    "C355E5F825B9864F",
+                    "38B4D64E5D9DA9AB",
+                    "7C27E54D8AEC683A",
+                    "3227505D6CDA32C9",
+                    "7906D320A27CAD88",
+                    "EC839AE65935149B",
+                    "AE4E8F82AD65348C",
+                    "225E8FAE869B3308",
+                    "86B81946F9FA57FB",
+                    "A07CC0A6D462A579",
+                    "4EE6F43CF8D6217D",
+                    "9541036143D6CCF1",
+                    "1A0BCDF4BDC3E1A9",
+                    "A4EBD881BA65C831",
+                    "05C0C27B083F2C00",
+                    "322A5914FD96DE4B",
+                    "33D2B3AB9D2CCDF3",
+                    "D678B3364437D16B",
+                    "2EF9764BE18FC290",
+                    "25F3EF8ACD865DFB",
+                    "FDFA7692A141612F",
+                    "83BB162ED5F1355F",
+                    "7380707A36C032B9",
+                    "60D0B9706B352D1C",
+                    "8570495BD7C63C02",
+                    "F374B56E275194D8",
+                    "F6512E7C4A6D5C2E",
+                    "9AC3AFC5216B9711",
+                    "7ABFD50CAA98A9D1",
+                    "A0FDF34B2D278750",
+                    "CC0EA05EEADFA481"
+                ]
+            }
+        },
+        "671+1+Ap Lei Chau (Lee Lok Street)+Diamond Hill Station": {
+            "bound": {
+                "ctb": "O"
+            },
+            "co": [
+                "kmb",
+                "ctb"
+            ],
+            "dest": {
+                "en": "Diamond Hill Station",
                 "zh": "\u947d\u77f3\u5c71\u7ad9"
             },
             "fares": [
@@ -224931,12 +225101,12 @@
             "jt": "81",
             "nlbId": null,
             "orig": {
-                "en": "AP LEI CHAU LEE LOK ST",
-                "zh": "\u9d28\u8137\u6d32(\u5229\u6a02\u8857)"
+                "en": "Ap Lei Chau (Lee Lok Street)",
+                "zh": "\u9d28\u8137\u6d32 (\u5229\u6a02\u8857)"
             },
             "route": "671",
             "seq": 38,
-            "serviceType": "1",
+            "serviceType": 1,
             "stops": {
                 "ctb": [
                     "002202",
@@ -224977,46 +225147,6 @@
                     "001453",
                     "001469",
                     "001526"
-                ],
-                "kmb": [
-                    "FBBA97AE1E9F4B53",
-                    "7F3F90F0B2C4306B",
-                    "05E2DF7FFDEA4F9A",
-                    "90268774329160D9",
-                    "96BA48FFCBDB7791",
-                    "2208DE69AD7B38DA",
-                    "C355E5F825B9864F",
-                    "38B4D64E5D9DA9AB",
-                    "7C27E54D8AEC683A",
-                    "659365A8AB2B98E9",
-                    "3227505D6CDA32C9",
-                    "7906D320A27CAD88",
-                    "EC839AE65935149B",
-                    "AE4E8F82AD65348C",
-                    "225E8FAE869B3308",
-                    "86B81946F9FA57FB",
-                    "A07CC0A6D462A579",
-                    "4EE6F43CF8D6217D",
-                    "9541036143D6CCF1",
-                    "1A0BCDF4BDC3E1A9",
-                    "A4EBD881BA65C831",
-                    "05C0C27B083F2C00",
-                    "322A5914FD96DE4B",
-                    "33D2B3AB9D2CCDF3",
-                    "D678B3364437D16B",
-                    "2EF9764BE18FC290",
-                    "25F3EF8ACD865DFB",
-                    "FDFA7692A141612F",
-                    "83BB162ED5F1355F",
-                    "7380707A36C032B9",
-                    "60D0B9706B352D1C",
-                    "8570495BD7C63C02",
-                    "F374B56E275194D8",
-                    "F6512E7C4A6D5C2E",
-                    "9AC3AFC5216B9711",
-                    "7ABFD50CAA98A9D1",
-                    "A0FDF34B2D278750",
-                    "CC0EA05EEADFA481"
                 ]
             }
         },
@@ -225218,15 +225348,71 @@
         },
         "671X+1+AP LEI CHAU LEE LOK ST+DIAMOND HILL STATION": {
             "bound": {
-                "ctb": "O",
                 "kmb": "O"
+            },
+            "co": [
+                "kmb"
+            ],
+            "dest": {
+                "en": "DIAMOND HILL STATION",
+                "zh": "\u947d\u77f3\u5c71\u7ad9"
+            },
+            "fares": null,
+            "faresHoliday": null,
+            "freq": null,
+            "gtfsId": null,
+            "jt": null,
+            "nlbId": null,
+            "orig": {
+                "en": "AP LEI CHAU LEE LOK ST",
+                "zh": "\u9d28\u8137\u6d32(\u5229\u6a02\u8857)"
+            },
+            "route": "671X",
+            "seq": 28,
+            "serviceType": "1",
+            "stops": {
+                "kmb": [
+                    "FBBA97AE1E9F4B53",
+                    "7F3F90F0B2C4306B",
+                    "05E2DF7FFDEA4F9A",
+                    "90268774329160D9",
+                    "96BA48FFCBDB7791",
+                    "2208DE69AD7B38DA",
+                    "C355E5F825B9864F",
+                    "38B4D64E5D9DA9AB",
+                    "7C27E54D8AEC683A",
+                    "3227505D6CDA32C9",
+                    "7906D320A27CAD88",
+                    "EC839AE65935149B",
+                    "AE4E8F82AD65348C",
+                    "225E8FAE869B3308",
+                    "D678B3364437D16B",
+                    "2EF9764BE18FC290",
+                    "25F3EF8ACD865DFB",
+                    "FDFA7692A141612F",
+                    "83BB162ED5F1355F",
+                    "7380707A36C032B9",
+                    "60D0B9706B352D1C",
+                    "8570495BD7C63C02",
+                    "F374B56E275194D8",
+                    "F6512E7C4A6D5C2E",
+                    "9AC3AFC5216B9711",
+                    "7ABFD50CAA98A9D1",
+                    "A0FDF34B2D278750",
+                    "CC0EA05EEADFA481"
+                ]
+            }
+        },
+        "671X+1+Ap Lei Chau (Lee Lok Street)+Diamond Hill Station": {
+            "bound": {
+                "ctb": "O"
             },
             "co": [
                 "kmb",
                 "ctb"
             ],
             "dest": {
-                "en": "DIAMOND HILL STATION",
+                "en": "Diamond Hill Station",
                 "zh": "\u947d\u77f3\u5c71\u7ad9"
             },
             "fares": [
@@ -225270,12 +225456,12 @@
             "jt": "73",
             "nlbId": null,
             "orig": {
-                "en": "AP LEI CHAU LEE LOK ST",
-                "zh": "\u9d28\u8137\u6d32(\u5229\u6a02\u8857)"
+                "en": "Ap Lei Chau (Lee Lok Street)",
+                "zh": "\u9d28\u8137\u6d32 (\u5229\u6a02\u8857)"
             },
             "route": "671X",
             "seq": 29,
-            "serviceType": "1",
+            "serviceType": 1,
             "stops": {
                 "ctb": [
                     "002202",
@@ -225307,37 +225493,6 @@
                     "001453",
                     "001469",
                     "001526"
-                ],
-                "kmb": [
-                    "FBBA97AE1E9F4B53",
-                    "7F3F90F0B2C4306B",
-                    "05E2DF7FFDEA4F9A",
-                    "90268774329160D9",
-                    "96BA48FFCBDB7791",
-                    "2208DE69AD7B38DA",
-                    "C355E5F825B9864F",
-                    "38B4D64E5D9DA9AB",
-                    "7C27E54D8AEC683A",
-                    "659365A8AB2B98E9",
-                    "3227505D6CDA32C9",
-                    "7906D320A27CAD88",
-                    "EC839AE65935149B",
-                    "AE4E8F82AD65348C",
-                    "225E8FAE869B3308",
-                    "D678B3364437D16B",
-                    "2EF9764BE18FC290",
-                    "25F3EF8ACD865DFB",
-                    "FDFA7692A141612F",
-                    "83BB162ED5F1355F",
-                    "7380707A36C032B9",
-                    "60D0B9706B352D1C",
-                    "8570495BD7C63C02",
-                    "F374B56E275194D8",
-                    "F6512E7C4A6D5C2E",
-                    "9AC3AFC5216B9711",
-                    "7ABFD50CAA98A9D1",
-                    "A0FDF34B2D278750",
-                    "CC0EA05EEADFA481"
                 ]
             }
         },
@@ -285428,6 +285583,7 @@
                 "7.1",
                 "7.1",
                 "7.1",
+                "7.1",
                 "7.1"
             ],
             "faresHoliday": null,
@@ -285447,7 +285603,7 @@
                 "zh": "\u8343\u7063(\u5ddd\u9f8d\u8857)"
             },
             "route": "83A",
-            "seq": 11,
+            "seq": 12,
             "serviceType": 1,
             "stops": {
                 "gmb": [
@@ -285461,6 +285617,7 @@
                     "20001445",
                     "20001654",
                     "20016702",
+                    "20022372",
                     "20016703"
                 ]
             }
@@ -414775,6 +414932,74 @@
                 ]
             }
         },
+        "PBW5+1+Avenue of Stars+Tsuen Wan West Station": {
+            "bound": {
+                "kmb": "I"
+            },
+            "co": [
+                "kmb"
+            ],
+            "dest": {
+                "en": "Tsuen Wan West Station",
+                "zh": "\u8343\u7063\u897f\u7ad9"
+            },
+            "fares": null,
+            "faresHoliday": null,
+            "freq": null,
+            "gtfsId": null,
+            "jt": null,
+            "nlbId": null,
+            "orig": {
+                "en": "Avenue of Stars",
+                "zh": "\u661f\u5149\u5927\u9053"
+            },
+            "route": "PBW5",
+            "seq": 5,
+            "serviceType": "1",
+            "stops": {
+                "kmb": [
+                    "0524415976F284A4",
+                    "F050648C108571ED",
+                    "658F28C339443C17",
+                    "7033D904840D5F18",
+                    "A02CB1283981A937"
+                ]
+            }
+        },
+        "PBW5+1+Tsuen Wan West Station+Avenue of Stars": {
+            "bound": {
+                "kmb": "O"
+            },
+            "co": [
+                "kmb"
+            ],
+            "dest": {
+                "en": "Avenue of Stars",
+                "zh": "\u661f\u5149\u5927\u9053"
+            },
+            "fares": null,
+            "faresHoliday": null,
+            "freq": null,
+            "gtfsId": null,
+            "jt": null,
+            "nlbId": null,
+            "orig": {
+                "en": "Tsuen Wan West Station",
+                "zh": "\u8343\u7063\u897f\u7ad9"
+            },
+            "route": "PBW5",
+            "seq": 5,
+            "serviceType": "1",
+            "stops": {
+                "kmb": [
+                    "A02CB1283981A937",
+                    "7033D904840D5F18",
+                    "658F28C339443C17",
+                    "0524415976F284A4",
+                    "F050648C108571ED"
+                ]
+            }
+        },
         "R11+1+Disneyland+North Point Ferry Pier": {
             "bound": {
                 "ctb": "O"
@@ -500388,8 +500613,8 @@
                 "lng": 114.11745
             },
             "name": {
-                "en": "Sha Tsui Road outside House No. 285",
-                "zh": "\u6c99\u5480\u9053285\u865f\u5916"
+                "en": "Sha Tsui Road outside House No. 289",
+                "zh": "\u6c99\u5480\u9053289\u865f\u5916"
             }
         },
         "20016699": {
@@ -500398,8 +500623,8 @@
                 "lng": 114.11801
             },
             "name": {
-                "en": "Sha Tsui Road outside House No. 305",
-                "zh": "\u6c99\u5480\u9053305\u865f\u5916"
+                "en": "Sha Tsui Road outside House No. 301 - 309",
+                "zh": "\u6c99\u5480\u9053301-309\u865f\u5916"
             }
         },
         "20016700": {
@@ -500498,8 +500723,8 @@
                 "lng": 114.13676
             },
             "name": {
-                "en": "Wo Yi Hop Road outside House No. 159-163",
-                "zh": "\u548c\u5b9c\u5408\u9053159-163\u865f\u5916"
+                "en": "Wo Yi Hop Road outside House No. 159-165",
+                "zh": "\u548c\u5b9c\u5408\u9053159-165\u865f\u5916"
             }
         },
         "20016711": {
@@ -500538,8 +500763,8 @@
                 "lng": 114.11853
             },
             "name": {
-                "en": "Castle Peak Road-Tsuen Wan outside House No. 175",
-                "zh": "\u9752\u5c71\u516c\u8def-\u8343\u7063\u6bb5175\u865f\u5916"
+                "en": "Castle Peak Road-Tsuen Wan outside House No. 167-173",
+                "zh": "\u9752\u5c71\u516c\u8def-\u8343\u7063\u6bb5167-173\u865f\u5916"
             }
         },
         "20016715": {
@@ -509100,6 +509325,16 @@
             "name": {
                 "en": "Yau Pok Road Light Public Housing (North)",
                 "zh": "\u6538\u58c6\u8def\u7c21\u7d04\u516c\u5c4b\uff08\u5317\uff09"
+            }
+        },
+        "20022372": {
+            "location": {
+                "lat": 22.36689156073799,
+                "lng": 114.1391542553902
+            },
+            "name": {
+                "en": "Tai Pak Tin Street near Tai Loong Street",
+                "zh": "\u5927\u767d\u7530\u8857\u8fd1\u5927\u96b4\u8857"
             }
         },
         "201": {
@@ -593355,6 +593590,10 @@
         "002167": [
             [
                 "kmb",
+                "7C27E54D8AEC683A"
+            ],
+            [
+                "kmb",
                 "85363AEF68CB6277"
             ]
         ],
@@ -593416,10 +593655,6 @@
             [
                 "gmb",
                 "20000238"
-            ],
-            [
-                "kmb",
-                "7C27E54D8AEC683A"
             ]
         ],
         "002174": [
@@ -598288,10 +598523,6 @@
             [
                 "gmb",
                 "20000868"
-            ],
-            [
-                "kmb",
-                "658F28C339443C17"
             ]
         ],
         "002862": [
@@ -598334,6 +598565,10 @@
             [
                 "gmb",
                 "20000872"
+            ],
+            [
+                "kmb",
+                "658F28C339443C17"
             ],
             [
                 "kmb",
@@ -621962,10 +622197,6 @@
             [
                 "gmb",
                 "20000868"
-            ],
-            [
-                "kmb",
-                "658F28C339443C17"
             ]
         ],
         "1C7EDE6D51378E58": [
@@ -632862,6 +633093,12 @@
             [
                 "kmb",
                 "8013D41156BC24BD"
+            ]
+        ],
+        "20002107": [
+            [
+                "gmb",
+                "20022372"
             ]
         ],
         "20002110": [
@@ -647446,6 +647683,10 @@
                 "20001655"
             ],
             [
+                "gmb",
+                "20016702"
+            ],
+            [
                 "kmb",
                 "264B29FD223D9C4E"
             ],
@@ -661498,6 +661739,18 @@
             [
                 "gmb",
                 "20001655"
+            ],
+            [
+                "gmb",
+                "20012779"
+            ],
+            [
+                "kmb",
+                "D2EF3E1D638B1B9A"
+            ],
+            [
+                "kmb",
+                "264B29FD223D9C4E"
             ]
         ],
         "20016710": [
@@ -669822,6 +670075,12 @@
             [
                 "gmb",
                 "20014877"
+            ]
+        ],
+        "20022372": [
+            [
+                "gmb",
+                "20002107"
             ]
         ],
         "201": [
@@ -701576,16 +701835,16 @@
         ],
         "658F28C339443C17": [
             [
-                "kmb",
-                "1C7C526A52EF9171"
+                "ctb",
+                "002864"
             ],
             [
                 "gmb",
                 "20000872"
             ],
             [
-                "ctb",
-                "002860"
+                "kmb",
+                "B96E368FC17CD0B0"
             ],
             [
                 "gmb",
@@ -710469,7 +710728,11 @@
         "7C27E54D8AEC683A": [
             [
                 "ctb",
-                "002173"
+                "002167"
+            ],
+            [
+                "kmb",
+                "85363AEF68CB6277"
             ]
         ],
         "7C2F503A3743D32D": [
@@ -714434,6 +714697,10 @@
             [
                 "ctb",
                 "002167"
+            ],
+            [
+                "kmb",
+                "7C27E54D8AEC683A"
             ]
         ],
         "853C70D76FF68196": [
@@ -735828,6 +736095,10 @@
                 "20000872"
             ],
             [
+                "kmb",
+                "658F28C339443C17"
+            ],
+            [
                 "ctb",
                 "002864"
             ]
@@ -746252,6 +746523,10 @@
             [
                 "gmb",
                 "20012779"
+            ],
+            [
+                "gmb",
+                "20016702"
             ],
             [
                 "kmb",
