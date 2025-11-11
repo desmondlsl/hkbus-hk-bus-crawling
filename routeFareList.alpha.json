@@ -327057,6 +327057,34 @@
                 ]
             }
         },
+        "960R+1+HUNG SHUI KIU (HUNG YUEN ROAD)+CAUSEWAY BAY (VICTORIA PARK)": {
+            "bound": {
+                "kmb": "O"
+            },
+            "co": [
+                "kmb"
+            ],
+            "dest": {
+                "en": "CAUSEWAY BAY (VICTORIA PARK)",
+                "zh": "\u9285\u947c\u7063(\u7dad\u591a\u5229\u4e9e\u516c\u5712)"
+            },
+            "fares": null,
+            "faresHoliday": null,
+            "freq": null,
+            "gtfsId": null,
+            "jt": null,
+            "nlbId": null,
+            "orig": {
+                "en": "HUNG SHUI KIU (HUNG YUEN ROAD)",
+                "zh": "\u6d2a\u6c34\u6a4b(\u6d2a\u5143\u8def)"
+            },
+            "route": "960R",
+            "seq": 0,
+            "serviceType": "1",
+            "stops": {
+                "kmb": []
+            }
+        },
         "960S+1+CAUSEWAY BAY (VICTORIA PARK)+TUEN MUN (FU TAI ESTATE)": {
             "bound": {
                 "kmb": "I"
@@ -414954,14 +414982,19 @@
                 "zh": "\u661f\u5149\u5927\u9053"
             },
             "route": "PBW5",
-            "seq": 5,
+            "seq": 10,
             "serviceType": "1",
             "stops": {
                 "kmb": [
+                    "95A40BF00DBAB2B8",
+                    "2C02B3FE178DC965",
+                    "EF8E1150891E5725",
                     "0524415976F284A4",
                     "F050648C108571ED",
                     "658F28C339443C17",
                     "7033D904840D5F18",
+                    "D39BE9923B1C7294",
+                    "875B01AC78127A53",
                     "A02CB1283981A937"
                 ]
             }
@@ -414988,15 +415021,20 @@
                 "zh": "\u8343\u7063\u897f\u7ad9"
             },
             "route": "PBW5",
-            "seq": 5,
+            "seq": 10,
             "serviceType": "1",
             "stops": {
                 "kmb": [
                     "A02CB1283981A937",
+                    "875B01AC78127A53",
                     "7033D904840D5F18",
+                    "D39BE9923B1C7294",
                     "658F28C339443C17",
+                    "2C02B3FE178DC965",
                     "0524415976F284A4",
-                    "F050648C108571ED"
+                    "F050648C108571ED",
+                    "EF8E1150891E5725",
+                    "95A40BF00DBAB2B8"
                 ]
             }
         },
@@ -415138,6 +415176,34 @@
                     "F2508598F5A43655",
                     "1E5EADCD9F424F07"
                 ]
+            }
+        },
+        "R270+1+SHEUNG SHUI+TSIM SHA TSUI EAST (MODY ROAD)": {
+            "bound": {
+                "kmb": "O"
+            },
+            "co": [
+                "kmb"
+            ],
+            "dest": {
+                "en": "TSIM SHA TSUI EAST (MODY ROAD)",
+                "zh": "\u5c16\u6c99\u5480\u6771(\u9ebc\u5730\u9053)"
+            },
+            "fares": null,
+            "faresHoliday": null,
+            "freq": null,
+            "gtfsId": null,
+            "jt": null,
+            "nlbId": null,
+            "orig": {
+                "en": "SHEUNG SHUI",
+                "zh": "\u4e0a\u6c34"
+            },
+            "route": "R270",
+            "seq": 0,
+            "serviceType": "1",
+            "stops": {
+                "kmb": []
             }
         },
         "R33+1+DISNEYLAND+TUEN MUN STATION": {
@@ -415581,6 +415647,34 @@
                     "444BEB5BB189B3A0",
                     "FE235D7DCABCA944"
                 ]
+            }
+        },
+        "R673+1+SHEUNG SHUI (CHING HO)+CAUSEWAY BAY (VICTORIA PARK)": {
+            "bound": {
+                "kmb": "O"
+            },
+            "co": [
+                "kmb"
+            ],
+            "dest": {
+                "en": "CAUSEWAY BAY (VICTORIA PARK)",
+                "zh": "\u9285\u947c\u7063 (\u7dad\u591a\u5229\u4e9e\u516c\u5712)"
+            },
+            "fares": null,
+            "faresHoliday": null,
+            "freq": null,
+            "gtfsId": null,
+            "jt": null,
+            "nlbId": null,
+            "orig": {
+                "en": "SHEUNG SHUI (CHING HO)",
+                "zh": "\u4e0a\u6c34(\u6e05\u6cb3)"
+            },
+            "route": "R673",
+            "seq": 0,
+            "serviceType": "1",
+            "stops": {
+                "kmb": []
             }
         },
         "R78+1+FANLING STATION+SAN WAI BARRACKS(CIRCULAR)": {
@@ -452393,8 +452487,8 @@
                 "lng": 114.10289
             },
             "name": {
-                "en": "TSING YI BBI - CHEUNG ON BUS TERMINUS (A5) (TY908)",
-                "zh": "\u9752\u8863\u8f49\u8eca\u7ad9 - \u9577\u5b89\u7e3d\u7ad9 (A5)"
+                "en": "TSING YI BBI - CHEUNG ON BUS TERMINUS (TY908)",
+                "zh": "\u9752\u8863\u8f49\u8eca\u7ad9 - \u9577\u5b89\u7e3d\u7ad9 (TY908)"
             }
         },
         "010D8E1BE34538EE": {
@@ -512353,8 +512447,8 @@
                 "lng": 114.10312
             },
             "name": {
-                "en": "TSING YI BBI - CHEUNG ON BUS TERMINUS (A8) (TY906)",
-                "zh": "\u9752\u8863\u8f49\u8eca\u7ad9 - \u9577\u5b89\u7e3d\u7ad9 (A8)"
+                "en": "TSING YI BBI - CHEUNG ON BUS TERMINUS (TY906)",
+                "zh": "\u9752\u8863\u8f49\u8eca\u7ad9 - \u9577\u5b89\u7e3d\u7ad9 (TY906)"
             }
         },
         "2876907DEE816C98": {
@@ -513275,6 +513369,16 @@
             "name": {
                 "en": "ELIZABETH HOUSE",
                 "zh": "\u4f0a\u5229\u838e\u4f2f\u5927\u5ec8"
+            }
+        },
+        "2C02B3FE178DC965": {
+            "location": {
+                "lat": 22.30313,
+                "lng": 114.17104
+            },
+            "name": {
+                "en": "Austin Road",
+                "zh": "\u67ef\u58eb\u7538\u9053"
             }
         },
         "2C09A04B7BEC82F9": {
@@ -515583,8 +515687,8 @@
                 "lng": 114.10444
             },
             "name": {
-                "en": "TSING YI BBI - CHING WANG COURT(C1) (TY200)",
-                "zh": "\u9752\u8863\u8f49\u8eca\u7ad9 \u2013\u9752\u5b8f\u82d1 (C1)"
+                "en": "TSING YI BBI - CHING WANG COURT (TY200)",
+                "zh": "\u9752\u8863\u8f49\u8eca\u7ad9 \u2013\u9752\u5b8f\u82d1 (TY200)"
             }
         },
         "32EF27636D4BEAEB": {
@@ -516443,8 +516547,8 @@
                 "lng": 114.12485
             },
             "name": {
-                "en": "TAI WO HAU BBI-TAI WO HAU STATION (B1) (KW132)",
-                "zh": "\u5927\u7aa9\u53e3\u8f49\u8eca\u7ad9-\u5927\u7aa9\u53e3\u7ad9 (B1)"
+                "en": "TAI WO HAU BBI-TAI WO HAU STATION (KW132)",
+                "zh": "\u5927\u7aa9\u53e3\u8f49\u8eca\u7ad9-\u5927\u7aa9\u53e3\u7ad9 (KW132)"
             }
         },
         "354AD31C538E99FE": {
@@ -516743,8 +516847,8 @@
                 "lng": 114.10292
             },
             "name": {
-                "en": "TSING YI BBI - CHEUNG ON BUS TERMINUS (A6) (TY905)",
-                "zh": "\u9752\u8863\u8f49\u8eca\u7ad9 - \u9577\u5b89\u7e3d\u7ad9 (A6)"
+                "en": "TSING YI BBI - CHEUNG ON BUS TERMINUS (TY905)",
+                "zh": "\u9752\u8863\u8f49\u8eca\u7ad9 - \u9577\u5b89\u7e3d\u7ad9 (TY905)"
             }
         },
         "36880B47F043D519": {
@@ -516753,8 +516857,8 @@
                 "lng": 114.10284
             },
             "name": {
-                "en": "TSING YI BBI - CHEUNG ON BUS TERMINUS (A7) (TY901)",
-                "zh": "\u9752\u8863\u8f49\u8eca\u7ad9 - \u9577\u5b89\u7e3d\u7ad9 (A7)"
+                "en": "TSING YI BBI - CHEUNG ON BUS TERMINUS (TY901)",
+                "zh": "\u9752\u8863\u8f49\u8eca\u7ad9 - \u9577\u5b89\u7e3d\u7ad9 (TY901)"
             }
         },
         "3688FF86BC378100": {
@@ -519313,8 +519417,8 @@
                 "lng": 114.10326
             },
             "name": {
-                "en": "TSING YI BBI - CHEUNG ON BUS TERMINUS (A1) (TY914)",
-                "zh": "\u9752\u8863\u8f49\u8eca\u7ad9 - \u9577\u5b89\u7e3d\u7ad9 (A1)"
+                "en": "TSING YI BBI - CHEUNG ON BUS TERMINUS (TY914)",
+                "zh": "\u9752\u8863\u8f49\u8eca\u7ad9 - \u9577\u5b89\u7e3d\u7ad9 (TY914)"
             }
         },
         "403881982F9E7209": {
@@ -527623,8 +527727,8 @@
                 "lng": 114.10289
             },
             "name": {
-                "en": "TSING YI BBI - CHEUNG ON BUS TERMINUS (A2) (TY911)",
-                "zh": "\u9752\u8863\u8f49\u8eca\u7ad9 - \u9577\u5b89\u7e3d\u7ad9 (A2)"
+                "en": "TSING YI BBI - CHEUNG ON BUS TERMINUS (TY911)",
+                "zh": "\u9752\u8863\u8f49\u8eca\u7ad9 - \u9577\u5b89\u7e3d\u7ad9 (TY911)"
             }
         },
         "5D94D3084F0C3831": {
@@ -528093,8 +528197,8 @@
                 "lng": 114.10313
             },
             "name": {
-                "en": "TSING YI BBI - CHEUNG ON BUS TERMINUS (A1) (TY913)",
-                "zh": "\u9752\u8863\u8f49\u8eca\u7ad9 - \u9577\u5b89\u7e3d\u7ad9 (A1)"
+                "en": "TSING YI BBI - CHEUNG ON BUS TERMINUS (TY913)",
+                "zh": "\u9752\u8863\u8f49\u8eca\u7ad9 - \u9577\u5b89\u7e3d\u7ad9 (TY913)"
             }
         },
         "5FCD0D727920EC65": {
@@ -531253,8 +531357,8 @@
                 "lng": 114.10289
             },
             "name": {
-                "en": "TSING YI BBI - CHEUNG ON BUS TERMINUS (A3) (TY910)",
-                "zh": "\u9752\u8863\u8f49\u8eca\u7ad9 - \u9577\u5b89\u7e3d\u7ad9 (A3)"
+                "en": "TSING YI BBI - CHEUNG ON BUS TERMINUS (TY910)",
+                "zh": "\u9752\u8863\u8f49\u8eca\u7ad9 - \u9577\u5b89\u7e3d\u7ad9 (TY910)"
             }
         },
         "6ACFA599CC0EA4E0": {
@@ -532063,8 +532167,8 @@
                 "lng": 114.10595
             },
             "name": {
-                "en": "TSING YI BBI - VILLA ESPLANADA (D1) (TY201)",
-                "zh": "\u9752\u8863\u8f49\u8eca\u7ad9 \u2013\u705d\u666f\u7063 (D1)"
+                "en": "TSING YI BBI - VILLA ESPLANADA (TY201)",
+                "zh": "\u9752\u8863\u8f49\u8eca\u7ad9 \u2013\u705d\u666f\u7063 (TY201)"
             }
         },
         "6E24D2D895228AC3": {
@@ -535003,8 +535107,8 @@
                 "lng": 114.10289
             },
             "name": {
-                "en": "TSING YI BBI - CHEUNG ON BUS TERMINUS (A4) (TY909)",
-                "zh": "\u9752\u8863\u8f49\u8eca\u7ad9 - \u9577\u5b89\u7e3d\u7ad9  (A4)"
+                "en": "TSING YI BBI - CHEUNG ON BUS TERMINUS (TY909)",
+                "zh": "\u9752\u8863\u8f49\u8eca\u7ad9 - \u9577\u5b89\u7e3d\u7ad9 (TY909)"
             }
         },
         "79AB35C49EC6A4A9": {
@@ -536533,8 +536637,8 @@
                 "lng": 114.1034
             },
             "name": {
-                "en": "TSING YI BBI - CHEUNG ON BUS TERMINUS (A9) (TY907)",
-                "zh": "\u9752\u8863\u8f49\u8eca\u7ad9 - \u9577\u5b89\u7e3d\u7ad9 (A9)"
+                "en": "TSING YI BBI - CHEUNG ON BUS TERMINUS (TY907)",
+                "zh": "\u9752\u8863\u8f49\u8eca\u7ad9 - \u9577\u5b89\u7e3d\u7ad9 (TY907)"
             }
         },
         "8019E4CBB686CD25": {
@@ -538445,6 +538549,16 @@
             "name": {
                 "en": "LAM TIN STATION (LT904)",
                 "zh": "\u85cd\u7530\u7ad9 (LT904)"
+            }
+        },
+        "875B01AC78127A53": {
+            "location": {
+                "lat": 22.36686,
+                "lng": 114.11535
+            },
+            "name": {
+                "en": "Ma Tau Pa Road, Tsuen Wan",
+                "zh": "\u8343\u7063\u99ac\u982d\u58e9\u9053"
             }
         },
         "876057D899CE09C9": {
@@ -541905,6 +542019,16 @@
             "name": {
                 "en": "NGA TSIN WAI ROAD (KC215)",
                 "zh": "\u8859\u524d\u570d\u9053 (KC215)"
+            }
+        },
+        "95A40BF00DBAB2B8": {
+            "location": {
+                "lat": 22.29651,
+                "lng": 114.17719
+            },
+            "name": {
+                "en": "Avenue of Stars",
+                "zh": "\u661f\u5149\u5927\u9053"
             }
         },
         "95A8334E0385A5E7": {
@@ -547693,8 +547817,8 @@
                 "lng": 114.12415
             },
             "name": {
-                "en": "TAI WO HAU BBI-TAI WO HAU STATION (A2) (KW393)",
-                "zh": "\u5927\u7aa9\u53e3\u8f49\u8eca\u7ad9 -\u5927\u7aa9\u53e3\u7ad9 (A2)"
+                "en": "TAI WO HAU BBI-TAI WO HAU STATION (KW393)",
+                "zh": "\u5927\u7aa9\u53e3\u8f49\u8eca\u7ad9 -\u5927\u7aa9\u53e3\u7ad9 (KW393)"
             }
         },
         "AAC64BCDD5B55A86": {
@@ -548283,8 +548407,8 @@
                 "lng": 114.10283
             },
             "name": {
-                "en": "TSING YI BBI - CHEUNG ON BUS TERMINUS (A6) (TY904)",
-                "zh": "\u9752\u8863\u8f49\u8eca\u7ad9 - \u9577\u5b89\u7e3d\u7ad9 (A6)"
+                "en": "TSING YI BBI - CHEUNG ON BUS TERMINUS (TY904)",
+                "zh": "\u9752\u8863\u8f49\u8eca\u7ad9 - \u9577\u5b89\u7e3d\u7ad9 (TY904)"
             }
         },
         "AD0B5EFA2471962C": {
@@ -548853,8 +548977,8 @@
                 "lng": 114.10529
             },
             "name": {
-                "en": "TSING YI BBI - ON MEI HOUSE CHEUNG ON ESTATE (B1)",
-                "zh": "\u9752\u8863\u8f49\u8eca\u7ad9 -\u9577\u5b89\u90a8\u5b89\u6e44\u6a13 (B1)"
+                "en": "TSING YI BBI - ON MEI HOUSE CHEUNG ON ESTATE",
+                "zh": "\u9752\u8863\u8f49\u8eca\u7ad9 -\u9577\u5b89\u90a8\u5b89\u6e44\u6a13"
             }
         },
         "AFC5AA585D7CC792": {
@@ -551343,8 +551467,8 @@
                 "lng": 114.12496
             },
             "name": {
-                "en": "TAI WO HAU BBI-TAI WO HAU STATION (B2) (KW131)",
-                "zh": "\u5927\u7aa9\u53e3\u8f49\u8eca\u7ad9-\u5927\u7aa9\u53e3\u7ad9 (B2)"
+                "en": "TAI WO HAU BBI-TAI WO HAU STATION (KW131)",
+                "zh": "\u5927\u7aa9\u53e3\u8f49\u8eca\u7ad9-\u5927\u7aa9\u53e3\u7ad9 (KW131)"
             }
         },
         "B94A85EF9F1C8E92": {
@@ -555493,8 +555617,8 @@
                 "lng": 114.12385
             },
             "name": {
-                "en": "TAI WO HAU BBI -TAI WO HAU STATION(A1) (KW394)",
-                "zh": "\u5927\u7aa9\u53e3\u8f49\u8eca\u7ad9 -\u5927\u7aa9\u53e3\u7ad9 (A1)"
+                "en": "TAI WO HAU BBI -TAI WO HAU STATION (KW394)",
+                "zh": "\u5927\u7aa9\u53e3\u8f49\u8eca\u7ad9 -\u5927\u7aa9\u53e3\u7ad9 (KW394)"
             }
         },
         "C9E33E7E7EDAA459": {
@@ -556053,8 +556177,8 @@
                 "lng": 114.10289
             },
             "name": {
-                "en": "TSING YI BBI - CHEUNG ON BUS TERMINUS (A1) (TY912)",
-                "zh": "\u9752\u8863\u8f49\u8eca\u7ad9 - \u9577\u5b89\u7e3d\u7ad9 (A1)"
+                "en": "TSING YI BBI - CHEUNG ON BUS TERMINUS (TY912)",
+                "zh": "\u9752\u8863\u8f49\u8eca\u7ad9 - \u9577\u5b89\u7e3d\u7ad9 (TY912)"
             }
         },
         "CC14CF9E8A163F34": {
@@ -558055,6 +558179,16 @@
             "name": {
                 "en": "HUNG LENG (ND271)",
                 "zh": "\u5b54\u5dba (ND271)"
+            }
+        },
+        "D39BE9923B1C7294": {
+            "location": {
+                "lat": 22.33988,
+                "lng": 114.13893
+            },
+            "name": {
+                "en": "Lai Wan Road, Mei Foo",
+                "zh": "\u7f8e\u5b5a\u8354\u7063\u9053"
             }
         },
         "D39CFEB43490567F": {
@@ -565277,6 +565411,16 @@
                 "zh": "\u88d8\u9326\u79cb\u4e2d\u5b78 (KW215)"
             }
         },
+        "EF8E1150891E5725": {
+            "location": {
+                "lat": 22.29876,
+                "lng": 114.1687
+            },
+            "name": {
+                "en": "Canton Road",
+                "zh": "\u5ee3\u6771\u9053"
+            }
+        },
         "EFA71508B2EBD9B9": {
             "location": {
                 "lat": 22.26335,
@@ -568403,8 +568547,8 @@
                 "lng": 114.10303
             },
             "name": {
-                "en": "TSING YI BBI - CHEUNG ON BUS TERMINUS (A7) (TY902)",
-                "zh": "\u9752\u8863\u8f49\u8eca\u7ad9 - \u9577\u5b89\u7e3d\u7ad9 (A7)"
+                "en": "TSING YI BBI - CHEUNG ON BUS TERMINUS (TY902)",
+                "zh": "\u9752\u8863\u8f49\u8eca\u7ad9 - \u9577\u5b89\u7e3d\u7ad9 (TY902)"
             }
         },
         "F9F75324B8F1D7E3": {
@@ -604339,6 +604483,12 @@
                 "CAEEAD91F339D3DA"
             ]
         ],
+        "003417": [
+            [
+                "kmb",
+                "875B01AC78127A53"
+            ]
+        ],
         "003419": [
             [
                 "kmb",
@@ -639003,6 +639153,12 @@
             [
                 "kmb",
                 "E3A083E4F64D93CD"
+            ]
+        ],
+        "20006919": [
+            [
+                "kmb",
+                "EF8E1150891E5725"
             ]
         ],
         "20006936": [
@@ -715615,6 +715771,12 @@
                 "061BF67CD917035D"
             ]
         ],
+        "875B01AC78127A53": [
+            [
+                "ctb",
+                "003417"
+            ]
+        ],
         "876057D899CE09C9": [
             [
                 "kmb",
@@ -758211,6 +758373,12 @@
             [
                 "gmb",
                 "20001656"
+            ]
+        ],
+        "EF8E1150891E5725": [
+            [
+                "gmb",
+                "20006919"
             ]
         ],
         "EFA71508B2EBD9B9": [
