@@ -95146,7 +95146,7 @@
                     "0E41E02CD9055626",
                     "EE81A30BE4BDC8AC",
                     "F129DD8D9E3268FB",
-                    "D0FB28B8EED62431",
+                    "2129B2A72F881300",
                     "FA52803E2628A212",
                     "E6022594DB48E35B",
                     "480DB16994F8FFEE",
@@ -95253,6 +95253,64 @@
                 "en": "CHARMING GARDEN",
                 "zh": "\u5bcc\u69ae\u82b1\u5712"
             },
+            "fares": null,
+            "faresHoliday": null,
+            "freq": null,
+            "gtfsId": null,
+            "jt": null,
+            "nlbId": null,
+            "orig": {
+                "en": "SHEUNG SHUI",
+                "zh": "\u4e0a\u6c34"
+            },
+            "route": "270B",
+            "seq": 29,
+            "serviceType": "2",
+            "stops": {
+                "kmb": [
+                    "CF0C67920B22ED62",
+                    "CF94083CB24CF4E5",
+                    "4A76CDB32FA69BC6",
+                    "6F11F73C749338DB",
+                    "98EBAB9468C80DD2",
+                    "6DD6B837EF1FA76C",
+                    "AFD29CB1A4F71AB9",
+                    "60952B4A38F3D82E",
+                    "0E41E02CD9055626",
+                    "EE81A30BE4BDC8AC",
+                    "F129DD8D9E3268FB",
+                    "FA52803E2628A212",
+                    "E6022594DB48E35B",
+                    "480DB16994F8FFEE",
+                    "FD8181D7574BB373",
+                    "F1DE119543E382D9",
+                    "A6013462EAC8AA50",
+                    "DAE9E14BA67CEC80",
+                    "3A5C336CCB38A3FA",
+                    "8CE4B83B45F22F1F",
+                    "89F6B64B28A21D34",
+                    "18A85DD43DFA12AF",
+                    "C4B0E899FAE72350",
+                    "8C7C1212A1196A1A",
+                    "996EC6B4E40A2E4A",
+                    "5CA7841E84D52C8A",
+                    "22138E6C8051FDBD",
+                    "F5098BFD784B8FAB",
+                    "1C7C526A52EF9171"
+                ]
+            }
+        },
+        "270B+2+SHEUNG SHUI+OLYMPIC STATION": {
+            "bound": {
+                "kmb": "O"
+            },
+            "co": [
+                "kmb"
+            ],
+            "dest": {
+                "en": "OLYMPIC STATION",
+                "zh": "\u5967\u904b\u7ad9"
+            },
             "fares": [
                 "16.9",
                 "16.9",
@@ -95281,7 +95339,6 @@
                 "7.4",
                 "7.4",
                 "7.4",
-                "7.4",
                 "7.4"
             ],
             "faresHoliday": null,
@@ -95298,7 +95355,7 @@
                 "zh": "\u4e0a\u6c34"
             },
             "route": "270B",
-            "seq": 30,
+            "seq": 29,
             "serviceType": "2",
             "stops": {
                 "kmb": [
@@ -95313,7 +95370,7 @@
                     "0E41E02CD9055626",
                     "EE81A30BE4BDC8AC",
                     "F129DD8D9E3268FB",
-                    "D0FB28B8EED62431",
+                    "2129B2A72F881300",
                     "FA52803E2628A212",
                     "E6022594DB48E35B",
                     "480DB16994F8FFEE",
@@ -95330,8 +95387,7 @@
                     "996EC6B4E40A2E4A",
                     "5CA7841E84D52C8A",
                     "22138E6C8051FDBD",
-                    "F5098BFD784B8FAB",
-                    "1C7C526A52EF9171"
+                    "17B8C938E2E113D0"
                 ]
             }
         },
@@ -95811,7 +95867,7 @@
                     "0E41E02CD9055626",
                     "EE81A30BE4BDC8AC",
                     "F129DD8D9E3268FB",
-                    "D0FB28B8EED62431",
+                    "2129B2A72F881300",
                     "FA52803E2628A212",
                     "E6022594DB48E35B",
                     "480DB16994F8FFEE",
@@ -95961,7 +96017,7 @@
                     "DE27CD3EB0AF43D8",
                     "68A3AF80BADFDE9F",
                     "14BDB94A8F3ED3EC",
-                    "D0FB28B8EED62431",
+                    "923E5B79E1B48739",
                     "C7120BD9A94B4F6A",
                     "825199DC3BC0C5A3",
                     "A8F178C255CF9783",
@@ -105081,7 +105137,7 @@
                     "BFAE1E951D3B63EC",
                     "C67060F448591E4F",
                     "F7D40D08CB05EA87",
-                    "2129B2A72F881300",
+                    "923E5B79E1B48739",
                     "4CA5DEBCC576E371",
                     "D2C1454B663392C9",
                     "30D564180B68ECA8",
@@ -105333,7 +105389,7 @@
                     "9274EF6791CA3ED8",
                     "3AD4DADA5B941CF2",
                     "CA9E9870D7B2FF36",
-                    "D0FB28B8EED62431",
+                    "923E5B79E1B48739",
                     "FA52803E2628A212",
                     "0F3FA9B7D07A91F3",
                     "C837C3C549793472",
@@ -105417,7 +105473,7 @@
                 ]
             }
         },
-        "277X+3+FANLING (WAH MING)+LAM TIN STATION": {
+        "277X+2+WAH MING BBI(C7) (ND984)+LAM TIN STATION (LT902)": {
             "bound": {
                 "kmb": "O"
             },
@@ -105425,8 +105481,8 @@
                 "kmb"
             ],
             "dest": {
-                "en": "LAM TIN STATION",
-                "zh": "\u85cd\u7530\u7ad9"
+                "en": "LAM TIN STATION (LT902)",
+                "zh": "\u85cd\u7530\u7ad9 (LT902)"
             },
             "fares": [
                 "16.9",
@@ -105464,16 +105520,58 @@
             "jt": "61",
             "nlbId": null,
             "orig": {
+                "en": "WAH MING BBI(C7) (ND984)",
+                "zh": "\u83ef\u660e\u8f49\u8eca\u7ad9(C7) (ND984)"
+            },
+            "route": "277X",
+            "seq": 14,
+            "serviceType": "2",
+            "stops": {
+                "kmb": [
+                    "F7D40D08CB05EA87",
+                    "923E5B79E1B48739",
+                    "4CA5DEBCC576E371",
+                    "D2C1454B663392C9",
+                    "30D564180B68ECA8",
+                    "279C78D8C04A83BB",
+                    "BA03816A38B9DA7F",
+                    "D0F8772D043C207E",
+                    "BE36EF30B86ADD1D",
+                    "598F766175BE3EF3",
+                    "5FE12AC5660F89D6",
+                    "144E9479168069DD",
+                    "A88EE1930BE82C54",
+                    "5D7809204099960C"
+                ]
+            }
+        },
+        "277X+3+FANLING (WAH MING)+LAM TIN STATION": {
+            "bound": {
+                "kmb": "O"
+            },
+            "co": [
+                "kmb"
+            ],
+            "dest": {
+                "en": "LAM TIN STATION",
+                "zh": "\u85cd\u7530\u7ad9"
+            },
+            "fares": null,
+            "faresHoliday": null,
+            "freq": null,
+            "gtfsId": null,
+            "jt": null,
+            "nlbId": null,
+            "orig": {
                 "en": "FANLING (WAH MING)",
                 "zh": "\u7c89\u5dba(\u83ef\u660e)"
             },
             "route": "277X",
-            "seq": 14,
+            "seq": 13,
             "serviceType": "3",
             "stops": {
                 "kmb": [
                     "F7D40D08CB05EA87",
-                    "2129B2A72F881300",
                     "4CA5DEBCC576E371",
                     "D2C1454B663392C9",
                     "30D564180B68ECA8",
@@ -107146,7 +107244,7 @@
                     "BFAE1E951D3B63EC",
                     "C67060F448591E4F",
                     "14BDB94A8F3ED3EC",
-                    "FA7A3D77713061E9",
+                    "D0FB28B8EED62431",
                     "C7120BD9A94B4F6A",
                     "825199DC3BC0C5A3",
                     "A8F178C255CF9783",
@@ -138424,7 +138522,7 @@
                     "B97CC3668C3AD911",
                     "EEFA4F8B18DBF2A6",
                     "CA9E9870D7B2FF36",
-                    "D0FB28B8EED62431",
+                    "923E5B79E1B48739",
                     "4C97BE87FBF959C4",
                     "FA52803E2628A212",
                     "0F3FA9B7D07A91F3",
@@ -187803,7 +187901,89 @@
                 ]
             }
         },
-        "55+1+Kwun Tong Ferry Pier+Tuen Mun (Ching Tin and Wo Tin)": {
+        "55+1+Ching Tin Estate+Kwun Tong Ferry": {
+            "bound": {
+                "ctb": "O"
+            },
+            "co": [
+                "ctb"
+            ],
+            "dest": {
+                "en": "Kwun Tong Ferry",
+                "zh": "\u89c0\u5858\u78bc\u982d"
+            },
+            "fares": [
+                "19.4",
+                "19.4",
+                "19.4",
+                "19.4",
+                "19.4",
+                "19.4",
+                "19.4",
+                "19.4",
+                "19.4",
+                "8.2",
+                "8.2",
+                "8.2",
+                "6.8",
+                "6.8",
+                "6.8",
+                "6.8",
+                "6.8",
+                "6.8",
+                "6.8",
+                "6.8",
+                "6.8"
+            ],
+            "faresHoliday": null,
+            "freq": {
+                "287": {
+                    "0630": null,
+                    "0650": null,
+                    "0705": null,
+                    "0720": null,
+                    "0740": null,
+                    "0805": null
+                }
+            },
+            "gtfsId": "1000244",
+            "jt": "79",
+            "nlbId": null,
+            "orig": {
+                "en": "Ching Tin Estate",
+                "zh": "\u83c1\u7530\u90a8"
+            },
+            "route": "55",
+            "seq": 22,
+            "serviceType": "1",
+            "stops": {
+                "ctb": [
+                    "003760",
+                    "003752",
+                    "003753",
+                    "003754",
+                    "003207",
+                    "003350",
+                    "003656",
+                    "003193",
+                    "003358",
+                    "001766",
+                    "001767",
+                    "001734",
+                    "001523",
+                    "001688",
+                    "001697",
+                    "003036",
+                    "003046",
+                    "001657",
+                    "003592",
+                    "003593",
+                    "003594",
+                    "003590"
+                ]
+            }
+        },
+        "55+1+Kwun Tong Ferry+Wo Tin Estate": {
             "bound": {
                 "ctb": "I"
             },
@@ -187811,8 +187991,8 @@
                 "ctb"
             ],
             "dest": {
-                "en": "Tuen Mun (Ching Tin and Wo Tin)",
-                "zh": "\u5c6f\u9580 (\u83c1\u7530\u53ca\u548c\u7530)"
+                "en": "Wo Tin Estate",
+                "zh": "\u548c\u7530\u90a8"
             },
             "fares": [
                 "19.4",
@@ -187848,12 +188028,12 @@
             "jt": "79",
             "nlbId": null,
             "orig": {
-                "en": "Kwun Tong Ferry Pier",
+                "en": "Kwun Tong Ferry",
                 "zh": "\u89c0\u5858\u78bc\u982d"
             },
             "route": "55",
             "seq": 20,
-            "serviceType": 1,
+            "serviceType": "1",
             "stops": {
                 "ctb": [
                     "003590",
@@ -188008,88 +188188,6 @@
                     "20000010",
                     "20004546",
                     "20019072"
-                ]
-            }
-        },
-        "55+1+Tuen Mun (Ching Tin and Wo Tin)+Kwun Tong Ferry Pier": {
-            "bound": {
-                "ctb": "O"
-            },
-            "co": [
-                "ctb"
-            ],
-            "dest": {
-                "en": "Kwun Tong Ferry Pier",
-                "zh": "\u89c0\u5858\u78bc\u982d"
-            },
-            "fares": [
-                "19.4",
-                "19.4",
-                "19.4",
-                "19.4",
-                "19.4",
-                "19.4",
-                "19.4",
-                "19.4",
-                "19.4",
-                "8.2",
-                "8.2",
-                "8.2",
-                "6.8",
-                "6.8",
-                "6.8",
-                "6.8",
-                "6.8",
-                "6.8",
-                "6.8",
-                "6.8",
-                "6.8"
-            ],
-            "faresHoliday": null,
-            "freq": {
-                "287": {
-                    "0630": null,
-                    "0650": null,
-                    "0705": null,
-                    "0720": null,
-                    "0740": null,
-                    "0805": null
-                }
-            },
-            "gtfsId": "1000244",
-            "jt": "79",
-            "nlbId": null,
-            "orig": {
-                "en": "Tuen Mun (Ching Tin and Wo Tin)",
-                "zh": "\u5c6f\u9580 (\u83c1\u7530\u53ca\u548c\u7530)"
-            },
-            "route": "55",
-            "seq": 22,
-            "serviceType": 1,
-            "stops": {
-                "ctb": [
-                    "003760",
-                    "003752",
-                    "003753",
-                    "003754",
-                    "003207",
-                    "003350",
-                    "003656",
-                    "003193",
-                    "003358",
-                    "001766",
-                    "001767",
-                    "001734",
-                    "001523",
-                    "001688",
-                    "001697",
-                    "003036",
-                    "003046",
-                    "001657",
-                    "003592",
-                    "003593",
-                    "003594",
-                    "003590"
                 ]
             }
         },
@@ -244039,7 +244137,7 @@
             "stops": {
                 "kmb": [
                     "E541A72F4B4CF13A",
-                    "D0FB28B8EED62431",
+                    "923E5B79E1B48739",
                     "FA52803E2628A212",
                     "0F3FA9B7D07A91F3",
                     "C837C3C549793472",
@@ -337623,7 +337721,7 @@
                     "5CB1BDF367F1989F",
                     "4CA5DEBCC576E371",
                     "14BDB94A8F3ED3EC",
-                    "923E5B79E1B48739",
+                    "FA7A3D77713061E9",
                     "C7120BD9A94B4F6A",
                     "825199DC3BC0C5A3",
                     "ADB9356BBF06F7C7",
@@ -354936,7 +355034,7 @@
                 ]
             }
         },
-        "A41P+1+WU KAI SHA STATION+AIRPORT (GROUND TRANSPORTATION CENTRE)": {
+        "A41P+1+WU KAI SHA STATION+Airport": {
             "bound": {
                 "kmb": "O"
             },
@@ -354944,8 +355042,8 @@
                 "kmb"
             ],
             "dest": {
-                "en": "AIRPORT (GROUND TRANSPORTATION CENTRE)",
-                "zh": "\u6a5f\u5834(\u5730\u9762\u904b\u8f38\u4e2d\u5fc3)"
+                "en": "Airport",
+                "zh": "\u6a5f\u5834"
             },
             "fares": [
                 "29",
@@ -354967,7 +355065,6 @@
                 "23.4",
                 "23.4",
                 "23.4",
-                "19.8",
                 "19.8",
                 "19.8"
             ],
@@ -355000,7 +355097,7 @@
                 "zh": "\u70cf\u6eaa\u6c99\u7ad9"
             },
             "route": "A41P",
-            "seq": 23,
+            "seq": 22,
             "serviceType": "1",
             "stops": {
                 "kmb": [
@@ -355025,8 +355122,7 @@
                     "673B33867260EBB7",
                     "412DEEF534E127AF",
                     "C552CE565E1F0C85",
-                    "0D5759F7A4B185FE",
-                    "21466046C6868AA7"
+                    "0D5759F7A4B185FE"
                 ]
             }
         },
@@ -355083,7 +355179,7 @@
                 ]
             }
         },
-        "A41P+2+WU KAI SHA STATION+AIRPORT (GROUND TRANSPORTATION CENTRE)": {
+        "A41P+2+WU KAI SHA STATION+Airport": {
             "bound": {
                 "kmb": "O"
             },
@@ -355091,52 +355187,21 @@
                 "kmb"
             ],
             "dest": {
-                "en": "AIRPORT (GROUND TRANSPORTATION CENTRE)",
-                "zh": "\u6a5f\u5834(\u5730\u9762\u904b\u8f38\u4e2d\u5fc3)"
+                "en": "Airport",
+                "zh": "\u6a5f\u5834"
             },
-            "fares": [
-                "29",
-                "29",
-                "29",
-                "29",
-                "29",
-                "29",
-                "29",
-                "29",
-                "29",
-                "29",
-                "29",
-                "29",
-                "29",
-                "29",
-                "29",
-                "29",
-                "23.4",
-                "23.4",
-                "23.4",
-                "19.8",
-                "19.8",
-                "19.8",
-                "19.8",
-                "19.8"
-            ],
+            "fares": null,
             "faresHoliday": null,
-            "freq": {
-                "511": {
-                    "0620": null,
-                    "0640": null,
-                    "0700": null
-                }
-            },
-            "gtfsId": "1000023",
-            "jt": "96",
+            "freq": null,
+            "gtfsId": null,
+            "jt": null,
             "nlbId": null,
             "orig": {
                 "en": "WU KAI SHA STATION",
                 "zh": "\u70cf\u6eaa\u6c99\u7ad9"
             },
             "route": "A41P",
-            "seq": 25,
+            "seq": 24,
             "serviceType": "2",
             "stops": {
                 "kmb": [
@@ -355163,8 +355228,7 @@
                     "C552CE565E1F0C85",
                     "9C9F817064169CE7",
                     "E48E4C46F64FFB0E",
-                    "0D5759F7A4B185FE",
-                    "21466046C6868AA7"
+                    "0D5759F7A4B185FE"
                 ]
             }
         },
@@ -404478,7 +404542,7 @@
                     "B97CC3668C3AD911",
                     "EEFA4F8B18DBF2A6",
                     "14BDB94A8F3ED3EC",
-                    "D0FB28B8EED62431",
+                    "923E5B79E1B48739",
                     "C7120BD9A94B4F6A",
                     "825199DC3BC0C5A3",
                     "ADB9356BBF06F7C7",
@@ -418994,7 +419058,7 @@
                     "1E71CBFE8560B0EF",
                     "9274EF6791CA3ED8",
                     "CA9E9870D7B2FF36",
-                    "FA7A3D77713061E9",
+                    "D0FB28B8EED62431",
                     "C7120BD9A94B4F6A",
                     "ADB9356BBF06F7C7",
                     "8E3F5AE0A97053F9",
@@ -452407,6 +452471,26 @@
                 "zh": "\u4e2d\u96fb\u7e3d\u90e8, \u627f\u555f\u9053"
             }
         },
+        "003912": {
+            "location": {
+                "lat": 22.30973,
+                "lng": 114.22377
+            },
+            "name": {
+                "en": "Hoi Yuen Road",
+                "zh": "\u958b\u6e90\u9053"
+            }
+        },
+        "003913": {
+            "location": {
+                "lat": 22.30813,
+                "lng": 114.22567
+            },
+            "name": {
+                "en": "King Yip Street",
+                "zh": "\u656c\u696d\u8857"
+            }
+        },
         "003D1263A14908F6": {
             "location": {
                 "lat": 22.37354,
@@ -454363,8 +454447,8 @@
                 "lng": 114.1247
             },
             "name": {
-                "en": "CHOI PIK HOUSE CHOI PO COURT (ND105)",
-                "zh": "\u5f69\u84b2\u82d1\u5f69\u78a7\u95a3 (ND105)"
+                "en": "CHOI PIK HOUSE CHOI PO COURT (ND105a)",
+                "zh": "\u5f69\u84b2\u82d1\u5f69\u78a7\u95a3 (ND105a)"
             }
         },
         "0932BC34DBEAA8CD": {
@@ -551213,8 +551297,8 @@
                 "lng": 114.20589
             },
             "name": {
-                "en": "KAI TAK BRIDGE ROAD",
-                "zh": "\u555f\u5fb7\u6a4b\u9053"
+                "en": "KAI TAK BRIDGE ROAD (KA108)",
+                "zh": "\u555f\u5fb7\u6a4b\u9053 (KA108)"
             }
         },
         "B85641FDDED22352": {
@@ -609251,6 +609335,58 @@
                 "0B65879637B5161E"
             ]
         ],
+        "003912": [
+            [
+                "gmb",
+                "20013832"
+            ],
+            [
+                "gmb",
+                "20015217"
+            ],
+            [
+                "gmb",
+                "20020170"
+            ],
+            [
+                "kmb",
+                "64BE0873B015460A"
+            ],
+            [
+                "kmb",
+                "71E3EB7E709522C7"
+            ],
+            [
+                "gmb",
+                "20015216"
+            ]
+        ],
+        "003913": [
+            [
+                "gmb",
+                "20015219"
+            ],
+            [
+                "kmb",
+                "21AFFFF707224831"
+            ],
+            [
+                "kmb",
+                "99A3962003285776"
+            ],
+            [
+                "kmb",
+                "D0F535009C53F787"
+            ],
+            [
+                "kmb",
+                "E70EDF92FE8553E2"
+            ],
+            [
+                "kmb",
+                "9900A2A1E1FC8260"
+            ]
+        ],
         "003D1263A14908F6": [
             [
                 "kmb",
@@ -633667,6 +633803,10 @@
             [
                 "gmb",
                 "20018953"
+            ],
+            [
+                "kmb",
+                "923E5B79E1B48739"
             ],
             [
                 "kmb",
@@ -666501,6 +666641,10 @@
             [
                 "gmb",
                 "20002184"
+            ],
+            [
+                "kmb",
+                "923E5B79E1B48739"
             ],
             [
                 "kmb",
@@ -720174,11 +720318,31 @@
             ],
             [
                 "gmb",
+                "20002184"
+            ],
+            [
+                "gmb",
                 "20018941"
+            ],
+            [
+                "gmb",
+                "20018953"
             ],
             [
                 "kmb",
                 "2129B2A72F881300"
+            ],
+            [
+                "kmb",
+                "B763C84D964B44BA"
+            ],
+            [
+                "kmb",
+                "D0FB28B8EED62431"
+            ],
+            [
+                "kmb",
+                "FA7A3D77713061E9"
             ],
             [
                 "ctb",
@@ -735306,6 +735470,10 @@
             ],
             [
                 "kmb",
+                "923E5B79E1B48739"
+            ],
+            [
+                "kmb",
                 "D0FB28B8EED62431"
             ],
             [
@@ -745961,6 +746129,10 @@
             [
                 "gmb",
                 "20018953"
+            ],
+            [
+                "kmb",
+                "923E5B79E1B48739"
             ],
             [
                 "kmb",
@@ -762140,6 +762312,10 @@
             ],
             [
                 "kmb",
+                "5CB1BDF367F1989F"
+            ],
+            [
+                "kmb",
                 "CA9E9870D7B2FF36"
             ]
         ],
@@ -763367,6 +763543,10 @@
             [
                 "gmb",
                 "20018953"
+            ],
+            [
+                "kmb",
+                "923E5B79E1B48739"
             ],
             [
                 "kmb",
