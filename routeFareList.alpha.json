@@ -214073,14 +214073,7 @@
                 "14.4"
             ],
             "faresHoliday": null,
-            "freq": {
-                "127": {
-                    "0645": [
-                        "0020",
-                        "480"
-                    ]
-                }
-            },
+            "freq": {},
             "gtfsId": "2007438",
             "jt": null,
             "nlbId": null,
@@ -214129,14 +214122,7 @@
                 "14.4"
             ],
             "faresHoliday": null,
-            "freq": {
-                "127": {
-                    "0600": [
-                        "2230",
-                        "480"
-                    ]
-                }
-            },
+            "freq": {},
             "gtfsId": "2007438",
             "jt": null,
             "nlbId": null,
@@ -214177,24 +214163,7 @@
                 "14.4"
             ],
             "faresHoliday": null,
-            "freq": {
-                "31": {
-                    "0620": [
-                        "1000",
-                        "1200"
-                    ],
-                    "1600": [
-                        "1900",
-                        "1200"
-                    ]
-                },
-                "96": {
-                    "0600": [
-                        "2220",
-                        "1200"
-                    ]
-                }
-            },
+            "freq": {},
             "gtfsId": "2009906",
             "jt": null,
             "nlbId": null,
@@ -214233,24 +214202,7 @@
                 "14.4"
             ],
             "faresHoliday": null,
-            "freq": {
-                "31": {
-                    "0620": [
-                        "1000",
-                        "1200"
-                    ],
-                    "1600": [
-                        "1900",
-                        "1200"
-                    ]
-                },
-                "96": {
-                    "0600": [
-                        "2220",
-                        "1200"
-                    ]
-                }
-            },
+            "freq": {},
             "gtfsId": "2010434",
             "jt": null,
             "nlbId": null,
@@ -275204,6 +275156,62 @@
                     "71E3EB7E709522C7",
                     "0D9932C476D51576"
                 ]
+            }
+        },
+        "80+3+KWUN TONG FERRY+MEI TIN": {
+            "bound": {
+                "kmb": "I"
+            },
+            "co": [
+                "kmb"
+            ],
+            "dest": {
+                "en": "MEI TIN",
+                "zh": "\u7f8e\u7530"
+            },
+            "fares": null,
+            "faresHoliday": null,
+            "freq": null,
+            "gtfsId": null,
+            "jt": null,
+            "nlbId": null,
+            "orig": {
+                "en": "KWUN TONG FERRY",
+                "zh": "\u89c0\u5858\u78bc\u982d"
+            },
+            "route": "80",
+            "seq": 0,
+            "serviceType": "3",
+            "stops": {
+                "kmb": []
+            }
+        },
+        "80+3+MEI TIN+KWUN TONG FERRY": {
+            "bound": {
+                "kmb": "O"
+            },
+            "co": [
+                "kmb"
+            ],
+            "dest": {
+                "en": "KWUN TONG FERRY",
+                "zh": "\u89c0\u5858\u78bc\u982d"
+            },
+            "fares": null,
+            "faresHoliday": null,
+            "freq": null,
+            "gtfsId": null,
+            "jt": null,
+            "nlbId": null,
+            "orig": {
+                "en": "MEI TIN",
+                "zh": "\u7f8e\u7530"
+            },
+            "route": "80",
+            "seq": 0,
+            "serviceType": "3",
+            "stops": {
+                "kmb": []
             }
         },
         "803+1+Hin Keng+Lee On": {
