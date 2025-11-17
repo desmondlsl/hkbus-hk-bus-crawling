@@ -8164,7 +8164,7 @@
                 ]
             }
         },
-        "102+2+CROSS HARBOUR TUNNEL BBI (A7) (HH502)+SHAU KEI WAN BUS TERMINUS": {
+        "102+2+CROSS HARBOUR TUNNEL BBI (HH502)+SHAU KEI WAN BUS TERMINUS": {
             "bound": {
                 "ctb": "I",
                 "kmb": "I"
@@ -8208,8 +8208,8 @@
             "jt": "40",
             "nlbId": null,
             "orig": {
-                "en": "CROSS HARBOUR TUNNEL BBI (A7) (HH502)",
-                "zh": "\u7d05\u96a7\u8f49\u8eca\u7ad9 (A7) (HH502)"
+                "en": "CROSS HARBOUR TUNNEL BBI (HH502)",
+                "zh": "\u7d05\u96a7\u8f49\u8eca\u7ad9 (HH502)"
             },
             "route": "102",
             "seq": 19,
@@ -438252,8 +438252,8 @@
         },
         "002210": {
             "location": {
-                "lat": 22.240572052091,
-                "lng": 114.15491479053
+                "lat": 22.240553712091,
+                "lng": 114.15538736053
             },
             "name": {
                 "en": "Tung Hing House Lei Tung Estate, Lei Tung Estate Road",
@@ -453176,8 +453176,8 @@
                 "lng": 114.180807
             },
             "name": {
-                "en": "CROSS HARBOUR TUNNEL BBI (A3) (HH506)",
-                "zh": "\u7d05\u96a7\u8f49\u8eca\u7ad9 (A3) (HH506)"
+                "en": "CROSS HARBOUR TUNNEL BBI (HH506)",
+                "zh": "\u7d05\u96a7\u8f49\u8eca\u7ad9 (HH506)"
             }
         },
         "032E4C7E0B1B7298": {
@@ -454076,8 +454076,8 @@
                 "lng": 114.180907
             },
             "name": {
-                "en": "CROSS HARBOUR TUNNEL BBI (A6) (HH503)",
-                "zh": "\u7d05\u96a7\u8f49\u8eca\u7ad9 (A6) (HH503)"
+                "en": "CROSS HARBOUR TUNNEL BBI (HH503)",
+                "zh": "\u7d05\u96a7\u8f49\u8eca\u7ad9 (HH503)"
             }
         },
         "06CC6423AA236B72": {
@@ -457256,8 +457256,8 @@
                 "lng": 114.179851
             },
             "name": {
-                "en": "CROSS HARBOUR TUNNEL BBI (C2) (HH601)",
-                "zh": "\u7d05\u96a7\u8f49\u8eca\u7ad9 (C2) (HH601)"
+                "en": "CROSS HARBOUR TUNNEL BBI (HH601)",
+                "zh": "\u7d05\u96a7\u8f49\u8eca\u7ad9 (HH601)"
             }
         },
         "11B658F68A9F577C": {
@@ -458636,8 +458636,8 @@
                 "lng": 114.179914
             },
             "name": {
-                "en": "CROSS HARBOUR TUNNEL BBI (C1) (HH602)",
-                "zh": "\u7d05\u96a7\u8f49\u8eca\u7ad9 (C1) (HH602)"
+                "en": "CROSS HARBOUR TUNNEL BBI (HH602)",
+                "zh": "\u7d05\u96a7\u8f49\u8eca\u7ad9 (HH602)"
             }
         },
         "154": {
@@ -523266,8 +523266,8 @@
                 "lng": 114.180845
             },
             "name": {
-                "en": "CROSS HARBOUR TUNNEL BBI (A4) (HH505)",
-                "zh": "\u7d05\u96a7\u8f49\u8eca\u7ad9 (A4) (HH505)"
+                "en": "CROSS HARBOUR TUNNEL BBI (HH505)",
+                "zh": "\u7d05\u96a7\u8f49\u8eca\u7ad9 (HH505)"
             }
         },
         "4D3DD33FCD9A49F9": {
@@ -523926,8 +523926,8 @@
                 "lng": 114.1806
             },
             "name": {
-                "en": "CROSS HARBOUR TUNNEL BBI (A1) (HH508)",
-                "zh": "\u7d05\u96a7\u8f49\u8eca\u7ad9 (A1) (HH508)"
+                "en": "CROSS HARBOUR TUNNEL BBI (HH508)",
+                "zh": "\u7d05\u96a7\u8f49\u8eca\u7ad9 (HH508)"
             }
         },
         "503B8E06FF5253B5": {
@@ -529656,8 +529656,8 @@
                 "lng": 114.180922
             },
             "name": {
-                "en": "CROSS HARBOUR TUNNEL BBI (A7) (HH502)",
-                "zh": "\u7d05\u96a7\u8f49\u8eca\u7ad9 (A7) (HH502)"
+                "en": "CROSS HARBOUR TUNNEL BBI (HH502)",
+                "zh": "\u7d05\u96a7\u8f49\u8eca\u7ad9 (HH502)"
             }
         },
         "641CFD3CA2D064DD": {
@@ -532306,8 +532306,8 @@
                 "lng": 114.180752
             },
             "name": {
-                "en": "CROSS HARBOUR TUNNEL BBI (B1) (HH511)",
-                "zh": "\u7d05\u96a7\u8f49\u8eca\u7ad9 (B1) (HH511)"
+                "en": "CROSS HARBOUR TUNNEL BBI (HH511)",
+                "zh": "\u7d05\u96a7\u8f49\u8eca\u7ad9 (HH511)"
             }
         },
         "6DD6B837EF1FA76C": {
@@ -532646,8 +532646,8 @@
                 "lng": 114.180784
             },
             "name": {
-                "en": "CROSS HARBOUR TUNNEL BBI (B2) (HH510)",
-                "zh": "\u7d05\u96a7\u8f49\u8eca\u7ad9 (B2) (HH510)"
+                "en": "CROSS HARBOUR TUNNEL BBI (HH510)",
+                "zh": "\u7d05\u96a7\u8f49\u8eca\u7ad9 (HH510)"
             }
         },
         "6EE5FF32091CF94A": {
@@ -535376,8 +535376,8 @@
                 "lng": 114.179952
             },
             "name": {
-                "en": "CROSS HARBOUR TUNNEL BBI (C3) (HH600)",
-                "zh": "\u7d05\u96a7\u8f49\u8eca\u7ad9 (C3) (HH600)"
+                "en": "CROSS HARBOUR TUNNEL BBI (HH600)",
+                "zh": "\u7d05\u96a7\u8f49\u8eca\u7ad9 (HH600)"
             }
         },
         "79B88295548184C1": {
@@ -553726,8 +553726,8 @@
                 "lng": 114.180961
             },
             "name": {
-                "en": "CROSS HARBOUR TUNNEL BBI - HUNG HOM STATION (D1)",
-                "zh": "\u7d05\u96a7\u8f49\u8eca\u7ad9 - \u7d05\u78e1\u7ad9 (D1)"
+                "en": "CROSS HARBOUR TUNNEL BBI - HUNG HOM STATION",
+                "zh": "\u7d05\u96a7\u8f49\u8eca\u7ad9 - \u7d05\u78e1\u7ad9 (HH500)"
             }
         },
         "C163B1F33533C2A9": {
@@ -554806,8 +554806,8 @@
                 "lng": 114.180873
             },
             "name": {
-                "en": "CROSS HARBOUR TUNNEL BBI (A5) (HH504)",
-                "zh": "\u7d05\u96a7\u8f49\u8eca\u7ad9 (A5) (HH504)"
+                "en": "CROSS HARBOUR TUNNEL BBI (HH504)",
+                "zh": "\u7d05\u96a7\u8f49\u8eca\u7ad9 (HH504)"
             }
         },
         "C57C924EEB5463E5": {
@@ -562526,8 +562526,8 @@
                 "lng": 114.180779
             },
             "name": {
-                "en": "CROSS HARBOUR TUNNEL BBI (A2) (HH507)",
-                "zh": "\u7d05\u96a7\u8f49\u8eca\u7ad9 (A2) (HH507)"
+                "en": "CROSS HARBOUR TUNNEL BBI (HH507)",
+                "zh": "\u7d05\u96a7\u8f49\u8eca\u7ad9 (HH507)"
             }
         },
         "E39225003155E094": {
@@ -594232,6 +594232,20 @@
             [
                 "kmb",
                 "1A213BD9F2753CDE"
+            ]
+        ],
+        "002210": [
+            [
+                "kmb",
+                "659365A8AB2B98E9"
+            ],
+            [
+                "kmb",
+                "6D9D9FDA28C09FC0"
+            ],
+            [
+                "kmb",
+                "EE1C91F3EDCEBB7E"
             ]
         ],
         "002211": [
@@ -702282,6 +702296,10 @@
         ],
         "659365A8AB2B98E9": [
             [
+                "ctb",
+                "002210"
+            ],
+            [
                 "kmb",
                 "6D9D9FDA28C09FC0"
             ],
@@ -705401,6 +705419,10 @@
             ]
         ],
         "6D9D9FDA28C09FC0": [
+            [
+                "ctb",
+                "002210"
+            ],
             [
                 "kmb",
                 "659365A8AB2B98E9"
@@ -758085,6 +758107,10 @@
             ]
         ],
         "EE1C91F3EDCEBB7E": [
+            [
+                "ctb",
+                "002210"
+            ],
             [
                 "kmb",
                 "659365A8AB2B98E9"
