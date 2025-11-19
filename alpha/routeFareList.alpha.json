@@ -197804,88 +197804,6 @@
                 ]
             }
         },
-        "59S+2+ABERDEEN (TUNG SING ROAD)+OCEAN PARK (WATER WORLD)": {
-            "bound": {
-                "gmb": "O"
-            },
-            "co": [
-                "gmb"
-            ],
-            "dest": {
-                "en": "OCEAN PARK (WATER WORLD)",
-                "zh": "\u6d77\u6d0b\u516c\u5712 (\u6c34\u4e0a\u6a02\u5712)"
-            },
-            "fares": [
-                "6.4",
-                "6.4"
-            ],
-            "faresHoliday": null,
-            "freq": {},
-            "gtfsId": "2004230",
-            "jt": null,
-            "nlbId": null,
-            "orig": {
-                "en": "ABERDEEN (TUNG SING ROAD)",
-                "zh": "\u9999\u6e2f\u4ed4 (\u6771\u52dd\u9053)"
-            },
-            "route": "59S",
-            "seq": 3,
-            "serviceType": 2,
-            "stops": {
-                "gmb": [
-                    "20000341",
-                    "20011720",
-                    "20011727"
-                ]
-            }
-        },
-        "59S+3+OCEAN PARK (WATER WORLD)+ABERDEEN (TUNG SING ROAD)": {
-            "bound": {
-                "gmb": "I"
-            },
-            "co": [
-                "gmb"
-            ],
-            "dest": {
-                "en": "ABERDEEN (TUNG SING ROAD)",
-                "zh": "\u9999\u6e2f\u4ed4 (\u6771\u52dd\u9053)"
-            },
-            "fares": [
-                "6.4",
-                "6.4",
-                "6.4",
-                "6.4",
-                "6.4",
-                "6.4",
-                "6.4",
-                "6.4"
-            ],
-            "faresHoliday": null,
-            "freq": {},
-            "gtfsId": "2004230",
-            "jt": null,
-            "nlbId": null,
-            "orig": {
-                "en": "OCEAN PARK (WATER WORLD)",
-                "zh": "\u6d77\u6d0b\u516c\u5712 (\u6c34\u4e0a\u6a02\u5712)"
-            },
-            "route": "59S",
-            "seq": 9,
-            "serviceType": 3,
-            "stops": {
-                "gmb": [
-                    "20011727",
-                    "20000160",
-                    "20002734",
-                    "20011728",
-                    "20011729",
-                    "20000361",
-                    "20000169",
-                    "20011599",
-                    "20000341"
-                ]
-            }
-        },
         "59X+1+MONG KOK EAST STATION+TUEN MUN PIER HEAD": {
             "bound": {
                 "kmb": "I"
@@ -463709,8 +463627,8 @@
                 "lng": 114.15525
             },
             "name": {
-                "en": "Tung Sing Road, opposite No.10",
-                "zh": "\u6771\u52dd\u905310 \u865f\u5c0d\u9762"
+                "en": "Tung Sing Road, opposite No. 10",
+                "zh": "\u6771\u52dd\u905310\u865f\u5c0d\u9762"
             }
         },
         "20000342": {
@@ -483093,16 +483011,6 @@
                 "zh": "\u6e56\u7fe0\u8def, \u5146\u79a7\u82d1\u591a\u5c64\u505c\u8eca\u5834\u5916"
             }
         },
-        "20011720": {
-            "location": {
-                "lat": 22.24748,
-                "lng": 114.16674
-            },
-            "name": {
-                "en": "Nam Long Shan Road, opposite Nam Long Shan Road, Cooked Food Market",
-                "zh": "\u5357\u6717\u5c71\u9053, \u5357\u6717\u5c71\u9053\u719f\u98df\u5e02\u5834\u5c0d\u9762"
-            }
-        },
         "20011727": {
             "location": {
                 "lat": 22.2361,
@@ -483111,16 +483019,6 @@
             "name": {
                 "en": "Ocean Park (Water World)",
                 "zh": "\u6d77\u6d0b\u516c\u5712 (\u6c34\u4e0a\u6a02\u5712)"
-            }
-        },
-        "20011728": {
-            "location": {
-                "lat": 22.24716,
-                "lng": 114.16639
-            },
-            "name": {
-                "en": "Nam Long Shan Road, outside Nam Long Shan Road, Cooked Food Market",
-                "zh": "\u5357\u6717\u5c71\u9053, \u5357\u6717\u5c71\u9053\u719f\u98df\u5e02\u5834\u5916"
             }
         },
         "20011729": {
@@ -594361,10 +594259,6 @@
                 "20009804"
             ],
             [
-                "gmb",
-                "20011720"
-            ],
-            [
                 "kmb",
                 "5BF8B3896F3E8F0A"
             ]
@@ -595185,10 +595079,6 @@
             [
                 "gmb",
                 "20000161"
-            ],
-            [
-                "gmb",
-                "20011728"
             ]
         ],
         "002391": [
@@ -625365,10 +625255,6 @@
             [
                 "ctb",
                 "002390"
-            ],
-            [
-                "gmb",
-                "20011728"
             ]
         ],
         "20000166": [
@@ -643259,10 +643145,6 @@
                 "002224"
             ],
             [
-                "gmb",
-                "20011720"
-            ],
-            [
                 "kmb",
                 "5BF8B3896F3E8F0A"
             ]
@@ -645205,34 +645087,10 @@
                 "5C1FB04FF191337B"
             ]
         ],
-        "20011720": [
-            [
-                "ctb",
-                "002224"
-            ],
-            [
-                "gmb",
-                "20009804"
-            ],
-            [
-                "kmb",
-                "5BF8B3896F3E8F0A"
-            ]
-        ],
         "20011727": [
             [
                 "ctb",
                 "002654"
-            ]
-        ],
-        "20011728": [
-            [
-                "ctb",
-                "002390"
-            ],
-            [
-                "gmb",
-                "20000161"
             ]
         ],
         "20011729": [
@@ -697905,10 +697763,6 @@
             [
                 "gmb",
                 "20009804"
-            ],
-            [
-                "gmb",
-                "20011720"
             ]
         ],
         "5C0A536D9D2B20B2": [
