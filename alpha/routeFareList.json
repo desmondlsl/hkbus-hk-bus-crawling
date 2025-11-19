@@ -374685,6 +374685,39 @@
                 ]
             }
         },
+        "H20+1+Kai Tak Cruise Terminal+Tsim Sha Tsui": {
+            "bound": {
+                "ctb": "O"
+            },
+            "co": [
+                "ctb"
+            ],
+            "dest": {
+                "en": "Tsim Sha Tsui",
+                "zh": "\u5c16\u6c99\u5480"
+            },
+            "fares": null,
+            "faresHoliday": null,
+            "freq": null,
+            "gtfsId": null,
+            "jt": null,
+            "nlbId": null,
+            "orig": {
+                "en": "Kai Tak Cruise Terminal",
+                "zh": "\u555f\u5fb7\u90f5\u8f2a\u78bc\u982d"
+            },
+            "route": "H20",
+            "seq": 4,
+            "serviceType": 1,
+            "stops": {
+                "ctb": [
+                    "003519",
+                    "003301",
+                    "001402",
+                    "003445"
+                ]
+            }
+        },
         "H2K+1+Central Ferry - Star Ferry+Central Ferry - Star Ferry": {
             "bound": {
                 "ctb": "OI"
@@ -530162,8 +530195,8 @@
         },
         "659365A8AB2B98E9": {
             "location": {
-                "lat": 22.240598,
-                "lng": 114.155559
+                "lat": 22.240503,
+                "lng": 114.155085
             },
             "name": {
                 "en": "TUNG HING HOUSE LEI TUNG ESTATE",
@@ -758113,11 +758146,11 @@
             ],
             [
                 "kmb",
-                "659365A8AB2B98E9"
+                "6D9D9FDA28C09FC0"
             ],
             [
                 "kmb",
-                "6D9D9FDA28C09FC0"
+                "659365A8AB2B98E9"
             ]
         ],
         "EE1D84187D47C96C": [
