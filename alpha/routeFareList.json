@@ -50959,7 +50959,7 @@
                 ]
             }
         },
-        "19M+2+Diamond Hill Station Public Transport Interchange+Tsz Wan Shan (Shatin Pass Estate)": {
+        "19M+2+Diamond Hill Station Public Transport Interchange+Tsz Wan Shan Road (Shatin Pass Estate)": {
             "bound": {
                 "gmb": "O"
             },
@@ -50967,8 +50967,8 @@
                 "gmb"
             ],
             "dest": {
-                "en": "Tsz Wan Shan (Shatin Pass Estate)",
-                "zh": "\u6148\u96f2\u5c71(\u6c99\u7530\u5773\u90a8)"
+                "en": "Tsz Wan Shan Road (Shatin Pass Estate)",
+                "zh": "\u6148\u96f2\u5c71\u9053(\u6c99\u7530\u5773\u90a8)"
             },
             "fares": [
                 "4.6",
@@ -51021,7 +51021,7 @@
                 ]
             }
         },
-        "19M+3+Tsz Wan Shan (Shatin Pass Estate)+Diamond Hill Station Public Transport Interchange": {
+        "19M+3+Tsz Wan Shan Road (Shatin Pass Estate)+Diamond Hill Station Public Transport Interchange": {
             "bound": {
                 "gmb": "I"
             },
@@ -51067,8 +51067,8 @@
             "jt": null,
             "nlbId": null,
             "orig": {
-                "en": "Tsz Wan Shan (Shatin Pass Estate)",
-                "zh": "\u6148\u96f2\u5c71(\u6c99\u7530\u5773\u90a8)"
+                "en": "Tsz Wan Shan Road (Shatin Pass Estate)",
+                "zh": "\u6148\u96f2\u5c71\u9053(\u6c99\u7530\u5773\u90a8)"
             },
             "route": "19M",
             "seq": 9,
@@ -324636,6 +324636,138 @@
                 ]
             }
         },
+        "96+1+HONG SING GARDEN+TAI PO INDUSTRIAL ESTATE": {
+            "bound": {
+                "kmb": "O"
+            },
+            "co": [
+                "kmb"
+            ],
+            "dest": {
+                "en": "TAI PO INDUSTRIAL ESTATE",
+                "zh": "\u5927\u57d4\u5de5\u696d\u90a8"
+            },
+            "fares": [
+                "10.3",
+                "10.3",
+                "10.3",
+                "10.3",
+                "10.3",
+                "10.3",
+                "10.3",
+                "10.3",
+                "10.3",
+                "10.3",
+                "10.3",
+                "10.3",
+                "10.3",
+                "9.8",
+                "9.8",
+                "9.8",
+                "9.8",
+                "9.1",
+                "9.1",
+                "9.1",
+                "9.1",
+                "9.1",
+                "9.1",
+                "9.1",
+                "9.1",
+                "5.4",
+                "5.4",
+                "5.4",
+                "5.4",
+                "5.4",
+                "5.4",
+                "5.4",
+                "5.4",
+                "5.4",
+                "5.4",
+                "5.4",
+                "5.4",
+                "5.4",
+                "5.4"
+            ],
+            "faresHoliday": null,
+            "freq": {
+                "287": {
+                    "0630": [
+                        "0700",
+                        "1800"
+                    ],
+                    "0700": [
+                        "0800",
+                        "1200"
+                    ],
+                    "1745": [
+                        "1815",
+                        "1800"
+                    ]
+                },
+                "480": {
+                    "0835": [
+                        "1650",
+                        "2700"
+                    ],
+                    "1740": null,
+                    "1830": null
+                }
+            },
+            "gtfsId": "1000314",
+            "jt": "100",
+            "nlbId": null,
+            "orig": {
+                "en": "HONG SING GARDEN",
+                "zh": "\u5eb7\u76db\u82b1\u5712"
+            },
+            "route": "96",
+            "seq": 40,
+            "serviceType": "1",
+            "stops": {
+                "kmb": [
+                    "D4D418BAEAC719B0",
+                    "ABC15E2110BF7A49",
+                    "BC66863007C0592B",
+                    "848CA90EB0DB1146",
+                    "7486D53F341F1AAC",
+                    "FC42DCBDC3AB0B6F",
+                    "22E2678081E88368",
+                    "7613538D58A9C452",
+                    "9B0382206D441221",
+                    "54FCA9F5D8F3587E",
+                    "711927A9FAEF1158",
+                    "C9EA7B56F1197D16",
+                    "B6159AAFFD30E234",
+                    "0E8140AF4317BDAE",
+                    "81C1875EBC7FD3E4",
+                    "B51B73967C262259",
+                    "9274EF6791CA3ED8",
+                    "739A5DDE0CF1970C",
+                    "9E95343C77BB85E2",
+                    "2D1A8946EF054FC9",
+                    "DADEC4FDAD7C58B3",
+                    "E8F5E085BAEFE100",
+                    "79FD1B44D37205B8",
+                    "369A5601F8A63B5E",
+                    "A339426A8F633D63",
+                    "E94AD3FBEF23A842",
+                    "AF04BB6F5FFF4C45",
+                    "FB5500F0D32629B2",
+                    "55D37B4406A049FB",
+                    "0A8E2BA2F75E472E",
+                    "18E4449F4C5CE30B",
+                    "E796B592A3D045F0",
+                    "F9C14690633CE7E0",
+                    "7BCFD79F22F60457",
+                    "32C1F605CAAD7861",
+                    "DAC33107054B9FED",
+                    "51D8A415C1DDEB54",
+                    "4705F639E370A9AD",
+                    "CAB927254C5D8892",
+                    "3D8A0FB3051B32EC"
+                ]
+            }
+        },
         "96+1+TAI PO INDUSTRIAL ESTATE+HONG SING GARDEN": {
             "bound": {
                 "kmb": "I"
@@ -324684,6 +324816,7 @@
                 "5.8",
                 "5.8",
                 "5.8",
+                "5.8",
                 "5.8"
             ],
             "faresHoliday": null,
@@ -324721,7 +324854,7 @@
                 "zh": "\u5927\u57d4\u5de5\u696d\u90a8"
             },
             "route": "96",
-            "seq": 38,
+            "seq": 39,
             "serviceType": "1",
             "stops": {
                 "kmb": [
@@ -324751,6 +324884,7 @@
                     "64101F297D3C1C55",
                     "5B39CC28607910E4",
                     "FFBEBD7068E01EA4",
+                    "C8BEA63A76D5AEBC",
                     "F282012BBB2865E5",
                     "B550EC84B77440F8",
                     "20FDDA894D722F88",
@@ -324763,95 +324897,6 @@
                     "E86C2ACAFC72D243",
                     "3CEDAAAC5071EF7B",
                     "D4D418BAEAC719B0"
-                ]
-            }
-        },
-        "96+1+TSEUNG KWAN O STATION (TK561)+TAI PO INDUSTRIAL ESTATE (TP873)": {
-            "bound": {
-                "kmb": "O"
-            },
-            "co": [
-                "kmb"
-            ],
-            "dest": {
-                "en": "TAI PO INDUSTRIAL ESTATE (TP873)",
-                "zh": "\u5927\u57d4\u5de5\u696d\u90a8 (TP873)"
-            },
-            "fares": [
-                "10.3",
-                "9.8",
-                "9.8",
-                "9.8",
-                "9.8",
-                "9.1",
-                "9.1",
-                "9.1",
-                "9.1",
-                "9.1",
-                "9.1",
-                "9.1",
-                "9.1",
-                "5.4",
-                "5.4",
-                "5.4",
-                "5.4",
-                "5.4",
-                "5.4",
-                "5.4",
-                "5.4",
-                "5.4",
-                "5.4",
-                "5.4",
-                "5.4",
-                "5.4",
-                "5.4"
-            ],
-            "faresHoliday": null,
-            "freq": {
-                "287": {
-                    "1745": null
-                }
-            },
-            "gtfsId": "1000543",
-            "jt": "79",
-            "nlbId": null,
-            "orig": {
-                "en": "TSEUNG KWAN O STATION (TK561)",
-                "zh": "\u5c07\u8ecd\u6fb3\u7ad9 (TK561)"
-            },
-            "route": "96",
-            "seq": 28,
-            "serviceType": "1",
-            "stops": {
-                "kmb": [
-                    "C9EA7B56F1197D16",
-                    "B6159AAFFD30E234",
-                    "0E8140AF4317BDAE",
-                    "81C1875EBC7FD3E4",
-                    "9274EF6791CA3ED8",
-                    "739A5DDE0CF1970C",
-                    "9E95343C77BB85E2",
-                    "2D1A8946EF054FC9",
-                    "DADEC4FDAD7C58B3",
-                    "E8F5E085BAEFE100",
-                    "79FD1B44D37205B8",
-                    "369A5601F8A63B5E",
-                    "A339426A8F633D63",
-                    "E94AD3FBEF23A842",
-                    "AF04BB6F5FFF4C45",
-                    "FB5500F0D32629B2",
-                    "55D37B4406A049FB",
-                    "0A8E2BA2F75E472E",
-                    "18E4449F4C5CE30B",
-                    "E796B592A3D045F0",
-                    "F9C14690633CE7E0",
-                    "7BCFD79F22F60457",
-                    "32C1F605CAAD7861",
-                    "DAC33107054B9FED",
-                    "51D8A415C1DDEB54",
-                    "4705F639E370A9AD",
-                    "CAB927254C5D8892",
-                    "3D8A0FB3051B32EC"
                 ]
             }
         },
@@ -325054,24 +325099,57 @@
                 "en": "TAI PO INDUSTRIAL ESTATE",
                 "zh": "\u5927\u57d4\u5de5\u696d\u90a8"
             },
-            "fares": null,
+            "fares": [
+                "10.3",
+                "9.8",
+                "9.8",
+                "9.8",
+                "9.8",
+                "9.1",
+                "9.1",
+                "9.1",
+                "9.1",
+                "9.1",
+                "9.1",
+                "9.1",
+                "9.1",
+                "5.4",
+                "5.4",
+                "5.4",
+                "5.4",
+                "5.4",
+                "5.4",
+                "5.4",
+                "5.4",
+                "5.4",
+                "5.4",
+                "5.4",
+                "5.4",
+                "5.4",
+                "5.4"
+            ],
             "faresHoliday": null,
-            "freq": null,
-            "gtfsId": null,
-            "jt": null,
+            "freq": {
+                "287": {
+                    "1745": null
+                }
+            },
+            "gtfsId": "1000543",
+            "jt": "79",
             "nlbId": null,
             "orig": {
                 "en": "PARK CENTRAL",
                 "zh": "\u5c07\u8ecd\u6fb3\u4e2d\u5fc3"
             },
             "route": "96",
-            "seq": 27,
+            "seq": 28,
             "serviceType": "2",
             "stops": {
                 "kmb": [
                     "B6159AAFFD30E234",
                     "0E8140AF4317BDAE",
                     "81C1875EBC7FD3E4",
+                    "B51B73967C262259",
                     "9274EF6791CA3ED8",
                     "739A5DDE0CF1970C",
                     "9E95343C77BB85E2",
@@ -550135,6 +550213,16 @@
                 "zh": "\u706b\u70ad\u99ff\u6d0b\u90a8 (FT932)"
             }
         },
+        "B51B73967C262259": {
+            "location": {
+                "lat": 22.305268,
+                "lng": 114.225305
+            },
+            "name": {
+                "en": "WAI LOK STREET, KWUN TONG (KT570)",
+                "zh": "\u89c0\u5858\u5049\u6a02\u8857 (KT570)"
+            }
+        },
         "B52342B1F8528379": {
             "location": {
                 "lat": 22.439339,
@@ -555023,6 +555111,16 @@
             "name": {
                 "en": "MEI CHUNG COURT (TA165)",
                 "zh": "\u7f8e\u677e\u82d1 (TA165)"
+            }
+        },
+        "C8BEA63A76D5AEBC": {
+            "location": {
+                "lat": 22.305598,
+                "lng": 114.22531
+            },
+            "name": {
+                "en": "WAI LOK STREET, KWUN TONG (KT204)",
+                "zh": "\u89c0\u5858\u5049\u6a02\u8857 (KT204)"
             }
         },
         "C8C450D3F688645A": {
@@ -585167,6 +585265,10 @@
             [
                 "kmb",
                 "41E95E283D770EF7"
+            ],
+            [
+                "kmb",
+                "C8BEA63A76D5AEBC"
             ]
         ],
         "001607": [
@@ -608135,6 +608237,10 @@
             [
                 "gmb",
                 "20015015"
+            ],
+            [
+                "kmb",
+                "B51B73967C262259"
             ],
             [
                 "kmb",
@@ -654380,6 +654486,10 @@
             ],
             [
                 "kmb",
+                "B51B73967C262259"
+            ],
+            [
+                "kmb",
                 "FDB6E3CC223991D1"
             ]
         ],
@@ -655141,6 +655251,10 @@
             [
                 "kmb",
                 "41E95E283D770EF7"
+            ],
+            [
+                "kmb",
+                "C8BEA63A76D5AEBC"
             ]
         ],
         "20015116": [
@@ -685329,6 +685443,10 @@
             [
                 "gmb",
                 "20015115"
+            ],
+            [
+                "kmb",
+                "C8BEA63A76D5AEBC"
             ]
         ],
         "41F70B064C26F180": [
@@ -734413,6 +734531,20 @@
                 "B730549EB3703C74"
             ]
         ],
+        "B51B73967C262259": [
+            [
+                "ctb",
+                "003788"
+            ],
+            [
+                "gmb",
+                "20015015"
+            ],
+            [
+                "kmb",
+                "FDB6E3CC223991D1"
+            ]
+        ],
         "B52342B1F8528379": [
             [
                 "kmb",
@@ -742245,6 +742377,20 @@
             [
                 "ctb",
                 "003106"
+            ]
+        ],
+        "C8BEA63A76D5AEBC": [
+            [
+                "ctb",
+                "001606"
+            ],
+            [
+                "gmb",
+                "20015115"
+            ],
+            [
+                "kmb",
+                "41E95E283D770EF7"
             ]
         ],
         "C8C450D3F688645A": [
@@ -764465,6 +764611,10 @@
             [
                 "gmb",
                 "20015015"
+            ],
+            [
+                "kmb",
+                "B51B73967C262259"
             ]
         ],
         "FDB7C76323B22686": [
