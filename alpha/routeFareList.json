@@ -111777,6 +111777,7 @@
                 "9.3",
                 "5.1",
                 "5.1",
+                "5.1",
                 "5.1"
             ],
             "faresHoliday": null,
@@ -111810,7 +111811,7 @@
                 "zh": "\u5927\u5b78\u7ad9"
             },
             "route": "287",
-            "seq": 20,
+            "seq": 21,
             "serviceType": "1",
             "stops": {
                 "kmb": [
@@ -111825,6 +111826,7 @@
                     "40C9465E380F04C5",
                     "C67E139743E66D71",
                     "8AD4B244D6A50BDB",
+                    "81D05719EDB6070E",
                     "79B88295548184C1",
                     "9CEC1F1000AFE806",
                     "5D86C919F15C0611",
@@ -191869,6 +191871,47 @@
                 "en": "Ma On Shan Town Centre (Via Wu Kai Sha Station)",
                 "zh": "\u99ac\u978d\u5c71\u5e02\u4e2d\u5fc3 (\u7d93\u70cf\u6eaa\u6c99\u7ad9)"
             },
+            "fares": null,
+            "faresHoliday": null,
+            "freq": null,
+            "gtfsId": null,
+            "jt": null,
+            "nlbId": null,
+            "orig": {
+                "en": "GO PARK Sai Sha",
+                "zh": "\u897f\u6c99GO PARK"
+            },
+            "route": "581",
+            "seq": 12,
+            "serviceType": 1,
+            "stops": {
+                "ctb": [
+                    "003886",
+                    "003832",
+                    "003833",
+                    "003834",
+                    "003457",
+                    "003345",
+                    "003582",
+                    "003583",
+                    "003346",
+                    "003847",
+                    "003092",
+                    "001950"
+                ]
+            }
+        },
+        "581+1+GO PARK Sai Sha, Hoi Ying Road+Ma On Shan Town Centre": {
+            "bound": {
+                "ctb": "IO"
+            },
+            "co": [
+                "ctb"
+            ],
+            "dest": {
+                "en": "Ma On Shan Town Centre",
+                "zh": "\u99ac\u978d\u5c71\u5e02\u4e2d\u5fc3"
+            },
             "fares": [
                 "5.1",
                 "5.1",
@@ -191909,8 +191952,8 @@
             "jt": "16",
             "nlbId": null,
             "orig": {
-                "en": "GO PARK Sai Sha",
-                "zh": "\u897f\u6c99GO PARK"
+                "en": "GO PARK Sai Sha, Hoi Ying Road",
+                "zh": "\u897f\u6c99GO PARK, \u6d77\u6620\u8def"
             },
             "route": "581",
             "seq": 12,
@@ -192028,11 +192071,12 @@
                 "zh": "\u897f\u6c99GO PARK"
             },
             "route": "582",
-            "seq": 13,
+            "seq": 14,
             "serviceType": 1,
             "stops": {
                 "ctb": [
                     "003831",
+                    "003886",
                     "003832",
                     "003833",
                     "003834",
@@ -354866,7 +354910,7 @@
                 ]
             }
         },
-        "A41P+1+WU KAI SHA STATION+Airport": {
+        "A41P+1+WU KAI SHA STATION+AIRPORT (GROUND TRANSPORTATION CENTRE)": {
             "bound": {
                 "kmb": "O"
             },
@@ -354874,8 +354918,8 @@
                 "kmb"
             ],
             "dest": {
-                "en": "Airport",
-                "zh": "\u6a5f\u5834"
+                "en": "AIRPORT (GROUND TRANSPORTATION CENTRE)",
+                "zh": "\u6a5f\u5834(\u5730\u9762\u904b\u8f38\u4e2d\u5fc3)"
             },
             "fares": [
                 "29",
@@ -355011,7 +355055,7 @@
                 ]
             }
         },
-        "A41P+2+WU KAI SHA STATION+Airport": {
+        "A41P+2+WU KAI SHA STATION+AIRPORT (GROUND TRANSPORTATION CENTRE)": {
             "bound": {
                 "kmb": "O"
             },
@@ -355019,8 +355063,8 @@
                 "kmb"
             ],
             "dest": {
-                "en": "Airport",
-                "zh": "\u6a5f\u5834"
+                "en": "AIRPORT (GROUND TRANSPORTATION CENTRE)",
+                "zh": "\u6a5f\u5834(\u5730\u9762\u904b\u8f38\u4e2d\u5fc3)"
             },
             "fares": null,
             "faresHoliday": null,
@@ -355062,6 +355106,62 @@
                     "E48E4C46F64FFB0E",
                     "0D5759F7A4B185FE"
                 ]
+            }
+        },
+        "A41P+3+AIRPORT (GROUND TRANSPORTATION CENTRE)+Sai Sha Residences Transport Interchange": {
+            "bound": {
+                "kmb": "I"
+            },
+            "co": [
+                "kmb"
+            ],
+            "dest": {
+                "en": "Sai Sha Residences Transport Interchange",
+                "zh": "\u897f\u6c99\u7063\u4ea4\u901a\u4ea4\u532f\u8655"
+            },
+            "fares": null,
+            "faresHoliday": null,
+            "freq": null,
+            "gtfsId": null,
+            "jt": null,
+            "nlbId": null,
+            "orig": {
+                "en": "AIRPORT (GROUND TRANSPORTATION CENTRE)",
+                "zh": "\u6a5f\u5834(\u5730\u9762\u904b\u8f38\u4e2d\u5fc3)"
+            },
+            "route": "A41P",
+            "seq": 0,
+            "serviceType": "3",
+            "stops": {
+                "kmb": []
+            }
+        },
+        "A41P+3+Sai Sha Residences Transport Interchange+AIRPORT (GROUND TRANSPORTATION CENTRE)": {
+            "bound": {
+                "kmb": "O"
+            },
+            "co": [
+                "kmb"
+            ],
+            "dest": {
+                "en": "AIRPORT (GROUND TRANSPORTATION CENTRE)",
+                "zh": "\u6a5f\u5834(\u5730\u9762\u904b\u8f38\u4e2d\u5fc3)"
+            },
+            "fares": null,
+            "faresHoliday": null,
+            "freq": null,
+            "gtfsId": null,
+            "jt": null,
+            "nlbId": null,
+            "orig": {
+                "en": "Sai Sha Residences Transport Interchange",
+                "zh": "\u897f\u6c99\u7063\u4ea4\u901a\u4ea4\u532f\u8655"
+            },
+            "route": "A41P",
+            "seq": 0,
+            "serviceType": "3",
+            "stops": {
+                "kmb": []
             }
         },
         "A42+1+AIRPORT (GROUND TRANSPORTATION CENTRE)+WONG NAI TAU": {
@@ -527394,8 +527494,8 @@
                 "lng": 114.166977
             },
             "name": {
-                "en": "MONGKOK MARKET COMPLEX (MK627)",
-                "zh": "\u65fa\u89d2\u8857\u5e02 (MK627)"
+                "en": "MONGKOK MARKET COMPLEX, YAU TSIM MONG DHC (MK627)",
+                "zh": "\u65fa\u89d2\u8857\u5e02, \u5730\u5340\u5eb7\u5065\u4e2d\u5fc3 (MK627)"
             }
         },
         "5CAB5B74424F27B4": {
@@ -527786,6 +527886,16 @@
             "name": {
                 "en": "CHUK YUEN (YL553)",
                 "zh": "\u7af9\u5712 (YL553)"
+            }
+        },
+        "5DD1FFB79F17FC22": {
+            "location": {
+                "lat": 22.303707,
+                "lng": 114.167718
+            },
+            "name": {
+                "en": "AUSTIN STATION (YT647)",
+                "zh": "\u67ef\u58eb\u7538\u7ad9 (YT647)"
             }
         },
         "5DE502617F887673": {
@@ -532418,6 +532528,16 @@
                 "zh": "\u4e09\u9580\u4ed4\u6f01\u5b89\u8857 (TP713)"
             }
         },
+        "6F03615DDC0F7502": {
+            "location": {
+                "lat": 22.427976,
+                "lng": 114.261308
+            },
+            "name": {
+                "en": "CHE HA (SK218a)",
+                "zh": "\u8f0b\u4e0b (SK218a)"
+            }
+        },
         "6F03E19C5E800893": {
             "location": {
                 "lat": 22.402759,
@@ -533896,6 +534016,16 @@
             "name": {
                 "en": "CONCORDIA LUTHERAN SCHOOL (SS142)",
                 "zh": "\u5354\u540c\u4e2d\u5b78 (SS142)"
+            }
+        },
+        "74775F172FABD878": {
+            "location": {
+                "lat": 22.426392,
+                "lng": 114.267035
+            },
+            "name": {
+                "en": "Sai Sha Residences Transport Interchange (SK981)",
+                "zh": "\u897f\u6c99\u7063\u4ea4\u901a\u4ea4\u532f\u8655 (SK981)"
             }
         },
         "7483C9963686E2F2": {
@@ -535404,8 +535534,8 @@
                 "lng": 114.167024
             },
             "name": {
-                "en": "MONGKOK MARKET COMPLEX (MK626)",
-                "zh": "\u65fa\u89d2\u8857\u5e02 (MK626)"
+                "en": "MONGKOK MARKET COMPLEX, YAU TSIM MONG DHC (MK626)",
+                "zh": "\u65fa\u89d2\u8857\u5e02, \u5730\u5340\u5eb7\u5065\u4e2d\u5fc3 (MK626)"
             }
         },
         "7ADCBB1CA80611B0": {
@@ -536076,6 +536206,16 @@
             "name": {
                 "en": "MA ON SHAN TOWN CENTRE (MA307)",
                 "zh": "\u99ac\u978d\u5c71\u5e02\u4e2d\u5fc3 (MA307)"
+            }
+        },
+        "7E289B9FFDF77CAE": {
+            "location": {
+                "lat": 22.4256,
+                "lng": 114.2625
+            },
+            "name": {
+                "en": "TIN LIU (SK217a)",
+                "zh": "\u7530\u5bee (SK217a)"
             }
         },
         "7E2E1F1269E520DE": {
@@ -537176,6 +537316,16 @@
             "name": {
                 "en": "DISCOVERY PARK (TW381)",
                 "zh": "\u6109\u666f\u65b0\u57ce (TW381)"
+            }
+        },
+        "81D05719EDB6070E": {
+            "location": {
+                "lat": 22.426392,
+                "lng": 114.267035
+            },
+            "name": {
+                "en": "Sai Sha Residences Transport Interchange (SK982)",
+                "zh": "\u897f\u6c99\u7063\u4ea4\u901a\u4ea4\u532f\u8655 (SK982)"
             }
         },
         "81E82A4D2A0D9BD3": {
@@ -538768,6 +538918,16 @@
                 "zh": "\u7c89\u5dba\u7ad9\u8f49\u8eca\u7ad9 - \u7965\u83ef\u90a8(A1)"
             }
         },
+        "87FEBC2B4436FC44": {
+            "location": {
+                "lat": 22.300341,
+                "lng": 114.168095
+            },
+            "name": {
+                "en": "CHINA HONG KONG CITY, XIQU CENTRE (YT645)",
+                "zh": "\u4e2d\u6e2f\u57ce \u6232\u66f2\u4e2d\u5fc3 (YT645)"
+            }
+        },
         "88": {
             "location": {
                 "lat": 22.282369,
@@ -539856,6 +540016,16 @@
             "name": {
                 "en": "LADY TRENCH POLYCLINIC (TW264)",
                 "zh": "\u6234\u9e9f\u8dbe\u592b\u4eba\u8a3a\u6240 (TW264)"
+            }
+        },
+        "8CDF75A5EEE3CB2E": {
+            "location": {
+                "lat": 22.295621,
+                "lng": 114.169362
+            },
+            "name": {
+                "en": "PEKING ROAD, CANTON ROAD (YT207)",
+                "zh": "\u5ee3\u6771\u9053,\u5317\u4eac\u9053 (YT207)"
             }
         },
         "8CE4B83B45F22F1F": {
@@ -545728,6 +545898,16 @@
                 "zh": "\u9752\u8863\u7ad9 (TY928)"
             }
         },
+        "A39754C80FFB1590": {
+            "location": {
+                "lat": 22.430095,
+                "lng": 114.251168
+            },
+            "name": {
+                "en": "SYMPHONY BAY, CHEUNG MUK TAU (SK220a)",
+                "zh": "\u6a1f\u6728\u982d\u5e1d\u7434\u7063 (SK220a)"
+            }
+        },
         "A3A7B2B94458A263": {
             "location": {
                 "lat": 22.45093,
@@ -550936,6 +551116,16 @@
             "name": {
                 "en": "FO TAN CHUN YEUNG ESTATE (FT934)",
                 "zh": "\u706b\u70ad\u99ff\u6d0b\u90a8 (FT934)"
+            }
+        },
+        "B74273D52D064437": {
+            "location": {
+                "lat": 22.295997,
+                "lng": 114.170136
+            },
+            "name": {
+                "en": "KOWLOON PARK DRIVE (YT640)",
+                "zh": "\u4e5d\u9f8d\u516c\u5712\u5f91 (YT640)"
             }
         },
         "B75CD6E70417E21B": {
@@ -559798,6 +559988,16 @@
                 "zh": "\u8239\u7063\u907f\u98a8\u5858 (TP691)"
             }
         },
+        "D987075FC237CE75": {
+            "location": {
+                "lat": 22.295226,
+                "lng": 114.174647
+            },
+            "name": {
+                "en": "EAST TSIM SHA TSUI STATION, K11  MUSEA (YT215)",
+                "zh": "\u5c16\u6771\u7ad9 K11 MUSEA (YT215)"
+            }
+        },
         "D9896F1A5B7C97C0": {
             "location": {
                 "lat": 22.331782,
@@ -560396,6 +560596,16 @@
             "name": {
                 "en": "CHUN TOK SCHOOL (WT500)",
                 "zh": "\u771f\u9438\u5b78\u6821 (WT500)"
+            }
+        },
+        "DB78ADF2386771E5": {
+            "location": {
+                "lat": 22.430732,
+                "lng": 114.254147
+            },
+            "name": {
+                "en": "SAI O (SK219a)",
+                "zh": "\u897f\u6fb3 (SK219a)"
             }
         },
         "DB87B8A5A56F8336": {
@@ -609182,6 +609392,12 @@
             [
                 "kmb",
                 "7959F14FBCC06B74"
+            ]
+        ],
+        "003886": [
+            [
+                "kmb",
+                "81D05719EDB6070E"
             ]
         ],
         "003891": [
@@ -698590,6 +698806,36 @@
                 "20016842"
             ]
         ],
+        "5DD1FFB79F17FC22": [
+            [
+                "ctb",
+                "001399"
+            ],
+            [
+                "gmb",
+                "20006095"
+            ],
+            [
+                "kmb",
+                "450A96AF1DA8E41C"
+            ],
+            [
+                "gmb",
+                "20006099"
+            ],
+            [
+                "ctb",
+                "001400"
+            ],
+            [
+                "kmb",
+                "F6EE4DC41A299593"
+            ],
+            [
+                "kmb",
+                "D06E5A5B162EF1BA"
+            ]
+        ],
         "5DE502617F887673": [
             [
                 "ctb",
@@ -705954,6 +706200,12 @@
                 "E3825DF066FCABC4"
             ]
         ],
+        "6F03615DDC0F7502": [
+            [
+                "kmb",
+                "9CEC1F1000AFE806"
+            ]
+        ],
         "6F03E19C5E800893": [
             [
                 "ctb",
@@ -708544,6 +708796,16 @@
             [
                 "gmb",
                 "20013729"
+            ]
+        ],
+        "74775F172FABD878": [
+            [
+                "ctb",
+                "003886"
+            ],
+            [
+                "kmb",
+                "81D05719EDB6070E"
             ]
         ],
         "7483C9963686E2F2": [
@@ -711802,6 +712064,24 @@
                 "001950"
             ]
         ],
+        "7E289B9FFDF77CAE": [
+            [
+                "ctb",
+                "003830"
+            ],
+            [
+                "ctb",
+                "003832"
+            ],
+            [
+                "kmb",
+                "79B88295548184C1"
+            ],
+            [
+                "kmb",
+                "C67E139743E66D71"
+            ]
+        ],
         "7E2E1F1269E520DE": [
             [
                 "kmb",
@@ -713688,6 +713968,12 @@
             [
                 "kmb",
                 "D6C06E7091666AB4"
+            ]
+        ],
+        "81D05719EDB6070E": [
+            [
+                "ctb",
+                "003886"
             ]
         ],
         "81E82A4D2A0D9BD3": [
@@ -716322,6 +716608,40 @@
                 "A6D60802BD8DDED0"
             ]
         ],
+        "87FEBC2B4436FC44": [
+            [
+                "ctb",
+                "001398"
+            ],
+            [
+                "kmb",
+                "098140DB8F56A7F9"
+            ],
+            [
+                "gmb",
+                "20000446"
+            ],
+            [
+                "kmb",
+                "24AD31E3F8DF42AE"
+            ],
+            [
+                "kmb",
+                "2EEB9CB69FB6A58D"
+            ],
+            [
+                "kmb",
+                "577490AF159C4088"
+            ],
+            [
+                "kmb",
+                "9D843189602DE04F"
+            ],
+            [
+                "kmb",
+                "9DE5D48948C534CC"
+            ]
+        ],
         "88": [
             [
                 "ctb",
@@ -717412,10 +717732,6 @@
             [
                 "ctb",
                 "003831"
-            ],
-            [
-                "kmb",
-                "8B9E121BB71771F4"
             ]
         ],
         "8AE46261E165B416": [
@@ -717576,10 +717892,6 @@
             [
                 "ctb",
                 "003831"
-            ],
-            [
-                "kmb",
-                "8AD4B244D6A50BDB"
             ]
         ],
         "8BAB6AA783EE0508": [
@@ -718160,6 +718472,20 @@
             [
                 "kmb",
                 "5D01986FB5E538CC"
+            ]
+        ],
+        "8CDF75A5EEE3CB2E": [
+            [
+                "ctb",
+                "001402"
+            ],
+            [
+                "gmb",
+                "20014311"
+            ],
+            [
+                "kmb",
+                "F57E1173086C7A51"
             ]
         ],
         "8CE4B83B45F22F1F": [
@@ -727468,6 +727794,32 @@
                 "A7FCAD9C2AF7F468"
             ]
         ],
+        "A39754C80FFB1590": [
+            [
+                "ctb",
+                "003455"
+            ],
+            [
+                "ctb",
+                "003457"
+            ],
+            [
+                "kmb",
+                "2C5CA5F47FB6EB3F"
+            ],
+            [
+                "kmb",
+                "F63D25B428F1C1D9"
+            ],
+            [
+                "gmb",
+                "20002283"
+            ],
+            [
+                "gmb",
+                "20007470"
+            ]
+        ],
         "A3A7B2B94458A263": [
             [
                 "ctb",
@@ -735500,6 +735852,28 @@
             [
                 "kmb",
                 "B50DB83AC82D3C44"
+            ]
+        ],
+        "B74273D52D064437": [
+            [
+                "ctb",
+                "002627"
+            ],
+            [
+                "ctb",
+                "002630"
+            ],
+            [
+                "gmb",
+                "20006918"
+            ],
+            [
+                "kmb",
+                "E3A083E4F64D93CD"
+            ],
+            [
+                "gmb",
+                "20014287"
             ]
         ],
         "B75CD6E70417E21B": [
@@ -749580,6 +749954,60 @@
                 "E86A26B1A389C290"
             ]
         ],
+        "D987075FC237CE75": [
+            [
+                "ctb",
+                "001587"
+            ],
+            [
+                "kmb",
+                "0840B3F75A7B00BD"
+            ],
+            [
+                "gmb",
+                "20000411"
+            ],
+            [
+                "kmb",
+                "576538E1395C8508"
+            ],
+            [
+                "kmb",
+                "5D75A800F823B45D"
+            ],
+            [
+                "kmb",
+                "89D32777124F4039"
+            ],
+            [
+                "kmb",
+                "9CAF2FDA35EEF9E2"
+            ],
+            [
+                "mtr",
+                "ETS"
+            ],
+            [
+                "nlb",
+                "128"
+            ],
+            [
+                "gmb",
+                "20014344"
+            ],
+            [
+                "kmb",
+                "243A28F74F73A045"
+            ],
+            [
+                "kmb",
+                "8E8DB91C885F1230"
+            ],
+            [
+                "ctb",
+                "001589"
+            ]
+        ],
         "D9896F1A5B7C97C0": [
             [
                 "ctb",
@@ -750634,6 +751062,20 @@
             [
                 "gmb",
                 "20012421"
+            ]
+        ],
+        "DB78ADF2386771E5": [
+            [
+                "gmb",
+                "20002285"
+            ],
+            [
+                "gmb",
+                "20021943"
+            ],
+            [
+                "kmb",
+                "5D86C919F15C0611"
             ]
         ],
         "DB87B8A5A56F8336": [
