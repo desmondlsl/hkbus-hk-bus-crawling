@@ -192257,7 +192257,7 @@
                 ]
             }
         },
-        "586+1+GO PARK Sai Sha+Tsuen Wan Station": {
+        "586+1+GO PARK Sai Sha (via: Tai Wai)+Tsuen Wan Station (via: Cheung Sha Wan)": {
             "bound": {
                 "ctb": "O"
             },
@@ -192265,8 +192265,8 @@
                 "ctb"
             ],
             "dest": {
-                "en": "Tsuen Wan Station",
-                "zh": "\u8343\u7063\u7ad9"
+                "en": "Tsuen Wan Station (via: Cheung Sha Wan)",
+                "zh": "\u8343\u7063\u7ad9 (\u7d93:\u9577\u6c99\u7063)"
             },
             "fares": null,
             "faresHoliday": null,
@@ -192275,8 +192275,8 @@
             "jt": null,
             "nlbId": null,
             "orig": {
-                "en": "GO PARK Sai Sha",
-                "zh": "\u897f\u6c99GO PARK"
+                "en": "GO PARK Sai Sha (via: Tai Wai)",
+                "zh": "\u897f\u6c99GO PARK  (\u7d93:\u5927\u570d)"
             },
             "route": "586",
             "seq": 18,
@@ -192304,7 +192304,7 @@
                 ]
             }
         },
-        "586+1+Tsuen Wan Station+GO PARK Sai Sha": {
+        "586+1+Tsuen Wan Station (via: Cheung Sha Wan)+GO PARK Sai Sha (via: Tai Wai)": {
             "bound": {
                 "ctb": "I"
             },
@@ -192312,8 +192312,8 @@
                 "ctb"
             ],
             "dest": {
-                "en": "GO PARK Sai Sha",
-                "zh": "\u897f\u6c99GO PARK"
+                "en": "GO PARK Sai Sha (via: Tai Wai)",
+                "zh": "\u897f\u6c99GO PARK  (\u7d93:\u5927\u570d)"
             },
             "fares": null,
             "faresHoliday": null,
@@ -192322,8 +192322,8 @@
             "jt": null,
             "nlbId": null,
             "orig": {
-                "en": "Tsuen Wan Station",
-                "zh": "\u8343\u7063\u7ad9"
+                "en": "Tsuen Wan Station (via: Cheung Sha Wan)",
+                "zh": "\u8343\u7063\u7ad9 (\u7d93:\u9577\u6c99\u7063)"
             },
             "route": "586",
             "seq": 18,
@@ -192351,7 +192351,7 @@
                 ]
             }
         },
-        "587+1+GO PARK Sai Sha+Tsim Sha Tsui (Mody Road)": {
+        "587+1+GO PARK Sai Sha (via: Tai Wai)+Tsim Sha Tsui (Mody Road)": {
             "bound": {
                 "ctb": "O"
             },
@@ -192369,8 +192369,8 @@
             "jt": null,
             "nlbId": null,
             "orig": {
-                "en": "GO PARK Sai Sha",
-                "zh": "\u897f\u6c99GO PARK"
+                "en": "GO PARK Sai Sha (via: Tai Wai)",
+                "zh": "\u897f\u6c99GO PARK (\u7d93:\u5927\u570d)"
             },
             "route": "587",
             "seq": 14,
@@ -192394,7 +192394,7 @@
                 ]
             }
         },
-        "587+1+Tsim Sha Tsui (Mody Road)+GO PARK Sai Sha": {
+        "587+1+Tsim Sha Tsui (Mody Road)+GO PARK Sai Sha (via: Tai Wai)": {
             "bound": {
                 "ctb": "I"
             },
@@ -192402,8 +192402,8 @@
                 "ctb"
             ],
             "dest": {
-                "en": "GO PARK Sai Sha",
-                "zh": "\u897f\u6c99GO PARK"
+                "en": "GO PARK Sai Sha (via: Tai Wai)",
+                "zh": "\u897f\u6c99GO PARK (\u7d93:\u5927\u570d)"
             },
             "fares": null,
             "faresHoliday": null,
@@ -192460,7 +192460,7 @@
                 "zh": "\u897f\u6c99GO PARK"
             },
             "route": "589",
-            "seq": 9,
+            "seq": 10,
             "serviceType": 1,
             "stops": {
                 "ctb": [
@@ -192472,7 +192472,8 @@
                     "001986",
                     "003836",
                     "003591",
-                    "003689"
+                    "003689",
+                    "003888"
                 ]
             }
         },
@@ -192498,10 +192499,11 @@
                 "zh": "\u4e5d\u9f8d\u7063 (\u7d93 \u89c0\u5858)"
             },
             "route": "589",
-            "seq": 11,
+            "seq": 12,
             "serviceType": 1,
             "stops": {
                 "ctb": [
+                    "003908",
                     "003592",
                     "003593",
                     "003594",
@@ -350629,99 +350631,6 @@
                 ]
             }
         },
-        "A33X+4+AIRPORT (GROUND TRANSPORTATION CENTRE)+TUEN MUN (FU TAI ESTATE)": {
-            "bound": {
-                "kmb": "I"
-            },
-            "co": [
-                "kmb"
-            ],
-            "dest": {
-                "en": "TUEN MUN (FU TAI ESTATE)",
-                "zh": "\u5c6f\u9580(\u5bcc\u6cf0\u90a8)"
-            },
-            "fares": null,
-            "faresHoliday": null,
-            "freq": null,
-            "gtfsId": null,
-            "jt": null,
-            "nlbId": null,
-            "orig": {
-                "en": "AIRPORT (GROUND TRANSPORTATION CENTRE)",
-                "zh": "\u6a5f\u5834(\u5730\u9762\u904b\u8f38\u4e2d\u5fc3)"
-            },
-            "route": "A33X",
-            "seq": 17,
-            "serviceType": "4",
-            "stops": {
-                "kmb": [
-                    "0713774B2DB5E4D3",
-                    "79C1BD3A3E91091D",
-                    "9C9F817064169CE7",
-                    "09C223E13435C61D",
-                    "4B5144408E60BF11",
-                    "4566E35B3D2C20B5",
-                    "5055F6D68F0DD49D",
-                    "4D02E857ADDE8AAF",
-                    "818F12340BA8CA4B",
-                    "571FE1F0FBB26545",
-                    "C18A68BBD21DC5A6",
-                    "EE1D84187D47C96C",
-                    "A8B141D2ED68F7E1",
-                    "5A781879E83B56A6",
-                    "6B3EF5D982B399E6",
-                    "CDE9BBBDE0226995",
-                    "CBCE32D56C5263A9"
-                ]
-            }
-        },
-        "A33X+4+TUEN MUN (FU TAI ESTATE)+AIRPORT (GROUND TRANSPORTATION CENTRE)": {
-            "bound": {
-                "kmb": "O"
-            },
-            "co": [
-                "kmb"
-            ],
-            "dest": {
-                "en": "AIRPORT (GROUND TRANSPORTATION CENTRE)",
-                "zh": "\u6a5f\u5834(\u5730\u9762\u904b\u8f38\u4e2d\u5fc3)"
-            },
-            "fares": null,
-            "faresHoliday": null,
-            "freq": null,
-            "gtfsId": null,
-            "jt": null,
-            "nlbId": null,
-            "orig": {
-                "en": "TUEN MUN (FU TAI ESTATE)",
-                "zh": "\u5c6f\u9580(\u5bcc\u6cf0\u90a8)"
-            },
-            "route": "A33X",
-            "seq": 18,
-            "serviceType": "4",
-            "stops": {
-                "kmb": [
-                    "CBCE32D56C5263A9",
-                    "5D7715C4BFFC9979",
-                    "CC3EF4757AA0964A",
-                    "E92E2723C1DBA061",
-                    "03E44C30CECCFCEC",
-                    "642F7D358D36F715",
-                    "F269ACD809D1B43E",
-                    "D74B67D55C63895F",
-                    "A859FDC2ED9ECEA1",
-                    "AF9FE138E3D5D5F0",
-                    "1D44677AEFBA8773",
-                    "18580F35B0A312CF",
-                    "C70342BF7C6A4732",
-                    "0D5759F7A4B185FE",
-                    "C552CE565E1F0C85",
-                    "9C9F817064169CE7",
-                    "F32C8A98A5D64A72",
-                    "21466046C6868AA7"
-                ]
-            }
-        },
         "A34+1+AIRPORT (GROUND TRANSPORTATION CENTRE)+HUNG SHUI KIU (HUNG YUEN ROAD)": {
             "bound": {
                 "kmb": "I"
@@ -414587,7 +414496,7 @@
                 "zh": "\u4e2d\u74b0"
             },
             "route": "PBS1",
-            "seq": 13,
+            "seq": 11,
             "serviceType": "1",
             "stops": {
                 "kmb": [
@@ -414601,9 +414510,7 @@
                     "A31DD8C4FD6740D4",
                     "7033D904840D5F18",
                     "0524415976F284A4",
-                    "F050648C108571ED",
-                    "232DC1B2BE92C86F",
-                    "E33098F43CF205B8"
+                    "F050648C108571ED"
                 ]
             }
         },
@@ -452325,6 +452232,16 @@
                 "zh": "\u5c16\u6c99\u5480 (\u6771), \u9ebc\u5730\u9053"
             }
         },
+        "003888": {
+            "location": {
+                "lat": 22.32302,
+                "lng": 114.21134
+            },
+            "name": {
+                "en": "Telford House, Wai Yip Street",
+                "zh": "\u5fb7\u798f\u5927\u5ec8, \u5049\u696d\u8857"
+            }
+        },
         "003890": {
             "location": {
                 "lat": 22.31445,
@@ -452443,6 +452360,16 @@
             "name": {
                 "en": "Shing King Street, Shing Fung Road",
                 "zh": "\u627f\u666f\u8857, \u627f\u8c50\u9053"
+            }
+        },
+        "003908": {
+            "location": {
+                "lat": 22.32298,
+                "lng": 114.21161
+            },
+            "name": {
+                "en": "Telford Plaza, Wai Yip Street",
+                "zh": "\u5fb7\u798f\u5ee3\u5834, \u5049\u696d\u8857"
             }
         },
         "003910": {
@@ -609445,6 +609372,12 @@
                 "74775F172FABD878"
             ]
         ],
+        "003888": [
+            [
+                "ctb",
+                "003908"
+            ]
+        ],
         "003891": [
             [
                 "gmb",
@@ -718513,6 +718446,12 @@
             [
                 "gmb",
                 "20015622"
+            ]
+        ],
+        "8CCC6A9A25E82BCF": [
+            [
+                "ctb",
+                "003908"
             ]
         ],
         "8CD1D697477E50D0": [
