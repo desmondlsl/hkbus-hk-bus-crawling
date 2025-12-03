@@ -541982,8 +541982,8 @@
                 "lng": 114.233264
             },
             "name": {
-                "en": "EASTERN HARBOUR TUNNEL BBI (K1) (LT411)",
-                "zh": "\u6771\u96a7\u8f49\u8eca\u7ad9 (K1) (LT411)"
+                "en": "EASTERN HARBOUR TUNNEL BBI (LT411)",
+                "zh": "\u6771\u96a7\u8f49\u8eca\u7ad9 (LT411)"
             }
         },
         "9541036143D6CCF1": {
@@ -542962,8 +542962,8 @@
                 "lng": 114.232741
             },
             "name": {
-                "en": "EASTERN HARBOUR TUNNEL BBI (L2) (LT100)",
-                "zh": "\u6771\u96a7\u8f49\u8eca\u7ad9 (L2) (LT100)"
+                "en": "EASTERN HARBOUR TUNNEL BBI (LT100)",
+                "zh": "\u6771\u96a7\u8f49\u8eca\u7ad9 (LT100)"
             }
         },
         "99256D08CF861BA5": {
@@ -545782,8 +545782,8 @@
                 "lng": 114.251168
             },
             "name": {
-                "en": "SYMPHONY BAY, CHEUNG MUK TAU (SK220a)",
-                "zh": "\u6a1f\u6728\u982d\u5e1d\u7434\u7063 (SK220a)"
+                "en": "SYMPHONY BAY, CHEUNG MUK TAU (SK221a)",
+                "zh": "\u6a1f\u6728\u982d\u5e1d\u7434\u7063 (SK221a)"
             }
         },
         "A3A7B2B94458A263": {
@@ -556156,16 +556156,6 @@
                 "zh": "\u5751\u4e0b\u8386"
             }
         },
-        "CBB8AA28C0F31B43": {
-            "location": {
-                "lat": 22.304304,
-                "lng": 114.189848
-            },
-            "name": {
-                "en": "WHAMPOA GARDEN (SHUNG KING STREET)",
-                "zh": "\u9ec3\u57d4\u82b1\u5712(\u8239\u666f\u8857)"
-            }
-        },
         "CBB9FC4A0C13979B": {
             "location": {
                 "lat": 22.337284,
@@ -558992,8 +558982,8 @@
                 "lng": 114.232925
             },
             "name": {
-                "en": "EASTERN HARBOUR TUNNEL BBI (L1) (LT101)",
-                "zh": "\u6771\u96a7\u8f49\u8eca\u7ad9 (L1) (LT101)"
+                "en": "EASTERN HARBOUR TUNNEL BBI (LT101)",
+                "zh": "\u6771\u96a7\u8f49\u8eca\u7ad9 (LT101)"
             }
         },
         "D67917549F3DC8A3": {
@@ -560552,8 +560542,8 @@
                 "lng": 114.23365
             },
             "name": {
-                "en": "EASTERN HARBOUR TUNNEL BBI (K2) (LT410)",
-                "zh": "\u6771\u96a7\u8f49\u8eca\u7ad9 (K2) (LT410)"
+                "en": "EASTERN HARBOUR TUNNEL BBI (LT410)",
+                "zh": "\u6771\u96a7\u8f49\u8eca\u7ad9 (LT410)"
             }
         },
         "DBF574C877BF4AC5": {
@@ -561482,8 +561472,8 @@
                 "lng": 114.23356
             },
             "name": {
-                "en": "EASTERN HARBOUR TUNNEL BBI (K1) (LT412)",
-                "zh": "\u6771\u96a7\u8f49\u8eca\u7ad9 (K1) (LT412)"
+                "en": "EASTERN HARBOUR TUNNEL BBI (LT412)",
+                "zh": "\u6771\u96a7\u8f49\u8eca\u7ad9 (LT412)"
             }
         },
         "E057FE733052DDD7": {
@@ -744266,48 +744256,6 @@
             [
                 "kmb",
                 "A53F6592C4173B4E"
-            ]
-        ],
-        "CBB8AA28C0F31B43": [
-            [
-                "kmb",
-                "5C1C4A58776A0D0B"
-            ],
-            [
-                "mtr",
-                "WHA"
-            ],
-            [
-                "gmb",
-                "20010400"
-            ],
-            [
-                "kmb",
-                "32A26FEADDED5A62"
-            ],
-            [
-                "kmb",
-                "75D6E5952B41E1D2"
-            ],
-            [
-                "kmb",
-                "ACFA28064D1B2380"
-            ],
-            [
-                "kmb",
-                "7055FEADC58CB1F1"
-            ],
-            [
-                "kmb",
-                "DE5FEC673BB54DC5"
-            ],
-            [
-                "ctb",
-                "001596"
-            ],
-            [
-                "gmb",
-                "20000418"
             ]
         ],
         "CBB9FC4A0C13979B": [
