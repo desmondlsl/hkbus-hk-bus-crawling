@@ -270967,7 +270967,7 @@
                 ]
             }
         },
-        "798P+1+Tai Wai Station (via: Sha Tin)+Tseung Kwan O Industrial Estate": {
+        "798P+1+Tai Wai Station+Tseung Kwan O Industrial Estate": {
             "bound": {
                 "ctb": "I"
             },
@@ -271011,12 +271011,12 @@
             "jt": "78",
             "nlbId": null,
             "orig": {
-                "en": "Tai Wai Station (via: Sha Tin)",
-                "zh": "\u5927\u570d\u7ad9 (\u7d93:\u6c99\u7530)"
+                "en": "Tai Wai Station",
+                "zh": "\u5927\u570d\u7ad9"
             },
             "route": "798P",
             "seq": 22,
-            "serviceType": 1,
+            "serviceType": "1",
             "stops": {
                 "ctb": [
                     "003633",
@@ -271177,7 +271177,7 @@
                 ]
             }
         },
-        "798X+1+Fo Tan (Chun Yeung Estate) (via: Sha Tin)+Tseung Kwan O Industrial Estate": {
+        "798X+1+Chun Yeung Estate+Tseung Kwan O Industrial Estate": {
             "bound": {
                 "ctb": "I"
             },
@@ -271220,12 +271220,12 @@
             "jt": "71",
             "nlbId": null,
             "orig": {
-                "en": "Fo Tan (Chun Yeung Estate) (via: Sha Tin)",
-                "zh": "\u706b\u70ad (\u99ff\u6d0b\u90a8) (\u7d93:\u6c99\u7530)"
+                "en": "Chun Yeung Estate",
+                "zh": "\u99ff\u6d0b\u90a8"
             },
             "route": "798X",
             "seq": 20,
-            "serviceType": 1,
+            "serviceType": "1",
             "stops": {
                 "ctb": [
                     "003603",
@@ -442153,8 +442153,8 @@
         },
         "002629": {
             "location": {
-                "lat": 22.373659182091,
-                "lng": 114.11665632053
+                "lat": 22.373780722091,
+                "lng": 114.11668148053
             },
             "name": {
                 "en": "Tsuen Wan Station",
@@ -448433,8 +448433,8 @@
         },
         "003418": {
             "location": {
-                "lat": 22.364292632091,
-                "lng": 114.11629641053
+                "lat": 22.365038912091,
+                "lng": 114.11526266053
             },
             "name": {
                 "en": "Lung Tak Street, Texaco Road",
@@ -448443,8 +448443,8 @@
         },
         "003419": {
             "location": {
-                "lat": 22.365431052091,
-                "lng": 114.11491514053
+                "lat": 22.365010212091,
+                "lng": 114.11510260053
             },
             "name": {
                 "en": "Lung Tak Street, Texaco Road",
@@ -452699,6 +452699,26 @@
             "name": {
                 "en": "King Yip Street",
                 "zh": "\u656c\u696d\u8857"
+            }
+        },
+        "003915": {
+            "location": {
+                "lat": 22.304545372091,
+                "lng": 114.27439262053
+            },
+            "name": {
+                "en": "The Chinese Medicine Hospital of Hong Kong, Pak Shing Kok Road",
+                "zh": "\u9999\u6e2f\u4e2d\u91ab\u91ab\u9662, \u767e\u52dd\u89d2\u8def"
+            }
+        },
+        "003916": {
+            "location": {
+                "lat": 22.303751892091,
+                "lng": 114.27377670053
+            },
+            "name": {
+                "en": "The Chinese Medicine Hospital of Hong Kong, Pak Shing Kok Road",
+                "zh": "\u9999\u6e2f\u4e2d\u91ab\u91ab\u9662, \u767e\u52dd\u89d2\u8def"
             }
         },
         "003D1263A14908F6": {
@@ -597989,6 +598009,10 @@
         ],
         "002629": [
             [
+                "gmb",
+                "20001873"
+            ],
+            [
                 "kmb",
                 "520D0D5DB7FAB41C"
             ],
@@ -597999,10 +598023,6 @@
             [
                 "kmb",
                 "0653C07D043A0E97"
-            ],
-            [
-                "gmb",
-                "20001873"
             ],
             [
                 "gmb",
@@ -605369,7 +605389,33 @@
                 "875B01AC78127A53"
             ]
         ],
+        "003418": [
+            [
+                "ctb",
+                "003419"
+            ],
+            [
+                "kmb",
+                "170375F0819EB588"
+            ],
+            [
+                "kmb",
+                "2AB6DAEF7149F0FC"
+            ],
+            [
+                "kmb",
+                "CE80C150FB0C40F9"
+            ]
+        ],
         "003419": [
+            [
+                "ctb",
+                "003418"
+            ],
+            [
+                "gmb",
+                "20002090"
+            ],
             [
                 "kmb",
                 "2AB6DAEF7149F0FC"
@@ -610225,6 +610271,16 @@
                 "9900A2A1E1FC8260"
             ]
         ],
+        "003916": [
+            [
+                "gmb",
+                "20022405"
+            ],
+            [
+                "gmb",
+                "20022406"
+            ]
+        ],
         "003D1263A14908F6": [
             [
                 "kmb",
@@ -612715,6 +612771,10 @@
                 "CA0CA201B9E91160"
             ],
             [
+                "ctb",
+                "002629"
+            ],
+            [
                 "kmb",
                 "101877D46F079B68"
             ],
@@ -612725,10 +612785,6 @@
             [
                 "kmb",
                 "EF4016702D714B33"
-            ],
-            [
-                "ctb",
-                "002629"
             ]
         ],
         "06566A7FE3C6466A": [
@@ -620591,6 +620647,12 @@
             [
                 "lrtfeeder",
                 "K75P-D050"
+            ]
+        ],
+        "170375F0819EB588": [
+            [
+                "ctb",
+                "003418"
             ]
         ],
         "170ED32B19DC1828": [
@@ -633105,6 +633167,10 @@
         ],
         "20001873": [
             [
+                "ctb",
+                "002629"
+            ],
+            [
                 "kmb",
                 "0653C07D043A0E97"
             ],
@@ -633149,10 +633215,6 @@
                 "CA0CA201B9E91160"
             ],
             [
-                "ctb",
-                "002629"
-            ],
-            [
                 "kmb",
                 "101877D46F079B68"
             ],
@@ -633171,10 +633233,6 @@
             [
                 "kmb",
                 "003D1263A14908F6"
-            ],
-            [
-                "gmb",
-                "20010781"
             ],
             [
                 "kmb",
@@ -634073,6 +634131,20 @@
             [
                 "kmb",
                 "6328BFDC78246772"
+            ]
+        ],
+        "20002090": [
+            [
+                "ctb",
+                "003419"
+            ],
+            [
+                "kmb",
+                "2AB6DAEF7149F0FC"
+            ],
+            [
+                "kmb",
+                "CE80C150FB0C40F9"
             ]
         ],
         "20002096": [
@@ -660955,6 +661027,10 @@
                 "20007539"
             ],
             [
+                "ctb",
+                "002629"
+            ],
+            [
                 "kmb",
                 "101877D46F079B68"
             ],
@@ -660965,10 +661041,6 @@
             [
                 "kmb",
                 "EF4016702D714B33"
-            ],
-            [
-                "ctb",
-                "002629"
             ]
         ],
         "20016008": [
@@ -676076,11 +676148,23 @@
         "2AB6DAEF7149F0FC": [
             [
                 "ctb",
+                "003418"
+            ],
+            [
+                "ctb",
                 "003419"
             ],
             [
                 "kmb",
                 "CE80C150FB0C40F9"
+            ],
+            [
+                "gmb",
+                "20002090"
+            ],
+            [
+                "gmb",
+                "20002096"
             ]
         ],
         "2AC85D87661D5AF6": [
@@ -746218,11 +746302,19 @@
         "CE80C150FB0C40F9": [
             [
                 "ctb",
+                "003418"
+            ],
+            [
+                "ctb",
                 "003419"
             ],
             [
                 "kmb",
                 "2AB6DAEF7149F0FC"
+            ],
+            [
+                "gmb",
+                "20002090"
             ]
         ],
         "CE813C1E1A72C7B0": [
