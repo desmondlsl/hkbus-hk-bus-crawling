@@ -196502,6 +196502,76 @@
                 ]
             }
         },
+        "59B+2+Choi Shek Estate+Shek Wu Hui San Fung Avenue (Circular)": {
+            "bound": {
+                "gmb": "O"
+            },
+            "co": [
+                "gmb"
+            ],
+            "dest": {
+                "en": "Shek Wu Hui San Fung Avenue (Circular)",
+                "zh": "\u77f3\u6e56\u589f\u65b0\u8c50\u8def (\u5faa\u74b0\u7dda)"
+            },
+            "fares": null,
+            "faresHoliday": null,
+            "freq": {
+                "127": {
+                    "0600": [
+                        "0700",
+                        "720"
+                    ],
+                    "0700": [
+                        "0900",
+                        "600"
+                    ],
+                    "0900": [
+                        "1000",
+                        "720"
+                    ],
+                    "1000": [
+                        "1600",
+                        "1200"
+                    ],
+                    "1600": [
+                        "1700",
+                        "720"
+                    ],
+                    "1700": [
+                        "2000",
+                        "600"
+                    ],
+                    "2000": [
+                        "2200",
+                        "1200"
+                    ],
+                    "2200": [
+                        "2300",
+                        "1800"
+                    ]
+                }
+            },
+            "gtfsId": "2011292",
+            "jt": null,
+            "nlbId": null,
+            "orig": {
+                "en": "Choi Shek Estate",
+                "zh": "\u4e0a\u6c34\u5f69\u77f3\u90a8"
+            },
+            "route": "59B",
+            "seq": 6,
+            "serviceType": 2,
+            "stops": {
+                "gmb": [
+                    "20022438",
+                    "20022439",
+                    "20014294",
+                    "20022440",
+                    "20020790",
+                    "20022441"
+                ]
+            }
+        },
         "59K+1+Lin Ma Hang+Sheung Shui Station": {
             "bound": {
                 "gmb": "I"
@@ -491701,8 +491771,8 @@
                 "lng": 114.12668
             },
             "name": {
-                "en": "SAN FUNG AVENUE, near Shek Wu Hui Post Office",
-                "zh": "\u65b0\u8c50\u8def,\u8fd1\u77f3\u6e56\u589f\u90f5\u653f\u5c40"
+                "en": "San Fung Avenue northbound, near Shek Wu Hui Post Office",
+                "zh": "\u65b0\u8c50\u8def\u5317\u884c, \u8fd1\u77f3\u6e56\u589f\u90f5\u653f\u5c40"
             }
         },
         "20014295": {
@@ -508141,8 +508211,8 @@
                 "lng": 114.12216
             },
             "name": {
-                "en": "San Wan Road eastbound (near Cambridge Plaza)",
-                "zh": "\u65b0\u904b\u8def\uff08\u8fd1\u528d\u6a4b\u5ee3\u5834\uff09"
+                "en": "San Wan Road eastbound, near Cambridge Plaza",
+                "zh": "\u65b0\u904b\u8def\u6771\u884c, \u8fd1\u528d\u6a4b\u5ee3\u5834"
             }
         },
         "20020791": {
@@ -509753,6 +509823,46 @@
             "name": {
                 "en": "Pak Shing Kok Road, opposite The Chinese Medicine Hospital of Hong Kong",
                 "zh": "\u767e\u52dd\u89d2\u8def, \u9999\u6e2f\u4e2d\u91ab\u91ab\u9662\u5c0d\u9762"
+            }
+        },
+        "20022438": {
+            "location": {
+                "lat": 22.50548013901486,
+                "lng": 114.12335336208345
+            },
+            "name": {
+                "en": "Choi Shek Estate GMB Terminus",
+                "zh": "\u5f69\u77f3\u90a8\u5c0f\u5df4\u7e3d\u7ad9"
+            }
+        },
+        "20022439": {
+            "location": {
+                "lat": 22.504135850126392,
+                "lng": 114.12500694394113
+            },
+            "name": {
+                "en": "San Wan Road eastbound ,near Po Shek Wu Road",
+                "zh": "\u65b0\u904b\u8def\u6771\u884c, \u8fd1\u5bf6\u77f3\u6e56\u8def"
+            }
+        },
+        "20022440": {
+            "location": {
+                "lat": 22.507209730195694,
+                "lng": 114.12320852279665
+            },
+            "name": {
+                "en": "Po Wan Road westbound, near Alpha Appliances Building",
+                "zh": "\u5bf6\u904b\u8def\u897f\u884c, \u8fd1\u7b2c\u4e00\u96fb\u696d\u5927\u5ec8"
+            }
+        },
+        "20022441": {
+            "location": {
+                "lat": 22.50548013901486,
+                "lng": 114.12335336208345
+            },
+            "name": {
+                "en": "Choi Shek Estate GMB Terminus",
+                "zh": "\u5f69\u77f3\u90a8\u5c0f\u5df4\u7e3d\u7ad9"
             }
         },
         "201": {
@@ -671471,6 +671581,12 @@
             [
                 "gmb",
                 "20002107"
+            ]
+        ],
+        "20022441": [
+            [
+                "gmb",
+                "20022438"
             ]
         ],
         "201": [
