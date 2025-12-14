@@ -31339,23 +31339,109 @@
                 "en": "KWUN TONG FERRY",
                 "zh": "\u89c0\u5858\u78bc\u982d"
             },
-            "fares": null,
+            "fares": [
+                "5.8",
+                "5.8",
+                "5.8",
+                "5.8",
+                "5.8",
+                "5.8",
+                "5.8",
+                "5.8",
+                "5.8",
+                "5.8",
+                "5.8",
+                "5.8",
+                "5.8",
+                "5.8",
+                "5.8",
+                "5.8",
+                "5.8"
+            ],
             "faresHoliday": null,
-            "freq": null,
-            "gtfsId": null,
-            "jt": null,
+            "freq": {
+                "287": {
+                    "0530": [
+                        "0620",
+                        "1500"
+                    ],
+                    "0620": [
+                        "0820",
+                        "1200"
+                    ],
+                    "0820": [
+                        "0835",
+                        "900"
+                    ],
+                    "0835": [
+                        "0935",
+                        "1200"
+                    ],
+                    "0935": [
+                        "1000",
+                        "1500"
+                    ],
+                    "1000": [
+                        "1200",
+                        "1800"
+                    ],
+                    "1200": [
+                        "1610",
+                        "1500"
+                    ],
+                    "1610": [
+                        "1650",
+                        "1200"
+                    ],
+                    "1650": [
+                        "1830",
+                        "1500"
+                    ],
+                    "1830": [
+                        "2400",
+                        "1800"
+                    ]
+                },
+                "288": {
+                    "0530": [
+                        "0555",
+                        "1500"
+                    ],
+                    "0555": [
+                        "0955",
+                        "1800"
+                    ],
+                    "0955": [
+                        "1930",
+                        "1500"
+                    ],
+                    "1930": [
+                        "2400",
+                        "1800"
+                    ]
+                },
+                "448": {
+                    "0530": [
+                        "2400",
+                        "1800"
+                    ]
+                }
+            },
+            "gtfsId": "1029",
+            "jt": "33",
             "nlbId": null,
             "orig": {
                 "en": "LOK FU",
                 "zh": "\u6a02\u5bcc"
             },
             "route": "11D",
-            "seq": 16,
+            "seq": 18,
             "serviceType": "1",
             "stops": {
                 "kmb": [
                     "EF71BF522855A38A",
                     "586EF0AC07C58499",
+                    "69B1F1ED4F1EC09D",
                     "B2B63870BF0309F5",
                     "4BB3E2907D3ED1CB",
                     "12B08A64756B780B",
@@ -31369,7 +31455,8 @@
                     "DF942A6B97EABDC4",
                     "2DDD1CB69E981669",
                     "80B56E2C7719DAF4",
-                    "71E3EB7E709522C7"
+                    "71E3EB7E709522C7",
+                    "B18F49819CAF37B7"
                 ]
             }
         },
@@ -56652,18 +56739,10 @@
                         "720"
                     ],
                     "0907": [
-                        "0921",
-                        "840"
+                        "0920",
+                        "780"
                     ],
-                    "0921": [
-                        "0936",
-                        "900"
-                    ],
-                    "0936": [
-                        "1700",
-                        "720"
-                    ],
-                    "1700": [
+                    "0920": [
                         "2000",
                         "600"
                     ],
@@ -56796,12 +56875,12 @@
                         "720"
                     ],
                     "0902": [
-                        "0916",
-                        "840"
+                        "0915",
+                        "780"
                     ],
-                    "0916": [
+                    "0915": [
                         "1001",
-                        "900"
+                        "600"
                     ]
                 },
                 "64": {
@@ -56895,10 +56974,6 @@
             "freq": {
                 "63": {
                     "1001": [
-                        "1725",
-                        "720"
-                    ],
-                    "1725": [
                         "2025",
                         "600"
                     ],
@@ -57697,12 +57772,8 @@
             "freq": {
                 "31": {
                     "0630": [
-                        "0700",
-                        "900"
-                    ],
-                    "0700": [
                         "0900",
-                        "720"
+                        "600"
                     ]
                 },
                 "32": {
@@ -274743,9 +274814,9 @@
                     "BE4CE56A7102816E",
                     "BE58B5A4B0E76EF7",
                     "45D9CC8527BC3261",
-                    "363957ECE0924AC4",
                     "6DE243D2C36B9C6A",
-                    "6D76E141FB820044"
+                    "6D76E141FB820044",
+                    "17F010FBF594E572"
                 ]
             }
         },
@@ -274773,6 +274844,7 @@
                 "8.4",
                 "8.4",
                 "8.4",
+                "7.4",
                 "7.4",
                 "7.4",
                 "7.4",
@@ -274883,7 +274955,7 @@
                 "zh": "\u7f8e\u6797"
             },
             "route": "80",
-            "seq": 25,
+            "seq": 26,
             "serviceType": "1",
             "stops": {
                 "kmb": [
@@ -274911,7 +274983,8 @@
                     "DF942A6B97EABDC4",
                     "2DDD1CB69E981669",
                     "80B56E2C7719DAF4",
-                    "71E3EB7E709522C7"
+                    "71E3EB7E709522C7",
+                    "0D9932C476D51576"
                 ]
             }
         },
@@ -275003,7 +275076,7 @@
                 ]
             }
         },
-        "80+2+MEI LAM+KWUN TONG FERRY": {
+        "80+2+MEI LAM BUS TERMINUS (TA963)+KWUN TONG FERRY (KT935)": {
             "bound": {
                 "kmb": "O"
             },
@@ -275011,8 +275084,8 @@
                 "kmb"
             ],
             "dest": {
-                "en": "KWUN TONG FERRY",
-                "zh": "\u89c0\u5858\u78bc\u982d"
+                "en": "KWUN TONG FERRY (KT935)",
+                "zh": "\u89c0\u5858\u78bc\u982d (KT935)"
             },
             "fares": [
                 "8.4",
@@ -275021,6 +275094,7 @@
                 "8.4",
                 "8.4",
                 "8.4",
+                "7.4",
                 "7.4",
                 "7.4",
                 "7.4",
@@ -275063,11 +275137,60 @@
             "jt": "47",
             "nlbId": null,
             "orig": {
+                "en": "MEI LAM BUS TERMINUS (TA963)",
+                "zh": "\u7f8e\u6797\u5df4\u58eb\u7e3d\u7ad9 (TA963)"
+            },
+            "route": "80",
+            "seq": 20,
+            "serviceType": "2",
+            "stops": {
+                "kmb": [
+                    "17F010FBF594E572",
+                    "E1F73A6B69F39365",
+                    "02D4D2C0C430EAD0",
+                    "60F6F482EFA8FE18",
+                    "2A72F4041A7E6783",
+                    "F3D3D5E7F698B748",
+                    "C7C1C12D89968698",
+                    "326199D24220A42B",
+                    "C847B9021C407731",
+                    "38330C642568FE3F",
+                    "96A6FE5F07BDF203",
+                    "9DE875FD17C67097",
+                    "68B207DDC9A182AB",
+                    "060699911C9E300F",
+                    "9E256D7EE9FE68BC",
+                    "DF942A6B97EABDC4",
+                    "2DDD1CB69E981669",
+                    "80B56E2C7719DAF4",
+                    "71E3EB7E709522C7",
+                    "0D9932C476D51576"
+                ]
+            }
+        },
+        "80+2+MEI LAM+KWUN TONG FERRY": {
+            "bound": {
+                "kmb": "O"
+            },
+            "co": [
+                "kmb"
+            ],
+            "dest": {
+                "en": "KWUN TONG FERRY",
+                "zh": "\u89c0\u5858\u78bc\u982d"
+            },
+            "fares": null,
+            "faresHoliday": null,
+            "freq": null,
+            "gtfsId": null,
+            "jt": null,
+            "nlbId": null,
+            "orig": {
                 "en": "MEI LAM",
                 "zh": "\u7f8e\u6797"
             },
             "route": "80",
-            "seq": 19,
+            "seq": 20,
             "serviceType": "2",
             "stops": {
                 "kmb": [
@@ -275089,7 +275212,8 @@
                     "DF942A6B97EABDC4",
                     "2DDD1CB69E981669",
                     "80B56E2C7719DAF4",
-                    "71E3EB7E709522C7"
+                    "71E3EB7E709522C7",
+                    "0D9932C476D51576"
                 ]
             }
         },
@@ -287451,6 +287575,7 @@
                 "7.4",
                 "7.4",
                 "7.4",
+                "7.4",
                 "7.4"
             ],
             "faresHoliday": null,
@@ -287514,7 +287639,7 @@
                 "zh": "\u706b\u70ad\u99ff\u6d0b\u90a8"
             },
             "route": "85",
-            "seq": 24,
+            "seq": 25,
             "serviceType": "1",
             "stops": {
                 "kmb": [
@@ -287533,6 +287658,7 @@
                     "4E037679702BBCBC",
                     "67C00FA00C878C1A",
                     "9A83CAB8FB930EEE",
+                    "69B1F1ED4F1EC09D",
                     "B2B63870BF0309F5",
                     "4BB3E2907D3ED1CB",
                     "5D01986FB5E538CC",
@@ -287541,7 +287667,7 @@
                     "F5795A904B483F33",
                     "2C7AEE8C6B2BC06A",
                     "0B8D095A45B05587",
-                    "C3427DE8E291FFA6"
+                    "1D0E096C4E9766C6"
                 ]
             }
         },
@@ -288533,18 +288659,77 @@
                 "en": "KOWLOON CITY FERRY",
                 "zh": "\u4e5d\u9f8d\u57ce\u78bc\u982d"
             },
-            "fares": null,
+            "fares": [
+                "7.8",
+                "7.8",
+                "7.8",
+                "7.8",
+                "7.8",
+                "7.8",
+                "7.8",
+                "7.8",
+                "7.8",
+                "7.8",
+                "7.8",
+                "7.8",
+                "7.8",
+                "7.8",
+                "7.8",
+                "7.8",
+                "7.8",
+                "7.8",
+                "7.4",
+                "7.4",
+                "7.4",
+                "7.4",
+                "7.4",
+                "7.4",
+                "7.4",
+                "7.4",
+                "7.4",
+                "7.4",
+                "7.4"
+            ],
             "faresHoliday": null,
-            "freq": null,
-            "gtfsId": null,
-            "jt": null,
+            "freq": {
+                "287": {
+                    "0530": [
+                        "0825",
+                        "1500"
+                    ],
+                    "0825": [
+                        "2325",
+                        "1800"
+                    ],
+                    "2325": [
+                        "2415",
+                        "1500"
+                    ]
+                },
+                "480": {
+                    "0530": [
+                        "0700",
+                        "1800"
+                    ],
+                    "0700": [
+                        "0815",
+                        "1500"
+                    ],
+                    "0815": [
+                        "2415",
+                        "1800"
+                    ]
+                }
+            },
+            "gtfsId": "1351",
+            "jt": "55",
             "nlbId": null,
             "orig": {
                 "en": "KWONG YUEN",
                 "zh": "\u5ee3\u6e90"
             },
             "route": "85A",
-            "seq": 28,
+            "seq": 30,
             "serviceType": "1",
             "stops": {
                 "kmb": [
@@ -288568,6 +288753,7 @@
                     "4E037679702BBCBC",
                     "67C00FA00C878C1A",
                     "9A83CAB8FB930EEE",
+                    "69B1F1ED4F1EC09D",
                     "B2B63870BF0309F5",
                     "4BB3E2907D3ED1CB",
                     "5D01986FB5E538CC",
@@ -288575,7 +288761,8 @@
                     "69B5D7E02401C25B",
                     "4EEABE3D756581FB",
                     "FCAA34C69CFEF26C",
-                    "C3427DE8E291FFA6"
+                    "C3427DE8E291FFA6",
+                    "A678D9D2809B3BE4"
                 ]
             }
         },
@@ -288858,18 +289045,47 @@
                 "en": "KOWLOON CITY FERRY",
                 "zh": "\u4e5d\u9f8d\u57ce\u78bc\u982d"
             },
-            "fares": null,
+            "fares": [
+                "7.8",
+                "7.8",
+                "7.8",
+                "7.8",
+                "7.8",
+                "7.8",
+                "7.8",
+                "7.8",
+                "7.8",
+                "7.8",
+                "7.8",
+                "7.8",
+                "7.4",
+                "7.4",
+                "7.4",
+                "7.4",
+                "7.4",
+                "7.4",
+                "7.4",
+                "7.4",
+                "7.4",
+                "7.4",
+                "7.4",
+                "7.4"
+            ],
             "faresHoliday": null,
-            "freq": null,
-            "gtfsId": null,
-            "jt": null,
+            "freq": {
+                "287": {
+                    "0700": null
+                }
+            },
+            "gtfsId": "1352",
+            "jt": "51",
             "nlbId": null,
             "orig": {
                 "en": "CHUN SHEK",
                 "zh": "\u79e6\u77f3"
             },
             "route": "85B",
-            "seq": 23,
+            "seq": 25,
             "serviceType": "1",
             "stops": {
                 "kmb": [
@@ -288888,6 +289104,7 @@
                     "4E037679702BBCBC",
                     "67C00FA00C878C1A",
                     "9A83CAB8FB930EEE",
+                    "69B1F1ED4F1EC09D",
                     "B2B63870BF0309F5",
                     "4BB3E2907D3ED1CB",
                     "5D01986FB5E538CC",
@@ -288895,7 +289112,8 @@
                     "AE2A53D953B640BE",
                     "F5795A904B483F33",
                     "2C7AEE8C6B2BC06A",
-                    "0B8D095A45B05587"
+                    "0B8D095A45B05587",
+                    "C3427DE8E291FFA6"
                 ]
             }
         },
@@ -339250,6 +339468,102 @@
                 ]
             }
         },
+        "980X+2+ADMIRALTY STATION (EAST)+Sai Sha Residences Transport Interchange": {
+            "bound": {
+                "kmb": "I"
+            },
+            "co": [
+                "kmb"
+            ],
+            "dest": {
+                "en": "Sai Sha Residences Transport Interchange",
+                "zh": "\u897f\u6c99\u7063\u4ea4\u901a\u4ea4\u532f\u8655"
+            },
+            "fares": null,
+            "faresHoliday": null,
+            "freq": null,
+            "gtfsId": null,
+            "jt": null,
+            "nlbId": null,
+            "orig": {
+                "en": "ADMIRALTY STATION (EAST)",
+                "zh": "\u91d1\u9418\u7ad9(\u6771)"
+            },
+            "route": "980X",
+            "seq": 22,
+            "serviceType": "2",
+            "stops": {
+                "kmb": [
+                    "8C4D4E07609BC746",
+                    "4395252CFDC7AB1F",
+                    "52C01B7F122297BD",
+                    "B42222C6800A33A2",
+                    "A8CD8C1198907526",
+                    "6B7C2A21D95241A5",
+                    "DEBD2B9A856C0B1F",
+                    "6F5592E4FF8A35E8",
+                    "857F6F958A96DCDB",
+                    "B31E6B9D8E5B4493",
+                    "46D02E1C1CD82C9A",
+                    "5E082FCF5C58328C",
+                    "4B5F39DBC6671C81",
+                    "4CC126E0B1E42F14",
+                    "A90443FD0C19C4B1",
+                    "E22B819E638307CC",
+                    "2C5CA5F47FB6EB3F",
+                    "6B775855F6FB16D9",
+                    "40C9465E380F04C5",
+                    "C67E139743E66D71",
+                    "8AD4B244D6A50BDB",
+                    "F685DBDB6635F816"
+                ]
+            }
+        },
+        "980X+2+Sai Sha Residences Transport Interchange+WAN CHAI (FLEMING ROAD)": {
+            "bound": {
+                "kmb": "O"
+            },
+            "co": [
+                "kmb"
+            ],
+            "dest": {
+                "en": "WAN CHAI (FLEMING ROAD)",
+                "zh": "\u7063\u4ed4(\u83f2\u6797\u660e\u9053)"
+            },
+            "fares": null,
+            "faresHoliday": null,
+            "freq": null,
+            "gtfsId": null,
+            "jt": null,
+            "nlbId": null,
+            "orig": {
+                "en": "Sai Sha Residences Transport Interchange",
+                "zh": "\u897f\u6c99\u7063\u4ea4\u901a\u4ea4\u532f\u8655"
+            },
+            "route": "980X",
+            "seq": 16,
+            "serviceType": "2",
+            "stops": {
+                "kmb": [
+                    "F685DBDB6635F816",
+                    "79B88295548184C1",
+                    "9CEC1F1000AFE806",
+                    "5D86C919F15C0611",
+                    "F63D25B428F1C1D9",
+                    "E22B819E638307CC",
+                    "8337F935242C5CC3",
+                    "6BD93B827893E41E",
+                    "3C61E9226688CA79",
+                    "8507CD56EB29D1CF",
+                    "15FF958BE6921BAA",
+                    "1D6A8B8C58C268FF",
+                    "F86BDB236D6ACDC3",
+                    "E18D73287340B634",
+                    "C8811A27E4B64581",
+                    "69263C9DB4729B7F"
+                ]
+            }
+        },
         "981P+1+ADMIRALTY STATION (EAST)+YIU ON": {
             "bound": {
                 "ctb": "I",
@@ -348044,6 +348358,53 @@
                 ]
             }
         },
+        "A28X+1+Tseung Kwan O Station+Airport (via HZMB Hong Kong Port)": {
+            "bound": {
+                "ctb": "O"
+            },
+            "co": [
+                "ctb"
+            ],
+            "dest": {
+                "en": "Airport (via HZMB Hong Kong Port)",
+                "zh": "\u6a5f\u5834 (\u7d93\u6e2f\u73e0\u6fb3\u5927\u6a4b\u9999\u6e2f\u53e3\u5cb8)"
+            },
+            "fares": null,
+            "faresHoliday": null,
+            "freq": null,
+            "gtfsId": null,
+            "jt": null,
+            "nlbId": null,
+            "orig": {
+                "en": "Tseung Kwan O Station",
+                "zh": "\u5c07\u8ecd\u6fb3\u7ad9"
+            },
+            "route": "A28X",
+            "seq": 18,
+            "serviceType": 1,
+            "stops": {
+                "ctb": [
+                    "002918",
+                    "001820",
+                    "002917",
+                    "002906",
+                    "002933",
+                    "003477",
+                    "003473",
+                    "003160",
+                    "002930",
+                    "003329",
+                    "002919",
+                    "002920",
+                    "003785",
+                    "001853",
+                    "001844",
+                    "002714",
+                    "003550",
+                    "001837"
+                ]
+            }
+        },
         "A29+1+Airport (Ground Transportation Centre)+Po Lam Station": {
             "bound": {
                 "ctb": "I"
@@ -350281,7 +350642,7 @@
                     "5670D4C081B08DC6",
                     "78644FF7E8B7BBA0",
                     "0221966C1116C4EC",
-                    "3465CA4854929709",
+                    "C70342BF7C6A4732",
                     "C552CE565E1F0C85",
                     "21466046C6868AA7"
                 ]
@@ -350299,6 +350660,7 @@
                 "zh": "\u6a5f\u5834(\u5730\u9762\u904b\u8f38\u4e2d\u5fc3)"
             },
             "fares": [
+                "15.7",
                 "15.7",
                 "15.7",
                 "15.7",
@@ -350358,7 +350720,7 @@
                 "zh": "\u5c6f\u9580\u516c\u8def\u8f49\u8eca\u7ad9"
             },
             "route": "A33",
-            "seq": 35,
+            "seq": 36,
             "serviceType": "2",
             "stops": {
                 "kmb": [
@@ -350392,7 +350754,8 @@
                     "5670D4C081B08DC6",
                     "78644FF7E8B7BBA0",
                     "0221966C1116C4EC",
-                    "3465CA4854929709",
+                    "C70342BF7C6A4732",
+                    "0D5759F7A4B185FE",
                     "C552CE565E1F0C85",
                     "9C9F817064169CE7",
                     "E48E4C46F64FFB0E",
@@ -350417,6 +350780,7 @@
                 "15.7",
                 "15.7",
                 "15.7",
+                "6.8",
                 "6.8",
                 "6.8",
                 "6.8",
@@ -350470,13 +350834,14 @@
                 "zh": "\u6a5f\u5834(\u5730\u9762\u904b\u8f38\u4e2d\u5fc3)"
             },
             "route": "A33",
-            "seq": 34,
+            "seq": 35,
             "serviceType": "3",
             "stops": {
                 "kmb": [
                     "0713774B2DB5E4D3",
                     "9C9F817064169CE7",
                     "E48E4C46F64FFB0E",
+                    "96CE5BB6CD5794BC",
                     "0EE7033EEE2C4C8C",
                     "B651E2A39CD4CC05",
                     "F734736F35F459DC",
@@ -532412,6 +532777,16 @@
                 "zh": "\u8475\u6d8c\u90a8\u590f\u8475\u6a13 (KW166)"
             }
         },
+        "69B1F1ED4F1EC09D": {
+            "location": {
+                "lat": 22.3331,
+                "lng": 114.18736
+            },
+            "name": {
+                "en": "MEI YAN HOUSE MEI TUNG ESTATE",
+                "zh": "\u7f8e\u6771\u90a8\u7f8e\u4ec1\u6a13"
+            }
+        },
         "69B5D7E02401C25B": {
             "location": {
                 "lat": 22.32334,
@@ -568910,6 +569285,16 @@
             "name": {
                 "en": "KORNHILL PLAZA (ED540)",
                 "zh": "\u5eb7\u6021\u5ee3\u5834 (ED540)"
+            }
+        },
+        "F685DBDB6635F816": {
+            "location": {
+                "lat": 22.42639,
+                "lng": 114.26704
+            },
+            "name": {
+                "en": "Sai Sha Residences Transport Interchange (SK980)",
+                "zh": "\u897f\u6c99\u7063\u4ea4\u901a\u4ea4\u532f\u8655 (SK980)"
             }
         },
         "F69B2B317BEB37A3": {
@@ -611682,6 +612067,10 @@
             [
                 "kmb",
                 "8B9E121BB71771F4"
+            ],
+            [
+                "kmb",
+                "F685DBDB6635F816"
             ]
         ],
         "003888": [
@@ -711502,6 +711891,10 @@
             [
                 "kmb",
                 "8B9E121BB71771F4"
+            ],
+            [
+                "kmb",
+                "F685DBDB6635F816"
             ]
         ],
         "7483C9963686E2F2": [
@@ -716670,6 +717063,10 @@
             [
                 "kmb",
                 "8B9E121BB71771F4"
+            ],
+            [
+                "kmb",
+                "F685DBDB6635F816"
             ]
         ],
         "81E82A4D2A0D9BD3": [
@@ -720608,6 +721005,10 @@
             [
                 "kmb",
                 "74775F172FABD878"
+            ],
+            [
+                "kmb",
+                "F685DBDB6635F816"
             ]
         ],
         "8BAB6AA783EE0508": [
@@ -764866,6 +765267,20 @@
             [
                 "mtr",
                 "TAK"
+            ]
+        ],
+        "F685DBDB6635F816": [
+            [
+                "ctb",
+                "003886"
+            ],
+            [
+                "kmb",
+                "74775F172FABD878"
+            ],
+            [
+                "kmb",
+                "8B9E121BB71771F4"
             ]
         ],
         "F69B2B317BEB37A3": [
