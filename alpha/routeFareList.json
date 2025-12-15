@@ -166377,69 +166377,6 @@
                 ]
             }
         },
-        "45M+1+Caritas Medical Centre+Sham Shui Po (Yu Chau Street)": {
-            "bound": {
-                "gmb": "O"
-            },
-            "co": [
-                "gmb"
-            ],
-            "dest": {
-                "en": "Sham Shui Po (Yu Chau Street)",
-                "zh": "\u6df1\u6c34\u57d7(\u6c5d\u5dde\u8857)"
-            },
-            "fares": null,
-            "faresHoliday": null,
-            "freq": {
-                "31": {
-                    "0600": [
-                        "2300",
-                        "900"
-                    ]
-                },
-                "32": {
-                    "0600": [
-                        "1000",
-                        "1200"
-                    ],
-                    "1000": [
-                        "1200",
-                        "900"
-                    ],
-                    "1200": [
-                        "1500",
-                        "1200"
-                    ],
-                    "1500": [
-                        "1700",
-                        "900"
-                    ],
-                    "1700": [
-                        "2120",
-                        "1200"
-                    ]
-                },
-                "64": {
-                    "0600": [
-                        "2120",
-                        "1200"
-                    ]
-                }
-            },
-            "gtfsId": "2011325",
-            "jt": null,
-            "nlbId": null,
-            "orig": {
-                "en": "Caritas Medical Centre",
-                "zh": "\u660e\u611b\u91ab\u9662"
-            },
-            "route": "45M",
-            "seq": 0,
-            "serviceType": 1,
-            "stops": {
-                "gmb": []
-            }
-        },
         "45S+2+Western District (First Street)+Conduit Road (Circular)": {
             "bound": {
                 "gmb": "O"
