@@ -455230,8 +455230,8 @@
                 "lng": 113.94864
             },
             "name": {
-                "en": "TUEN MUN CHEK LAP KOK TUNNEL BBI (A3) (TM512)",
-                "zh": "\u5c6f\u9580\u8d64\u9c72\u89d2\u96a7\u9053\u8f49\u8eca\u7ad9 (A3)"
+                "en": "TUEN MUN CHEK LAP KOK TUNNEL BBI (TM512)",
+                "zh": "\u5c6f\u9580\u8d64\u9c72\u89d2\u96a7\u9053\u8f49\u8eca\u7ad9 (TM512)"
             }
         },
         "041A140AD24C1ADB": {
@@ -456130,8 +456130,8 @@
                 "lng": 114.13919
             },
             "name": {
-                "en": "FANLING STATION BBI - FANLING STATION (C1) (ND495)",
-                "zh": "\u7c89\u5dba\u7ad9\u8f49\u8eca\u7ad9 - \u7c89\u5dba\u7ad9(C1)"
+                "en": "FANLING STATION BBI - FANLING STATION (ND495)",
+                "zh": "\u7c89\u5dba\u7ad9\u8f49\u8eca\u7ad9 - \u7c89\u5dba\u7ad9 (ND495)"
             }
         },
         "07F21DF049D501B1": {
@@ -456740,8 +456740,8 @@
                 "lng": 114.13902
             },
             "name": {
-                "en": "FANLING STATION BBI - FANLING STATION (D1) (ND135)",
-                "zh": "\u7c89\u5dba\u7ad9\u8f49\u8eca\u7ad9 - \u7c89\u5dba\u7ad9(D1)"
+                "en": "FANLING STATION BBI - FANLING STATION (ND135)",
+                "zh": "\u7c89\u5dba\u7ad9\u8f49\u8eca\u7ad9 - \u7c89\u5dba\u7ad9 (ND135)"
             }
         },
         "0AB2356DB4B15F19": {
@@ -513400,8 +513400,8 @@
                 "lng": 114.14039
             },
             "name": {
-                "en": "FANLING STATION BBI - CHEUNG WAH ESTATE (A1)",
-                "zh": "\u7c89\u5dba\u7ad9\u8f49\u8eca\u7ad9 - \u7965\u83ef\u90a8(A1)"
+                "en": "FANLING STATION BBI - CHEUNG WAH ESTATE (ND182)",
+                "zh": "\u7c89\u5dba\u7ad9\u8f49\u8eca\u7ad9 - \u7965\u83ef\u90a8 (ND182)"
             }
         },
         "257A6E19DD7F156C": {
@@ -513890,8 +513890,8 @@
                 "lng": 114.12719
             },
             "name": {
-                "en": "SHEUNG SHUI BBI - SHEUNG SHUI STATION(B1) (ND484)",
-                "zh": "\u4e0a\u6c34\u8f49\u8eca\u7ad9 - \u4e0a\u6c34\u7ad9(B1)"
+                "en": "SHEUNG SHUI BBI - SHEUNG SHUI STATION (ND484)",
+                "zh": "\u4e0a\u6c34\u8f49\u8eca\u7ad9 - \u4e0a\u6c34\u7ad9 (ND484)"
             }
         },
         "26AC2D471648CA0C": {
@@ -514710,8 +514710,8 @@
                 "lng": 114.1277
             },
             "name": {
-                "en": "SHEUNG SHUI BBI - SHEUNG SHUI TERMINUS (A2)",
-                "zh": "\u4e0a\u6c34\u8f49\u8eca\u7ad9 - \u4e0a\u6c34\u7e3d\u7ad9(A2)"
+                "en": "SHEUNG SHUI BBI - SHEUNG SHUI TERMINUS (ND906)",
+                "zh": "\u4e0a\u6c34\u8f49\u8eca\u7ad9 - \u4e0a\u6c34\u7e3d\u7ad9 (ND906)"
             }
         },
         "294": {
@@ -518350,8 +518350,8 @@
                 "lng": 113.94868
             },
             "name": {
-                "en": "TUEN MUN CHEK LAP KOK TUNNEL BBI (A2) (TM513)",
-                "zh": "\u5c6f\u9580\u8d64\u9c72\u89d2\u96a7\u9053\u8f49\u8eca\u7ad9 (A2)"
+                "en": "TUEN MUN CHEK LAP KOK TUNNEL BBI (TM513)",
+                "zh": "\u5c6f\u9580\u8d64\u9c72\u89d2\u96a7\u9053\u8f49\u8eca\u7ad9 (TM513)"
             }
         },
         "34740DD5ABC36F12": {
@@ -520760,8 +520760,8 @@
                 "lng": 114.13958
             },
             "name": {
-                "en": "FANLING STATION BBI - FANLING TOWN CENTRE (B1)",
-                "zh": "\u7c89\u5dba\u7ad9\u8f49\u8eca\u7ad9 - \u7c89\u5dba\u540d\u90fd (B1)"
+                "en": "FANLING STATION BBI - FANLING TOWN CENTRE (ND474)",
+                "zh": "\u7c89\u5dba\u7ad9\u8f49\u8eca\u7ad9 - \u7c89\u5dba\u540d\u90fd"
             }
         },
         "3DEEC3D4DC381867": {
@@ -521290,8 +521290,8 @@
                 "lng": 114.12792
             },
             "name": {
-                "en": "SHEUNG SHUI BBI - SHEUNG SHUI STATION(D1) (ND107)",
-                "zh": "\u4e0a\u6c34\u8f49\u8eca\u7ad9 - \u4e0a\u6c34\u7ad9(D1)"
+                "en": "SHEUNG SHUI BBI - SHEUNG SHUI STATION (ND107)",
+                "zh": "\u4e0a\u6c34\u8f49\u8eca\u7ad9 - \u4e0a\u6c34\u7ad9 (ND107)"
             }
         },
         "3FAC7CF6EAD17A92": {
@@ -524340,8 +524340,8 @@
                 "lng": 114.12777
             },
             "name": {
-                "en": "SHEUNG SHUI BBI - SHEUNG SHUI TERMINUS (A3)",
-                "zh": "\u4e0a\u6c34\u8f49\u8eca\u7ad9 - \u4e0a\u6c34\u7e3d\u7ad9(A3)"
+                "en": "SHEUNG SHUI BBI - SHEUNG SHUI TERMINUS (ND909)",
+                "zh": "\u4e0a\u6c34\u8f49\u8eca\u7ad9 - \u4e0a\u6c34\u7e3d\u7ad9 (ND909)"
             }
         },
         "4A38244491180BF7": {
@@ -525350,8 +525350,8 @@
                 "lng": 114.1273
             },
             "name": {
-                "en": "SHEUNG SHUI BBI - SHEUNG SHUI STATION(C1) (ND430)",
-                "zh": "\u4e0a\u6c34\u8f49\u8eca\u7ad9 - \u4e0a\u6c34\u7ad9(C1)"
+                "en": "SHEUNG SHUI BBI - SHEUNG SHUI STATION (ND430)",
+                "zh": "\u4e0a\u6c34\u8f49\u8eca\u7ad9 - \u4e0a\u6c34\u7ad9 (ND430)"
             }
         },
         "4E7624E310A2FF44": {
@@ -525570,8 +525570,8 @@
                 "lng": 113.94874
             },
             "name": {
-                "en": "TUEN MUN CHEK LAP KOK TUNNEL BBI (A4) (TM511)",
-                "zh": "\u5c6f\u9580\u8d64\u9c72\u89d2\u96a7\u9053\u8f49\u8eca\u7ad9 (A4)"
+                "en": "TUEN MUN CHEK LAP KOK TUNNEL BBI (TM511)",
+                "zh": "\u5c6f\u9580\u8d64\u9c72\u89d2\u96a7\u9053\u8f49\u8eca\u7ad9 (TM511)"
             }
         },
         "4F57E2979AF3928D": {
@@ -527010,8 +527010,8 @@
                 "lng": 114.12708
             },
             "name": {
-                "en": "SHEUNG SHUI BBI - SHEUNG SHUI STATION(B3) (ND482)",
-                "zh": "\u4e0a\u6c34\u8f49\u8eca\u7ad9 - \u4e0a\u6c34\u7ad9(B3)"
+                "en": "SHEUNG SHUI BBI - SHEUNG SHUI STATION (ND482)",
+                "zh": "\u4e0a\u6c34\u8f49\u8eca\u7ad9 - \u4e0a\u6c34\u7ad9 (ND482)"
             }
         },
         "539C1C625EA036B1": {
@@ -528200,8 +528200,8 @@
                 "lng": 114.12731
             },
             "name": {
-                "en": "SHEUNG SHUI BBI - SHEUNG SHUI STATION(B4) (ND481)",
-                "zh": "\u4e0a\u6c34\u8f49\u8eca\u7ad9 - \u4e0a\u6c34\u7ad9(B4)"
+                "en": "SHEUNG SHUI BBI - SHEUNG SHUI STATION (ND481)",
+                "zh": "\u4e0a\u6c34\u8f49\u8eca\u7ad9 - \u4e0a\u6c34\u7ad9 (ND481)"
             }
         },
         "57EB54AE06E21275": {
@@ -530500,8 +530500,8 @@
                 "lng": 114.13896
             },
             "name": {
-                "en": "FANLING STATION BBI - FANLING STATION (D1) (ND134)",
-                "zh": "\u7c89\u5dba\u7ad9\u8f49\u8eca\u7ad9 - \u7c89\u5dba\u7ad9(D1)"
+                "en": "FANLING STATION BBI - FANLING STATION (ND134)",
+                "zh": "\u7c89\u5dba\u7ad9\u8f49\u8eca\u7ad9 - \u7c89\u5dba\u7ad9 (ND134)"
             }
         },
         "6098480103C44C62": {
@@ -530540,8 +530540,8 @@
                 "lng": 114.1277
             },
             "name": {
-                "en": "SHEUNG SHUI BBI - SHEUNG SHUI TERMINUS (A1)",
-                "zh": "\u4e0a\u6c34\u8f49\u8eca\u7ad9 - \u4e0a\u6c34\u7e3d\u7ad9(A1)"
+                "en": "SHEUNG SHUI BBI - SHEUNG SHUI TERMINUS (ND903)",
+                "zh": "\u4e0a\u6c34\u8f49\u8eca\u7ad9 - \u4e0a\u6c34\u7e3d\u7ad9 (ND903)"
             }
         },
         "60AFFC49BF89324D": {
@@ -531650,8 +531650,8 @@
                 "lng": 114.12744
             },
             "name": {
-                "en": "SHEUNG SHUI BBI - SHEUNG SHUI STATION(B6) (ND477)",
-                "zh": "\u4e0a\u6c34\u8f49\u8eca\u7ad9 - \u4e0a\u6c34\u7ad9(B6)"
+                "en": "SHEUNG SHUI BBI - SHEUNG SHUI STATION (ND477)",
+                "zh": "\u4e0a\u6c34\u8f49\u8eca\u7ad9 - \u4e0a\u6c34\u7ad9 (ND477)"
             }
         },
         "6491C7B3E4DAD76D": {
@@ -532120,8 +532120,8 @@
                 "lng": 114.13887
             },
             "name": {
-                "en": "FANLING STATION BBI - FANLING STATION(D1) (ND133)",
-                "zh": "\u7c89\u5dba\u7ad9\u8f49\u8eca\u7ad9 - \u7c89\u5dba\u7ad9(D1)"
+                "en": "FANLING STATION BBI - FANLING STATION (ND133)",
+                "zh": "\u7c89\u5dba\u7ad9\u8f49\u8eca\u7ad9 - \u7c89\u5dba\u7ad9 (ND133)"
             }
         },
         "65EDACB416872451": {
@@ -533130,8 +533130,8 @@
                 "lng": 114.18736
             },
             "name": {
-                "en": "MEI YAN HOUSE MEI TUNG ESTATE",
-                "zh": "\u7f8e\u6771\u90a8\u7f8e\u4ec1\u6a13"
+                "en": "MEI YAN HOUSE MEI TUNG ESTATE (WT627)",
+                "zh": "\u7f8e\u6771\u90a8\u7f8e\u4ec1\u6a13 (WT627)"
             }
         },
         "69B5D7E02401C25B": {
@@ -537600,8 +537600,8 @@
                 "lng": 114.16637
             },
             "name": {
-                "en": "JORDAN ROAD WEST KOWLOON STATION (YT674a)",
-                "zh": "\u4f50\u6566\u9053\u897f\u4e5d\u9f8d\u7ad9 (YT674a)"
+                "en": "JORDAN ROAD WEST KOWLOON STATION (YT674b)",
+                "zh": "\u4f50\u6566\u9053\u897f\u4e5d\u9f8d\u7ad9 (YT674b)"
             }
         },
         "7B93AB79165E79E6": {
@@ -539130,8 +539130,8 @@
                 "lng": 114.12786
             },
             "name": {
-                "en": "SHEUNG SHUI BBI - SHEUNG SHUI TERMINUS (A3)",
-                "zh": "\u4e0a\u6c34\u8f49\u8eca\u7ad9 - \u4e0a\u6c34\u7e3d\u7ad9(A3)"
+                "en": "SHEUNG SHUI BBI - SHEUNG SHUI TERMINUS (ND910)",
+                "zh": "\u4e0a\u6c34\u8f49\u8eca\u7ad9 - \u4e0a\u6c34\u7e3d\u7ad9 (ND910)"
             }
         },
         "816F423684877612": {
@@ -543720,8 +543720,8 @@
                 "lng": 114.12785
             },
             "name": {
-                "en": "SHEUNG SHUI BBI - SHEUNG SHUI TERMINUS (A2)",
-                "zh": "\u4e0a\u6c34\u8f49\u8eca\u7ad9 - \u4e0a\u6c34\u7e3d\u7ad9(A2)"
+                "en": "SHEUNG SHUI BBI - SHEUNG SHUI TERMINUS (ND908)",
+                "zh": "\u4e0a\u6c34\u8f49\u8eca\u7ad9 - \u4e0a\u6c34\u7e3d\u7ad9 (ND908)"
             }
         },
         "941B58A78A49CD0B": {
@@ -545720,8 +545720,8 @@
                 "lng": 114.13979
             },
             "name": {
-                "en": "FANLING STATION BBI - FANLING TOWN CENTRE (B1)",
-                "zh": "\u7c89\u5dba\u7ad9\u8f49\u8eca\u7ad9 - \u7c89\u5dba\u540d\u90fd (B1)"
+                "en": "FANLING STATION BBI - FANLING TOWN CENTRE (ND472)",
+                "zh": "\u7c89\u5dba\u7ad9\u8f49\u8eca\u7ad9 - \u7c89\u5dba\u540d\u90fd"
             }
         },
         "9BEBB2D3B05DD529": {
@@ -545860,8 +545860,8 @@
                 "lng": 114.12726
             },
             "name": {
-                "en": "SHEUNG SHUI BBI - SHEUNG SHUI STATION(B2) (ND483)",
-                "zh": "\u4e0a\u6c34\u8f49\u8eca\u7ad9 - \u4e0a\u6c34\u7ad9(B2)"
+                "en": "SHEUNG SHUI BBI - SHEUNG SHUI STATION (ND483)",
+                "zh": "\u4e0a\u6c34\u8f49\u8eca\u7ad9 - \u4e0a\u6c34\u7ad9 (ND483)"
             }
         },
         "9CAF2FDA35EEF9E2": {
@@ -546030,8 +546030,8 @@
                 "lng": 114.13848
             },
             "name": {
-                "en": "FANLING STATION BBI - FUNG YING SEEN KOON (D2)",
-                "zh": "\u7c89\u5dba\u7ad9\u8f49\u8eca\u7ad9 - \u84ec\u701b\u4ed9\u9928 (D2)"
+                "en": "FANLING STATION BBI - FUNG YING SEEN KOON (ND398)",
+                "zh": "\u7c89\u5dba\u7ad9\u8f49\u8eca\u7ad9 - \u84ec\u701b\u4ed9\u9928"
             }
         },
         "9D3BCB233237C32C": {
@@ -549050,8 +549050,8 @@
                 "lng": 114.12768
             },
             "name": {
-                "en": "SHEUNG SHUI BBI - SHEUNG SHUI TERMINUS (A1)",
-                "zh": "\u4e0a\u6c34\u8f49\u8eca\u7ad9 - \u4e0a\u6c34\u7e3d\u7ad9(A1)"
+                "en": "SHEUNG SHUI BBI - SHEUNG SHUI TERMINUS (ND900)",
+                "zh": "\u4e0a\u6c34\u8f49\u8eca\u7ad9 - \u4e0a\u6c34\u7e3d\u7ad9 (ND900)"
             }
         },
         "A7D3749EF3C6B8CE": {
@@ -556590,8 +556590,8 @@
                 "lng": 114.12822
             },
             "name": {
-                "en": "SHEUNG SHUI BBI - SHEUNG SHUI TERMINUS (A1)",
-                "zh": "\u4e0a\u6c34\u8f49\u8eca\u7ad9 - \u4e0a\u6c34\u7e3d\u7ad9(A1)"
+                "en": "SHEUNG SHUI BBI - SHEUNG SHUI TERMINUS (ND902)",
+                "zh": "\u4e0a\u6c34\u8f49\u8eca\u7ad9 - \u4e0a\u6c34\u7e3d\u7ad9 (ND902)"
             }
         },
         "C4DC1D050CDF793D": {
@@ -557060,8 +557060,8 @@
                 "lng": 113.94858
             },
             "name": {
-                "en": "TUEN MUN CHEK LAP KOK TUNNEL BBI (A1) (TM514)",
-                "zh": "\u5c6f\u9580\u8d64\u9c72\u89d2\u96a7\u9053\u8f49\u8eca\u7ad9 (A1)"
+                "en": "TUEN MUN CHEK LAP KOK TUNNEL BBI (TM514)",
+                "zh": "\u5c6f\u9580\u8d64\u9c72\u89d2\u96a7\u9053\u8f49\u8eca\u7ad9 (TM514)"
             }
         },
         "C71093B5185DF735": {
@@ -557080,8 +557080,8 @@
                 "lng": 114.13841
             },
             "name": {
-                "en": "FANLING STATION BBI-FUNG YING SEEN KOON(D2)",
-                "zh": "\u7c89\u5dba\u7ad9\u8f49\u8eca\u7ad9 - \u84ec\u701b\u4ed9\u9928 (D2)"
+                "en": "FANLING STATION BBI-FUNG YING SEEN KOON (ND397)",
+                "zh": "\u7c89\u5dba\u7ad9\u8f49\u8eca\u7ad9 - \u84ec\u701b\u4ed9\u9928"
             }
         },
         "C714D6DAAC9C9719": {
@@ -557220,8 +557220,8 @@
                 "lng": 114.1277
             },
             "name": {
-                "en": "SHEUNG SHUI BBI - SHEUNG SHUI TERMINUS (A1)",
-                "zh": "\u4e0a\u6c34\u8f49\u8eca\u7ad9 - \u4e0a\u6c34\u7e3d\u7ad9(A1)"
+                "en": "SHEUNG SHUI BBI - SHEUNG SHUI TERMINUS (ND905)",
+                "zh": "\u4e0a\u6c34\u8f49\u8eca\u7ad9 - \u4e0a\u6c34\u7e3d\u7ad9 (ND905)"
             }
         },
         "C7A337AC40E14E19": {
@@ -559030,8 +559030,8 @@
                 "lng": 114.1282
             },
             "name": {
-                "en": "SHEUNG SHUI BBI - SHEUNG SHUI TERMINUS (A4)",
-                "zh": "\u4e0a\u6c34\u8f49\u8eca\u7ad9 - \u4e0a\u6c34\u7e3d\u7ad9(A4)"
+                "en": "SHEUNG SHUI BBI - SHEUNG SHUI TERMINUS (ND912)",
+                "zh": "\u4e0a\u6c34\u8f49\u8eca\u7ad9 - \u4e0a\u6c34\u7e3d\u7ad9 (ND912)"
             }
         },
         "CF17F8C87DBBF2BC": {
@@ -560700,8 +560700,8 @@
                 "lng": 114.13936
             },
             "name": {
-                "en": "FANLING STATION BBI - FANLING STATION (C1) (ND496)",
-                "zh": "\u7c89\u5dba\u7ad9\u8f49\u8eca\u7ad9 - \u7c89\u5dba\u7ad9(C1)"
+                "en": "FANLING STATION BBI - FANLING STATION (ND496)",
+                "zh": "\u7c89\u5dba\u7ad9\u8f49\u8eca\u7ad9 - \u7c89\u5dba\u7ad9 (ND496)"
             }
         },
         "D4C4D9175A19C230": {
@@ -561680,8 +561680,8 @@
                 "lng": 114.12735
             },
             "name": {
-                "en": "SHEUNG SHUI BBI - SHEUNG SHUI STATION(B5) (ND479)",
-                "zh": "\u4e0a\u6c34\u8f49\u8eca\u7ad9 - \u4e0a\u6c34\u7ad9(B5)"
+                "en": "SHEUNG SHUI BBI - SHEUNG SHUI STATION (ND479)",
+                "zh": "\u4e0a\u6c34\u8f49\u8eca\u7ad9 - \u4e0a\u6c34\u7ad9 (ND479)"
             }
         },
         "D878C13F6163EB8A": {
@@ -567580,8 +567580,8 @@
                 "lng": 114.14039
             },
             "name": {
-                "en": "FANLING STATION BBI - CHEUNG WAH ESTATE (A1)",
-                "zh": "\u7c89\u5dba\u7ad9\u8f49\u8eca\u7ad9 - \u7965\u83ef\u90a8(A1)"
+                "en": "FANLING STATION BBI - CHEUNG WAH ESTATE (ND184)",
+                "zh": "\u7c89\u5dba\u7ad9\u8f49\u8eca\u7ad9 - \u7965\u83ef\u90a8 (ND184)"
             }
         },
         "EF7EC605C6C6859A": {
@@ -567970,8 +567970,8 @@
                 "lng": 114.1277
             },
             "name": {
-                "en": "SHEUNG SHUI BBI - SHEUNG SHUI TERMINUS (A5)",
-                "zh": "\u4e0a\u6c34\u8f49\u8eca\u7ad9 - \u4e0a\u6c34\u7e3d\u7ad9(A5)"
+                "en": "SHEUNG SHUI BBI - SHEUNG SHUI TERMINUS (ND913)",
+                "zh": "\u4e0a\u6c34\u8f49\u8eca\u7ad9 - \u4e0a\u6c34\u7e3d\u7ad9 (ND913)"
             }
         },
         "F11894F005F25CAB": {
@@ -569680,8 +569680,8 @@
                 "lng": 114.1277
             },
             "name": {
-                "en": "SHEUNG SHUI BBI - SHEUNG SHUI TERMINUS (A4)",
-                "zh": "\u4e0a\u6c34\u8f49\u8eca\u7ad9 - \u4e0a\u6c34\u7e3d\u7ad9(A4)"
+                "en": "SHEUNG SHUI BBI - SHEUNG SHUI TERMINUS (ND911)",
+                "zh": "\u4e0a\u6c34\u8f49\u8eca\u7ad9 - \u4e0a\u6c34\u7e3d\u7ad9 (ND911)"
             }
         },
         "F6C81A30F7110D53": {
@@ -570420,8 +570420,8 @@
                 "lng": 114.12792
             },
             "name": {
-                "en": "SHEUNG SHUI BBI - SHEUNG SHUI STATION(D2) (ND106)",
-                "zh": "\u4e0a\u6c34\u8f49\u8eca\u7ad9 - \u4e0a\u6c34\u7ad9(D2)"
+                "en": "SHEUNG SHUI BBI - SHEUNG SHUI STATION (ND106)",
+                "zh": "\u4e0a\u6c34\u8f49\u8eca\u7ad9 - \u4e0a\u6c34\u7ad9 (ND106)"
             }
         },
         "F8CBA0DDD2E2C069": {
