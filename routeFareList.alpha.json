@@ -274829,6 +274829,7 @@
                 "5.4",
                 "5.4",
                 "5.4",
+                "5.4",
                 "5.4"
             ],
             "faresHoliday": null,
@@ -274932,7 +274933,7 @@
                 "zh": "\u89c0\u5858\u78bc\u982d"
             },
             "route": "80",
-            "seq": 26,
+            "seq": 27,
             "serviceType": "1",
             "stops": {
                 "kmb": [
@@ -274943,6 +274944,7 @@
                     "20B34B5CA0E66973",
                     "E21A497AF62AF38F",
                     "CEA9610F9443BD8D",
+                    "50C432C497A20C1C",
                     "26A996F589C84844",
                     "31B93EAF018D6956",
                     "AB194503D9CC9465",
@@ -279066,6 +279068,7 @@
                 "6.3",
                 "6.3",
                 "6.3",
+                "6.3",
                 "6.3"
             ],
             "faresHoliday": null,
@@ -279145,7 +279148,7 @@
                 "zh": "\u89c0\u5858\u78bc\u982d"
             },
             "route": "80X",
-            "seq": 17,
+            "seq": 18,
             "serviceType": "1",
             "stops": {
                 "kmb": [
@@ -279156,6 +279159,7 @@
                     "20B34B5CA0E66973",
                     "9D0545E5BBF8027A",
                     "CEA9610F9443BD8D",
+                    "50C432C497A20C1C",
                     "91AED9CBCE81500D",
                     "31B93EAF018D6956",
                     "18F3C20116BFE83D",
@@ -286600,7 +286604,7 @@
                 ]
             }
         },
-        "83X+1+KWUN TONG FERRY (KT941)+BANYAN HOUSE KWONG YUEN ESTATE (ST620)": {
+        "83X+1+KWUN TONG FERRY (KT941)+WONG NAI TAU BUS TERMINUS (ST892)": {
             "bound": {
                 "kmb": "I"
             },
@@ -286608,8 +286612,8 @@
                 "kmb"
             ],
             "dest": {
-                "en": "BANYAN HOUSE KWONG YUEN ESTATE (ST620)",
-                "zh": "\u5ee3\u6e90\u90a8\u5ee3\u6995\u6a13 (ST620)"
+                "en": "WONG NAI TAU BUS TERMINUS (ST892)",
+                "zh": "\u9ec3\u6ce5\u982d\u5df4\u58eb\u7e3d\u7ad9 (ST892)"
             },
             "fares": [
                 "8.1",
@@ -286655,14 +286659,14 @@
                     "0ACB63B00DEE1B37",
                     "E21A497AF62AF38F",
                     "CEA9610F9443BD8D",
+                    "50C432C497A20C1C",
                     "91AED9CBCE81500D",
                     "31B93EAF018D6956",
                     "E7A8D18CC7046843",
                     "9961C7ED914E87DD",
                     "69E4C417312C10C0",
                     "C1E1199805BCC92D",
-                    "A0496DDDC41213FA",
-                    "BCEEE192EF01C361"
+                    "A0496DDDC41213FA"
                 ]
             }
         },
@@ -286689,6 +286693,7 @@
                 "8.1",
                 "8.1",
                 "8.1",
+                "6.3",
                 "6.3",
                 "6.3",
                 "6.3",
@@ -286786,7 +286791,7 @@
                 "zh": "\u89c0\u5858\u78bc\u982d"
             },
             "route": "83X",
-            "seq": 19,
+            "seq": 20,
             "serviceType": "1",
             "stops": {
                 "kmb": [
@@ -286797,6 +286802,7 @@
                     "0ACB63B00DEE1B37",
                     "E21A497AF62AF38F",
                     "CEA9610F9443BD8D",
+                    "50C432C497A20C1C",
                     "91AED9CBCE81500D",
                     "31B93EAF018D6956",
                     "E7A8D18CC7046843",
@@ -286933,49 +286939,6 @@
                     "80B56E2C7719DAF4",
                     "71E3EB7E709522C7",
                     "7188D2451C5AF461"
-                ]
-            }
-        },
-        "83X+2+KWUN TONG FERRY+WONG NAI TAU": {
-            "bound": {
-                "kmb": "I"
-            },
-            "co": [
-                "kmb"
-            ],
-            "dest": {
-                "en": "WONG NAI TAU",
-                "zh": "\u9ec3\u6ce5\u982d"
-            },
-            "fares": null,
-            "faresHoliday": null,
-            "freq": null,
-            "gtfsId": null,
-            "jt": null,
-            "nlbId": null,
-            "orig": {
-                "en": "KWUN TONG FERRY",
-                "zh": "\u89c0\u5858\u78bc\u982d"
-            },
-            "route": "83X",
-            "seq": 14,
-            "serviceType": "2",
-            "stops": {
-                "kmb": [
-                    "7188D2451C5AF461",
-                    "21AFFFF707224831",
-                    "31BFA986DE84EDE1",
-                    "3221A3FF8CA898FF",
-                    "0ACB63B00DEE1B37",
-                    "E21A497AF62AF38F",
-                    "CEA9610F9443BD8D",
-                    "91AED9CBCE81500D",
-                    "31B93EAF018D6956",
-                    "E7A8D18CC7046843",
-                    "9961C7ED914E87DD",
-                    "69E4C417312C10C0",
-                    "C1E1199805BCC92D",
-                    "A0496DDDC41213FA"
                 ]
             }
         },
@@ -302472,6 +302435,7 @@
                 "6.3",
                 "6.3",
                 "6.3",
+                "6.3",
                 "6.3"
             ],
             "faresHoliday": null,
@@ -302619,7 +302583,7 @@
                 "zh": "\u89c0\u5858(\u7fe0\u5c4f\u9053)"
             },
             "route": "89X",
-            "seq": 22,
+            "seq": 23,
             "serviceType": "1",
             "stops": {
                 "kmb": [
@@ -302631,6 +302595,7 @@
                     "0ACB63B00DEE1B37",
                     "9D0545E5BBF8027A",
                     "CEA9610F9443BD8D",
+                    "50C432C497A20C1C",
                     "91AED9CBCE81500D",
                     "9C884013EBA1D548",
                     "AB194503D9CC9465",
@@ -462294,16 +462259,6 @@
                 "zh": "\u9577\u9752\u90a8\u9752\u69d0\u6a13 (TY327)"
             }
         },
-        "1A38F9517732098F": {
-            "location": {
-                "lat": 22.32209,
-                "lng": 114.21427
-            },
-            "name": {
-                "en": "TELFORD GARDENS (KT658)",
-                "zh": "\u5fb7\u798f\u82b1\u5712 (KT658)"
-            }
-        },
         "1A52AD7D8F64311F": {
             "location": {
                 "lat": 22.4581,
@@ -517204,16 +517159,6 @@
                 "zh": "\u6771\u6d8c\u9054\u6771\u8def\u5df4\u58eb\u7e3d\u7ad9"
             }
         },
-        "31852497A98F4A15": {
-            "location": {
-                "lat": 22.32257,
-                "lng": 114.21431
-            },
-            "name": {
-                "en": "TELFORD GARDENS (KT664)",
-                "zh": "\u5fb7\u798f\u82b1\u5712 (KT664)"
-            }
-        },
         "319": {
             "location": {
                 "lat": 22.29385,
@@ -526254,6 +526199,16 @@
                 "zh": "\u6f01\u6c11\u65b0\u6751 (SK145)"
             }
         },
+        "50C432C497A20C1C": {
+            "location": {
+                "lat": 0.0,
+                "lng": 0.0
+            },
+            "name": {
+                "en": "TELFORD GARDENS",
+                "zh": "\u5fb7\u798f\u82b1\u5712"
+            }
+        },
         "50C82DFB0AC97FC8": {
             "location": {
                 "lat": 22.28077,
@@ -529342,16 +529297,6 @@
             "name": {
                 "en": "CHEERFUL GARDEN",
                 "zh": "\u5bcc\u6021\u82b1\u5712"
-            }
-        },
-        "5C1C4A58776A0D0B": {
-            "location": {
-                "lat": 22.30443,
-                "lng": 114.18992
-            },
-            "name": {
-                "en": "WHAMPOA(SHUNG KING STREET)",
-                "zh": "\u9ec3\u57d4(\u8239\u666f\u8857)"
             }
         },
         "5C1FB04FF191337B": {
@@ -547252,16 +547197,6 @@
             "name": {
                 "en": "PING HING LANE PING SHAN (YL610)",
                 "zh": "\u5c4f\u5c71\u5c4f\u8208\u91cc (YL610)"
-            }
-        },
-        "A11DE40C25E0AB6A": {
-            "location": {
-                "lat": 22.32231,
-                "lng": 114.21426
-            },
-            "name": {
-                "en": "TELFORD GARDENS (KT663)",
-                "zh": "\u5fb7\u798f\u82b1\u5712 (KT663)"
             }
         },
         "A11E4BB8DE5D8598": {
@@ -625176,72 +625111,6 @@
                 "0CFB814CB6C356C1"
             ]
         ],
-        "1A38F9517732098F": [
-            [
-                "ctb",
-                "001499"
-            ],
-            [
-                "kmb",
-                "06E1120EA9A7BF69"
-            ],
-            [
-                "gmb",
-                "20001060"
-            ],
-            [
-                "kmb",
-                "6465DE9EE57F6C94"
-            ],
-            [
-                "kmb",
-                "C2AA10A9751D3692"
-            ],
-            [
-                "kmb",
-                "CC811B604DD883AE"
-            ],
-            [
-                "kmb",
-                "D45CEDE6A9DFA30B"
-            ],
-            [
-                "kmb",
-                "D530D698BC181839"
-            ],
-            [
-                "kmb",
-                "F97399CFEEB9219B"
-            ],
-            [
-                "kmb",
-                "6216EE509BD55B09"
-            ],
-            [
-                "kmb",
-                "E4DC4C1162E302AE"
-            ],
-            [
-                "kmb",
-                "BE36EF30B86ADD1D"
-            ],
-            [
-                "ctb",
-                "001506"
-            ],
-            [
-                "kmb",
-                "E5E15C5F7F0344AB"
-            ],
-            [
-                "kmb",
-                "8C79BE154468AE21"
-            ],
-            [
-                "kmb",
-                "9E256D7EE9FE68BC"
-            ]
-        ],
         "1A52AD7D8F64311F": [
             [
                 "nlb",
@@ -682174,72 +682043,6 @@
                 "317"
             ]
         ],
-        "31852497A98F4A15": [
-            [
-                "kmb",
-                "06E1120EA9A7BF69"
-            ],
-            [
-                "kmb",
-                "8C79BE154468AE21"
-            ],
-            [
-                "kmb",
-                "C2AA10A9751D3692"
-            ],
-            [
-                "kmb",
-                "D45CEDE6A9DFA30B"
-            ],
-            [
-                "kmb",
-                "E4DC4C1162E302AE"
-            ],
-            [
-                "kmb",
-                "F97399CFEEB9219B"
-            ],
-            [
-                "ctb",
-                "001499"
-            ],
-            [
-                "gmb",
-                "20001060"
-            ],
-            [
-                "kmb",
-                "6465DE9EE57F6C94"
-            ],
-            [
-                "kmb",
-                "CC811B604DD883AE"
-            ],
-            [
-                "kmb",
-                "D530D698BC181839"
-            ],
-            [
-                "kmb",
-                "6216EE509BD55B09"
-            ],
-            [
-                "kmb",
-                "BE36EF30B86ADD1D"
-            ],
-            [
-                "ctb",
-                "001506"
-            ],
-            [
-                "kmb",
-                "E5E15C5F7F0344AB"
-            ],
-            [
-                "kmb",
-                "9E256D7EE9FE68BC"
-            ]
-        ],
         "319": [
             [
                 "ctb",
@@ -701842,44 +701645,6 @@
             [
                 "ctb",
                 "001384"
-            ]
-        ],
-        "5C1C4A58776A0D0B": [
-            [
-                "mtr",
-                "WHA"
-            ],
-            [
-                "gmb",
-                "20010400"
-            ],
-            [
-                "kmb",
-                "32A26FEADDED5A62"
-            ],
-            [
-                "kmb",
-                "75D6E5952B41E1D2"
-            ],
-            [
-                "kmb",
-                "ACFA28064D1B2380"
-            ],
-            [
-                "kmb",
-                "7055FEADC58CB1F1"
-            ],
-            [
-                "kmb",
-                "DE5FEC673BB54DC5"
-            ],
-            [
-                "ctb",
-                "001596"
-            ],
-            [
-                "gmb",
-                "20000418"
             ]
         ],
         "5C1FB04FF191337B": [
@@ -730674,72 +730439,6 @@
             [
                 "lrtfeeder",
                 "K65-U090"
-            ]
-        ],
-        "A11DE40C25E0AB6A": [
-            [
-                "ctb",
-                "001499"
-            ],
-            [
-                "kmb",
-                "06E1120EA9A7BF69"
-            ],
-            [
-                "gmb",
-                "20001060"
-            ],
-            [
-                "kmb",
-                "8C79BE154468AE21"
-            ],
-            [
-                "kmb",
-                "C2AA10A9751D3692"
-            ],
-            [
-                "kmb",
-                "CC811B604DD883AE"
-            ],
-            [
-                "kmb",
-                "D45CEDE6A9DFA30B"
-            ],
-            [
-                "kmb",
-                "E4DC4C1162E302AE"
-            ],
-            [
-                "kmb",
-                "F97399CFEEB9219B"
-            ],
-            [
-                "kmb",
-                "6216EE509BD55B09"
-            ],
-            [
-                "kmb",
-                "6465DE9EE57F6C94"
-            ],
-            [
-                "kmb",
-                "D530D698BC181839"
-            ],
-            [
-                "kmb",
-                "BE36EF30B86ADD1D"
-            ],
-            [
-                "ctb",
-                "001506"
-            ],
-            [
-                "kmb",
-                "9E256D7EE9FE68BC"
-            ],
-            [
-                "kmb",
-                "E5E15C5F7F0344AB"
             ]
         ],
         "A11E4BB8DE5D8598": [
