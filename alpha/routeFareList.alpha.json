@@ -76955,7 +76955,7 @@
                 ]
             }
         },
-        "251B+1+PAT HEUNG ROAD+SHEUNG TSUEN (CIRCULAR)": {
+        "251B+1+PAT HEUNG ROAD B\uff0fT (C3 - TAI LAM TUNNEL BBI)+PAT HEUNG ROAD B\uff0fT (C3 - TAI LAM TUNNEL BBI)": {
             "bound": {
                 "kmb": "O"
             },
@@ -76963,8 +76963,8 @@
                 "kmb"
             ],
             "dest": {
-                "en": "SHEUNG TSUEN (CIRCULAR)",
-                "zh": "\u4e0a\u6751(\u5faa\u74b0\u7dda)"
+                "en": "PAT HEUNG ROAD B\uff0fT (C3 - TAI LAM TUNNEL BBI)",
+                "zh": "\u516b\u9109\u8def\u7e3d\u7ad9 (\u5927\u6b16\u96a7\u9053\u8f49\u8eca\u7ad9-C3)"
             },
             "fares": [
                 "6.7",
@@ -77034,8 +77034,8 @@
             "jt": "23",
             "nlbId": null,
             "orig": {
-                "en": "PAT HEUNG ROAD",
-                "zh": "\u516b\u9109\u8def"
+                "en": "PAT HEUNG ROAD B\uff0fT (C3 - TAI LAM TUNNEL BBI)",
+                "zh": "\u516b\u9109\u8def\u7e3d\u7ad9 (\u5927\u6b16\u96a7\u9053\u8f49\u8eca\u7ad9-C3)"
             },
             "route": "251B",
             "seq": 32,
@@ -77077,7 +77077,7 @@
                 ]
             }
         },
-        "251C+1+KONG HA WAI+YUEN LONG (CIRCULAR)": {
+        "251C+1+KONG HA WAI (YL880)+KONG HA WAI (YL880)": {
             "bound": {
                 "kmb": "O"
             },
@@ -77085,8 +77085,8 @@
                 "kmb"
             ],
             "dest": {
-                "en": "YUEN LONG (CIRCULAR)",
-                "zh": "\u5143\u6717(\u5faa\u74b0\u7dda)"
+                "en": "KONG HA WAI (YL880)",
+                "zh": "\u6c5f\u590f\u570d (YL880)"
             },
             "fares": [
                 "6.7",
@@ -77131,8 +77131,8 @@
             "jt": "24",
             "nlbId": null,
             "orig": {
-                "en": "KONG HA WAI",
-                "zh": "\u6c5f\u590f\u570d"
+                "en": "KONG HA WAI (YL880)",
+                "zh": "\u6c5f\u590f\u570d (YL880)"
             },
             "route": "251C",
             "seq": 29,
@@ -79083,11 +79083,33 @@
                 "en": "TUEN MUN (PO TIN ESTATE)",
                 "zh": "\u5c6f\u9580(\u5bf6\u7530\u90a8)"
             },
-            "fares": null,
+            "fares": [
+                "20.8",
+                "20.8",
+                "20.8",
+                "20.8",
+                "20.8",
+                "20.8",
+                "20.8",
+                "9.6",
+                "5.1",
+                "5.1",
+                "5.1",
+                "5.1",
+                "5.1",
+                "5.1",
+                "5.1",
+                "5.1",
+                "5.1"
+            ],
             "faresHoliday": null,
-            "freq": null,
-            "gtfsId": null,
-            "jt": null,
+            "freq": {
+                "287": {
+                    "1805": null
+                }
+            },
+            "gtfsId": "8376",
+            "jt": "105",
             "nlbId": null,
             "orig": {
                 "en": "KWUN TONG FERRY",
@@ -79103,7 +79125,6 @@
                     "14894C859FDFE8C3",
                     "A21BEB6F4E6D43E6",
                     "2F1F9CF16B9E65AF",
-                    "29ED2073D6C52B5A",
                     "F90ED764C7A95649",
                     "0269A1F9D98C737E",
                     "88229183EDC0B6E9",
@@ -79115,7 +79136,8 @@
                     "78B537644BD4FE00",
                     "542CC0EC83BAEA01",
                     "840532B7C95DF870",
-                    "315BE0CA231DCD4F"
+                    "315BE0CA231DCD4F",
+                    "9F5B57C2FE7E786D"
                 ]
             }
         },
@@ -80036,11 +80058,31 @@
                 "en": "TUEN MUN (LUNG MUN OASIS)",
                 "zh": "\u5c6f\u9580(\u9f8d\u9580\u5c45)"
             },
-            "fares": null,
+            "fares": [
+                "20.8",
+                "20.8",
+                "20.8",
+                "20.8",
+                "20.8",
+                "20.8",
+                "20.8",
+                "9.6",
+                "5.1",
+                "5.1",
+                "5.1",
+                "5.1",
+                "5.1",
+                "5.1"
+            ],
             "faresHoliday": null,
-            "freq": null,
-            "gtfsId": null,
-            "jt": null,
+            "freq": {
+                "287": {
+                    "1750": null,
+                    "1820": null
+                }
+            },
+            "gtfsId": "8311",
+            "jt": "90",
             "nlbId": null,
             "orig": {
                 "en": "KWUN TONG FERRY",
@@ -80056,7 +80098,6 @@
                     "14894C859FDFE8C3",
                     "A21BEB6F4E6D43E6",
                     "2F1F9CF16B9E65AF",
-                    "29ED2073D6C52B5A",
                     "F90ED764C7A95649",
                     "0269A1F9D98C737E",
                     "A8B22902BD665766",
@@ -80065,7 +80106,8 @@
                     "667E322246C6F7FA",
                     "015AD88813C61900",
                     "B88E6F52E2BC2E34",
-                    "3FAE59A79C8BCC93"
+                    "3FAE59A79C8BCC93",
+                    "F4332C65563587A2"
                 ]
             }
         },
@@ -80149,11 +80191,28 @@
                 "en": "TUEN MUN (LUNG MUN OASIS)",
                 "zh": "\u5c6f\u9580(\u9f8d\u9580\u5c45)"
             },
-            "fares": null,
+            "fares": [
+                "20.8",
+                "20.8",
+                "20.8",
+                "20.8",
+                "9.6",
+                "9.6",
+                "5.1",
+                "5.1",
+                "5.1",
+                "5.1",
+                "5.1",
+                "5.1"
+            ],
             "faresHoliday": null,
-            "freq": null,
-            "gtfsId": null,
-            "jt": null,
+            "freq": {
+                "287": {
+                    "1730": null
+                }
+            },
+            "gtfsId": "1000492",
+            "jt": "78",
             "nlbId": null,
             "orig": {
                 "en": "LAM WAH STREET PLAYGROUND",
@@ -80167,7 +80226,6 @@
                     "327E4BC13954EA86",
                     "A21BEB6F4E6D43E6",
                     "2F1F9CF16B9E65AF",
-                    "29ED2073D6C52B5A",
                     "F90ED764C7A95649",
                     "0269A1F9D98C737E",
                     "A8B22902BD665766",
@@ -80176,7 +80234,8 @@
                     "667E322246C6F7FA",
                     "015AD88813C61900",
                     "B88E6F52E2BC2E34",
-                    "3FAE59A79C8BCC93"
+                    "3FAE59A79C8BCC93",
+                    "F4332C65563587A2"
                 ]
             }
         },
@@ -89379,11 +89438,33 @@
                 "en": "LONG PING STATION",
                 "zh": "\u6717\u5c4f\u7ad9"
             },
-            "fares": null,
+            "fares": [
+                "20.8",
+                "20.8",
+                "20.8",
+                "20.8",
+                "20.8",
+                "20.8",
+                "11.5",
+                "11.5",
+                "5.1",
+                "5.1",
+                "5.1",
+                "5.1",
+                "5.1",
+                "5.1",
+                "5.1",
+                "5.1"
+            ],
             "faresHoliday": null,
-            "freq": null,
-            "gtfsId": null,
-            "jt": null,
+            "freq": {
+                "287": {
+                    "1750": null,
+                    "1810": null
+                }
+            },
+            "gtfsId": "8578",
+            "jt": "90",
             "nlbId": null,
             "orig": {
                 "en": "KWUN TONG FERRY",
@@ -89399,7 +89480,6 @@
                     "14894C859FDFE8C3",
                     "A21BEB6F4E6D43E6",
                     "9268B442F0C2807E",
-                    "29ED2073D6C52B5A",
                     "F90ED764C7A95649",
                     "643D73028E9E8490",
                     "E481F7170B1F6FC3",
@@ -89410,7 +89490,8 @@
                     "A010FE2C473103A8",
                     "70FEB409760C77EE",
                     "1C0A89BD67A4CFF0",
-                    "6723518D536070AB"
+                    "6723518D536070AB",
+                    "F7EA40235ECCBA38"
                 ]
             }
         },
@@ -91531,80 +91612,6 @@
                 ]
             }
         },
-        "269D+2+TIN FU BUS TERMINUS (TN960)+LEK YUEN BUS TERMINUS (ST947)": {
-            "bound": {
-                "kmb": "O"
-            },
-            "co": [
-                "kmb"
-            ],
-            "dest": {
-                "en": "LEK YUEN BUS TERMINUS (ST947)",
-                "zh": "\u701d\u6e90\u5df4\u58eb\u7e3d\u7ad9 (ST947)"
-            },
-            "fares": [
-                "18.5",
-                "18.5",
-                "18.5",
-                "18.5",
-                "18.5",
-                "18.5",
-                "18.5",
-                "18.5",
-                "18.5",
-                "18.5",
-                "18.5",
-                "18.5",
-                "18.5",
-                "18.5",
-                "0",
-                "0",
-                "5.2",
-                "5.2"
-            ],
-            "faresHoliday": null,
-            "freq": {
-                "287": {
-                    "0706": [
-                        "0754",
-                        "720"
-                    ]
-                }
-            },
-            "gtfsId": "1000357",
-            "jt": "73",
-            "nlbId": null,
-            "orig": {
-                "en": "TIN FU BUS TERMINUS (TN960)",
-                "zh": "\u5929\u5bcc\u7e3d\u7ad9 (TN960)"
-            },
-            "route": "269D",
-            "seq": 19,
-            "serviceType": "2",
-            "stops": {
-                "kmb": [
-                    "D834EE67780F47CD",
-                    "FE801C732EC6EA42",
-                    "6D4E7B9D5F9584E7",
-                    "5D9E516680412A3E",
-                    "8D56DB404D264D5A",
-                    "A00D00FC2F4F8400",
-                    "C052B4D46E1F48EA",
-                    "AFB9321F7CD2C2E4",
-                    "7898B605E39613A8",
-                    "0BC0F64B076ED373",
-                    "5DE9BD1D773946A0",
-                    "1C0A89BD67A4CFF0",
-                    "E0E2097354500456",
-                    "878E5C4AF6C4B0D4",
-                    "81B719F7DC3F0FAD",
-                    "9E8E99C5BB698AC2",
-                    "B9270C10E51D95F4",
-                    "D507B4722D750F5A",
-                    "7377B802B9C37904"
-                ]
-            }
-        },
         "269D+2+TIN SHUI WAI STATION+LEK YUEN": {
             "bound": {
                 "kmb": "O"
@@ -91691,11 +91698,37 @@
                 "en": "LEK YUEN",
                 "zh": "\u701d\u6e90"
             },
-            "fares": null,
+            "fares": [
+                "18.5",
+                "18.5",
+                "18.5",
+                "18.5",
+                "18.5",
+                "18.5",
+                "18.5",
+                "18.5",
+                "18.5",
+                "18.5",
+                "18.5",
+                "18.5",
+                "18.5",
+                "18.5",
+                "0",
+                "0",
+                "5.2",
+                "5.2"
+            ],
             "faresHoliday": null,
-            "freq": null,
-            "gtfsId": null,
-            "jt": null,
+            "freq": {
+                "287": {
+                    "0706": [
+                        "0754",
+                        "720"
+                    ]
+                }
+            },
+            "gtfsId": "1000357",
+            "jt": "73",
             "nlbId": null,
             "orig": {
                 "en": "TIN FU",
@@ -92352,11 +92385,34 @@
                 "en": "TIN SHUI WAI TOWN CENTRE",
                 "zh": "\u5929\u6c34\u570d\u5e02\u4e2d\u5fc3"
             },
-            "fares": null,
+            "fares": [
+                "20.8",
+                "20.8",
+                "20.8",
+                "20.8",
+                "20.8",
+                "20.8",
+                "11.5",
+                "11.5",
+                "5.1",
+                "5.1",
+                "5.1",
+                "5.1",
+                "5.1",
+                "5.1",
+                "5.1",
+                "5.1",
+                "5.1"
+            ],
             "faresHoliday": null,
-            "freq": null,
-            "gtfsId": null,
-            "jt": null,
+            "freq": {
+                "287": {
+                    "1740": null,
+                    "1800": null
+                }
+            },
+            "gtfsId": "8365",
+            "jt": "102",
             "nlbId": null,
             "orig": {
                 "en": "KWUN TONG FERRY",
@@ -92372,7 +92428,6 @@
                     "14894C859FDFE8C3",
                     "A21BEB6F4E6D43E6",
                     "9268B442F0C2807E",
-                    "29ED2073D6C52B5A",
                     "F90ED764C7A95649",
                     "643D73028E9E8490",
                     "0D7A1D0AECA1D999",
@@ -92384,7 +92439,8 @@
                     "F97A667725CDEB82",
                     "63DF37D89C356A04",
                     "FE801C732EC6EA42",
-                    "537F93CCE45CB56F"
+                    "537F93CCE45CB56F",
+                    "DFC270E9F05B557E"
                 ]
             }
         },
@@ -92473,11 +92529,31 @@
                 "en": "TIN SHUI WAI TOWN CENTRE",
                 "zh": "\u5929\u6c34\u570d\u5e02\u4e2d\u5fc3"
             },
-            "fares": null,
+            "fares": [
+                "20.8",
+                "20.8",
+                "20.8",
+                "20.8",
+                "20.8",
+                "20.8",
+                "11.5",
+                "11.5",
+                "5.1",
+                "5.1",
+                "5.1",
+                "5.1",
+                "5.1",
+                "5.1",
+                "5.1"
+            ],
             "faresHoliday": null,
-            "freq": null,
-            "gtfsId": null,
-            "jt": null,
+            "freq": {
+                "287": {
+                    "1810": null
+                }
+            },
+            "gtfsId": "1000529",
+            "jt": "96",
             "nlbId": null,
             "orig": {
                 "en": "KWUN TONG FERRY",
@@ -92493,7 +92569,6 @@
                     "14894C859FDFE8C3",
                     "A21BEB6F4E6D43E6",
                     "9268B442F0C2807E",
-                    "29ED2073D6C52B5A",
                     "F90ED764C7A95649",
                     "643D73028E9E8490",
                     "0D7A1D0AECA1D999",
@@ -92503,7 +92578,8 @@
                     "1BE574CAE40EFF17",
                     "797CC0222B9EFBEF",
                     "308112BE50081258",
-                    "537F93CCE45CB56F"
+                    "537F93CCE45CB56F",
+                    "DFC270E9F05B557E"
                 ]
             }
         },
@@ -100905,16 +100981,16 @@
                     "1D1571E9D1588FBE",
                     "64101F297D3C1C55",
                     "5B39CC28607910E4",
-                    "E27820FF0AF73D52",
                     "CB667DC000F66D40",
                     "857F6F958A96DCDB",
                     "3A450B5AD5AF1605",
                     "0E2175C0750054FE",
-                    "A90443FD0C19C4B1"
+                    "A90443FD0C19C4B1",
+                    "91CD1740B6AC752B"
                 ]
             }
         },
-        "274P+1+WU KAI SHA STATION+TAI PO INDUSTRIAL ESTATE": {
+        "274P+1+WU KAI SHA STATION (MA987)+TAI PO INDUSTRIAL ESTATE (TP873)": {
             "bound": {
                 "kmb": "O"
             },
@@ -100922,8 +100998,8 @@
                 "kmb"
             ],
             "dest": {
-                "en": "TAI PO INDUSTRIAL ESTATE",
-                "zh": "\u5927\u57d4\u5de5\u696d\u90a8"
+                "en": "TAI PO INDUSTRIAL ESTATE (TP873)",
+                "zh": "\u5927\u57d4\u5de5\u696d\u90a8 (TP873)"
             },
             "fares": [
                 "9.1",
@@ -100988,8 +101064,8 @@
             "jt": "51",
             "nlbId": null,
             "orig": {
-                "en": "WU KAI SHA STATION",
-                "zh": "\u70cf\u6eaa\u6c99\u7ad9"
+                "en": "WU KAI SHA STATION (MA987)",
+                "zh": "\u70cf\u6eaa\u6c99\u7ad9 (MA987)"
             },
             "route": "274P",
             "seq": 27,
@@ -101003,7 +101079,6 @@
                     "5ED989C30DF49DE4",
                     "D96A94B0ED4E873A",
                     "7FD05121B0A4A750",
-                    "664BAA2EA12B80B1",
                     "739A5DDE0CF1970C",
                     "34E1E68A3C2AFE81",
                     "2D1A8946EF054FC9",
@@ -101015,14 +101090,15 @@
                     "0D9F5E10DA9CCE02",
                     "05485C36CA334A81",
                     "FDDA176977136CD9",
-                    "6716018C3EE42733",
                     "446E33686D9C02E0",
                     "F9C14690633CE7E0",
                     "7BCFD79F22F60457",
                     "32C1F605CAAD7861",
                     "DAC33107054B9FED",
                     "4705F639E370A9AD",
-                    "95CEED87CBDA3B02"
+                    "95CEED87CBDA3B02",
+                    "CAB927254C5D8892",
+                    "3D8A0FB3051B32EC"
                 ]
             }
         },
@@ -354135,7 +354211,7 @@
                 "zh": "\u6a5f\u5834(\u5730\u9762\u904b\u8f38\u4e2d\u5fc3)"
             },
             "route": "A36",
-            "seq": 17,
+            "seq": 18,
             "serviceType": "5",
             "stops": {
                 "kmb": [
@@ -354155,6 +354231,7 @@
                     "88B9BE4ED93A3292",
                     "7469F3B24F889F1B",
                     "8DBA8FDF35CE7CC0",
+                    "A4F1BEF1EEAD0910",
                     "FD27DF93530C7540"
                 ]
             }
@@ -354181,11 +354258,12 @@
                 "zh": "\u9326\u4e0a\u8def\u7ad9"
             },
             "route": "A36",
-            "seq": 19,
+            "seq": 20,
             "serviceType": "5",
             "stops": {
                 "kmb": [
                     "FD27DF93530C7540",
+                    "C9C4CEEC13D20879",
                     "9DD0D04123E70E56",
                     "2CF4CFA22192E30A",
                     "45B57C063BB57D07",
@@ -354229,7 +354307,7 @@
                 "zh": "\u6a5f\u5834(\u5730\u9762\u904b\u8f38\u4e2d\u5fc3)"
             },
             "route": "A36",
-            "seq": 18,
+            "seq": 19,
             "serviceType": "6",
             "stops": {
                 "kmb": [
@@ -354250,6 +354328,7 @@
                     "88B9BE4ED93A3292",
                     "7469F3B24F889F1B",
                     "8DBA8FDF35CE7CC0",
+                    "A4F1BEF1EEAD0910",
                     "FD27DF93530C7540"
                 ]
             }
@@ -414558,6 +414637,7 @@
                 "8.9",
                 "8.9",
                 "8.9",
+                "8.9",
                 "8.9"
             ],
             "faresHoliday": null,
@@ -414581,7 +414661,7 @@
                 "zh": "\u570b\u6cf0\u57ce"
             },
             "route": "NA36",
-            "seq": 18,
+            "seq": 19,
             "serviceType": "1",
             "stops": {
                 "kmb": [
@@ -414602,7 +414682,8 @@
                     "C59B16415222709D",
                     "88B9BE4ED93A3292",
                     "7469F3B24F889F1B",
-                    "8DBA8FDF35CE7CC0"
+                    "8DBA8FDF35CE7CC0",
+                    "FD27DF93530C7540"
                 ]
             }
         },
@@ -417154,44 +417235,6 @@
                     "F050648C108571ED",
                     "EF8E1150891E5725",
                     "95A40BF00DBAB2B8"
-                ]
-            }
-        },
-        "PN7+1+MTR TSUEN WAN WEST STATION+WAN CHAI HARBOUR PROMENADE": {
-            "bound": {
-                "kmb": "O"
-            },
-            "co": [
-                "kmb"
-            ],
-            "dest": {
-                "en": "WAN CHAI HARBOUR PROMENADE",
-                "zh": "\u7063\u4ed4\u6d77\u6ff1"
-            },
-            "fares": null,
-            "faresHoliday": null,
-            "freq": null,
-            "gtfsId": null,
-            "jt": null,
-            "nlbId": null,
-            "orig": {
-                "en": "MTR TSUEN WAN WEST STATION",
-                "zh": "\u6e2f\u9435\u8343\u7063\u897f\u7ad9"
-            },
-            "route": "PN7",
-            "seq": 9,
-            "serviceType": "1",
-            "stops": {
-                "kmb": [
-                    "A02CB1283981A937",
-                    "321060BAE1447BEE",
-                    "4B63964A12D91E2A",
-                    "1E5B31D284632D4B",
-                    "693C1DEE3AEEEE51",
-                    "232DC1B2BE92C86F",
-                    "4B63964A12D91E2A",
-                    "321060BAE1447BEE",
-                    "A02CB1283981A937"
                 ]
             }
         },
@@ -463691,16 +463734,6 @@
             "name": {
                 "en": "ST. TERESA'S HOSPITAL (KC245)",
                 "zh": "\u8056\u5fb7\u808b\u6492\u91ab\u9662 (KC245)"
-            }
-        },
-        "1E5B31D284632D4B": {
-            "location": {
-                "lat": 22.28045,
-                "lng": 114.18686
-            },
-            "name": {
-                "en": "Victoria Park",
-                "zh": "\u7dad\u591a\u5229\u4e9e\u516c\u5712"
             }
         },
         "1E5EADCD9F424F07": {
@@ -517663,16 +517696,6 @@
                 "zh": "\u6771\u6d8c\u7e9c\u8eca\u7ad9"
             }
         },
-        "321060BAE1447BEE": {
-            "location": {
-                "lat": 22.37275,
-                "lng": 114.11929
-            },
-            "name": {
-                "en": "TSUEN WAN STATION",
-                "zh": "\u8343\u7063\u7ad9"
-            }
-        },
         "3210F3BCFFD74E61": {
             "location": {
                 "lat": 22.43984,
@@ -524981,16 +525004,6 @@
             "name": {
                 "en": "KAM YING COURT (MA190)",
                 "zh": "\u9326\u82f1\u82d1 (MA190)"
-            }
-        },
-        "4B63964A12D91E2A": {
-            "location": {
-                "lat": 22.35822,
-                "lng": 111.79468
-            },
-            "name": {
-                "en": "Kwai Foo ROAD KWAI FONG",
-                "zh": "\u8475\u82b3\u8475\u5bcc\u8def"
             }
         },
         "4B6D9BB197225DBE": {
@@ -548593,6 +548606,16 @@
                 "zh": "\u8208\u767c\u8857"
             }
         },
+        "A4F1BEF1EEAD0910": {
+            "location": {
+                "lat": 22.43395,
+                "lng": 114.0623
+            },
+            "name": {
+                "en": "KAM SHEUNG ROAD STATION CAR PARK (YL673)",
+                "zh": "\u9326\u4e0a\u8def\u7ad9\u505c\u8eca\u5834 (YL673)"
+            }
+        },
         "A51DD43F6382CCDE": {
             "location": {
                 "lat": 22.28475,
@@ -551331,6 +551354,16 @@
             "name": {
                 "en": "KA KEUNG COURT (WT100)",
                 "zh": "\u5609\u5f37\u82d1 (WT100)"
+            }
+        },
+        "AECF334FEF4E73C5": {
+            "location": {
+                "lat": 22.43393,
+                "lng": 114.06225
+            },
+            "name": {
+                "en": "KAM SHEUNG ROAD STATION CAR PARK (YL708)",
+                "zh": "\u9326\u4e0a\u8def\u7ad9\u505c\u8eca\u5834 (YL708)"
             }
         },
         "AEE2BF6EF1B0E46E": {
@@ -554741,6 +554774,16 @@
             "name": {
                 "en": "SHA LAN ROAD (TP711)",
                 "zh": "\u6c99\u6b04\u8def (TP711)"
+            }
+        },
+        "BC05332A477AB8F9": {
+            "location": {
+                "lat": 22.42455,
+                "lng": 114.0758
+            },
+            "name": {
+                "en": "TAI WO TSUEN (YL661a)",
+                "zh": "\u5927\u7aa9\u6751 (YL661a)"
             }
         },
         "BC139F292AC087EA": {
@@ -558171,6 +558214,16 @@
             "name": {
                 "en": "TSEUNG KWAN O SWIMMING POOL (TK150)",
                 "zh": "\u5c07\u8ecd\u6fb3\u6e38\u6cf3\u6c60 (TK150)"
+            }
+        },
+        "C9C4CEEC13D20879": {
+            "location": {
+                "lat": 22.43393,
+                "lng": 114.06225
+            },
+            "name": {
+                "en": "KAM SHEUNG ROAD STATION CAR PARK",
+                "zh": "\u9326\u4e0a\u8def\u7ad9\u505c\u8eca\u5834"
             }
         },
         "C9E264A3F9D4CEB3": {
@@ -563155,8 +563208,8 @@
         },
         "DC5B5F4350685442": {
             "location": {
-                "lat": 0.0,
-                "lng": 0.0
+                "lat": 22.45447,
+                "lng": 114.00297
             },
             "name": {
                 "en": "TIN SHUI WAI PARK (TN510)",
@@ -594952,6 +595005,10 @@
             ],
             [
                 "kmb",
+                "BD53690B9DA1C956"
+            ],
+            [
+                "kmb",
                 "C052B4D46E1F48EA"
             ],
             [
@@ -594975,6 +595032,10 @@
             [
                 "kmb",
                 "AFB9321F7CD2C2E4"
+            ],
+            [
+                "kmb",
+                "DC5B5F4350685442"
             ],
             [
                 "lrtfeeder",
@@ -610129,10 +610190,6 @@
             [
                 "kmb",
                 "F6C81A30F7110D53"
-            ],
-            [
-                "kmb",
-                "A02CB1283981A937"
             ]
         ],
         "003599": [
@@ -615116,10 +615173,6 @@
             ],
             [
                 "kmb",
-                "A02CB1283981A937"
-            ],
-            [
-                "kmb",
                 "AA1572E26F6BCA34"
             ],
             [
@@ -616277,6 +616330,10 @@
             [
                 "nlb",
                 "205"
+            ],
+            [
+                "kmb",
+                "BD53690B9DA1C956"
             ],
             [
                 "kmb",
@@ -625177,10 +625234,6 @@
             [
                 "kmb",
                 "F6C81A30F7110D53"
-            ],
-            [
-                "kmb",
-                "A02CB1283981A937"
             ]
         ],
         "195": [
@@ -635364,6 +635417,10 @@
             ],
             [
                 "kmb",
+                "BD53690B9DA1C956"
+            ],
+            [
+                "kmb",
                 "C052B4D46E1F48EA"
             ],
             [
@@ -635387,6 +635444,10 @@
             [
                 "kmb",
                 "AFB9321F7CD2C2E4"
+            ],
+            [
+                "kmb",
+                "DC5B5F4350685442"
             ],
             [
                 "lrtfeeder",
@@ -635503,10 +635564,6 @@
             [
                 "gmb",
                 "20015612"
-            ],
-            [
-                "kmb",
-                "BD53690B9DA1C956"
             ],
             [
                 "kmb",
@@ -652442,6 +652499,10 @@
             ],
             [
                 "kmb",
+                "7FD05121B0A4A750"
+            ],
+            [
+                "kmb",
                 "880BE8598CB0CCE7"
             ],
             [
@@ -662384,10 +662445,6 @@
             ],
             [
                 "kmb",
-                "BD53690B9DA1C956"
-            ],
-            [
-                "kmb",
                 "FBBF4EB577663A13"
             ],
             [
@@ -664666,10 +664723,6 @@
             ]
         ],
         "20016071": [
-            [
-                "kmb",
-                "321060BAE1447BEE"
-            ],
             [
                 "kmb",
                 "D0EF3BE4408865DE"
@@ -674592,6 +674645,10 @@
             ],
             [
                 "kmb",
+                "BD53690B9DA1C956"
+            ],
+            [
+                "kmb",
                 "C052B4D46E1F48EA"
             ],
             [
@@ -674655,6 +674712,10 @@
             [
                 "kmb",
                 "AFB9321F7CD2C2E4"
+            ],
+            [
+                "kmb",
+                "DC5B5F4350685442"
             ],
             [
                 "lrtfeeder",
@@ -682707,16 +682768,6 @@
             [
                 "kmb",
                 "89A83934270E9BFB"
-            ]
-        ],
-        "321060BAE1447BEE": [
-            [
-                "gmb",
-                "20016071"
-            ],
-            [
-                "kmb",
-                "D0EF3BE4408865DE"
             ]
         ],
         "3210F3BCFFD74E61": [
@@ -693043,10 +693094,6 @@
             [
                 "kmb",
                 "F2EDDDB17B1EA974"
-            ],
-            [
-                "kmb",
-                "A02CB1283981A937"
             ]
         ],
         "48E5A1EED91712EE": [
@@ -700347,10 +700394,6 @@
             [
                 "kmb",
                 "708870108A511AF7"
-            ],
-            [
-                "kmb",
-                "A02CB1283981A937"
             ],
             [
                 "kmb",
@@ -708085,10 +708128,6 @@
             [
                 "kmb",
                 "85D7313CCE53D396"
-            ],
-            [
-                "kmb",
-                "B30799FB3732222B"
             ]
         ],
         "6953AEF8B3921959": [
@@ -714027,6 +714066,10 @@
                 "AFB9321F7CD2C2E4"
             ],
             [
+                "kmb",
+                "DC5B5F4350685442"
+            ],
+            [
                 "lrtfeeder",
                 "K75P-U020"
             ]
@@ -717069,6 +717112,10 @@
                 "1F1A440137854ABF"
             ],
             [
+                "gmb",
+                "20012908"
+            ],
+            [
                 "kmb",
                 "66E32661C4298EEF"
             ],
@@ -717087,6 +717134,10 @@
             [
                 "kmb",
                 "F86BDB236D6ACDC3"
+            ],
+            [
+                "gmb",
+                "20001238"
             ]
         ],
         "7FDBE1ABD7231657": [
@@ -730534,43 +730585,11 @@
         "A02CB1283981A937": [
             [
                 "kmb",
-                "0523E42BFCC14E7D"
-            ],
-            [
-                "kmb",
-                "5823104B79279940"
-            ],
-            [
-                "kmb",
-                "BE510EB6544BA616"
-            ],
-            [
-                "kmb",
                 "E0908A8C2459FA0F"
-            ],
-            [
-                "ctb",
-                "003598"
-            ],
-            [
-                "kmb",
-                "1947D8C8C82DF750"
-            ],
-            [
-                "kmb",
-                "48DD17194BE645B3"
-            ],
-            [
-                "kmb",
-                "AA1572E26F6BCA34"
             ],
             [
                 "kmb",
                 "D580682442940BB2"
-            ],
-            [
-                "kmb",
-                "F2EDDDB17B1EA974"
             ]
         ],
         "A0424645102B1D9C": [
@@ -734909,10 +734928,6 @@
             [
                 "kmb",
                 "F2EDDDB17B1EA974"
-            ],
-            [
-                "kmb",
-                "A02CB1283981A937"
             ]
         ],
         "AA239AD010294414": [
@@ -736843,6 +736858,16 @@
                 "001467"
             ]
         ],
+        "AECF334FEF4E73C5": [
+            [
+                "kmb",
+                "A4F1BEF1EEAD0910"
+            ],
+            [
+                "kmb",
+                "C9C4CEEC13D20879"
+            ]
+        ],
         "AEE2BF6EF1B0E46E": [
             [
                 "ctb",
@@ -737131,6 +737156,10 @@
             [
                 "kmb",
                 "775642281FBFE336"
+            ],
+            [
+                "kmb",
+                "DC5B5F4350685442"
             ],
             [
                 "lrtfeeder",
@@ -742161,6 +742190,24 @@
                 "20010098"
             ]
         ],
+        "BC05332A477AB8F9": [
+            [
+                "kmb",
+                "31EBD82ED5BCDF93"
+            ],
+            [
+                "kmb",
+                "3546486D807D1FF5"
+            ],
+            [
+                "kmb",
+                "81423EF62957C8C6"
+            ],
+            [
+                "kmb",
+                "AB4FF374DA182B02"
+            ]
+        ],
         "BC139F292AC087EA": [
             [
                 "kmb",
@@ -742619,12 +742666,28 @@
         ],
         "BD53690B9DA1C956": [
             [
-                "gmb",
-                "20001618"
+                "ctb",
+                "001991"
+            ],
+            [
+                "kmb",
+                "080EF1BEA737A5D3"
             ],
             [
                 "gmb",
-                "20015612"
+                "20001599"
+            ],
+            [
+                "nlb",
+                "205"
+            ],
+            [
+                "kmb",
+                "C052B4D46E1F48EA"
+            ],
+            [
+                "kmb",
+                "F24C06FAF6EE076F"
             ]
         ],
         "BD67BA334834CACB": [
@@ -742951,10 +743014,6 @@
             [
                 "kmb",
                 "5823104B79279940"
-            ],
-            [
-                "kmb",
-                "A02CB1283981A937"
             ],
             [
                 "kmb",
@@ -743619,6 +743678,10 @@
             [
                 "nlb",
                 "205"
+            ],
+            [
+                "kmb",
+                "BD53690B9DA1C956"
             ],
             [
                 "kmb",
@@ -750635,10 +750698,6 @@
             [
                 "gmb",
                 "20016071"
-            ],
-            [
-                "kmb",
-                "321060BAE1447BEE"
             ]
         ],
         "D0F535009C53F787": [
@@ -755581,6 +755640,32 @@
             [
                 "kmb",
                 "D6D316FEAEC6793A"
+            ]
+        ],
+        "DC5B5F4350685442": [
+            [
+                "ctb",
+                "001992"
+            ],
+            [
+                "gmb",
+                "20001600"
+            ],
+            [
+                "nlb",
+                "206"
+            ],
+            [
+                "kmb",
+                "775642281FBFE336"
+            ],
+            [
+                "kmb",
+                "AFB9321F7CD2C2E4"
+            ],
+            [
+                "lrtfeeder",
+                "K75P-U020"
             ]
         ],
         "DC6C23E16605C5EF": [
@@ -764312,6 +764397,10 @@
             ],
             [
                 "kmb",
+                "BD53690B9DA1C956"
+            ],
+            [
+                "kmb",
                 "C052B4D46E1F48EA"
             ]
         ],
@@ -764545,10 +764634,6 @@
             [
                 "kmb",
                 "E0908A8C2459FA0F"
-            ],
-            [
-                "kmb",
-                "A02CB1283981A937"
             ]
         ],
         "F2F74DC6ADD35CFF": [
@@ -782451,6 +782536,10 @@
             [
                 "kmb",
                 "AFB9321F7CD2C2E4"
+            ],
+            [
+                "kmb",
+                "DC5B5F4350685442"
             ]
         ],
         "K75P-U030": [
