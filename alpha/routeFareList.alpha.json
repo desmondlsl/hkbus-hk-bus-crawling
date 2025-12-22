@@ -409447,6 +409447,34 @@
                 ]
             }
         },
+        "N64P+1+TAI PO MARKET STATION+NG TUNG CHAI (PAK NGAU SHEK)": {
+            "bound": {
+                "kmb": "O"
+            },
+            "co": [
+                "kmb"
+            ],
+            "dest": {
+                "en": "NG TUNG CHAI (PAK NGAU SHEK)",
+                "zh": "\u68a7\u6850\u5be8 (\u767d\u725b\u77f3)"
+            },
+            "fares": null,
+            "faresHoliday": null,
+            "freq": null,
+            "gtfsId": null,
+            "jt": null,
+            "nlbId": null,
+            "orig": {
+                "en": "TAI PO MARKET STATION",
+                "zh": "\u5927\u57d4\u589f\u7ad9"
+            },
+            "route": "N64P",
+            "seq": 0,
+            "serviceType": "1",
+            "stops": {
+                "kmb": []
+            }
+        },
         "N680+1+CENTRAL (MACAU FERRY)+KAM YING COURT": {
             "bound": {
                 "ctb": "O",
