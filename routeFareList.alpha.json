@@ -77325,6 +77325,50 @@
                 ]
             }
         },
+        "251C+2+KONG HA WAI+YUEN LONG (HONG LOK ROAD)": {
+            "bound": {
+                "kmb": "O"
+            },
+            "co": [
+                "kmb"
+            ],
+            "dest": {
+                "en": "YUEN LONG (HONG LOK ROAD)",
+                "zh": "\u5143\u6717(\u5eb7\u6a02\u8def)"
+            },
+            "fares": null,
+            "faresHoliday": null,
+            "freq": null,
+            "gtfsId": null,
+            "jt": null,
+            "nlbId": null,
+            "orig": {
+                "en": "KONG HA WAI",
+                "zh": "\u6c5f\u590f\u570d"
+            },
+            "route": "251C",
+            "seq": 15,
+            "serviceType": "2",
+            "stops": {
+                "kmb": [
+                    "C03B5205F829DAD2",
+                    "8447E71E45CE5452",
+                    "083D8BB713878707",
+                    "6D76943277DC18FF",
+                    "4EBE182141C52094",
+                    "AECF334FEF4E73C5",
+                    "BFCFEBF6F5C35402",
+                    "F8B3A5C8D0D3CED7",
+                    "3D5F826FD00C0529",
+                    "876CF2E8C375F78B",
+                    "6386333EDAC64C96",
+                    "6A4B371546D489BF",
+                    "AC935792C88AF135",
+                    "43E5D3A445382F82",
+                    "D9CE618F99BAC2B6"
+                ]
+            }
+        },
         "251M+1+SHEUNG TSUEN+TSUEN WAN STATION": {
             "bound": {
                 "kmb": "O"
