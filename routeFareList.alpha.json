@@ -359814,6 +359814,44 @@
                 ]
             }
         },
+        "B3A+1+Shenzhen Bay Port+Fu Tai Estate, Castle Peak Road": {
+            "bound": {
+                "ctb": "IO"
+            },
+            "co": [
+                "ctb"
+            ],
+            "dest": {
+                "en": "Fu Tai Estate, Castle Peak Road",
+                "zh": "\u5bcc\u6cf0\u90a8, \u9752\u5c71\u516c\u8def"
+            },
+            "fares": [
+                "13.6"
+            ],
+            "faresHoliday": null,
+            "freq": {
+                "31": {
+                    "0830": null,
+                    "0850": null
+                }
+            },
+            "gtfsId": "1000637",
+            "jt": "10",
+            "nlbId": null,
+            "orig": {
+                "en": "Shenzhen Bay Port",
+                "zh": "\u6df1\u5733\u7063\u53e3\u5cb8"
+            },
+            "route": "B3A",
+            "seq": 2,
+            "serviceType": "1",
+            "stops": {
+                "ctb": [
+                    "003208",
+                    "003261"
+                ]
+            }
+        },
         "B3A+1+Shenzhen Bay Port+Shan King Estate": {
             "bound": {
                 "ctb": "I"
@@ -359955,44 +359993,6 @@
                     "003213",
                     "003214",
                     "003201"
-                ]
-            }
-        },
-        "B3A+2+Shenzhen Bay Port+Fu Tai Estate, Castle Peak Road": {
-            "bound": {
-                "ctb": "I"
-            },
-            "co": [
-                "ctb"
-            ],
-            "dest": {
-                "en": "Fu Tai Estate, Castle Peak Road",
-                "zh": "\u5bcc\u6cf0\u90a8, \u9752\u5c71\u516c\u8def"
-            },
-            "fares": [
-                "13.6"
-            ],
-            "faresHoliday": null,
-            "freq": {
-                "31": {
-                    "0830": null,
-                    "0850": null
-                }
-            },
-            "gtfsId": "1000637",
-            "jt": "10",
-            "nlbId": null,
-            "orig": {
-                "en": "Shenzhen Bay Port",
-                "zh": "\u6df1\u5733\u7063\u53e3\u5cb8"
-            },
-            "route": "B3A",
-            "seq": 2,
-            "serviceType": "2",
-            "stops": {
-                "ctb": [
-                    "003208",
-                    "003262"
                 ]
             }
         },
@@ -437957,7 +437957,7 @@
             },
             "name": {
                 "en": "Castle Peak Beach, Castle Peak Road",
-                "zh": "\u9752\u5c71\u7063, \u9752\u5c71\u516c\u8def"
+                "zh": "\u9752\u5c71\u7063\u6cf3\u7058, \u9752\u5c71\u516c\u8def"
             }
         },
         "001887": {
@@ -438147,7 +438147,7 @@
             },
             "name": {
                 "en": "Castle Peak Beach, Castle Peak Road",
-                "zh": "\u9752\u5c71\u7063, \u9752\u5c71\u516c\u8def"
+                "zh": "\u9752\u5c71\u7063\u6cf3\u7058, \u9752\u5c71\u516c\u8def"
             }
         },
         "001906": {
@@ -449766,8 +449766,8 @@
                 "lng": 113.98238
             },
             "name": {
-                "en": "Fu Tai Estate, Castle Peak Road",
-                "zh": "\u5bcc\u6cf0\u90a8, \u9752\u5c71\u516c\u8def"
+                "en": "Fu Tai Shopping Centre, Castle Peak Road",
+                "zh": "\u5bcc\u6cf0\u5546\u5834, \u9752\u5c71\u516c\u8def"
             }
         },
         "003263": {
@@ -453736,8 +453736,8 @@
                 "lng": 113.97015
             },
             "name": {
-                "en": "Tuen Mun Swimming Pool, Hoi Wong Road",
-                "zh": "\u5c6f\u9580\u6cf3\u6c60, \u6d77\u7687\u8def"
+                "en": "Regency Bay, Hoi Wong Road",
+                "zh": "\u5fa1\u6d77\u7063, \u6d77\u7687\u8def"
             }
         },
         "003733": {
@@ -453746,8 +453746,8 @@
                 "lng": 113.97031
             },
             "name": {
-                "en": "Tuen Mun Swimming Pool, Hoi Wong Road",
-                "zh": "\u5c6f\u9580\u6cf3\u6c60, \u6d77\u7687\u8def"
+                "en": "Regency Bay, Hoi Wong Road",
+                "zh": "\u5fa1\u6d77\u7063, \u6d77\u7687\u8def"
             }
         },
         "003734": {
