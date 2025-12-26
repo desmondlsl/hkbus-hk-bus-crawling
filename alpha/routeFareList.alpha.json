@@ -403859,6 +403859,53 @@
                 ]
             }
         },
+        "N272+1+UNIVERSITY STATION+PAK SHEK KOK (CIRCULAR)": {
+            "bound": {
+                "kmb": "O"
+            },
+            "co": [
+                "kmb"
+            ],
+            "dest": {
+                "en": "PAK SHEK KOK (CIRCULAR)",
+                "zh": "\u767d\u77f3\u89d2(\u5faa\u74b0\u7dda)"
+            },
+            "fares": null,
+            "faresHoliday": null,
+            "freq": null,
+            "gtfsId": null,
+            "jt": null,
+            "nlbId": null,
+            "orig": {
+                "en": "UNIVERSITY STATION",
+                "zh": "\u5927\u5b78\u7ad9"
+            },
+            "route": "N272",
+            "seq": 18,
+            "serviceType": "1",
+            "stops": {
+                "kmb": [
+                    "9F542D4B6CF41651",
+                    "739A5DDE0CF1970C",
+                    "9E95343C77BB85E2",
+                    "2D1A8946EF054FC9",
+                    "DADEC4FDAD7C58B3",
+                    "E8F5E085BAEFE100",
+                    "3313B37BF82AFF18",
+                    "F8F0E91589F099CD",
+                    "5747450359C7907C",
+                    "D31420E8C08168FC",
+                    "3F24CFF9046300D9",
+                    "3A7AC3A5F9530786",
+                    "39E7051B17D302DA",
+                    "1C6EAAF5F48167F9",
+                    "1D1571E9D1588FBE",
+                    "64101F297D3C1C55",
+                    "5B39CC28607910E4",
+                    "9F542D4B6CF41651"
+                ]
+            }
+        },
         "N273+1+CHOI YUEN+SHEUNG SHUI (CHOI YUEN)": {
             "bound": {
                 "kmb": "O"
