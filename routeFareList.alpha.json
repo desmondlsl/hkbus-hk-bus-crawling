@@ -149251,7 +149251,7 @@
                 ]
             }
         },
-        "4+1+Macau Ferry, Connaught Road Central+Wah Fu (South)": {
+        "4+1+Macao Ferry, Connaught Road Central+Wah Fu (South)": {
             "bound": {
                 "ctb": "I"
             },
@@ -149301,7 +149301,7 @@
             "jt": "35",
             "nlbId": null,
             "orig": {
-                "en": "Macau Ferry, Connaught Road Central",
+                "en": "Macao Ferry, Connaught Road Central",
                 "zh": "\u6e2f\u6fb3\u78bc\u982d, \u5e72\u8afe\u9053\u4e2d"
             },
             "route": "4",
@@ -409204,64 +409204,6 @@
                 ]
             }
         },
-        "N601+1+ADMIRALTY STATION (EAST)+PO TAT": {
-            "bound": {
-                "kmb": "O"
-            },
-            "co": [
-                "kmb"
-            ],
-            "dest": {
-                "en": "PO TAT",
-                "zh": "\u5bf6\u9054"
-            },
-            "fares": null,
-            "faresHoliday": null,
-            "freq": null,
-            "gtfsId": null,
-            "jt": null,
-            "nlbId": null,
-            "orig": {
-                "en": "ADMIRALTY STATION (EAST)",
-                "zh": "\u91d1\u9418\u7ad9(\u6771)"
-            },
-            "route": "N601",
-            "seq": 29,
-            "serviceType": "1",
-            "stops": {
-                "kmb": [
-                    "E30B8672A91A50B9",
-                    "E74202351AF7F37D",
-                    "9DA98A5E3914E2E3",
-                    "92C62E07455F7C6C",
-                    "1FFFFBAE28F48D03",
-                    "CCBCD7F613287BC8",
-                    "B4372FB3544677BB",
-                    "913E96996F3B7E3A",
-                    "328C9939240A94CA",
-                    "58C47FBFFF12E65F",
-                    "4AEB8A22E18AB111",
-                    "AE4423E551C360BF",
-                    "9DE043DB23CEDAA8",
-                    "D678B3364437D16B",
-                    "2EF9764BE18FC290",
-                    "F1A90CEE2B8C40CC",
-                    "CB341BEEABF66D6E",
-                    "6530130BE25E909C",
-                    "D3FEF85E4DAEEE4E",
-                    "C3201264CC8E5C5D",
-                    "C8830886D41FB5FA",
-                    "D9ABBD996944C4D3",
-                    "D17050E8964504BB",
-                    "04DDF4F7F1C74876",
-                    "BF08F9C08BB54A2B",
-                    "5FF5FCFD1121F033",
-                    "B809C24DC8C87767",
-                    "3BA4DBB4520188DF",
-                    "FA5C305D16B299A5"
-                ]
-            }
-        },
         "N619+1+CENTRAL (MACAU FERRY)+SHUN LEE": {
             "bound": {
                 "ctb": "O",
@@ -429857,7 +429799,7 @@
                 "lng": 114.15134
             },
             "name": {
-                "en": "Macau Ferry, Connaught Road Central",
+                "en": "Macao Ferry, Connaught Road Central",
                 "zh": "\u6e2f\u6fb3\u78bc\u982d, \u5e72\u8afe\u9053\u4e2d"
             }
         },
@@ -451007,7 +450949,7 @@
                 "lng": 114.15024
             },
             "name": {
-                "en": "Macau Ferry, Connaught Road Central",
+                "en": "Macao Ferry, Connaught Road Central",
                 "zh": "\u6e2f\u6fb3\u78bc\u982d, \u5e72\u8afe\u9053\u4e2d"
             }
         },
@@ -558847,8 +558789,8 @@
                 "lng": 114.06225
             },
             "name": {
-                "en": "KAM SHEUNG ROAD STATION CAR PARK",
-                "zh": "\u9326\u4e0a\u8def\u7ad9\u505c\u8eca\u5834"
+                "en": "KAM SHEUNG ROAD STATION CAR PARK (YL707a)",
+                "zh": "\u9326\u4e0a\u8def\u7ad9\u505c\u8eca\u5834 (YL707a)"
             }
         },
         "C9E264A3F9D4CEB3": {
