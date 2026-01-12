@@ -418091,6 +418091,52 @@
                 ]
             }
         },
+        "R307+1+Tai Po (Ting Tai Road)+Causeway Bay (Victoria Park)": {
+            "bound": {
+                "ctb": "O"
+            },
+            "co": [
+                "ctb"
+            ],
+            "dest": {
+                "en": "Causeway Bay (Victoria Park)",
+                "zh": "\u9285\u947c\u7063 (\u7dad\u591a\u5229\u4e9e\u516c\u5712)"
+            },
+            "fares": null,
+            "faresHoliday": null,
+            "freq": null,
+            "gtfsId": null,
+            "jt": null,
+            "nlbId": null,
+            "orig": {
+                "en": "Tai Po (Ting Tai Road)",
+                "zh": "\u5927\u57d4 (\u6c40\u592a\u8def)"
+            },
+            "route": "R307",
+            "seq": 17,
+            "serviceType": 1,
+            "stops": {
+                "ctb": [
+                    "003246",
+                    "003247",
+                    "003248",
+                    "003249",
+                    "003250",
+                    "002021",
+                    "003227",
+                    "002025",
+                    "001622",
+                    "001623",
+                    "001624",
+                    "001625",
+                    "001580",
+                    "001581",
+                    "001476",
+                    "002474",
+                    "001213"
+                ]
+            }
+        },
         "R33+1+DISNEYLAND+TUEN MUN STATION": {
             "bound": {
                 "kmb": "O"
@@ -418398,6 +418444,48 @@
                 ]
             }
         },
+        "R38+1+Chi Fu Fa Yuen+Causeway Bay (Victoria Park)": {
+            "bound": {
+                "ctb": "O"
+            },
+            "co": [
+                "ctb"
+            ],
+            "dest": {
+                "en": "Causeway Bay (Victoria Park)",
+                "zh": "\u9285\u947c\u7063 (\u7dad\u591a\u5229\u4e9e\u516c\u5712)"
+            },
+            "fares": null,
+            "faresHoliday": null,
+            "freq": null,
+            "gtfsId": null,
+            "jt": null,
+            "nlbId": null,
+            "orig": {
+                "en": "Chi Fu Fa Yuen",
+                "zh": "\u7f6e\u5bcc\u82b1\u5712"
+            },
+            "route": "R38",
+            "seq": 13,
+            "serviceType": 1,
+            "stops": {
+                "ctb": [
+                    "002186",
+                    "002190",
+                    "002328",
+                    "002339",
+                    "002341",
+                    "002342",
+                    "002259",
+                    "002363",
+                    "002159",
+                    "002343",
+                    "002347",
+                    "002474",
+                    "001213"
+                ]
+            }
+        },
         "R42+1+DISNEYLAND+TAI WAI STATION": {
             "bound": {
                 "kmb": "O"
@@ -418586,6 +418674,53 @@
                 ]
             }
         },
+        "R680+1+Ma On Shan (Kam Ying Court)+Causeway Bay (Victoria Park)": {
+            "bound": {
+                "ctb": "O"
+            },
+            "co": [
+                "ctb"
+            ],
+            "dest": {
+                "en": "Causeway Bay (Victoria Park)",
+                "zh": "\u9285\u947c\u7063 (\u7dad\u591a\u5229\u4e9e\u516c\u5712)"
+            },
+            "fares": null,
+            "faresHoliday": null,
+            "freq": null,
+            "gtfsId": null,
+            "jt": null,
+            "nlbId": null,
+            "orig": {
+                "en": "Ma On Shan (Kam Ying Court)",
+                "zh": "\u99ac\u978d\u5c71 (\u9326\u82f1\u82d1)"
+            },
+            "route": "R680",
+            "seq": 18,
+            "serviceType": 1,
+            "stops": {
+                "ctb": [
+                    "003090",
+                    "003091",
+                    "003092",
+                    "001950",
+                    "003093",
+                    "001914",
+                    "001915",
+                    "003078",
+                    "002028",
+                    "002029",
+                    "003079",
+                    "003080",
+                    "003081",
+                    "003082",
+                    "001476",
+                    "002962",
+                    "002474",
+                    "001213"
+                ]
+            }
+        },
         "R78+1+FANLING STATION+SAN WAI BARRACKS(CIRCULAR)": {
             "bound": {
                 "kmb": "O"
@@ -418616,6 +418751,47 @@
                     "18FB32A8BE19CB57",
                     "EF78DD9F765C6565",
                     "9DBFBF7A3CE5DF0A"
+                ]
+            }
+        },
+        "R796+1+LOHAS Park (via: Sheung Tak)+Tsim Sha Tsui (Mody Road)": {
+            "bound": {
+                "ctb": "O"
+            },
+            "co": [
+                "ctb"
+            ],
+            "dest": {
+                "en": "Tsim Sha Tsui (Mody Road)",
+                "zh": "\u5c16\u6c99\u5480(\u9ebc\u5730\u9053)"
+            },
+            "fares": null,
+            "faresHoliday": null,
+            "freq": null,
+            "gtfsId": null,
+            "jt": null,
+            "nlbId": null,
+            "orig": {
+                "en": "LOHAS Park (via: Sheung Tak)",
+                "zh": "\u65e5\u51fa\u5eb7\u57ce (\u7d93:\u5c1a\u5fb7)"
+            },
+            "route": "R796",
+            "seq": 12,
+            "serviceType": 1,
+            "stops": {
+                "ctb": [
+                    "003329",
+                    "002919",
+                    "002928",
+                    "002929",
+                    "002930",
+                    "002931",
+                    "001818",
+                    "002918",
+                    "001823",
+                    "003589",
+                    "001419",
+                    "001540"
                 ]
             }
         },
@@ -418837,6 +419013,53 @@
                 ]
             }
         },
+        "R930+1+Tsuen Wan (Discovery Park)+Causeway Bay (Victoria Park)": {
+            "bound": {
+                "ctb": "O"
+            },
+            "co": [
+                "ctb"
+            ],
+            "dest": {
+                "en": "Causeway Bay (Victoria Park)",
+                "zh": "\u9285\u947c\u7063 (\u7dad\u591a\u5229\u4e9e\u516c\u5712)"
+            },
+            "fares": null,
+            "faresHoliday": null,
+            "freq": null,
+            "gtfsId": null,
+            "jt": null,
+            "nlbId": null,
+            "orig": {
+                "en": "Tsuen Wan (Discovery Park)",
+                "zh": "\u8343\u7063 (\u6109\u666f\u65b0\u57ce)"
+            },
+            "route": "R930",
+            "seq": 18,
+            "serviceType": 1,
+            "stops": {
+                "ctb": [
+                    "003340",
+                    "003416",
+                    "003342",
+                    "001958",
+                    "001959",
+                    "003449",
+                    "003417",
+                    "003418",
+                    "001980",
+                    "001981",
+                    "002056",
+                    "001983",
+                    "001984",
+                    "001919",
+                    "001920",
+                    "001476",
+                    "002474",
+                    "001213"
+                ]
+            }
+        },
         "R934+1+TSUEN WAN (BAYVIEW GARDEN)+CAUSEWAY BAY (VICTORIA PARK)": {
             "bound": {
                 "kmb": "O"
@@ -418973,6 +419196,164 @@
                 ]
             }
         },
+        "R948+1+Tsing Yi (Cheung Wang Estate)+Causeway Bay (Victoria Park)": {
+            "bound": {
+                "ctb": "O"
+            },
+            "co": [
+                "ctb"
+            ],
+            "dest": {
+                "en": "Causeway Bay (Victoria Park)",
+                "zh": "\u9285\u947c\u7063 (\u7dad\u591a\u5229\u4e9e\u516c\u5712)"
+            },
+            "fares": null,
+            "faresHoliday": null,
+            "freq": null,
+            "gtfsId": null,
+            "jt": null,
+            "nlbId": null,
+            "orig": {
+                "en": "Tsing Yi (Cheung Wang Estate)",
+                "zh": "\u9752\u8863 (\u9577\u5b8f\u90a8)"
+            },
+            "route": "R948",
+            "seq": 19,
+            "serviceType": 1,
+            "stops": {
+                "ctb": [
+                    "003319",
+                    "003320",
+                    "002005",
+                    "003108",
+                    "003109",
+                    "003110",
+                    "003111",
+                    "003112",
+                    "003113",
+                    "003114",
+                    "003115",
+                    "003116",
+                    "003117",
+                    "003118",
+                    "003119",
+                    "003138",
+                    "001476",
+                    "002474",
+                    "001213"
+                ]
+            }
+        },
+        "R950+1+Tuen Mun (Ching Tin and Wo Tin)+Causeway Bay (Victoria Park)": {
+            "bound": {
+                "ctb": "O"
+            },
+            "co": [
+                "ctb"
+            ],
+            "dest": {
+                "en": "Causeway Bay (Victoria Park)",
+                "zh": "\u9285\u947c\u7063 (\u7dad\u591a\u5229\u4e9e\u516c\u5712)"
+            },
+            "fares": null,
+            "faresHoliday": null,
+            "freq": null,
+            "gtfsId": null,
+            "jt": null,
+            "nlbId": null,
+            "orig": {
+                "en": "Tuen Mun (Ching Tin and Wo Tin)",
+                "zh": "\u5c6f\u9580 (\u83c1\u7530\u53ca\u548c\u7530)"
+            },
+            "route": "R950",
+            "seq": 21,
+            "serviceType": 1,
+            "stops": {
+                "ctb": [
+                    "003752",
+                    "003753",
+                    "003754",
+                    "003207",
+                    "003350",
+                    "003656",
+                    "003193",
+                    "003363",
+                    "002603",
+                    "002604",
+                    "002606",
+                    "002608",
+                    "002675",
+                    "002611",
+                    "002613",
+                    "002614",
+                    "002616",
+                    "002618",
+                    "001476",
+                    "002474",
+                    "001213"
+                ]
+            }
+        },
+        "R962+1+Tuen Mun (Lung Mun Oasis)+Causeway Bay (Moreton Terrace)": {
+            "bound": {
+                "ctb": "O"
+            },
+            "co": [
+                "ctb"
+            ],
+            "dest": {
+                "en": "Causeway Bay (Moreton Terrace)",
+                "zh": "\u9285\u947c\u7063 (\u6469\u9813\u53f0)"
+            },
+            "fares": null,
+            "faresHoliday": null,
+            "freq": null,
+            "gtfsId": null,
+            "jt": null,
+            "nlbId": null,
+            "orig": {
+                "en": "Tuen Mun (Lung Mun Oasis)",
+                "zh": "\u5c6f\u9580 (\u9f8d\u9580\u5c45)"
+            },
+            "route": "R962",
+            "seq": 31,
+            "serviceType": 1,
+            "stops": {
+                "ctb": [
+                    "003852",
+                    "001935",
+                    "001936",
+                    "001937",
+                    "002008",
+                    "002009",
+                    "002011",
+                    "002012",
+                    "002034",
+                    "001922",
+                    "001885",
+                    "001886",
+                    "001887",
+                    "001888",
+                    "001889",
+                    "001890",
+                    "003484",
+                    "003543",
+                    "003485",
+                    "003486",
+                    "003487",
+                    "001891",
+                    "001892",
+                    "002048",
+                    "002049",
+                    "001893",
+                    "001894",
+                    "001476",
+                    "002474",
+                    "002535",
+                    "002536"
+                ]
+            }
+        },
         "R968+1+YUEN LONG (FUNG CHEUNG ROAD)+CAUSEWAY BAY (VICTORIA PARK)": {
             "bound": {
                 "kmb": "O"
@@ -419014,6 +419395,54 @@
                     "06C9926B2E2B304F",
                     "76B4054F2E1F00B0",
                     "17B98BD1165A7B92"
+                ]
+            }
+        },
+        "R969+1+Tin Shui Wai Town Centre+Causeway Bay (Moreton Terrace)": {
+            "bound": {
+                "ctb": "O"
+            },
+            "co": [
+                "ctb"
+            ],
+            "dest": {
+                "en": "Causeway Bay (Moreton Terrace)",
+                "zh": "\u9285\u947c\u7063 (\u6469\u9813\u53f0)"
+            },
+            "fares": null,
+            "faresHoliday": null,
+            "freq": null,
+            "gtfsId": null,
+            "jt": null,
+            "nlbId": null,
+            "orig": {
+                "en": "Tin Shui Wai Town Centre",
+                "zh": "\u5929\u6c34\u570d\u5e02\u4e2d\u5fc3"
+            },
+            "route": "R969",
+            "seq": 19,
+            "serviceType": 1,
+            "stops": {
+                "ctb": [
+                    "002003",
+                    "002062",
+                    "002621",
+                    "002075",
+                    "002622",
+                    "003773",
+                    "002667",
+                    "001989",
+                    "001996",
+                    "001991",
+                    "001992",
+                    "001998",
+                    "002001",
+                    "002153",
+                    "001973",
+                    "001476",
+                    "002474",
+                    "002535",
+                    "002536"
                 ]
             }
         },
@@ -560785,8 +561214,8 @@
         },
         "D0B9BF21F34F409F": {
             "location": {
-                "lat": 22.24776,
-                "lng": 114.16936
+                "lat": 22.24617,
+                "lng": 114.16912
             },
             "name": {
                 "en": "POLICE SCHOOL ROAD",
@@ -592703,6 +593132,10 @@
         ],
         "001823": [
             [
+                "gmb",
+                "20003224"
+            ],
+            [
                 "kmb",
                 "AB5CF1D729028A16"
             ],
@@ -598801,6 +599234,12 @@
                 "20012937"
             ]
         ],
+        "002371": [
+            [
+                "kmb",
+                "D0B9BF21F34F409F"
+            ]
+        ],
         "002372": [
             [
                 "gmb",
@@ -599933,10 +600372,6 @@
             [
                 "kmb",
                 "76B4054F2E1F00B0"
-            ],
-            [
-                "ctb",
-                "002573"
             ]
         ],
         "002475": [
@@ -640972,6 +641407,10 @@
             ]
         ],
         "20003224": [
+            [
+                "ctb",
+                "001823"
+            ],
             [
                 "kmb",
                 "AB5CF1D729028A16"
@@ -751039,6 +751478,12 @@
             [
                 "gmb",
                 "20021396"
+            ]
+        ],
+        "D0B9BF21F34F409F": [
+            [
+                "ctb",
+                "002371"
             ]
         ],
         "D0BA1477EAFC2C2B": [
