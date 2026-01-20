@@ -356081,10 +356081,10 @@
                     "24CD3B0F3389F822",
                     "040478A068F3E0EB",
                     "8EB192ED041A8459",
-                    "14F7E124D3972753",
-                    "473AF4463A49DA24",
+                    "1E04D9D97DE148C2",
+                    "507E8F5167002BC5",
                     "362D0188DD0985FF",
-                    "4DC840CF3B4B2427",
+                    "A90443FD0C19C4B1",
                     "BA72214DFE48AA86"
                 ]
             }
@@ -356228,10 +356228,10 @@
                     "24CD3B0F3389F822",
                     "040478A068F3E0EB",
                     "8EB192ED041A8459",
-                    "14F7E124D3972753",
-                    "473AF4463A49DA24",
+                    "1E04D9D97DE148C2",
+                    "507E8F5167002BC5",
                     "362D0188DD0985FF",
-                    "4DC840CF3B4B2427",
+                    "A90443FD0C19C4B1",
                     "BA72214DFE48AA86"
                 ]
             }
@@ -356400,10 +356400,10 @@
                     "24CD3B0F3389F822",
                     "040478A068F3E0EB",
                     "8EB192ED041A8459",
-                    "14F7E124D3972753",
-                    "473AF4463A49DA24",
+                    "1E04D9D97DE148C2",
+                    "507E8F5167002BC5",
                     "362D0188DD0985FF",
-                    "4DC840CF3B4B2427",
+                    "A90443FD0C19C4B1",
                     "BA72214DFE48AA86",
                     "2C5CA5F47FB6EB3F",
                     "6B775855F6FB16D9",
@@ -415438,10 +415438,10 @@
                     "24CD3B0F3389F822",
                     "040478A068F3E0EB",
                     "8EB192ED041A8459",
-                    "14F7E124D3972753",
-                    "473AF4463A49DA24",
+                    "1E04D9D97DE148C2",
+                    "507E8F5167002BC5",
                     "362D0188DD0985FF",
-                    "4DC840CF3B4B2427",
+                    "A90443FD0C19C4B1",
                     "BA72214DFE48AA86"
                 ]
             }
@@ -417990,53 +417990,6 @@
                 ]
             }
         },
-        "R270+1+SHEUNG SHUI+TSIM SHA TSUI EAST (MODY ROAD)": {
-            "bound": {
-                "kmb": "O"
-            },
-            "co": [
-                "kmb"
-            ],
-            "dest": {
-                "en": "TSIM SHA TSUI EAST (MODY ROAD)",
-                "zh": "\u5c16\u6c99\u5480\u6771(\u9ebc\u5730\u9053)"
-            },
-            "fares": null,
-            "faresHoliday": null,
-            "freq": null,
-            "gtfsId": null,
-            "jt": null,
-            "nlbId": null,
-            "orig": {
-                "en": "SHEUNG SHUI",
-                "zh": "\u4e0a\u6c34"
-            },
-            "route": "R270",
-            "seq": 18,
-            "serviceType": "1",
-            "stops": {
-                "kmb": [
-                    "C799751FDFCE292E",
-                    "98EBAB9468C80DD2",
-                    "6DD6B837EF1FA76C",
-                    "AFD29CB1A4F71AB9",
-                    "60952B4A38F3D82E",
-                    "0E41E02CD9055626",
-                    "EE81A30BE4BDC8AC",
-                    "F129DD8D9E3268FB",
-                    "D0FB28B8EED62431",
-                    "FA52803E2628A212",
-                    "84AF6F0ACA61386F",
-                    "2431FF3100478DEE",
-                    "ED6FCB0422D541F5",
-                    "850F72123F644500",
-                    "98FCC750B322B706",
-                    "66C6FDFC88F56E51",
-                    "7CD8F96A087CDDF2",
-                    "F3D86A2A72FF3582"
-                ]
-            }
-        },
         "R271+1+TAI PO (FU HENG)+TSIM SHA TSUI EAST (MODY ROAD)": {
             "bound": {
                 "kmb": "O"
@@ -418866,60 +418819,6 @@
                     "06C9926B2E2B304F",
                     "76B4054F2E1F00B0",
                     "DF901EF2F9A46F7B"
-                ]
-            }
-        },
-        "R673+1+SHEUNG SHUI (CHING HO)+CAUSEWAY BAY (VICTORIA PARK)": {
-            "bound": {
-                "kmb": "O"
-            },
-            "co": [
-                "kmb"
-            ],
-            "dest": {
-                "en": "CAUSEWAY BAY (VICTORIA PARK)",
-                "zh": "\u9285\u947c\u7063 (\u7dad\u591a\u5229\u4e9e\u516c\u5712)"
-            },
-            "fares": null,
-            "faresHoliday": null,
-            "freq": null,
-            "gtfsId": null,
-            "jt": null,
-            "nlbId": null,
-            "orig": {
-                "en": "SHEUNG SHUI (CHING HO)",
-                "zh": "\u4e0a\u6c34(\u6e05\u6cb3)"
-            },
-            "route": "R673",
-            "seq": 25,
-            "serviceType": "1",
-            "stops": {
-                "kmb": [
-                    "583E102838FA4D0A",
-                    "6F11F73C749338DB",
-                    "C799751FDFCE292E",
-                    "D3E18D04B69DF388",
-                    "C4F843F93CDCBE64",
-                    "4235BA400EB10F0E",
-                    "879A98CD29D9433F",
-                    "A22E315AD21129EB",
-                    "944EC71DD1731BE0",
-                    "EF78DD9F765C6565",
-                    "BFAE1E951D3B63EC",
-                    "C67060F448591E4F",
-                    "F7D40D08CB05EA87",
-                    "923E5B79E1B48739",
-                    "FA52803E2628A212",
-                    "84AF6F0ACA61386F",
-                    "2431FF3100478DEE",
-                    "ED6FCB0422D541F5",
-                    "850F72123F644500",
-                    "3821D64D2BF1BB66",
-                    "66C6FDFC88F56E51",
-                    "7CD8F96A087CDDF2",
-                    "4D3CBBDB95447F2E",
-                    "76B4054F2E1F00B0",
-                    "17B98BD1165A7B92"
                 ]
             }
         },
@@ -545484,6 +545383,16 @@
                 "zh": "\u6109\u666f\u65b0\u57ce (TW380)"
             }
         },
+        "942DAC2706D66A09": {
+            "location": {
+                "lat": 22.52474,
+                "lng": 114.12993
+            },
+            "name": {
+                "en": "O\u00b7PARK2 (ND217)",
+                "zh": "\u6709\u6a5f\u56de\u6536\u4e2d\u5fc3\u4e8c\u671f (ND217)"
+            }
+        },
         "942E95B4336BDFA7": {
             "location": {
                 "lat": 22.3326,
@@ -546852,6 +546761,16 @@
             "name": {
                 "en": "KAM HONG STREET (ED560)",
                 "zh": "\u7434\u884c\u8857 (ED560)"
+            }
+        },
+        "9952B8BC5B1655E7": {
+            "location": {
+                "lat": 22.52522,
+                "lng": 114.12659
+            },
+            "name": {
+                "en": "POLICE DOG UNIT HEADQUARTERS (ND218)",
+                "zh": "\u8b66\u72ac\u968a\u7e3d\u90e8 (ND218)"
             }
         },
         "9955DA9311A76BA4": {
@@ -573052,6 +572971,16 @@
             "name": {
                 "en": "KOWLOON BAY SPORTS GROUND (KT122)",
                 "zh": "\u4e5d\u9f8d\u7063\u904b\u52d5\u5834 (KT122)"
+            }
+        },
+        "FC119E7F0F340385": {
+            "location": {
+                "lat": 22.52511,
+                "lng": 114.1327
+            },
+            "name": {
+                "en": "KONG NGA PO HONG KONG POLICE COLLEGE (ND613)",
+                "zh": "\u7f38\u74e6\u752b\u9999\u6e2f\u8b66\u5bdf\u5b78\u9662 (ND613)"
             }
         },
         "FC19ABA503C5FE51": {
@@ -605555,10 +605484,6 @@
             ],
             [
                 "kmb",
-                "362D0188DD0985FF"
-            ],
-            [
-                "kmb",
                 "4CC126E0B1E42F14"
             ],
             [
@@ -619240,10 +619165,6 @@
             [
                 "gmb",
                 "20002298"
-            ],
-            [
-                "kmb",
-                "362D0188DD0985FF"
             ],
             [
                 "kmb",
@@ -639157,10 +639078,6 @@
             ],
             [
                 "kmb",
-                "362D0188DD0985FF"
-            ],
-            [
-                "kmb",
                 "4CC126E0B1E42F14"
             ],
             [
@@ -639690,10 +639607,6 @@
             [
                 "gmb",
                 "20002249"
-            ],
-            [
-                "kmb",
-                "362D0188DD0985FF"
             ],
             [
                 "kmb",
@@ -663472,10 +663385,6 @@
                 "3A450B5AD5AF1605"
             ],
             [
-                "kmb",
-                "8EB192ED041A8459"
-            ],
-            [
                 "mtr",
                 "MOS"
             ]
@@ -679231,6 +679140,10 @@
             ],
             [
                 "kmb",
+                "C799751FDFCE292E"
+            ],
+            [
+                "kmb",
                 "F6C4CEFB8C5DB31F"
             ]
         ],
@@ -685287,23 +685200,7 @@
         "362D0188DD0985FF": [
             [
                 "ctb",
-                "003083"
-            ],
-            [
-                "ctb",
                 "003091"
-            ],
-            [
-                "kmb",
-                "0D4E07F475845DB3"
-            ],
-            [
-                "gmb",
-                "20002249"
-            ],
-            [
-                "gmb",
-                "20002298"
             ],
             [
                 "kmb",
@@ -685311,15 +685208,7 @@
             ],
             [
                 "kmb",
-                "6BD93B827893E41E"
-            ],
-            [
-                "kmb",
                 "A235DF28053F60FE"
-            ],
-            [
-                "kmb",
-                "D156C558FF163BE3"
             ]
         ],
         "36348FA62122EA3C": [
@@ -686888,10 +686777,6 @@
             [
                 "gmb",
                 "20015647"
-            ],
-            [
-                "kmb",
-                "8EB192ED041A8459"
             ],
             [
                 "mtr",
@@ -704709,6 +704594,10 @@
             ],
             [
                 "kmb",
+                "C799751FDFCE292E"
+            ],
+            [
+                "kmb",
                 "F6C4CEFB8C5DB31F"
             ]
         ],
@@ -709650,10 +709539,6 @@
             [
                 "gmb",
                 "20002298"
-            ],
-            [
-                "kmb",
-                "362D0188DD0985FF"
             ],
             [
                 "kmb",
@@ -723766,20 +723651,8 @@
                 "20001230"
             ],
             [
-                "gmb",
-                "20015647"
-            ],
-            [
-                "kmb",
-                "3A450B5AD5AF1605"
-            ],
-            [
                 "kmb",
                 "46D02E1C1CD82C9A"
-            ],
-            [
-                "mtr",
-                "MOS"
             ]
         ],
         "8EC63D8C071F72C4": [
@@ -747441,7 +747314,15 @@
         "C799751FDFCE292E": [
             [
                 "kmb",
+                "293A78248611EF42"
+            ],
+            [
+                "kmb",
                 "4A35BB617F75F41D"
+            ],
+            [
+                "kmb",
+                "60AEF6D3AA7AAC41"
             ],
             [
                 "kmb",
@@ -747486,6 +747367,38 @@
             [
                 "kmb",
                 "C4DBA77DDE73976A"
+            ],
+            [
+                "gmb",
+                "20014293"
+            ],
+            [
+                "gmb",
+                "20021580"
+            ],
+            [
+                "ctb",
+                "003849"
+            ],
+            [
+                "gmb",
+                "20012125"
+            ],
+            [
+                "kmb",
+                "647CBF3FE0DF2FAE"
+            ],
+            [
+                "kmb",
+                "9CA76C3AEAB52DC2"
+            ],
+            [
+                "gmb",
+                "20020821"
+            ],
+            [
+                "mtr",
+                "SHS"
             ]
         ],
         "C7A337AC40E14E19": [
@@ -751520,10 +751433,6 @@
             [
                 "gmb",
                 "20002298"
-            ],
-            [
-                "kmb",
-                "362D0188DD0985FF"
             ],
             [
                 "kmb",
@@ -784858,10 +784767,6 @@
             [
                 "kmb",
                 "7E2611CD03F9450A"
-            ],
-            [
-                "kmb",
-                "8EB192ED041A8459"
             ],
             [
                 "kmb",
