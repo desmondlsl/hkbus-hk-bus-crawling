@@ -260850,7 +260850,7 @@
                 "kmb": [
                     "0BB3ECAB031F27CD",
                     "10D38620E5CAEBB3",
-                    "9DF152ED984CD4A0",
+                    "6219234626AC9DD5",
                     "FDDA176977136CD9",
                     "446E33686D9C02E0",
                     "F9C14690633CE7E0",
@@ -516730,7 +516730,7 @@
             },
             "name": {
                 "en": "HOUSING AUTHORITY HEADQUARTERS (KC298)",
-                "zh": "\u623f\u5c4b\u7f72\u5927\u6a13 (KC298)"
+                "zh": "\u623f\u5c4b\u59d4\u54e1\u6703\u7e3d\u90e8 (KC298)"
             }
         },
         "2AA862C9E7E497EE": {
@@ -545383,16 +545383,6 @@
                 "zh": "\u6109\u666f\u65b0\u57ce (TW380)"
             }
         },
-        "942DAC2706D66A09": {
-            "location": {
-                "lat": 22.52474,
-                "lng": 114.12993
-            },
-            "name": {
-                "en": "O\u00b7PARK2 (ND217)",
-                "zh": "\u6709\u6a5f\u56de\u6536\u4e2d\u5fc3\u4e8c\u671f (ND217)"
-            }
-        },
         "942E95B4336BDFA7": {
             "location": {
                 "lat": 22.3326,
@@ -546761,16 +546751,6 @@
             "name": {
                 "en": "KAM HONG STREET (ED560)",
                 "zh": "\u7434\u884c\u8857 (ED560)"
-            }
-        },
-        "9952B8BC5B1655E7": {
-            "location": {
-                "lat": 22.52522,
-                "lng": 114.12659
-            },
-            "name": {
-                "en": "POLICE DOG UNIT HEADQUARTERS (ND218)",
-                "zh": "\u8b66\u72ac\u968a\u7e3d\u90e8 (ND218)"
             }
         },
         "9955DA9311A76BA4": {
@@ -572971,16 +572951,6 @@
             "name": {
                 "en": "KOWLOON BAY SPORTS GROUND (KT122)",
                 "zh": "\u4e5d\u9f8d\u7063\u904b\u52d5\u5834 (KT122)"
-            }
-        },
-        "FC119E7F0F340385": {
-            "location": {
-                "lat": 22.52511,
-                "lng": 114.1327
-            },
-            "name": {
-                "en": "KONG NGA PO HONG KONG POLICE COLLEGE (ND613)",
-                "zh": "\u7f38\u74e6\u752b\u9999\u6e2f\u8b66\u5bdf\u5b78\u9662 (ND613)"
             }
         },
         "FC19ABA503C5FE51": {
