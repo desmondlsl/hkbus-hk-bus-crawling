@@ -221555,6 +221555,74 @@
                 ]
             }
         },
+        "63R+1+LAM TSUEN WISHING TREE+TAI PO MARKET STATION": {
+            "bound": {
+                "kmb": "I"
+            },
+            "co": [
+                "kmb"
+            ],
+            "dest": {
+                "en": "TAI PO MARKET STATION",
+                "zh": "\u5927\u57d4\u589f\u7ad9"
+            },
+            "fares": null,
+            "faresHoliday": null,
+            "freq": null,
+            "gtfsId": null,
+            "jt": null,
+            "nlbId": null,
+            "orig": {
+                "en": "LAM TSUEN WISHING TREE",
+                "zh": "\u6797\u6751\u8a31\u9858\u6a39"
+            },
+            "route": "63R",
+            "seq": 6,
+            "serviceType": "1",
+            "stops": {
+                "kmb": [
+                    "74A3A3037E047C81",
+                    "BCC83D8C953DC504",
+                    "399EF919E10C7F33",
+                    "512C07C3D131AB5A",
+                    "46604706EE6CC765",
+                    "8581908CE476D2CF"
+                ]
+            }
+        },
+        "63R+1+TAI PO MARKET STATION+LAM TSUEN WISHING TREE": {
+            "bound": {
+                "kmb": "O"
+            },
+            "co": [
+                "kmb"
+            ],
+            "dest": {
+                "en": "LAM TSUEN WISHING TREE",
+                "zh": "\u6797\u6751\u8a31\u9858\u6a39"
+            },
+            "fares": null,
+            "faresHoliday": null,
+            "freq": null,
+            "gtfsId": null,
+            "jt": null,
+            "nlbId": null,
+            "orig": {
+                "en": "TAI PO MARKET STATION",
+                "zh": "\u5927\u57d4\u589f\u7ad9"
+            },
+            "route": "63R",
+            "seq": 4,
+            "serviceType": "1",
+            "stops": {
+                "kmb": [
+                    "8581908CE476D2CF",
+                    "0A8E2BA2F75E472E",
+                    "CCC4773031BC0FD8",
+                    "74A3A3037E047C81"
+                ]
+            }
+        },
         "63S+2+Mei Tin Estate Public Transport Interchange+Mong Kok": {
             "bound": {
                 "gmb": "O"
@@ -254756,6 +254824,92 @@
                     "100141C63A642F1A",
                     "5407432C01D5436D",
                     "D1CF96D7F9E6E0D3",
+                    "03C2FCE0BF616CB6",
+                    "F772B9044DD2F773",
+                    "012BE724358D1EE1",
+                    "66011988F615D538",
+                    "155F1F0445747AE7",
+                    "E97F002DCFA395B1"
+                ]
+            }
+        },
+        "73K+2+MAN KAM TO(SAN UK LING)+SHEUNG SHUI": {
+            "bound": {
+                "kmb": "I"
+            },
+            "co": [
+                "kmb"
+            ],
+            "dest": {
+                "en": "SHEUNG SHUI",
+                "zh": "\u4e0a\u6c34"
+            },
+            "fares": null,
+            "faresHoliday": null,
+            "freq": null,
+            "gtfsId": null,
+            "jt": null,
+            "nlbId": null,
+            "orig": {
+                "en": "MAN KAM TO(SAN UK LING)",
+                "zh": "\u6587\u9326\u6e21(\u65b0\u5c4b\u5dba)"
+            },
+            "route": "73K",
+            "seq": 13,
+            "serviceType": "2",
+            "stops": {
+                "kmb": [
+                    "E97F002DCFA395B1",
+                    "3E361632FD814F53",
+                    "2327BAC99994C941",
+                    "B70A225FA9659A22",
+                    "FC119E7F0F340385",
+                    "942DAC2706D66A09",
+                    "9952B8BC5B1655E7",
+                    "24E3010DECCD1055",
+                    "3381D9676D0B29C8",
+                    "95DEB5378CCEB9D2",
+                    "45924F2D86BEC3B4",
+                    "89D8AA4F45165FB6",
+                    "C799751FDFCE292E"
+                ]
+            }
+        },
+        "73K+2+SHEUNG SHUI+MAN KAM TO(SAN UK LING)": {
+            "bound": {
+                "kmb": "O"
+            },
+            "co": [
+                "kmb"
+            ],
+            "dest": {
+                "en": "MAN KAM TO(SAN UK LING)",
+                "zh": "\u6587\u9326\u6e21(\u65b0\u5c4b\u5dba)"
+            },
+            "fares": null,
+            "faresHoliday": null,
+            "freq": null,
+            "gtfsId": null,
+            "jt": null,
+            "nlbId": null,
+            "orig": {
+                "en": "SHEUNG SHUI",
+                "zh": "\u4e0a\u6c34"
+            },
+            "route": "73K",
+            "seq": 15,
+            "serviceType": "2",
+            "stops": {
+                "kmb": [
+                    "C799751FDFCE292E",
+                    "FC6CB9607D36FBD7",
+                    "A67D189D438E1534",
+                    "100141C63A642F1A",
+                    "5407432C01D5436D",
+                    "D1CF96D7F9E6E0D3",
+                    "405F3262B401825B",
+                    "ACC30E66CCF123BC",
+                    "FC119E7F0F340385",
                     "03C2FCE0BF616CB6",
                     "F772B9044DD2F773",
                     "012BE724358D1EE1",
@@ -399456,7 +399610,6 @@
         },
         "N121+1+NGAU TAU KOK+CENTRAL (MACAO FERRY)": {
             "bound": {
-                "ctb": "I",
                 "kmb": "I"
             },
             "co": [
@@ -399466,6 +399619,101 @@
             "dest": {
                 "en": "CENTRAL (MACAO FERRY)",
                 "zh": "\u4e2d\u74b0(\u6e2f\u6fb3\u78bc\u982d)"
+            },
+            "fares": [
+                "17.7",
+                "17.7",
+                "17.7",
+                "17.7",
+                "17.7",
+                "17.7",
+                "17.7",
+                "17.7",
+                "17.7",
+                "17.7",
+                "17.7",
+                "17.7",
+                "17.7",
+                "17.7",
+                "17.7",
+                "17.7",
+                "17.7",
+                "9.8",
+                "9.8",
+                "9.8",
+                "9.8",
+                "9.8",
+                "9.8",
+                "9.8",
+                "9.8",
+                "9.8",
+                "9.8",
+                "9.8"
+            ],
+            "faresHoliday": null,
+            "freq": {
+                "511": {
+                    "0045": [
+                        "0500",
+                        "900"
+                    ]
+                }
+            },
+            "gtfsId": "1430",
+            "jt": "54",
+            "nlbId": null,
+            "orig": {
+                "en": "NGAU TAU KOK",
+                "zh": "\u725b\u982d\u89d2"
+            },
+            "route": "N121",
+            "seq": 29,
+            "serviceType": "1",
+            "stops": {
+                "kmb": [
+                    "9D5EC5BD0A116058",
+                    "34DCAF51F6056BB6",
+                    "9E54416DFC0C7B68",
+                    "92540DF9CB08304C",
+                    "325D388E2C927954",
+                    "E77716C29E34669E",
+                    "00ACB49D76C8C16F",
+                    "D64C1350EE61A2AD",
+                    "D187AB3DC52090EF",
+                    "3331EE733A2A3EBB",
+                    "40CC41621D07AA2D",
+                    "57DFE7792042405B",
+                    "6E8CB58283AF3CB1",
+                    "5FFF428D657F1361",
+                    "A06590AD808DC9A9",
+                    "032C7D86DF9ED3AC",
+                    "4795FBE235012096",
+                    "742D35CD1DEA10FD",
+                    "8B5745F31A5778D7",
+                    "D5A646B379EFFD63",
+                    "A0424645102B1D9C",
+                    "E532860B16A18F3C",
+                    "082B6C57881C35D6",
+                    "B1DE024B06DE2EC7",
+                    "A5BF509DD18069D4",
+                    "74EE2ECB1A3773E9",
+                    "C0B3CCF700EDA89C",
+                    "B4962A215D3DFA65",
+                    "633A3F4B4A5637C2"
+                ]
+            }
+        },
+        "N121+2+Ngau Tau Kok+Central (Macao Ferry)": {
+            "bound": {
+                "ctb": "I"
+            },
+            "co": [
+                "kmb",
+                "ctb"
+            ],
+            "dest": {
+                "en": "Central (Macao Ferry)",
+                "zh": "\u4e2d\u74b0 (\u6e2f\u6fb3\u78bc\u982d)"
             },
             "fares": [
                 "17.7",
@@ -399511,12 +399759,12 @@
             "jt": "54",
             "nlbId": null,
             "orig": {
-                "en": "NGAU TAU KOK",
+                "en": "Ngau Tau Kok",
                 "zh": "\u725b\u982d\u89d2"
             },
             "route": "N121",
             "seq": 30,
-            "serviceType": "1",
+            "serviceType": 2,
             "stops": {
                 "ctb": [
                     "002584",
@@ -399549,38 +399797,6 @@
                     "001056",
                     "001057",
                     "001027"
-                ],
-                "kmb": [
-                    "9D5EC5BD0A116058",
-                    "34DCAF51F6056BB6",
-                    "9E54416DFC0C7B68",
-                    "AA6F0A2661759A49",
-                    "92540DF9CB08304C",
-                    "325D388E2C927954",
-                    "E77716C29E34669E",
-                    "00ACB49D76C8C16F",
-                    "D64C1350EE61A2AD",
-                    "D187AB3DC52090EF",
-                    "3331EE733A2A3EBB",
-                    "40CC41621D07AA2D",
-                    "57DFE7792042405B",
-                    "6E8CB58283AF3CB1",
-                    "5FFF428D657F1361",
-                    "A06590AD808DC9A9",
-                    "032C7D86DF9ED3AC",
-                    "4795FBE235012096",
-                    "742D35CD1DEA10FD",
-                    "8B5745F31A5778D7",
-                    "D5A646B379EFFD63",
-                    "A0424645102B1D9C",
-                    "E532860B16A18F3C",
-                    "082B6C57881C35D6",
-                    "B1DE024B06DE2EC7",
-                    "A5BF509DD18069D4",
-                    "74EE2ECB1A3773E9",
-                    "C0B3CCF700EDA89C",
-                    "B4962A215D3DFA65",
-                    "633A3F4B4A5637C2"
                 ]
             }
         },
@@ -523083,6 +523299,16 @@
                 "zh": "\u5967\u904b\u7ad9 (MK130)"
             }
         },
+        "405F3262B401825B": {
+            "location": {
+                "lat": 22.5238,
+                "lng": 114.1251
+            },
+            "name": {
+                "en": "POLICE DOG UNIT HEADQUARTERS (ND611)",
+                "zh": "\u8b66\u72ac\u968a\u7e3d\u90e8 (ND611)"
+            }
+        },
         "406864EDEB186C9A": {
             "location": {
                 "lat": 22.41212,
@@ -526139,8 +526365,8 @@
                 "lng": 114.18695
             },
             "name": {
-                "en": "SHANSI STREET",
-                "zh": "\u5c71\u897f\u8857"
+                "en": "SHANSI STREET (HH179)",
+                "zh": "\u5c71\u897f\u8857 (HH179)"
             }
         },
         "4B0E21EDF07F9C83": {
@@ -537623,6 +537849,16 @@
                 "zh": "\u5927\u6717 (ND278)"
             }
         },
+        "74A3A3037E047C81": {
+            "location": {
+                "lat": 22.45766,
+                "lng": 114.14293
+            },
+            "name": {
+                "en": "LAM TSUEN WISHING TREE (TP860)",
+                "zh": "\u6797\u6751\u8a31\u9858\u6a39 (TP860)"
+            }
+        },
         "74C0E91D535648A2": {
             "location": {
                 "lat": 22.4815,
@@ -545383,6 +545619,16 @@
                 "zh": "\u6109\u666f\u65b0\u57ce (TW380)"
             }
         },
+        "942DAC2706D66A09": {
+            "location": {
+                "lat": 22.52474,
+                "lng": 114.12993
+            },
+            "name": {
+                "en": "O\u00b7PARK2 (ND217)",
+                "zh": "\u6709\u6a5f\u56de\u6536\u4e2d\u5fc3\u4e8c\u671f (ND217)"
+            }
+        },
         "942E95B4336BDFA7": {
             "location": {
                 "lat": 22.3326,
@@ -546751,6 +546997,16 @@
             "name": {
                 "en": "KAM HONG STREET (ED560)",
                 "zh": "\u7434\u884c\u8857 (ED560)"
+            }
+        },
+        "9952B8BC5B1655E7": {
+            "location": {
+                "lat": 22.52522,
+                "lng": 114.12659
+            },
+            "name": {
+                "en": "POLICE DOG UNIT HEADQUARTERS (ND218)",
+                "zh": "\u8b66\u72ac\u968a\u7e3d\u90e8 (ND218)"
             }
         },
         "9955DA9311A76BA4": {
@@ -552141,6 +552397,16 @@
             "name": {
                 "en": "TUEN MUN ROAD BBI (A4) (TM755)",
                 "zh": "\u5c6f\u9580\u516c\u8def\u8f49\u8eca\u7ad9 (A4) (TM755)"
+            }
+        },
+        "ACC30E66CCF123BC": {
+            "location": {
+                "lat": 22.52632,
+                "lng": 114.12842
+            },
+            "name": {
+                "en": "O\u00b7PARK2 (ND612)",
+                "zh": "\u6709\u6a5f\u56de\u6536\u4e2d\u5fc3\u4e8c\u671f (ND612)"
             }
         },
         "ACCABC765E3F0961": {
@@ -572951,6 +573217,16 @@
             "name": {
                 "en": "KOWLOON BAY SPORTS GROUND (KT122)",
                 "zh": "\u4e5d\u9f8d\u7063\u904b\u52d5\u5834 (KT122)"
+            }
+        },
+        "FC119E7F0F340385": {
+            "location": {
+                "lat": 22.52511,
+                "lng": 114.1327
+            },
+            "name": {
+                "en": "KONG NGA PO HONG KONG POLICE COLLEGE (ND613)",
+                "zh": "\u7f38\u74e6\u752b\u9999\u6e2f\u8b66\u5bdf\u5b78\u9662 (ND613)"
             }
         },
         "FC19ABA503C5FE51": {
@@ -648851,6 +649127,12 @@
                 "90A92A87C0491478"
             ]
         ],
+        "20011097": [
+            [
+                "kmb",
+                "BCC83D8C953DC504"
+            ]
+        ],
         "20011123": [
             [
                 "gmb",
@@ -720236,6 +720518,10 @@
             ],
             [
                 "kmb",
+                "B4721B39CC29C634"
+            ],
+            [
+                "kmb",
                 "D2F0F58F146419A3"
             ],
             [
@@ -739508,6 +739794,10 @@
             ],
             [
                 "kmb",
+                "8581908CE476D2CF"
+            ],
+            [
+                "kmb",
                 "919C2FE90FDCAD6A"
             ],
             [
@@ -742949,6 +743239,12 @@
             [
                 "lrtfeeder",
                 "K65-D150"
+            ]
+        ],
+        "BCC83D8C953DC504": [
+            [
+                "gmb",
+                "20011097"
             ]
         ],
         "BCEEE192EF01C361": [
