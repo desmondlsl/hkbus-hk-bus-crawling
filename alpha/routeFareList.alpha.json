@@ -105023,6 +105023,110 @@
                 ]
             }
         },
+        "277B+1+LAM TIN STATION+SHEUNG SHUI KONG NGA PO": {
+            "bound": {
+                "kmb": "I"
+            },
+            "co": [
+                "kmb"
+            ],
+            "dest": {
+                "en": "SHEUNG SHUI KONG NGA PO",
+                "zh": "\u4e0a\u6c34(\u7f38\u74e6\u752b)"
+            },
+            "fares": null,
+            "faresHoliday": null,
+            "freq": null,
+            "gtfsId": null,
+            "jt": null,
+            "nlbId": null,
+            "orig": {
+                "en": "LAM TIN STATION",
+                "zh": "\u85cd\u7530\u7ad9"
+            },
+            "route": "277B",
+            "seq": 21,
+            "serviceType": "1",
+            "stops": {
+                "kmb": [
+                    "87549D6B12E322E5",
+                    "5B04604E989BBDF0",
+                    "1E3A342DF7D5B8B5",
+                    "C9A46DDC082BAEE0",
+                    "ABF9301D1E5B52ED",
+                    "266A4CDA19461A42",
+                    "8C79BE154468AE21",
+                    "26A996F589C84844",
+                    "F374B56E275194D8",
+                    "AD0B5EFA2471962C",
+                    "9274EF6791CA3ED8",
+                    "F8D7946AFDBA377E",
+                    "57E8A522E2C638FD",
+                    "FC6CB9607D36FBD7",
+                    "A67D189D438E1534",
+                    "100141C63A642F1A",
+                    "5407432C01D5436D",
+                    "D1CF96D7F9E6E0D3",
+                    "405F3262B401825B",
+                    "ACC30E66CCF123BC",
+                    "FC119E7F0F340385"
+                ]
+            }
+        },
+        "277B+1+SHEUNG SHUI KONG NGA PO+LAM TIN STATION": {
+            "bound": {
+                "kmb": "O"
+            },
+            "co": [
+                "kmb"
+            ],
+            "dest": {
+                "en": "LAM TIN STATION",
+                "zh": "\u85cd\u7530\u7ad9"
+            },
+            "fares": null,
+            "faresHoliday": null,
+            "freq": null,
+            "gtfsId": null,
+            "jt": null,
+            "nlbId": null,
+            "orig": {
+                "en": "SHEUNG SHUI KONG NGA PO",
+                "zh": "\u4e0a\u6c34(\u7f38\u74e6\u752b)"
+            },
+            "route": "277B",
+            "seq": 25,
+            "serviceType": "1",
+            "stops": {
+                "kmb": [
+                    "FC119E7F0F340385",
+                    "942DAC2706D66A09",
+                    "9952B8BC5B1655E7",
+                    "24E3010DECCD1055",
+                    "3381D9676D0B29C8",
+                    "95DEB5378CCEB9D2",
+                    "4442A9A5E7FABAB8",
+                    "11B894BF379B1BFC",
+                    "A2D9858497241575",
+                    "B986375ED4762DA9",
+                    "A7C1A969F48B62C0",
+                    "D417A444017171C6",
+                    "26AC17B8F05DD7F2",
+                    "940F276037968281",
+                    "4EB92F34598243DB",
+                    "D2C1454B663392C9",
+                    "30D564180B68ECA8",
+                    "BA03816A38B9DA7F",
+                    "D0F8772D043C207E",
+                    "BE36EF30B86ADD1D",
+                    "598F766175BE3EF3",
+                    "5FE12AC5660F89D6",
+                    "144E9479168069DD",
+                    "A88EE1930BE82C54",
+                    "87549D6B12E322E5"
+                ]
+            }
+        },
         "277E+1+LAM TIN STATION+SHEUNG SHUI (TIN PING)": {
             "bound": {
                 "kmb": "I"
@@ -254715,7 +254819,7 @@
                 ]
             }
         },
-        "73K+1+SHEUNG SHUI+MAN KAM TO(SAN UK LING)": {
+        "73K+1+SHEUNG SHUI+MAN KAM TO (SAN UK LING)": {
             "bound": {
                 "kmb": "O"
             },
@@ -254723,7 +254827,7 @@
                 "kmb"
             ],
             "dest": {
-                "en": "MAN KAM TO(SAN UK LING)",
+                "en": "MAN KAM TO (SAN UK LING)",
                 "zh": "\u6587\u9326\u6e21(\u65b0\u5c4b\u5dba)"
             },
             "fares": [
@@ -254875,7 +254979,7 @@
                 ]
             }
         },
-        "73K+2+SHEUNG SHUI+MAN KAM TO(SAN UK LING)": {
+        "73K+2+SHEUNG SHUI+MAN KAM TO (SAN UK LING)": {
             "bound": {
                 "kmb": "O"
             },
@@ -254883,7 +254987,7 @@
                 "kmb"
             ],
             "dest": {
-                "en": "MAN KAM TO(SAN UK LING)",
+                "en": "MAN KAM TO (SAN UK LING)",
                 "zh": "\u6587\u9326\u6e21(\u65b0\u5c4b\u5dba)"
             },
             "fares": null,
@@ -381064,39 +381168,6 @@
                 ]
             }
         },
-        "K53*+1+Tuen Mun Station+Yip Wong Estate Special\u00a0Trips (Circular)": {
-            "bound": {
-                "lrtfeeder": "O"
-            },
-            "co": [
-                "lrtfeeder"
-            ],
-            "dest": {
-                "en": "Yip Wong Estate Special\u00a0Trips (Circular)",
-                "zh": "\u696d\u65fa\u90a8\u7279\u5225\u73ed\u6b21 (\u5faa\u74b0\u7dda)"
-            },
-            "fares": null,
-            "faresHoliday": null,
-            "freq": null,
-            "gtfsId": null,
-            "jt": null,
-            "nlbId": null,
-            "orig": {
-                "en": "Tuen Mun Station",
-                "zh": "\u5c6f\u9580\u7ad9"
-            },
-            "route": "K53*",
-            "seq": 4,
-            "serviceType": "1",
-            "stops": {
-                "lrtfeeder": [
-                    "K53*-U010",
-                    "K53*-U020",
-                    "K53*-U030",
-                    "K53*-U040"
-                ]
-            }
-        },
         "K53+1+Tuen Mun Station+So Kwun Wat (Circular)": {
             "bound": {
                 "lrtfeeder": "O"
@@ -382239,6 +382310,39 @@
                     "K53-U020",
                     "K53-D160",
                     "K53-U011"
+                ]
+            }
+        },
+        "K53S+1+Tuen Mun Station+Yip Wong Estate Special\u00a0Trips (Circular)": {
+            "bound": {
+                "lrtfeeder": "O"
+            },
+            "co": [
+                "lrtfeeder"
+            ],
+            "dest": {
+                "en": "Yip Wong Estate Special\u00a0Trips (Circular)",
+                "zh": "\u696d\u65fa\u90a8\u7279\u5225\u73ed\u6b21 (\u5faa\u74b0\u7dda)"
+            },
+            "fares": null,
+            "faresHoliday": null,
+            "freq": null,
+            "gtfsId": null,
+            "jt": null,
+            "nlbId": null,
+            "orig": {
+                "en": "Tuen Mun Station",
+                "zh": "\u5c6f\u9580\u7ad9"
+            },
+            "route": "K53S",
+            "seq": 4,
+            "serviceType": "1",
+            "stops": {
+                "lrtfeeder": [
+                    "K53S-U010",
+                    "K53S-U020",
+                    "K53S-U030",
+                    "K53S-U040"
                 ]
             }
         },
@@ -576899,46 +577003,6 @@
                 "zh": "\u5c6f\u9580\u7ad9 "
             }
         },
-        "K53*-U010": {
-            "location": {
-                "lat": 22.39422,
-                "lng": 113.97336
-            },
-            "name": {
-                "en": "Tuen Mun Station ",
-                "zh": "\u5c6f\u9580\u7ad9 "
-            }
-        },
-        "K53*-U020": {
-            "location": {
-                "lat": 22.39167,
-                "lng": 113.97155
-            },
-            "name": {
-                "en": "Tin Hau Road",
-                "zh": "\u5929\u540e\u8def"
-            }
-        },
-        "K53*-U030": {
-            "location": {
-                "lat": 22.38814,
-                "lng": 113.97015
-            },
-            "name": {
-                "en": "Yip Wong Estate",
-                "zh": "\u696d\u65fa\u90a8"
-            }
-        },
-        "K53*-U040": {
-            "location": {
-                "lat": 22.39422,
-                "lng": 113.97336
-            },
-            "name": {
-                "en": "Tuen Mun Station ",
-                "zh": "\u5c6f\u9580\u7ad9 "
-            }
-        },
         "K53-D010": {
             "location": {
                 "lat": 22.37202,
@@ -577257,6 +577321,46 @@
             "name": {
                 "en": "So Kwun Wat Tsuen",
                 "zh": "\u6383\u7ba1\u7b0f\u6751"
+            }
+        },
+        "K53S-U010": {
+            "location": {
+                "lat": 22.39422,
+                "lng": 113.97336
+            },
+            "name": {
+                "en": "Tuen Mun Station ",
+                "zh": "\u5c6f\u9580\u7ad9 "
+            }
+        },
+        "K53S-U020": {
+            "location": {
+                "lat": 22.39167,
+                "lng": 113.97155
+            },
+            "name": {
+                "en": "Tin Hau Road",
+                "zh": "\u5929\u540e\u8def"
+            }
+        },
+        "K53S-U030": {
+            "location": {
+                "lat": 22.38814,
+                "lng": 113.97015
+            },
+            "name": {
+                "en": "Yip Wong Estate",
+                "zh": "\u696d\u65fa\u90a8"
+            }
+        },
+        "K53S-U040": {
+            "location": {
+                "lat": 22.39422,
+                "lng": 113.97336
+            },
+            "name": {
+                "en": "Tuen Mun Station ",
+                "zh": "\u5c6f\u9580\u7ad9 "
             }
         },
         "K54-D010": {
@@ -624470,7 +624574,7 @@
         "16B7A6679BD8903B": [
             [
                 "lrtfeeder",
-                "K53*-U020"
+                "K53S-U020"
             ]
         ],
         "16B97B5AA485EE6A": [
@@ -650998,6 +651102,10 @@
             ],
             [
                 "kmb",
+                "57E8A522E2C638FD"
+            ],
+            [
+                "kmb",
                 "647CBF3FE0DF2FAE"
             ],
             [
@@ -657409,6 +657517,10 @@
             [
                 "gmb",
                 "20012125"
+            ],
+            [
+                "kmb",
+                "57E8A522E2C638FD"
             ],
             [
                 "kmb",
@@ -697216,11 +697328,11 @@
             ],
             [
                 "lrtfeeder",
-                "K53*-U010"
+                "K53-U010"
             ],
             [
                 "lrtfeeder",
-                "K53-U010"
+                "K53S-U010"
             ],
             [
                 "lrtfeeder",
@@ -700808,6 +700920,14 @@
             ],
             [
                 "gmb",
+                "20012125"
+            ],
+            [
+                "gmb",
+                "20014293"
+            ],
+            [
+                "gmb",
                 "20016136"
             ],
             [
@@ -700825,6 +700945,14 @@
             [
                 "kmb",
                 "D876A83244ECB838"
+            ],
+            [
+                "kmb",
+                "F15B04D268DD5C8F"
+            ],
+            [
+                "mtr",
+                "SHS"
             ]
         ],
         "57EB54AE06E21275": [
@@ -722274,7 +722402,7 @@
             ],
             [
                 "lrtfeeder",
-                "K53*-U030"
+                "K53S-U030"
             ]
         ],
         "8998797A3D3E02A7": [
@@ -747652,6 +747780,10 @@
             ],
             [
                 "kmb",
+                "57E8A522E2C638FD"
+            ],
+            [
+                "kmb",
                 "647CBF3FE0DF2FAE"
             ],
             [
@@ -754854,7 +754986,7 @@
         "D9582C2A1BAD56C7": [
             [
                 "lrtfeeder",
-                "K53*-U010"
+                "K53S-U010"
             ]
         ],
         "D95C76946ACCA9D6": [
@@ -764666,6 +764798,10 @@
             ],
             [
                 "kmb",
+                "57E8A522E2C638FD"
+            ],
+            [
+                "kmb",
                 "647CBF3FE0DF2FAE"
             ],
             [
@@ -767211,6 +767347,10 @@
             [
                 "gmb",
                 "20012125"
+            ],
+            [
+                "kmb",
+                "57E8A522E2C638FD"
             ],
             [
                 "kmb",
@@ -775982,11 +776122,11 @@
             ],
             [
                 "lrtfeeder",
-                "K53*-U010"
+                "K53-U010"
             ],
             [
                 "lrtfeeder",
-                "K53-U010"
+                "K53S-U010"
             ],
             [
                 "lrtfeeder",
@@ -776678,131 +776818,11 @@
             ],
             [
                 "lrtfeeder",
-                "K53*-U010"
-            ],
-            [
-                "lrtfeeder",
                 "K53-U010"
             ],
             [
                 "lrtfeeder",
-                "K58-D080"
-            ],
-            [
-                "lrtfeeder",
-                "K58-U150"
-            ],
-            [
-                "gmb",
-                "20011812"
-            ],
-            [
-                "kmb",
-                "A6A60ADA171EE7C8"
-            ],
-            [
-                "kmb",
-                "DBD6820299653B4E"
-            ],
-            [
-                "kmb",
-                "1B21C4E917FBA155"
-            ],
-            [
-                "lrtfeeder",
-                "506-D040"
-            ],
-            [
-                "lrtfeeder",
-                "506-U080"
-            ],
-            [
-                "lrtfeeder",
-                "K52-nD190"
-            ],
-            [
-                "lrtfeeder",
-                "K52-nU140"
-            ],
-            [
-                "lrtfeeder",
-                "K52A-U015"
-            ],
-            [
-                "lightRail",
-                "LR295"
-            ],
-            [
-                "kmb",
-                "0678C85600B1A019"
-            ],
-            [
-                "kmb",
-                "584E6744385F6463"
-            ],
-            [
-                "kmb",
-                "69EA07FBAB612E68"
-            ],
-            [
-                "kmb",
-                "79D68EE7C6CBAB9D"
-            ],
-            [
-                "kmb",
-                "7A501670303C90F8"
-            ],
-            [
-                "kmb",
-                "D74B67D55C63895F"
-            ],
-            [
-                "mtr",
-                "TUM"
-            ],
-            [
-                "ctb",
-                "003361"
-            ]
-        ],
-        "K53*-U010": [
-            [
-                "kmb",
-                "D9582C2A1BAD56C7"
-            ]
-        ],
-        "K53*-U020": [
-            [
-                "kmb",
-                "16B7A6679BD8903B"
-            ]
-        ],
-        "K53*-U030": [
-            [
-                "kmb",
-                "8983CAC3634DD53D"
-            ]
-        ],
-        "K53*-U040": [
-            [
-                "gmb",
-                "20001311"
-            ],
-            [
-                "kmb",
-                "D9582C2A1BAD56C7"
-            ],
-            [
-                "lrtfeeder",
-                "K52A-U010"
-            ],
-            [
-                "lrtfeeder",
-                "K53*-U010"
-            ],
-            [
-                "lrtfeeder",
-                "K53-U010"
+                "K53S-U010"
             ],
             [
                 "lrtfeeder",
@@ -777392,11 +777412,11 @@
             ],
             [
                 "lrtfeeder",
-                "K53*-U010"
+                "K53-U010"
             ],
             [
                 "lrtfeeder",
-                "K53-U010"
+                "K53S-U010"
             ],
             [
                 "lrtfeeder",
@@ -777859,6 +777879,126 @@
             [
                 "lrtfeeder",
                 "K58-U280"
+            ]
+        ],
+        "K53S-U010": [
+            [
+                "kmb",
+                "D9582C2A1BAD56C7"
+            ]
+        ],
+        "K53S-U020": [
+            [
+                "kmb",
+                "16B7A6679BD8903B"
+            ]
+        ],
+        "K53S-U030": [
+            [
+                "kmb",
+                "8983CAC3634DD53D"
+            ]
+        ],
+        "K53S-U040": [
+            [
+                "gmb",
+                "20001311"
+            ],
+            [
+                "kmb",
+                "D9582C2A1BAD56C7"
+            ],
+            [
+                "lrtfeeder",
+                "K52A-U010"
+            ],
+            [
+                "lrtfeeder",
+                "K53-U010"
+            ],
+            [
+                "lrtfeeder",
+                "K53S-U010"
+            ],
+            [
+                "lrtfeeder",
+                "K58-D080"
+            ],
+            [
+                "lrtfeeder",
+                "K58-U150"
+            ],
+            [
+                "gmb",
+                "20011812"
+            ],
+            [
+                "kmb",
+                "A6A60ADA171EE7C8"
+            ],
+            [
+                "kmb",
+                "DBD6820299653B4E"
+            ],
+            [
+                "kmb",
+                "1B21C4E917FBA155"
+            ],
+            [
+                "lrtfeeder",
+                "506-D040"
+            ],
+            [
+                "lrtfeeder",
+                "506-U080"
+            ],
+            [
+                "lrtfeeder",
+                "K52-nD190"
+            ],
+            [
+                "lrtfeeder",
+                "K52-nU140"
+            ],
+            [
+                "lrtfeeder",
+                "K52A-U015"
+            ],
+            [
+                "lightRail",
+                "LR295"
+            ],
+            [
+                "kmb",
+                "0678C85600B1A019"
+            ],
+            [
+                "kmb",
+                "584E6744385F6463"
+            ],
+            [
+                "kmb",
+                "69EA07FBAB612E68"
+            ],
+            [
+                "kmb",
+                "79D68EE7C6CBAB9D"
+            ],
+            [
+                "kmb",
+                "7A501670303C90F8"
+            ],
+            [
+                "kmb",
+                "D74B67D55C63895F"
+            ],
+            [
+                "mtr",
+                "TUM"
+            ],
+            [
+                "ctb",
+                "003361"
             ]
         ],
         "K54-D010": [
@@ -785301,6 +785441,10 @@
             [
                 "gmb",
                 "20014293"
+            ],
+            [
+                "kmb",
+                "57E8A522E2C638FD"
             ],
             [
                 "kmb",
