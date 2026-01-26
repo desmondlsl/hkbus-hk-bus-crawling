@@ -112552,6 +112552,46 @@
                 ]
             }
         },
+        "287+1+Sai Sha Residences Transport Interchange+UNIVERSITY STATION": {
+            "bound": {
+                "kmb": "I"
+            },
+            "co": [
+                "kmb"
+            ],
+            "dest": {
+                "en": "UNIVERSITY STATION",
+                "zh": "\u5927\u5b78\u7ad9"
+            },
+            "fares": null,
+            "faresHoliday": null,
+            "freq": null,
+            "gtfsId": null,
+            "jt": null,
+            "nlbId": null,
+            "orig": {
+                "en": "Sai Sha Residences Transport Interchange",
+                "zh": "\u897f\u6c99\u7063\u4ea4\u901a\u4ea4\u532f\u8655"
+            },
+            "route": "287",
+            "seq": 11,
+            "serviceType": "1",
+            "stops": {
+                "kmb": [
+                    "81D05719EDB6070E",
+                    "79B88295548184C1",
+                    "9CEC1F1000AFE806",
+                    "5D86C919F15C0611",
+                    "F63D25B428F1C1D9",
+                    "8337F935242C5CC3",
+                    "0D4E07F475845DB3",
+                    "B071B60F5566934B",
+                    "E2602DD1C8EA1AC8",
+                    "664BAA2EA12B80B1",
+                    "3E10F323161F4ADB"
+                ]
+            }
+        },
         "287+1+UNIVERSITY STATION+Sai Sha Residences Transport Interchange": {
             "bound": {
                 "kmb": "O"
@@ -461458,8 +461498,8 @@
                 "lng": 114.06368
             },
             "name": {
-                "en": "PAT HEUNG ROAD B/T (C2 - TAI LAM TUNNEL BBI)",
-                "zh": "\u516b\u9109\u8def\u7e3d\u7ad9 (\u5927\u6b16\u96a7\u9053\u8f49\u8eca\u7ad9-C2)"
+                "en": "PAT HEUNG ROAD B/T (TAI LAM TUNNEL BBI) (YL851)",
+                "zh": "\u516b\u9109\u8def\u7e3d\u7ad9 (\u5927\u6b16\u96a7\u9053\u8f49\u8eca\u7ad9)"
             }
         },
         "132": {
@@ -519978,8 +520018,8 @@
                 "lng": 114.06376
             },
             "name": {
-                "en": "PAT HEUNG ROAD B/T (C3 - TAI LAM TUNNEL BBI)",
-                "zh": "\u516b\u9109\u8def\u7e3d\u7ad9 (\u5927\u6b16\u96a7\u9053\u8f49\u8eca\u7ad9-C3)"
+                "en": "PAT HEUNG ROAD B/T (TAI LAM TUNNEL BBI) (YL850)",
+                "zh": "\u516b\u9109\u8def\u7e3d\u7ad9 (\u5927\u6b16\u96a7\u9053\u8f49\u8eca\u7ad9)"
             }
         },
         "34BA638C9E27EB46": {
@@ -531098,8 +531138,8 @@
                 "lng": 114.06368
             },
             "name": {
-                "en": "PAT HEUNG ROAD B/T (C1 - TAI LAM TUNNEL BBI)",
-                "zh": "\u516b\u9109\u8def\u7e3d\u7ad9 (\u5927\u6b16\u96a7\u9053\u8f49\u8eca\u7ad9-C1)"
+                "en": "PAT HEUNG ROAD B/T (TAI LAM TUNNEL BBI) (YL852)",
+                "zh": "\u516b\u9109\u8def\u7e3d\u7ad9 (\u5927\u6b16\u96a7\u9053\u8f49\u8eca\u7ad9)"
             }
         },
         "5CCBD9A6B58BF20D": {
@@ -613874,6 +613914,10 @@
             [
                 "kmb",
                 "74775F172FABD878"
+            ],
+            [
+                "kmb",
+                "81D05719EDB6070E"
             ],
             [
                 "kmb",
@@ -713291,6 +713335,10 @@
             ],
             [
                 "kmb",
+                "81D05719EDB6070E"
+            ],
+            [
+                "kmb",
                 "8B9E121BB71771F4"
             ],
             [
@@ -722436,6 +722484,10 @@
             [
                 "kmb",
                 "74775F172FABD878"
+            ],
+            [
+                "kmb",
+                "81D05719EDB6070E"
             ],
             [
                 "kmb",
@@ -766682,6 +766734,10 @@
             [
                 "kmb",
                 "74775F172FABD878"
+            ],
+            [
+                "kmb",
+                "81D05719EDB6070E"
             ],
             [
                 "kmb",
