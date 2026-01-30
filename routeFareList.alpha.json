@@ -455494,8 +455494,8 @@
                 "lng": 114.19777
             },
             "name": {
-                "en": "Kai Tak - Airside",
-                "zh": "\u555f\u5fb7 - Airside"
+                "en": "Kai Tak - AIRSIDE",
+                "zh": "\u555f\u5fb7-AIRSIDE"
             }
         },
         "003836": {
@@ -571496,6 +571496,16 @@
             "name": {
                 "en": "EVELYN TOWERS (ED608)",
                 "zh": "\u96f2\u666f\u53f0 (ED608)"
+            }
+        },
+        "F77B2A9037BF71ED": {
+            "location": {
+                "lat": 22.28437,
+                "lng": 114.174
+            },
+            "name": {
+                "en": "GOLDEN BAUHINIA GARDEN",
+                "zh": "\u91d1\u7d2b\u834a\u5ee3\u5834"
             }
         },
         "F78B61532972282D": {
@@ -766444,6 +766454,16 @@
             [
                 "gmb",
                 "20009184"
+            ]
+        ],
+        "F77B2A9037BF71ED": [
+            [
+                "ctb",
+                "003300"
+            ],
+            [
+                "kmb",
+                "3B254E7FFFCC0A2F"
             ]
         ],
         "F78B61532972282D": [
