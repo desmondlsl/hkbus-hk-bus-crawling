@@ -312498,7 +312498,7 @@
                 ]
             }
         },
-        "90M+1+Lai King Headland+Lai Kong Street (Circular)": {
+        "90M+1+Lai Kong Street+Mei Foo Station (Circular)": {
             "bound": {
                 "gmb": "O"
             },
@@ -312506,8 +312506,8 @@
                 "gmb"
             ],
             "dest": {
-                "en": "Lai Kong Street (Circular)",
-                "zh": "\u8354\u5d17\u8857(\u5faa\u74b0\u7dda)"
+                "en": "Mei Foo Station (Circular)",
+                "zh": "\u7f8e\u5b5a\u7ad9(\u5faa\u74b0\u7dda)"
             },
             "fares": [
                 "6.6",
@@ -312557,8 +312557,8 @@
             "jt": null,
             "nlbId": null,
             "orig": {
-                "en": "Lai King Headland",
-                "zh": "\u8354\u666f\u5c71\u6751"
+                "en": "Lai Kong Street",
+                "zh": "\u8354\u5d17\u8857"
             },
             "route": "90M",
             "seq": 16,
@@ -417494,13 +417494,17 @@
                 "zh": "\u9999\u6e2f\u6545\u5bae\u6587\u5316\u535a\u7269\u9928"
             },
             "route": "PB5",
-            "seq": 7,
+            "seq": 11,
             "serviceType": "1",
             "stops": {
                 "kmb": [
                     "F050648C108571ED",
                     "045FB4EAE4FE52D6",
                     "A31DD8C4FD6740D4",
+                    "9774D8AAAD859409",
+                    "B26B63709D8A7DFA",
+                    "E4415E645A9914EF",
+                    "98C945957285E149",
                     "9774D8AAAD859409",
                     "A31DD8C4FD6740D4",
                     "045FB4EAE4FE52D6",
@@ -468684,8 +468688,8 @@
                 "lng": 114.18536
             },
             "name": {
-                "en": "Shun Yung Street, outside Custom & Excise Service Married Quarters",
-                "zh": "\u4fe1\u7528\u8857, \u9ad8\u5c71\u9053\u6d77\u95dc\u5df2\u5a5a\u95dc\u54e1\u5bbf\u820d\u5916"
+                "en": "Shun Yung Street, outside Homantin Hillside",
+                "zh": "\u4fe1\u7528\u8857, \u4f55\u6587\u7530\u5c71\u7554\u5916"
             }
         },
         "20000727": {
