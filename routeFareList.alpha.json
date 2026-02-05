@@ -524044,6 +524044,16 @@
                 "zh": "\u5357\u5c71\u90a8\u5357\u5b89\u6a13 (SS568)"
             }
         },
+        "43BB62F7CBC3D782": {
+            "location": {
+                "lat": 0.0,
+                "lng": 0.0
+            },
+            "name": {
+                "en": "KA SHING COURT",
+                "zh": "\u5609\u76db\u82d1"
+            }
+        },
         "43BFFB46B4D209FC": {
             "location": {
                 "lat": 22.33559,
@@ -538974,6 +538984,16 @@
                 "zh": "\u897f\u8ca2\u7e3d\u7ad9 (SK903)"
             }
         },
+        "7A7ADAC0C01409EE": {
+            "location": {
+                "lat": 0.0,
+                "lng": 0.0
+            },
+            "name": {
+                "en": "FANLING STATION BBI - FANLING STATION",
+                "zh": "\u7c89\u5dba\u7ad9\u8f49\u8eca\u7ad9 - \u7c89\u5dba\u7ad9"
+            }
+        },
         "7A899F3009A31F68": {
             "location": {
                 "lat": 22.33778,
@@ -547722,6 +547742,16 @@
             "name": {
                 "en": "LAM TIN (NORTH) (LT941)",
                 "zh": "\u85cd\u7530(\u5317) (LT941)"
+            }
+        },
+        "9D7E5D8D1E2B3E10": {
+            "location": {
+                "lat": 0.0,
+                "lng": 0.0
+            },
+            "name": {
+                "en": "WAH SUM ESTATE",
+                "zh": "\u83ef\u5fc3\u90a8"
             }
         },
         "9D80403C90EDFBAD": {
@@ -560284,6 +560314,16 @@
                 "zh": "\u88d5\u6c11\u574a (KT555)"
             }
         },
+        "CCDD774F50E8650C": {
+            "location": {
+                "lat": 22.49552,
+                "lng": 114.13154
+            },
+            "name": {
+                "en": "CHEERFUL PARK",
+                "zh": "\u6b23\u7fe0\u82b1\u5712"
+            }
+        },
         "CCED20D6135C0347": {
             "location": {
                 "lat": 22.49568,
@@ -570032,6 +570072,16 @@
             "name": {
                 "en": "LOK KING HOUSE LAI KING ESTATE (KW437)",
                 "zh": "\u8354\u666f\u90a8\u6a02\u666f\u6a13 (KW437)"
+            }
+        },
+        "F277A29EDF23121A": {
+            "location": {
+                "lat": 0.0,
+                "lng": 0.0
+            },
+            "name": {
+                "en": "KING SHING COURT",
+                "zh": "\u666f\u76db\u82d1"
             }
         },
         "F2794804DD8799B4": {
@@ -748848,6 +748898,40 @@
             [
                 "kmb",
                 "45C2286729E1475B"
+            ]
+        ],
+        "CCDD774F50E8650C": [
+            [
+                "ctb",
+                "003379"
+            ],
+            [
+                "gmb",
+                "20004169"
+            ],
+            [
+                "kmb",
+                "98EBAB9468C80DD2"
+            ],
+            [
+                "kmb",
+                "9B0A34A1BF585BC4"
+            ],
+            [
+                "kmb",
+                "D6ACD5E94F9E6DED"
+            ],
+            [
+                "ctb",
+                "003377"
+            ],
+            [
+                "gmb",
+                "20004163"
+            ],
+            [
+                "kmb",
+                "8E3F5AE0A97053F9"
             ]
         ],
         "CCED20D6135C0347": [
