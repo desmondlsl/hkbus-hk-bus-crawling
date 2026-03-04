@@ -48408,50 +48408,6 @@
                 ]
             }
         },
-        "173R+1+Stanley+Tsim Sha Tsui (Mody Road)": {
-            "bound": {
-                "ctb": "O"
-            },
-            "co": [
-                "ctb"
-            ],
-            "dest": {
-                "en": "Tsim Sha Tsui (Mody Road)",
-                "zh": "\u5c16\u6c99\u5480(\u9ebc\u5730\u9053)"
-            },
-            "fares": null,
-            "faresHoliday": null,
-            "freq": null,
-            "gtfsId": null,
-            "jt": null,
-            "nlbId": null,
-            "orig": {
-                "en": "Stanley",
-                "zh": "\u8d64\u67f1"
-            },
-            "route": "173R",
-            "seq": 15,
-            "serviceType": 1,
-            "stops": {
-                "ctb": [
-                    "002277",
-                    "002378",
-                    "002241",
-                    "002197",
-                    "002353",
-                    "001475",
-                    "001480",
-                    "002811",
-                    "001482",
-                    "001400",
-                    "001403",
-                    "002626",
-                    "002627",
-                    "001587",
-                    "001540"
-                ]
-            }
-        },
         "17A+1+Po Lam Station+Tseung Kwan O Village": {
             "bound": {
                 "gmb": "O"
@@ -358476,7 +358432,7 @@
                 ]
             }
         },
-        "B1+1+FUTIAN PORT+TIN TSZ": {
+        "B1+1+LOK MA CHAU STATION \u2027 FUTIAN PORT+TIN TSZ": {
             "bound": {
                 "kmb": "I"
             },
@@ -358581,8 +358537,8 @@
             "jt": "51",
             "nlbId": null,
             "orig": {
-                "en": "FUTIAN PORT",
-                "zh": "\u798f\u7530\u53e3\u5cb8"
+                "en": "LOK MA CHAU STATION \u2027 FUTIAN PORT",
+                "zh": "\u843d\u99ac\u6d32\u7ad9 \u2027 \u798f\u7530\u53e3\u5cb8"
             },
             "route": "B1",
             "seq": 16,
@@ -358608,7 +358564,7 @@
                 ]
             }
         },
-        "B1+1+TIN TSZ+FUTIAN PORT": {
+        "B1+1+TIN TSZ+LOK MA CHAU STATION \u2027 FUTIAN PORT": {
             "bound": {
                 "kmb": "O"
             },
@@ -358616,8 +358572,8 @@
                 "kmb"
             ],
             "dest": {
-                "en": "FUTIAN PORT",
-                "zh": "\u798f\u7530\u53e3\u5cb8"
+                "en": "LOK MA CHAU STATION \u2027 FUTIAN PORT",
+                "zh": "\u843d\u99ac\u6d32\u7ad9 \u2027 \u798f\u7530\u53e3\u5cb8"
             },
             "fares": [
                 "15.3",
@@ -358766,7 +358722,7 @@
                 ]
             }
         },
-        "B1+2+FUTIAN PORT+MA WANG ROAD (SAN SHUI HOUSE)": {
+        "B1+2+LOK MA CHAU STATION \u2027 FUTIAN PORT+MA WANG ROAD (SAN SHUI HOUSE)": {
             "bound": {
                 "kmb": "I"
             },
@@ -358831,8 +358787,8 @@
             "jt": "33",
             "nlbId": null,
             "orig": {
-                "en": "FUTIAN PORT",
-                "zh": "\u798f\u7530\u53e3\u5cb8"
+                "en": "LOK MA CHAU STATION \u2027 FUTIAN PORT",
+                "zh": "\u843d\u99ac\u6d32\u7ad9 \u2027 \u798f\u7530\u53e3\u5cb8"
             },
             "route": "B1",
             "seq": 12,
@@ -358854,7 +358810,7 @@
                 ]
             }
         },
-        "B1+2+MA WANG ROAD (SAN SHUI HOUSE)+FUTIAN PORT": {
+        "B1+2+MA WANG ROAD (SAN SHUI HOUSE)+LOK MA CHAU STATION \u2027 FUTIAN PORT": {
             "bound": {
                 "kmb": "O"
             },
@@ -358862,8 +358818,8 @@
                 "kmb"
             ],
             "dest": {
-                "en": "FUTIAN PORT",
-                "zh": "\u798f\u7530\u53e3\u5cb8"
+                "en": "LOK MA CHAU STATION \u2027 FUTIAN PORT",
+                "zh": "\u843d\u99ac\u6d32\u7ad9 \u2027 \u798f\u7530\u53e3\u5cb8"
             },
             "fares": [
                 "13.9",
@@ -358958,7 +358914,7 @@
                 ]
             }
         },
-        "B1+6+TIN TSZ+FUTIAN PORT": {
+        "B1+6+TIN TSZ+LOK MA CHAU STATION \u2027 FUTIAN PORT": {
             "bound": {
                 "kmb": "O"
             },
@@ -358966,8 +358922,8 @@
                 "kmb"
             ],
             "dest": {
-                "en": "FUTIAN PORT",
-                "zh": "\u798f\u7530\u53e3\u5cb8"
+                "en": "LOK MA CHAU STATION \u2027 FUTIAN PORT",
+                "zh": "\u843d\u99ac\u6d32\u7ad9 \u2027 \u798f\u7530\u53e3\u5cb8"
             },
             "fares": [
                 "15.3",
@@ -363113,7 +363069,7 @@
                 ]
             }
         },
-        "B9+1+LIANTANG PORT+TUEN MUN STATION": {
+        "B9+1+HEUNG YUEN WAI \u2027 LIANTANG PORT+TUEN MUN STATION": {
             "bound": {
                 "kmb": "I"
             },
@@ -363131,8 +363087,8 @@
             "jt": null,
             "nlbId": null,
             "orig": {
-                "en": "LIANTANG PORT",
-                "zh": "\u84ee\u5858\u53e3\u5cb8"
+                "en": "HEUNG YUEN WAI \u2027 LIANTANG PORT",
+                "zh": "\u9999\u5712\u570d \u2027 \u84ee\u5858\u53e3\u5cb8"
             },
             "route": "B9",
             "seq": 4,
@@ -363146,7 +363102,7 @@
                 ]
             }
         },
-        "B9+1+TUEN MUN STATION+LIANTANG PORT": {
+        "B9+1+TUEN MUN STATION+HEUNG YUEN WAI \u2027 LIANTANG PORT": {
             "bound": {
                 "kmb": "O"
             },
@@ -363154,8 +363110,8 @@
                 "kmb"
             ],
             "dest": {
-                "en": "LIANTANG PORT",
-                "zh": "\u84ee\u5858\u53e3\u5cb8"
+                "en": "HEUNG YUEN WAI \u2027 LIANTANG PORT",
+                "zh": "\u9999\u5712\u570d \u2027 \u84ee\u5858\u53e3\u5cb8"
             },
             "fares": [
                 "21.3",
@@ -363248,7 +363204,7 @@
                 ]
             }
         },
-        "B9+2+LIANTANG PORT+YUEN LONG (YOHO MALL)": {
+        "B9+2+HEUNG YUEN WAI \u2027 LIANTANG PORT+YUEN LONG (YOHO MALL)": {
             "bound": {
                 "kmb": "I"
             },
@@ -363322,8 +363278,8 @@
             "jt": "53",
             "nlbId": null,
             "orig": {
-                "en": "LIANTANG PORT",
-                "zh": "\u84ee\u5858\u53e3\u5cb8"
+                "en": "HEUNG YUEN WAI \u2027 LIANTANG PORT",
+                "zh": "\u9999\u5712\u570d \u2027 \u84ee\u5858\u53e3\u5cb8"
             },
             "route": "B9",
             "seq": 3,
@@ -363336,7 +363292,7 @@
                 ]
             }
         },
-        "B9+2+YUEN LONG (LONG YAT ROAD)+LIANTANG PORT": {
+        "B9+2+YUEN LONG (LONG YAT ROAD)+HEUNG YUEN WAI \u2027 LIANTANG PORT": {
             "bound": {
                 "kmb": "O"
             },
@@ -363344,8 +363300,8 @@
                 "kmb"
             ],
             "dest": {
-                "en": "LIANTANG PORT",
-                "zh": "\u84ee\u5858\u53e3\u5cb8"
+                "en": "HEUNG YUEN WAI \u2027 LIANTANG PORT",
+                "zh": "\u9999\u5712\u570d \u2027 \u84ee\u5858\u53e3\u5cb8"
             },
             "fares": null,
             "faresHoliday": null,
@@ -363368,7 +363324,7 @@
                 ]
             }
         },
-        "B9+3+TUEN MUN STATION+LIANTANG PORT": {
+        "B9+3+TUEN MUN STATION+HEUNG YUEN WAI \u2027 LIANTANG PORT": {
             "bound": {
                 "kmb": "O"
             },
@@ -363376,8 +363332,8 @@
                 "kmb"
             ],
             "dest": {
-                "en": "LIANTANG PORT",
-                "zh": "\u84ee\u5858\u53e3\u5cb8"
+                "en": "HEUNG YUEN WAI \u2027 LIANTANG PORT",
+                "zh": "\u9999\u5712\u570d \u2027 \u84ee\u5858\u53e3\u5cb8"
             },
             "fares": null,
             "faresHoliday": null,
@@ -363399,7 +363355,7 @@
                 ]
             }
         },
-        "B9A+1+LIANTANG PORT+YUEN LONG (WEST)": {
+        "B9A+1+HEUNG YUEN WAI \u2027 LIANTANG PORT+YUEN LONG (WEST)": {
             "bound": {
                 "kmb": "I"
             },
@@ -363429,8 +363385,8 @@
             "jt": "43",
             "nlbId": null,
             "orig": {
-                "en": "LIANTANG PORT",
-                "zh": "\u84ee\u5858\u53e3\u5cb8"
+                "en": "HEUNG YUEN WAI \u2027 LIANTANG PORT",
+                "zh": "\u9999\u5712\u570d \u2027 \u84ee\u5858\u53e3\u5cb8"
             },
             "route": "B9A",
             "seq": 5,
@@ -363445,7 +363401,7 @@
                 ]
             }
         },
-        "B9A+1+YUEN LONG (WEST)+LIANTANG PORT": {
+        "B9A+1+YUEN LONG (WEST)+HEUNG YUEN WAI \u2027 LIANTANG PORT": {
             "bound": {
                 "kmb": "O"
             },
@@ -363453,8 +363409,8 @@
                 "kmb"
             ],
             "dest": {
-                "en": "LIANTANG PORT",
-                "zh": "\u84ee\u5858\u53e3\u5cb8"
+                "en": "HEUNG YUEN WAI \u2027 LIANTANG PORT",
+                "zh": "\u9999\u5712\u570d \u2027 \u84ee\u5858\u53e3\u5cb8"
             },
             "fares": [
                 "17.2",
@@ -409209,64 +409165,6 @@
                 ]
             }
         },
-        "N601+1+Admiralty (East)+Po Tat Estate": {
-            "bound": {
-                "ctb": "O"
-            },
-            "co": [
-                "ctb"
-            ],
-            "dest": {
-                "en": "Po Tat Estate",
-                "zh": "\u5bf6\u9054\u90a8"
-            },
-            "fares": null,
-            "faresHoliday": null,
-            "freq": null,
-            "gtfsId": null,
-            "jt": null,
-            "nlbId": null,
-            "orig": {
-                "en": "Admiralty (East)",
-                "zh": "\u91d1\u9418 (\u6771)"
-            },
-            "route": "N601",
-            "seq": 29,
-            "serviceType": 1,
-            "stops": {
-                "ctb": [
-                    "001138",
-                    "002430",
-                    "002432",
-                    "002434",
-                    "002435",
-                    "002437",
-                    "002555",
-                    "001213",
-                    "001259",
-                    "001260",
-                    "001261",
-                    "001263",
-                    "001264",
-                    "001464",
-                    "001522",
-                    "001521",
-                    "001493",
-                    "003041",
-                    "003042",
-                    "003043",
-                    "003044",
-                    "003045",
-                    "001719",
-                    "001720",
-                    "002702",
-                    "001721",
-                    "003071",
-                    "003072",
-                    "003068"
-                ]
-            }
-        },
         "N619+1+CENTRAL (MACAO FERRY)+SHUN LEE": {
             "bound": {
                 "ctb": "O",
@@ -418243,48 +418141,6 @@
                 ]
             }
         },
-        "R38+1+Chi Fu Fa Yuen+Causeway Bay (Victoria Park)": {
-            "bound": {
-                "ctb": "O"
-            },
-            "co": [
-                "ctb"
-            ],
-            "dest": {
-                "en": "Causeway Bay (Victoria Park)",
-                "zh": "\u9285\u947c\u7063 (\u7dad\u591a\u5229\u4e9e\u516c\u5712)"
-            },
-            "fares": null,
-            "faresHoliday": null,
-            "freq": null,
-            "gtfsId": null,
-            "jt": null,
-            "nlbId": null,
-            "orig": {
-                "en": "Chi Fu Fa Yuen",
-                "zh": "\u7f6e\u5bcc\u82b1\u5712"
-            },
-            "route": "R38",
-            "seq": 13,
-            "serviceType": 1,
-            "stops": {
-                "ctb": [
-                    "002186",
-                    "002190",
-                    "002328",
-                    "002339",
-                    "002341",
-                    "002342",
-                    "002259",
-                    "002363",
-                    "002159",
-                    "002343",
-                    "002347",
-                    "002474",
-                    "001213"
-                ]
-            }
-        },
         "R42+1+DISNEYLAND+TAI WAI STATION": {
             "bound": {
                 "kmb": "O"
@@ -418510,47 +418366,6 @@
                     "18FB32A8BE19CB57",
                     "EF78DD9F765C6565",
                     "9DBFBF7A3CE5DF0A"
-                ]
-            }
-        },
-        "R796+1+LOHAS Park (via: Sheung Tak)+Tsim Sha Tsui (Mody Road)": {
-            "bound": {
-                "ctb": "O"
-            },
-            "co": [
-                "ctb"
-            ],
-            "dest": {
-                "en": "Tsim Sha Tsui (Mody Road)",
-                "zh": "\u5c16\u6c99\u5480(\u9ebc\u5730\u9053)"
-            },
-            "fares": null,
-            "faresHoliday": null,
-            "freq": null,
-            "gtfsId": null,
-            "jt": null,
-            "nlbId": null,
-            "orig": {
-                "en": "LOHAS Park (via: Sheung Tak)",
-                "zh": "\u65e5\u51fa\u5eb7\u57ce (\u7d93:\u5c1a\u5fb7)"
-            },
-            "route": "R796",
-            "seq": 12,
-            "serviceType": 1,
-            "stops": {
-                "ctb": [
-                    "003329",
-                    "002919",
-                    "002928",
-                    "002929",
-                    "002930",
-                    "002931",
-                    "001818",
-                    "002918",
-                    "001823",
-                    "003589",
-                    "001419",
-                    "001540"
                 ]
             }
         },
@@ -512430,8 +512245,8 @@
                 "lng": 114.15391
             },
             "name": {
-                "en": "LIANTANG PORT (ND890)",
-                "zh": "\u84ee\u5858\u53e3\u5cb8 (ND890)"
+                "en": "HEUNG YUEN WAI \u2027 LIANTANG PORT (ND890)",
+                "zh": "\u9999\u5712\u570d \u2027 \u84ee\u5858\u53e3\u5cb8 (ND890)"
             }
         },
         "20B7C6B56788E484": {
@@ -521810,8 +521625,8 @@
                 "lng": 114.15391
             },
             "name": {
-                "en": "LIANTANG PORT (ND891)",
-                "zh": "\u84ee\u5858\u53e3\u5cb8 (ND891)"
+                "en": "HEUNG YUEN WAI \u2027 LIANTANG PORT (ND891)",
+                "zh": "\u9999\u5712\u570d \u2027 \u84ee\u5858\u53e3\u5cb8 (ND891)"
             }
         },
         "3EF537320681EE89": {
@@ -539900,8 +539715,8 @@
                 "lng": 114.06651
             },
             "name": {
-                "en": "FUTIAN PORT (YL991)",
-                "zh": "\u798f\u7530\u53e3\u5cb8 (YL991)"
+                "en": "LOK MA CHAU STATION \u2027 FUTIAN PORT (YL991)",
+                "zh": "\u843d\u99ac\u6d32\u7ad9 \u2027 \u798f\u7530\u53e3\u5cb8 (YL991)"
             }
         },
         "815BC43527FD9247": {
@@ -592464,10 +592279,6 @@
         ],
         "001823": [
             [
-                "gmb",
-                "20003224"
-            ],
-            [
                 "kmb",
                 "AB5CF1D729028A16"
             ],
@@ -640731,10 +640542,6 @@
             ]
         ],
         "20003224": [
-            [
-                "ctb",
-                "001823"
-            ],
             [
                 "kmb",
                 "AB5CF1D729028A16"
