@@ -186835,6 +186835,70 @@
                 ]
             }
         },
+        "52S+1+TSANG TSUI+TUEN MUN ROAD BBI": {
+            "bound": {
+                "kmb": "I"
+            },
+            "co": [
+                "kmb"
+            ],
+            "dest": {
+                "en": "TUEN MUN ROAD BBI",
+                "zh": "\u5c6f\u9580\u516c\u8def\u8f49\u8eca\u7ad9"
+            },
+            "fares": null,
+            "faresHoliday": null,
+            "freq": null,
+            "gtfsId": null,
+            "jt": null,
+            "nlbId": null,
+            "orig": {
+                "en": "TSANG TSUI",
+                "zh": "\u66fe\u5480"
+            },
+            "route": "52S",
+            "seq": 3,
+            "serviceType": "1",
+            "stops": {
+                "kmb": [
+                    "D6001B758148778A",
+                    "76441824D4E31948",
+                    "212BFF5737D0116C"
+                ]
+            }
+        },
+        "52S+1+TUEN MUN ROAD BBI+TSANG TSUI": {
+            "bound": {
+                "kmb": "O"
+            },
+            "co": [
+                "kmb"
+            ],
+            "dest": {
+                "en": "TSANG TSUI",
+                "zh": "\u66fe\u5480"
+            },
+            "fares": null,
+            "faresHoliday": null,
+            "freq": null,
+            "gtfsId": null,
+            "jt": null,
+            "nlbId": null,
+            "orig": {
+                "en": "TUEN MUN ROAD BBI",
+                "zh": "\u5c6f\u9580\u516c\u8def\u8f49\u8eca\u7ad9"
+            },
+            "route": "52S",
+            "seq": 3,
+            "serviceType": "1",
+            "stops": {
+                "kmb": [
+                    "D0937674DF369B23",
+                    "09A5D5C90F15C08C",
+                    "D6001B758148778A"
+                ]
+            }
+        },
         "52X+1+MONG KOK (PARK AVENUE)+TUEN MUN CENTRAL": {
             "bound": {
                 "kmb": "I"
@@ -192059,6 +192123,72 @@
                     "20007809",
                     "20001456",
                     "20007811"
+                ]
+            }
+        },
+        "56S+1+TSANG TSUI+TUEN MUN STATION": {
+            "bound": {
+                "kmb": "I"
+            },
+            "co": [
+                "kmb"
+            ],
+            "dest": {
+                "en": "TUEN MUN STATION",
+                "zh": "\u5c6f\u9580\u7ad9"
+            },
+            "fares": null,
+            "faresHoliday": null,
+            "freq": null,
+            "gtfsId": null,
+            "jt": null,
+            "nlbId": null,
+            "orig": {
+                "en": "TSANG TSUI",
+                "zh": "\u66fe\u5480"
+            },
+            "route": "56S",
+            "seq": 4,
+            "serviceType": "1",
+            "stops": {
+                "kmb": [
+                    "F64076F7E14E38D4",
+                    "76441824D4E31948",
+                    "5D14B75687F60509",
+                    "584E6744385F6463"
+                ]
+            }
+        },
+        "56S+1+TUEN MUN STATION+TSANG TSUI": {
+            "bound": {
+                "kmb": "O"
+            },
+            "co": [
+                "kmb"
+            ],
+            "dest": {
+                "en": "TSANG TSUI",
+                "zh": "\u66fe\u5480"
+            },
+            "fares": null,
+            "faresHoliday": null,
+            "freq": null,
+            "gtfsId": null,
+            "jt": null,
+            "nlbId": null,
+            "orig": {
+                "en": "TUEN MUN STATION",
+                "zh": "\u5c6f\u9580\u7ad9"
+            },
+            "route": "56S",
+            "seq": 4,
+            "serviceType": "1",
+            "stops": {
+                "kmb": [
+                    "584E6744385F6463",
+                    "C1BF4509359B0895",
+                    "09A5D5C90F15C08C",
+                    "F64076F7E14E38D4"
                 ]
             }
         },
@@ -218376,6 +218506,73 @@
                     "20002307",
                     "20001549",
                     "20001515"
+                ]
+            }
+        },
+        "61S+1+TUEN MUN CENTRAL+WO HOP SHEK": {
+            "bound": {
+                "kmb": "O"
+            },
+            "co": [
+                "kmb"
+            ],
+            "dest": {
+                "en": "WO HOP SHEK",
+                "zh": "\u548c\u5408\u77f3"
+            },
+            "fares": null,
+            "faresHoliday": null,
+            "freq": null,
+            "gtfsId": null,
+            "jt": null,
+            "nlbId": null,
+            "orig": {
+                "en": "TUEN MUN CENTRAL",
+                "zh": "\u5c6f\u9580\u5dff\u4e2d\u5fc3"
+            },
+            "route": "61S",
+            "seq": 5,
+            "serviceType": "1",
+            "stops": {
+                "kmb": [
+                    "8660BDF2C013FAC2",
+                    "EC49B6F5634BC0C2",
+                    "7AC6625D894BA101",
+                    "CBE54DB551C24A02",
+                    "AA5CBDB0758443A9"
+                ]
+            }
+        },
+        "61S+1+WO HOP SHEK+TUEN MUN CENTRAL": {
+            "bound": {
+                "kmb": "I"
+            },
+            "co": [
+                "kmb"
+            ],
+            "dest": {
+                "en": "TUEN MUN CENTRAL",
+                "zh": "\u5c6f\u9580\u5dff\u4e2d\u5fc3"
+            },
+            "fares": null,
+            "faresHoliday": null,
+            "freq": null,
+            "gtfsId": null,
+            "jt": null,
+            "nlbId": null,
+            "orig": {
+                "en": "WO HOP SHEK",
+                "zh": "\u548c\u5408\u77f3"
+            },
+            "route": "61S",
+            "seq": 4,
+            "serviceType": "1",
+            "stops": {
+                "kmb": [
+                    "AA5CBDB0758443A9",
+                    "6FB7BC1E5BC1E4EE",
+                    "5238463F47B490D6",
+                    "8660BDF2C013FAC2"
                 ]
             }
         },
@@ -417280,6 +417477,40 @@
                 ]
             }
         },
+        "PB1+2+Sheung Shui+GO PARK": {
+            "bound": {
+                "kmb": "I"
+            },
+            "co": [
+                "kmb"
+            ],
+            "dest": {
+                "en": "GO PARK",
+                "zh": "\u897f\u6c99 GO PARK"
+            },
+            "fares": null,
+            "faresHoliday": null,
+            "freq": null,
+            "gtfsId": null,
+            "jt": null,
+            "nlbId": null,
+            "orig": {
+                "en": "Sheung Shui",
+                "zh": "\u4e0a\u6c34"
+            },
+            "route": "PB1",
+            "seq": 5,
+            "serviceType": "2",
+            "stops": {
+                "kmb": [
+                    "F02A1646BD4FC0E2",
+                    "01775517BE76284E",
+                    "2B011CC82C51D518",
+                    "B1882202E2B36620",
+                    "8C90768E30E981C6"
+                ]
+            }
+        },
         "PB2+1+GO PARK+Hong Kong Palace Museum": {
             "bound": {
                 "kmb": "O"
@@ -417384,6 +417615,40 @@
                 ]
             }
         },
+        "PB2+2+KAI TAK (MUK YUEN STREET)+GO PARK": {
+            "bound": {
+                "kmb": "I"
+            },
+            "co": [
+                "kmb"
+            ],
+            "dest": {
+                "en": "GO PARK",
+                "zh": "\u897f\u6c99 GO PARK"
+            },
+            "fares": null,
+            "faresHoliday": null,
+            "freq": null,
+            "gtfsId": null,
+            "jt": null,
+            "nlbId": null,
+            "orig": {
+                "en": "KAI TAK (MUK YUEN STREET)",
+                "zh": "\u555f\u5fb7(\u6c90\u5143\u8857)"
+            },
+            "route": "PB2",
+            "seq": 5,
+            "serviceType": "2",
+            "stops": {
+                "kmb": [
+                    "F050648C108571ED",
+                    "029C4172D953DAF5",
+                    "9252A494500A05C9",
+                    "06CC6423AA236B72",
+                    "064B06C60E5EE126"
+                ]
+            }
+        },
         "PB3+1+Hong Kong Palace Museum+Kornhill Plaza": {
             "bound": {
                 "kmb": "O"
@@ -417478,11 +417743,12 @@
                 "zh": "\u9999\u6e2f\u6545\u5bae\u6587\u5316\u535a\u7269\u9928"
             },
             "route": "PB4",
-            "seq": 6,
+            "seq": 7,
             "serviceType": "1",
             "stops": {
                 "kmb": [
                     "F050648C108571ED",
+                    "330D7A880DF41606",
                     "321060BAE1447BEE",
                     "825B78271286D8DE",
                     "F9D89A6B45DFD0A0",
@@ -417513,7 +417779,7 @@
                 "zh": "\u5143\u6717 \u5f62\u9ede"
             },
             "route": "PB4",
-            "seq": 6,
+            "seq": 7,
             "serviceType": "1",
             "stops": {
                 "kmb": [
@@ -417522,6 +417788,7 @@
                     "C6F1D1D8DF180508",
                     "654D32C3AC9FAEF7",
                     "321060BAE1447BEE",
+                    "330D7A880DF41606",
                     "F050648C108571ED"
                 ]
             }
@@ -417548,14 +417815,46 @@
                 "zh": "\u9999\u6e2f\u6545\u5bae\u6587\u5316\u535a\u7269\u9928"
             },
             "route": "PB4",
+            "seq": 3,
+            "serviceType": "2",
+            "stops": {
+                "kmb": [
+                    "321060BAE1447BEE",
+                    "0678C85600B1A019",
+                    "F493236404A4FABF"
+                ]
+            }
+        },
+        "PB4+2+YOHO MALL (YUEN LONG)+HONG KONG PALACE MUSEUM": {
+            "bound": {
+                "kmb": "I"
+            },
+            "co": [
+                "kmb"
+            ],
+            "dest": {
+                "en": "HONG KONG PALACE MUSEUM",
+                "zh": "\u9999\u6e2f\u6545\u5bae\u6587\u5316\u535a\u7269\u9928"
+            },
+            "fares": null,
+            "faresHoliday": null,
+            "freq": null,
+            "gtfsId": null,
+            "jt": null,
+            "nlbId": null,
+            "orig": {
+                "en": "YOHO MALL (YUEN LONG)",
+                "zh": "\u5143\u6717 \u5f62\u9ede"
+            },
+            "route": "PB4",
             "seq": 4,
             "serviceType": "2",
             "stops": {
                 "kmb": [
-                    "F050648C108571ED",
-                    "321060BAE1447BEE",
+                    "F493236404A4FABF",
                     "0678C85600B1A019",
-                    "F493236404A4FABF"
+                    "C6F1D1D8DF180508",
+                    "654D32C3AC9FAEF7"
                 ]
             }
         },
@@ -417581,7 +417880,7 @@
                 "zh": "\u6109\u666f\u5ee3\u5834"
             },
             "route": "PB5",
-            "seq": 6,
+            "seq": 7,
             "serviceType": "1",
             "stops": {
                 "kmb": [
@@ -417589,6 +417888,7 @@
                     "98C945957285E149",
                     "9774D8AAAD859409",
                     "A31DD8C4FD6740D4",
+                    "330D7A880DF41606",
                     "045FB4EAE4FE52D6",
                     "F050648C108571ED"
                 ]
@@ -417616,8 +417916,79 @@
                 "zh": "\u9999\u6e2f\u6545\u5bae\u6587\u5316\u535a\u7269\u9928"
             },
             "route": "PB5",
-            "seq": 6,
+            "seq": 7,
             "serviceType": "1",
+            "stops": {
+                "kmb": [
+                    "F050648C108571ED",
+                    "045FB4EAE4FE52D6",
+                    "330D7A880DF41606",
+                    "A31DD8C4FD6740D4",
+                    "9774D8AAAD859409",
+                    "B26B63709D8A7DFA",
+                    "E4415E645A9914EF"
+                ]
+            }
+        },
+        "PB5+2+DISCOVERY BAY PLAZA+HONG KONG PALACE MUSEUM": {
+            "bound": {
+                "kmb": "I"
+            },
+            "co": [
+                "kmb"
+            ],
+            "dest": {
+                "en": "HONG KONG PALACE MUSEUM",
+                "zh": "\u9999\u6e2f\u6545\u5bae\u6587\u5316\u535a\u7269\u9928"
+            },
+            "fares": null,
+            "faresHoliday": null,
+            "freq": null,
+            "gtfsId": null,
+            "jt": null,
+            "nlbId": null,
+            "orig": {
+                "en": "DISCOVERY BAY PLAZA",
+                "zh": "\u6109\u666f\u5ee3\u5834"
+            },
+            "route": "PB5",
+            "seq": 6,
+            "serviceType": "2",
+            "stops": {
+                "kmb": [
+                    "E4415E645A9914EF",
+                    "98C945957285E149",
+                    "9774D8AAAD859409",
+                    "A31DD8C4FD6740D4",
+                    "330D7A880DF41606",
+                    "045FB4EAE4FE52D6"
+                ]
+            }
+        },
+        "PB5+2+HONG KONG PALACE MUSEUM+DISCOVERY BAY PLAZA": {
+            "bound": {
+                "kmb": "O"
+            },
+            "co": [
+                "kmb"
+            ],
+            "dest": {
+                "en": "DISCOVERY BAY PLAZA",
+                "zh": "\u6109\u666f\u5ee3\u5834"
+            },
+            "fares": null,
+            "faresHoliday": null,
+            "freq": null,
+            "gtfsId": null,
+            "jt": null,
+            "nlbId": null,
+            "orig": {
+                "en": "HONG KONG PALACE MUSEUM",
+                "zh": "\u9999\u6e2f\u6545\u5bae\u6587\u5316\u535a\u7269\u9928"
+            },
+            "route": "PB5",
+            "seq": 6,
+            "serviceType": "2",
             "stops": {
                 "kmb": [
                     "F050648C108571ED",
@@ -457562,6 +457933,16 @@
             "name": {
                 "en": "LAI CHI KOK STATION (SS467)",
                 "zh": "\u8354\u679d\u89d2\u7ad9 (SS467)"
+            }
+        },
+        "09A5D5C90F15C08C": {
+            "location": {
+                "lat": 22.38905,
+                "lng": 113.92031
+            },
+            "name": {
+                "en": "LUNG KWU TAN",
+                "zh": "\u9f8d\u9f13\u7058"
             }
         },
         "09AC1B6D147CA643": {
@@ -518514,6 +518895,16 @@
                 "zh": "\u7d05\u78e1\u5c71\u8c37\u9053 (HH176)"
             }
         },
+        "330D7A880DF41606": {
+            "location": {
+                "lat": 22.33716,
+                "lng": 114.14213
+            },
+            "name": {
+                "en": "JAO TSUNG-I ACADEMY",
+                "zh": "\u9952\u5b97\u9824\u6587\u5316\u9928"
+            }
+        },
         "330F82C1677EEC3D": {
             "location": {
                 "lat": 22.33153,
@@ -537162,6 +537553,16 @@
             "name": {
                 "en": "CHEVALIER GARDEN (MA390)",
                 "zh": "\u5bcc\u5b89\u82b1\u5712 (MA390)"
+            }
+        },
+        "76441824D4E31948": {
+            "location": {
+                "lat": 22.38905,
+                "lng": 113.92031
+            },
+            "name": {
+                "en": "LUNG KWU TAN",
+                "zh": "\u9f8d\u9f13\u7058"
             }
         },
         "76457B949CBCDE7B": {
@@ -560364,6 +560765,16 @@
                 "zh": "\u5929\u6a02\u91cc (WC665)"
             }
         },
+        "D0937674DF369B23": {
+            "location": {
+                "lat": 22.35849,
+                "lng": 114.01911
+            },
+            "name": {
+                "en": "TUEN MUN ROAD BBI (C1) (TM113)",
+                "zh": "\u5c6f\u9580\u516c\u8def\u8f49\u8eca\u7ad9 (C1) (TM113)"
+            }
+        },
         "D09590C6061D9FE7": {
             "location": {
                 "lat": 22.39655,
@@ -561942,6 +562353,16 @@
             "name": {
                 "en": "STATUE SQUARE (CW145)",
                 "zh": "\u7687\u540e\u50cf\u5ee3\u5834 (CW145)"
+            }
+        },
+        "D6001B758148778A": {
+            "location": {
+                "lat": 22.41939,
+                "lng": 113.92137
+            },
+            "name": {
+                "en": "TSANG TSUI (TM876)",
+                "zh": "\u66fe\u5480 (TM876)"
             }
         },
         "D617FE3785FAC79A": {
@@ -570472,6 +570893,16 @@
             "name": {
                 "en": "SYMPHONY BAY, CHEUNG MUK TAU (SK221)",
                 "zh": "\u6a1f\u6728\u982d\u5e1d\u7434\u7063 (SK221)"
+            }
+        },
+        "F64076F7E14E38D4": {
+            "location": {
+                "lat": 22.41939,
+                "lng": 113.92137
+            },
+            "name": {
+                "en": "TSANG TSUI (TM875)",
+                "zh": "\u66fe\u5480 (TM875)"
             }
         },
         "F646F96A5D18D121": {
@@ -606272,6 +606703,14 @@
             [
                 "lrtfeeder",
                 "K58-U160"
+            ],
+            [
+                "kmb",
+                "8660BDF2C013FAC2"
+            ],
+            [
+                "kmb",
+                "10DABE0380229B4D"
             ]
         ],
         "003221": [
@@ -614149,6 +614588,10 @@
             ],
             [
                 "kmb",
+                "D0937674DF369B23"
+            ],
+            [
+                "kmb",
                 "F80DF64ABE690251"
             ],
             [
@@ -616952,6 +617395,16 @@
             [
                 "kmb",
                 "8BCB786E1F1A2457"
+            ]
+        ],
+        "09A5D5C90F15C08C": [
+            [
+                "lrtfeeder",
+                "K52-nU300"
+            ],
+            [
+                "lrtfeeder",
+                "K52A-U170"
             ]
         ],
         "09AC1B6D147CA643": [
@@ -678985,6 +679438,10 @@
             ],
             [
                 "kmb",
+                "D0937674DF369B23"
+            ],
+            [
+                "kmb",
                 "DFE346B2C7332BC0"
             ],
             [
@@ -682754,6 +683211,24 @@
             [
                 "kmb",
                 "AA97FFC49AE957A5"
+            ]
+        ],
+        "330D7A880DF41606": [
+            [
+                "kmb",
+                "647AB0AD358F10DF"
+            ],
+            [
+                "kmb",
+                "B4F2BAAED2470D0A"
+            ],
+            [
+                "kmb",
+                "50E78EB09845863E"
+            ],
+            [
+                "kmb",
+                "854BC3A8D4DE6AA9"
             ]
         ],
         "330F82C1677EEC3D": [
@@ -692081,6 +692556,10 @@
             ],
             [
                 "kmb",
+                "D0937674DF369B23"
+            ],
+            [
+                "kmb",
                 "DFE346B2C7332BC0"
             ],
             [
@@ -696404,6 +696883,10 @@
             [
                 "ctb",
                 "003910"
+            ],
+            [
+                "kmb",
+                "330D7A880DF41606"
             ],
             [
                 "kmb",
@@ -705354,6 +705837,10 @@
             [
                 "ctb",
                 "003910"
+            ],
+            [
+                "kmb",
+                "330D7A880DF41606"
             ],
             [
                 "kmb",
@@ -718907,6 +719394,10 @@
             ],
             [
                 "kmb",
+                "330D7A880DF41606"
+            ],
+            [
+                "kmb",
                 "B4F2BAAED2470D0A"
             ]
         ],
@@ -719370,8 +719861,16 @@
                 "F490C6051AA2E1F3"
             ],
             [
+                "lrtfeeder",
+                "K54-U070"
+            ],
+            [
                 "gmb",
                 "20001314"
+            ],
+            [
+                "ctb",
+                "003219"
             ],
             [
                 "gmb",
@@ -719380,6 +719879,30 @@
             [
                 "lightRail",
                 "LR280"
+            ],
+            [
+                "kmb",
+                "4521D614AE85C1A5"
+            ],
+            [
+                "kmb",
+                "818F12340BA8CA4B"
+            ],
+            [
+                "lrtfeeder",
+                "K51-D200"
+            ],
+            [
+                "lrtfeeder",
+                "K51A-D180"
+            ],
+            [
+                "ctb",
+                "003198"
+            ],
+            [
+                "gmb",
+                "20001319"
             ]
         ],
         "8667AD096EEED0A8": [
@@ -719610,6 +720133,10 @@
             [
                 "kmb",
                 "47FF0EDCD6926932"
+            ],
+            [
+                "kmb",
+                "D0937674DF369B23"
             ],
             [
                 "kmb",
@@ -720160,6 +720687,10 @@
             [
                 "kmb",
                 "A8B22902BD665766"
+            ],
+            [
+                "kmb",
+                "D0937674DF369B23"
             ],
             [
                 "kmb",
@@ -733581,6 +734112,10 @@
             ],
             [
                 "kmb",
+                "D0937674DF369B23"
+            ],
+            [
+                "kmb",
                 "DFE346B2C7332BC0"
             ],
             [
@@ -738744,6 +739279,10 @@
             [
                 "ctb",
                 "003910"
+            ],
+            [
+                "kmb",
+                "330D7A880DF41606"
             ],
             [
                 "kmb",
@@ -750040,6 +750579,40 @@
                 "002441"
             ]
         ],
+        "D0937674DF369B23": [
+            [
+                "kmb",
+                "2B3A6C000BB085CD"
+            ],
+            [
+                "kmb",
+                "47FF0EDCD6926932"
+            ],
+            [
+                "kmb",
+                "A8B22902BD665766"
+            ],
+            [
+                "kmb",
+                "DFE346B2C7332BC0"
+            ],
+            [
+                "kmb",
+                "872110C8ADA14DA1"
+            ],
+            [
+                "kmb",
+                "88229183EDC0B6E9"
+            ],
+            [
+                "kmb",
+                "0269A1F9D98C737E"
+            ],
+            [
+                "kmb",
+                "DB516EC0B8DAF046"
+            ]
+        ],
         "D09590C6061D9FE7": [
             [
                 "kmb",
@@ -752208,6 +752781,12 @@
             [
                 "kmb",
                 "A9069A17B1474D76"
+            ]
+        ],
+        "D6001B758148778A": [
+            [
+                "kmb",
+                "F64076F7E14E38D4"
             ]
         ],
         "D617FE3785FAC79A": [
@@ -754773,6 +755352,10 @@
             ],
             [
                 "kmb",
+                "D0937674DF369B23"
+            ],
+            [
+                "kmb",
                 "2B3A6C000BB085CD"
             ],
             [
@@ -756328,6 +756911,10 @@
             [
                 "kmb",
                 "47FF0EDCD6926932"
+            ],
+            [
+                "kmb",
+                "D0937674DF369B23"
             ],
             [
                 "kmb",
@@ -765768,6 +766355,12 @@
                 "A39754C80FFB1590"
             ]
         ],
+        "F64076F7E14E38D4": [
+            [
+                "kmb",
+                "D6001B758148778A"
+            ]
+        ],
         "F6512E7C4A6D5C2E": [
             [
                 "ctb",
@@ -774508,6 +775101,10 @@
         ],
         "K52-nU300": [
             [
+                "kmb",
+                "09A5D5C90F15C08C"
+            ],
+            [
                 "lrtfeeder",
                 "K52A-U170"
             ]
@@ -775109,6 +775706,10 @@
             ]
         ],
         "K52A-U170": [
+            [
+                "kmb",
+                "09A5D5C90F15C08C"
+            ],
             [
                 "lrtfeeder",
                 "K52-nU300"
@@ -776910,6 +777511,10 @@
             [
                 "ctb",
                 "003219"
+            ],
+            [
+                "kmb",
+                "8660BDF2C013FAC2"
             ]
         ],
         "K54A-D010": [
