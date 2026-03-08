@@ -417394,16 +417394,15 @@
                 "zh": "\u897f\u6c99 GO PARK"
             },
             "route": "PB1",
-            "seq": 6,
+            "seq": 5,
             "serviceType": "1",
             "stops": {
                 "kmb": [
                     "8B9E121BB71771F4",
-                    "AE77FAE78AB50667",
                     "8C90768E30E981C6",
                     "B1882202E2B36620",
                     "2B011CC82C51D518",
-                    "01775517BE76284E"
+                    "F02A1646BD4FC0E2"
                 ]
             }
         },
@@ -417443,40 +417442,6 @@
                 ]
             }
         },
-        "PB1+2+GO PARK+Sheung Shui": {
-            "bound": {
-                "kmb": "O"
-            },
-            "co": [
-                "kmb"
-            ],
-            "dest": {
-                "en": "Sheung Shui",
-                "zh": "\u4e0a\u6c34"
-            },
-            "fares": null,
-            "faresHoliday": null,
-            "freq": null,
-            "gtfsId": null,
-            "jt": null,
-            "nlbId": null,
-            "orig": {
-                "en": "GO PARK",
-                "zh": "\u897f\u6c99 GO PARK"
-            },
-            "route": "PB1",
-            "seq": 5,
-            "serviceType": "2",
-            "stops": {
-                "kmb": [
-                    "8B9E121BB71771F4",
-                    "8C90768E30E981C6",
-                    "B1882202E2B36620",
-                    "2B011CC82C51D518",
-                    "F02A1646BD4FC0E2"
-                ]
-            }
-        },
         "PB1+2+Sheung Shui+GO PARK": {
             "bound": {
                 "kmb": "I"
@@ -417504,10 +417469,10 @@
             "stops": {
                 "kmb": [
                     "F02A1646BD4FC0E2",
-                    "01775517BE76284E",
                     "2B011CC82C51D518",
                     "B1882202E2B36620",
-                    "8C90768E30E981C6"
+                    "8C90768E30E981C6",
+                    "8B9E121BB71771F4"
                 ]
             }
         },
@@ -417533,7 +417498,7 @@
                 "zh": "\u897f\u6c99 GO PARK"
             },
             "route": "PB2",
-            "seq": 6,
+            "seq": 5,
             "serviceType": "1",
             "stops": {
                 "kmb": [
@@ -417541,8 +417506,7 @@
                     "064B06C60E5EE126",
                     "06CC6423AA236B72",
                     "9252A494500A05C9",
-                    "029C4172D953DAF5",
-                    "F050648C108571ED"
+                    "029C4172D953DAF5"
                 ]
             }
         },
@@ -417581,40 +417545,6 @@
                 ]
             }
         },
-        "PB2+2+GO PARK+KAI TAK (MUK YUEN STREET)": {
-            "bound": {
-                "kmb": "O"
-            },
-            "co": [
-                "kmb"
-            ],
-            "dest": {
-                "en": "KAI TAK (MUK YUEN STREET)",
-                "zh": "\u555f\u5fb7(\u6c90\u5143\u8857)"
-            },
-            "fares": null,
-            "faresHoliday": null,
-            "freq": null,
-            "gtfsId": null,
-            "jt": null,
-            "nlbId": null,
-            "orig": {
-                "en": "GO PARK",
-                "zh": "\u897f\u6c99 GO PARK"
-            },
-            "route": "PB2",
-            "seq": 5,
-            "serviceType": "2",
-            "stops": {
-                "kmb": [
-                    "8B9E121BB71771F4",
-                    "064B06C60E5EE126",
-                    "06CC6423AA236B72",
-                    "9252A494500A05C9",
-                    "029C4172D953DAF5"
-                ]
-            }
-        },
         "PB2+2+KAI TAK (MUK YUEN STREET)+GO PARK": {
             "bound": {
                 "kmb": "I"
@@ -417641,11 +417571,11 @@
             "serviceType": "2",
             "stops": {
                 "kmb": [
-                    "F050648C108571ED",
                     "029C4172D953DAF5",
                     "9252A494500A05C9",
                     "06CC6423AA236B72",
-                    "064B06C60E5EE126"
+                    "064B06C60E5EE126",
+                    "8B9E121BB71771F4"
                 ]
             }
         },
@@ -417743,15 +417673,11 @@
                 "zh": "\u9999\u6e2f\u6545\u5bae\u6587\u5316\u535a\u7269\u9928"
             },
             "route": "PB4",
-            "seq": 7,
+            "seq": 3,
             "serviceType": "1",
             "stops": {
                 "kmb": [
-                    "F050648C108571ED",
-                    "330D7A880DF41606",
                     "321060BAE1447BEE",
-                    "825B78271286D8DE",
-                    "F9D89A6B45DFD0A0",
                     "0678C85600B1A019",
                     "F493236404A4FABF"
                 ]
@@ -417793,38 +417719,6 @@
                 ]
             }
         },
-        "PB4+2+HONG KONG PALACE MUSEUM+YOHO MALL (YUEN LONG)": {
-            "bound": {
-                "kmb": "O"
-            },
-            "co": [
-                "kmb"
-            ],
-            "dest": {
-                "en": "YOHO MALL (YUEN LONG)",
-                "zh": "\u5143\u6717 \u5f62\u9ede"
-            },
-            "fares": null,
-            "faresHoliday": null,
-            "freq": null,
-            "gtfsId": null,
-            "jt": null,
-            "nlbId": null,
-            "orig": {
-                "en": "HONG KONG PALACE MUSEUM",
-                "zh": "\u9999\u6e2f\u6545\u5bae\u6587\u5316\u535a\u7269\u9928"
-            },
-            "route": "PB4",
-            "seq": 3,
-            "serviceType": "2",
-            "stops": {
-                "kmb": [
-                    "321060BAE1447BEE",
-                    "0678C85600B1A019",
-                    "F493236404A4FABF"
-                ]
-            }
-        },
         "PB4+2+YOHO MALL (YUEN LONG)+HONG KONG PALACE MUSEUM": {
             "bound": {
                 "kmb": "I"
@@ -417853,8 +417747,8 @@
                 "kmb": [
                     "F493236404A4FABF",
                     "0678C85600B1A019",
-                    "C6F1D1D8DF180508",
-                    "654D32C3AC9FAEF7"
+                    "321060BAE1447BEE",
+                    "F050648C108571ED"
                 ]
             }
         },
@@ -417916,13 +417810,12 @@
                 "zh": "\u9999\u6e2f\u6545\u5bae\u6587\u5316\u535a\u7269\u9928"
             },
             "route": "PB5",
-            "seq": 7,
+            "seq": 6,
             "serviceType": "1",
             "stops": {
                 "kmb": [
                     "F050648C108571ED",
                     "045FB4EAE4FE52D6",
-                    "330D7A880DF41606",
                     "A31DD8C4FD6740D4",
                     "9774D8AAAD859409",
                     "B26B63709D8A7DFA",
@@ -417960,43 +417853,8 @@
                     "98C945957285E149",
                     "9774D8AAAD859409",
                     "A31DD8C4FD6740D4",
-                    "330D7A880DF41606",
-                    "045FB4EAE4FE52D6"
-                ]
-            }
-        },
-        "PB5+2+HONG KONG PALACE MUSEUM+DISCOVERY BAY PLAZA": {
-            "bound": {
-                "kmb": "O"
-            },
-            "co": [
-                "kmb"
-            ],
-            "dest": {
-                "en": "DISCOVERY BAY PLAZA",
-                "zh": "\u6109\u666f\u5ee3\u5834"
-            },
-            "fares": null,
-            "faresHoliday": null,
-            "freq": null,
-            "gtfsId": null,
-            "jt": null,
-            "nlbId": null,
-            "orig": {
-                "en": "HONG KONG PALACE MUSEUM",
-                "zh": "\u9999\u6e2f\u6545\u5bae\u6587\u5316\u535a\u7269\u9928"
-            },
-            "route": "PB5",
-            "seq": 6,
-            "serviceType": "2",
-            "stops": {
-                "kmb": [
-                    "F050648C108571ED",
                     "045FB4EAE4FE52D6",
-                    "A31DD8C4FD6740D4",
-                    "9774D8AAAD859409",
-                    "B26B63709D8A7DFA",
-                    "E4415E645A9914EF"
+                    "F050648C108571ED"
                 ]
             }
         },
@@ -540585,16 +540443,6 @@
                 "zh": "\u5927\u57d4\u4e2d\u5fc3\u7e3d\u7ad9 (TP905)"
             }
         },
-        "825B78271286D8DE": {
-            "location": {
-                "lat": 22.36645,
-                "lng": 114.05871
-            },
-            "name": {
-                "en": "SHAM TSENG",
-                "zh": "\u6df1\u4e95(\u5357\u884c)"
-            }
-        },
         "82867084F4E7B92E": {
             "location": {
                 "lat": 22.33187,
@@ -572095,16 +571943,6 @@
                 "zh": "\u592a\u5e73\u5de5\u696d\u4e2d\u5fc3 (TP616)"
             }
         },
-        "F9D89A6B45DFD0A0": {
-            "location": {
-                "lat": 22.37353,
-                "lng": 113.99124
-            },
-            "name": {
-                "en": "GOLDEN BEACH",
-                "zh": "\u9ec3\u91d1\u6cf3\u7058"
-            }
-        },
         "F9F4E00007242BED": {
             "location": {
                 "lat": 22.36138,
@@ -593875,10 +593713,6 @@
                 "9585FB90C56F451F"
             ],
             [
-                "kmb",
-                "F9D89A6B45DFD0A0"
-            ],
-            [
                 "lrtfeeder",
                 "K51-D100"
             ],
@@ -607990,10 +607824,6 @@
         "003361": [
             [
                 "kmb",
-                "0678C85600B1A019"
-            ],
-            [
-                "kmb",
                 "69EA07FBAB612E68"
             ],
             [
@@ -608006,11 +607836,11 @@
             ],
             [
                 "kmb",
-                "DBD6820299653B4E"
+                "D74B67D55C63895F"
             ],
             [
                 "kmb",
-                "D74B67D55C63895F"
+                "DBD6820299653B4E"
             ],
             [
                 "mtr",
@@ -612555,6 +612385,10 @@
                 "ED1B11038B7F6955"
             ],
             [
+                "kmb",
+                "F050648C108571ED"
+            ],
+            [
                 "gmb",
                 "20018842"
             ]
@@ -616273,20 +616107,8 @@
         ],
         "0678C85600B1A019": [
             [
-                "ctb",
-                "003361"
-            ],
-            [
-                "gmb",
-                "20011812"
-            ],
-            [
                 "kmb",
                 "A6A60ADA171EE7C8"
-            ],
-            [
-                "kmb",
-                "DBD6820299653B4E"
             ],
             [
                 "gmb",
@@ -616299,10 +616121,6 @@
             [
                 "kmb",
                 "7A501670303C90F8"
-            ],
-            [
-                "mtr",
-                "TUM"
             ],
             [
                 "lrtfeeder",
@@ -633573,16 +633391,6 @@
                 "MOS"
             ]
         ],
-        "20001231": [
-            [
-                "kmb",
-                "AE77FAE78AB50667"
-            ],
-            [
-                "ctb",
-                "001944"
-            ]
-        ],
         "20001234": [
             [
                 "ctb",
@@ -636841,12 +636649,6 @@
                 "B47C12A965D7B481"
             ]
         ],
-        "20001889": [
-            [
-                "kmb",
-                "825B78271286D8DE"
-            ]
-        ],
         "20001893": [
             [
                 "ctb",
@@ -637489,10 +637291,6 @@
             [
                 "kmb",
                 "9585FB90C56F451F"
-            ],
-            [
-                "kmb",
-                "F9D89A6B45DFD0A0"
             ],
             [
                 "lrtfeeder",
@@ -649426,19 +649224,11 @@
         "20011812": [
             [
                 "kmb",
-                "0678C85600B1A019"
-            ],
-            [
-                "kmb",
                 "DBD6820299653B4E"
             ],
             [
                 "mtr",
                 "TUM"
-            ],
-            [
-                "ctb",
-                "003361"
             ]
         ],
         "20011946": [
@@ -665008,10 +664798,6 @@
             ]
         ],
         "20016071": [
-            [
-                "kmb",
-                "321060BAE1447BEE"
-            ],
             [
                 "kmb",
                 "D0EF3BE4408865DE"
@@ -682569,16 +682355,6 @@
                 "89A83934270E9BFB"
             ]
         ],
-        "321060BAE1447BEE": [
-            [
-                "gmb",
-                "20016071"
-            ],
-            [
-                "kmb",
-                "D0EF3BE4408865DE"
-            ]
-        ],
         "3210F3BCFFD74E61": [
             [
                 "kmb",
@@ -683217,10 +682993,6 @@
             [
                 "kmb",
                 "647AB0AD358F10DF"
-            ],
-            [
-                "kmb",
-                "B4F2BAAED2470D0A"
             ],
             [
                 "kmb",
@@ -687735,6 +687507,10 @@
             [
                 "kmb",
                 "ED1B11038B7F6955"
+            ],
+            [
+                "kmb",
+                "F050648C108571ED"
             ]
         ],
         "3DDE81FE5DB08180": [
@@ -712627,6 +712403,10 @@
             [
                 "kmb",
                 "ED1B11038B7F6955"
+            ],
+            [
+                "kmb",
+                "F050648C108571ED"
             ]
         ],
         "7459D3AB11AFD6B5": [
@@ -717513,10 +717293,6 @@
                 "9585FB90C56F451F"
             ],
             [
-                "kmb",
-                "F9D89A6B45DFD0A0"
-            ],
-            [
                 "lrtfeeder",
                 "K51-D100"
             ],
@@ -718209,12 +717985,6 @@
             [
                 "kmb",
                 "89240EC55B8818BC"
-            ]
-        ],
-        "825B78271286D8DE": [
-            [
-                "gmb",
-                "20001889"
             ]
         ],
         "82867084F4E7B92E": [
@@ -726145,10 +725915,6 @@
             [
                 "kmb",
                 "813A44129E51981F"
-            ],
-            [
-                "kmb",
-                "F9D89A6B45DFD0A0"
             ],
             [
                 "lrtfeeder",
@@ -736711,10 +736477,6 @@
             [
                 "ctb",
                 "001944"
-            ],
-            [
-                "gmb",
-                "20001231"
             ]
         ],
         "AE7C79C814E6BD95": [
@@ -739279,10 +739041,6 @@
             [
                 "ctb",
                 "003910"
-            ],
-            [
-                "kmb",
-                "330D7A880DF41606"
             ],
             [
                 "kmb",
@@ -745917,6 +745675,10 @@
             [
                 "kmb",
                 "ED1B11038B7F6955"
+            ],
+            [
+                "kmb",
+                "F050648C108571ED"
             ]
         ],
         "C5294C92C5C6E334": [
@@ -750773,10 +750535,6 @@
             [
                 "gmb",
                 "20016071"
-            ],
-            [
-                "kmb",
-                "321060BAE1447BEE"
             ]
         ],
         "D0F535009C53F787": [
@@ -755497,20 +755255,12 @@
         ],
         "DBD6820299653B4E": [
             [
-                "kmb",
-                "0678C85600B1A019"
-            ],
-            [
                 "gmb",
                 "20011812"
             ],
             [
                 "mtr",
                 "TUM"
-            ],
-            [
-                "ctb",
-                "003361"
             ]
         ],
         "DBEA3F848C7981F2": [
@@ -762219,6 +761969,10 @@
             [
                 "kmb",
                 "C50C67D1BFF70DDF"
+            ],
+            [
+                "kmb",
+                "F050648C108571ED"
             ]
         ],
         "ED244F7BBACAB14D": [
@@ -763649,8 +763403,28 @@
         ],
         "F050648C108571ED": [
             [
+                "ctb",
+                "003763"
+            ],
+            [
                 "gmb",
                 "20018842"
+            ],
+            [
+                "kmb",
+                "3DDE01E36E19036E"
+            ],
+            [
+                "kmb",
+                "74553C232C1FF6CF"
+            ],
+            [
+                "kmb",
+                "C50C67D1BFF70DDF"
+            ],
+            [
+                "kmb",
+                "ED1B11038B7F6955"
             ]
         ],
         "F0536729876AA9D0": [
@@ -768167,40 +767941,6 @@
                 "8BF41341E058D6A6"
             ]
         ],
-        "F9D89A6B45DFD0A0": [
-            [
-                "ctb",
-                "001901"
-            ],
-            [
-                "gmb",
-                "20002053"
-            ],
-            [
-                "kmb",
-                "813A44129E51981F"
-            ],
-            [
-                "kmb",
-                "9585FB90C56F451F"
-            ],
-            [
-                "lrtfeeder",
-                "K51-D100"
-            ],
-            [
-                "lrtfeeder",
-                "K51A-D080"
-            ],
-            [
-                "lrtfeeder",
-                "K53-D060"
-            ],
-            [
-                "lrtfeeder",
-                "K58-D008"
-            ]
-        ],
         "F9F4E00007242BED": [
             [
                 "ctb",
@@ -771601,10 +771341,6 @@
                 "9585FB90C56F451F"
             ],
             [
-                "kmb",
-                "F9D89A6B45DFD0A0"
-            ],
-            [
                 "lrtfeeder",
                 "K51A-D080"
             ],
@@ -772911,10 +772647,6 @@
             [
                 "kmb",
                 "9585FB90C56F451F"
-            ],
-            [
-                "kmb",
-                "F9D89A6B45DFD0A0"
             ],
             [
                 "lrtfeeder",
@@ -776373,10 +776105,6 @@
                 "9585FB90C56F451F"
             ],
             [
-                "kmb",
-                "F9D89A6B45DFD0A0"
-            ],
-            [
                 "lrtfeeder",
                 "K51-D100"
             ],
@@ -777879,10 +777607,6 @@
             [
                 "kmb",
                 "9585FB90C56F451F"
-            ],
-            [
-                "kmb",
-                "F9D89A6B45DFD0A0"
             ],
             [
                 "lrtfeeder",
@@ -785201,14 +784925,6 @@
             [
                 "kmb",
                 "DBD6820299653B4E"
-            ],
-            [
-                "kmb",
-                "0678C85600B1A019"
-            ],
-            [
-                "ctb",
-                "003361"
             ]
         ],
         "TWH": [
