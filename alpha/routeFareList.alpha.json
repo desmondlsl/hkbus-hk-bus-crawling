@@ -417884,7 +417884,7 @@
                 "zh": "\u5143\u6717 \u5f62\u9ede"
             },
             "route": "PB4",
-            "seq": 6,
+            "seq": 7,
             "serviceType": "1",
             "stops": {
                 "kmb": [
@@ -417893,38 +417893,8 @@
                     "C6F1D1D8DF180508",
                     "654D32C3AC9FAEF7",
                     "321060BAE1447BEE",
+                    "5CEB16B6D0E01F36",
                     "F050648C108571ED"
-                ]
-            }
-        },
-        "PB4+2+HONG KONG PALACE MUSEUM+YOHO MALL (YUEN LONG)": {
-            "bound": {
-                "kmb": "O"
-            },
-            "co": [
-                "kmb"
-            ],
-            "dest": {
-                "en": "YOHO MALL (YUEN LONG)",
-                "zh": "\u5143\u6717 \u5f62\u9ede"
-            },
-            "fares": null,
-            "faresHoliday": null,
-            "freq": null,
-            "gtfsId": null,
-            "jt": null,
-            "nlbId": null,
-            "orig": {
-                "en": "HONG KONG PALACE MUSEUM",
-                "zh": "\u9999\u6e2f\u6545\u5bae\u6587\u5316\u535a\u7269\u9928"
-            },
-            "route": "PB4",
-            "seq": 2,
-            "serviceType": "2",
-            "stops": {
-                "kmb": [
-                    "0678C85600B1A019",
-                    "F493236404A4FABF"
                 ]
             }
         },
@@ -417983,7 +417953,7 @@
                 "zh": "\u6109\u666f\u5ee3\u5834"
             },
             "route": "PB5",
-            "seq": 6,
+            "seq": 7,
             "serviceType": "1",
             "stops": {
                 "kmb": [
@@ -417991,6 +417961,7 @@
                     "98C945957285E149",
                     "9774D8AAAD859409",
                     "A31DD8C4FD6740D4",
+                    "5CEB16B6D0E01F36",
                     "045FB4EAE4FE52D6",
                     "F050648C108571ED"
                 ]
@@ -418028,6 +417999,41 @@
                     "9774D8AAAD859409",
                     "B26B63709D8A7DFA",
                     "E4415E645A9914EF"
+                ]
+            }
+        },
+        "PB5+2+DISCOVERY BAY PLAZA+HONG KONG PALACE MUSEUM": {
+            "bound": {
+                "kmb": "I"
+            },
+            "co": [
+                "kmb"
+            ],
+            "dest": {
+                "en": "HONG KONG PALACE MUSEUM",
+                "zh": "\u9999\u6e2f\u6545\u5bae\u6587\u5316\u535a\u7269\u9928"
+            },
+            "fares": null,
+            "faresHoliday": null,
+            "freq": null,
+            "gtfsId": null,
+            "jt": null,
+            "nlbId": null,
+            "orig": {
+                "en": "DISCOVERY BAY PLAZA",
+                "zh": "\u6109\u666f\u5ee3\u5834"
+            },
+            "route": "PB5",
+            "seq": 6,
+            "serviceType": "2",
+            "stops": {
+                "kmb": [
+                    "E4415E645A9914EF",
+                    "98C945957285E149",
+                    "9774D8AAAD859409",
+                    "A31DD8C4FD6740D4",
+                    "045FB4EAE4FE52D6",
+                    "F050648C108571ED"
                 ]
             }
         },
@@ -530760,6 +530766,16 @@
                 "zh": "\u5f62\u9ede II (YL394)"
             }
         },
+        "5CEB16B6D0E01F36": {
+            "location": {
+                "lat": 22.32688,
+                "lng": 114.14938
+            },
+            "name": {
+                "en": "TOWNPLACE WEST KOWLOON",
+                "zh": "\u672c\u820d\u897f\u4e5d TOWNPLACE"
+            }
+        },
         "5CEC0EA1BB2D6D11": {
             "location": {
                 "lat": 22.53111,
@@ -540628,16 +540644,6 @@
             "name": {
                 "en": "TAI PO CENTRAL BUS TERMINUS (TP905)",
                 "zh": "\u5927\u57d4\u4e2d\u5fc3\u7e3d\u7ad9 (TP905)"
-            }
-        },
-        "825B78271286D8DE": {
-            "location": {
-                "lat": 22.36645,
-                "lng": 114.05871
-            },
-            "name": {
-                "en": "SHAM TSENG",
-                "zh": "\u6df1\u4e95(\u5357\u884c)"
             }
         },
         "82867084F4E7B92E": {
@@ -664921,10 +664927,6 @@
         "20016071": [
             [
                 "kmb",
-                "321060BAE1447BEE"
-            ],
-            [
-                "kmb",
                 "D0EF3BE4408865DE"
             ]
         ],
@@ -682492,16 +682494,6 @@
             [
                 "kmb",
                 "89A83934270E9BFB"
-            ]
-        ],
-        "321060BAE1447BEE": [
-            [
-                "gmb",
-                "20016071"
-            ],
-            [
-                "kmb",
-                "D0EF3BE4408865DE"
             ]
         ],
         "3210F3BCFFD74E61": [
@@ -718110,12 +718102,6 @@
                 "89240EC55B8818BC"
             ]
         ],
-        "825B78271286D8DE": [
-            [
-                "gmb",
-                "20001889"
-            ]
-        ],
         "82867084F4E7B92E": [
             [
                 "ctb",
@@ -750660,10 +750646,6 @@
             [
                 "gmb",
                 "20016071"
-            ],
-            [
-                "kmb",
-                "321060BAE1447BEE"
             ]
         ],
         "D0F535009C53F787": [
