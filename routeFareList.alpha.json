@@ -131485,12 +131485,13 @@
                 "zh": "\u8343\u7063(\u9752\u5c71\u516c\u8def)"
             },
             "route": "32P",
-            "seq": 3,
+            "seq": 4,
             "serviceType": "1",
             "stops": {
                 "kmb": [
                     "F5C42400BB24BA5B",
                     "6BE57F75FCD84DBB",
+                    "95BC2BB922E8104B",
                     "B32791B3E5EF4287"
                 ]
             }
@@ -545526,6 +545527,16 @@
             "name": {
                 "en": "HUNG HOM (HUNG LUEN ROAD), KERRY HOTEL (HH909)",
                 "zh": "\u7d05\u78e1(\u7d05\u9e1e\u9053) \u5609\u91cc\u9152\u5e97 (HH909)"
+            }
+        },
+        "95BC2BB922E8104B": {
+            "location": {
+                "lat": 0.0,
+                "lng": 0.0
+            },
+            "name": {
+                "en": "SHEUNG KOK SHAN ROAD",
+                "zh": "\u4e0a\u89d2\u5c71\u8def"
             }
         },
         "95C43FF4684FCADA": {
