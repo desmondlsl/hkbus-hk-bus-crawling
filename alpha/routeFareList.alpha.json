@@ -83883,46 +83883,6 @@
                 ]
             }
         },
-        "260X+1+Central (Exchange Square)+Stanley Plaza": {
-            "bound": {
-                "ctb": "O"
-            },
-            "co": [
-                "ctb"
-            ],
-            "dest": {
-                "en": "Stanley Plaza",
-                "zh": "\u8d64\u67f1\u5ee3\u5834"
-            },
-            "fares": null,
-            "faresHoliday": null,
-            "freq": null,
-            "gtfsId": null,
-            "jt": null,
-            "nlbId": null,
-            "orig": {
-                "en": "Central (Exchange Square)",
-                "zh": "\u4e2d\u74b0 (\u4ea4\u6613\u5ee3\u5834)"
-            },
-            "route": "260X",
-            "seq": 11,
-            "serviceType": 1,
-            "stops": {
-                "ctb": [
-                    "001032",
-                    "001031",
-                    "001136",
-                    "002423",
-                    "002350",
-                    "002201",
-                    "002252",
-                    "002179",
-                    "002181",
-                    "002386",
-                    "002378"
-                ]
-            }
-        },
         "260X+1+HUNG HOM STATION+TUEN MUN (PO TIN ESTATE)": {
             "bound": {
                 "kmb": "I"
@@ -84360,47 +84320,6 @@
                     "0C677A6B6266DB52",
                     "ECE3F3BE270C27E2",
                     "5B3258C7E0856895"
-                ]
-            }
-        },
-        "260X+1+Stanley Plaza+Central (Exchange Square)": {
-            "bound": {
-                "ctb": "I"
-            },
-            "co": [
-                "ctb"
-            ],
-            "dest": {
-                "en": "Central (Exchange Square)",
-                "zh": "\u4e2d\u74b0 (\u4ea4\u6613\u5ee3\u5834)"
-            },
-            "fares": null,
-            "faresHoliday": null,
-            "freq": null,
-            "gtfsId": null,
-            "jt": null,
-            "nlbId": null,
-            "orig": {
-                "en": "Stanley Plaza",
-                "zh": "\u8d64\u67f1\u5ee3\u5834"
-            },
-            "route": "260X",
-            "seq": 12,
-            "serviceType": 1,
-            "stops": {
-                "ctb": [
-                    "002378",
-                    "002387",
-                    "002175",
-                    "002180",
-                    "002241",
-                    "002197",
-                    "002353",
-                    "002417",
-                    "002421",
-                    "001074",
-                    "001033",
-                    "001032"
                 ]
             }
         },
@@ -131485,13 +131404,12 @@
                 "zh": "\u8343\u7063(\u9752\u5c71\u516c\u8def)"
             },
             "route": "32P",
-            "seq": 4,
+            "seq": 3,
             "serviceType": "1",
             "stops": {
                 "kmb": [
                     "F5C42400BB24BA5B",
                     "6BE57F75FCD84DBB",
-                    "95BC2BB922E8104B",
                     "B32791B3E5EF4287"
                 ]
             }
@@ -520395,8 +520313,8 @@
                 "lng": 114.01552
             },
             "name": {
-                "en": "TUEN MUN ROAD BBI (A15) (TM750)",
-                "zh": "\u5c6f\u9580\u516c\u8def\u8f49\u8eca\u7ad9 (A15) (TM750)"
+                "en": "TUEN MUN ROAD BBI (TM750)",
+                "zh": "\u5c6f\u9580\u516c\u8def\u8f49\u8eca\u7ad9 (TM750)"
             }
         },
         "377CE6B97D37B9FA": {
@@ -545527,16 +545445,6 @@
             "name": {
                 "en": "HUNG HOM (HUNG LUEN ROAD), KERRY HOTEL (HH909)",
                 "zh": "\u7d05\u78e1(\u7d05\u9e1e\u9053) \u5609\u91cc\u9152\u5e97 (HH909)"
-            }
-        },
-        "95BC2BB922E8104B": {
-            "location": {
-                "lat": 0.0,
-                "lng": 0.0
-            },
-            "name": {
-                "en": "SHEUNG KOK SHAN ROAD",
-                "zh": "\u4e0a\u89d2\u5c71\u8def"
             }
         },
         "95C43FF4684FCADA": {
@@ -598089,18 +597997,6 @@
                 "20008124"
             ]
         ],
-        "002179": [
-            [
-                "ctb",
-                "002180"
-            ]
-        ],
-        "002180": [
-            [
-                "ctb",
-                "002179"
-            ]
-        ],
         "002181": [
             [
                 "gmb",
@@ -598459,6 +598355,12 @@
             [
                 "gmb",
                 "20012878"
+            ]
+        ],
+        "002252": [
+            [
+                "gmb",
+                "20004576"
             ]
         ],
         "002257": [
@@ -642851,6 +642753,12 @@
             [
                 "kmb",
                 "922B809184ED33A9"
+            ]
+        ],
+        "20004576": [
+            [
+                "ctb",
+                "002252"
             ]
         ],
         "20004578": [
