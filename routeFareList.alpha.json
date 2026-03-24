@@ -39944,7 +39944,7 @@
             "serviceType": "1",
             "stops": {
                 "kmb": [
-                    "CB4BB0008A87E4FC",
+                    "74CBD919F18ACF61",
                     "2F7B146C55B013F8",
                     "E0EEA7891A0FCD50"
                 ]
@@ -131404,13 +131404,12 @@
                 "zh": "\u8343\u7063(\u9752\u5c71\u516c\u8def)"
             },
             "route": "32P",
-            "seq": 3,
+            "seq": 2,
             "serviceType": "1",
             "stops": {
                 "kmb": [
                     "F5C42400BB24BA5B",
-                    "6BE57F75FCD84DBB",
-                    "B32791B3E5EF4287"
+                    "6BE57F75FCD84DBB"
                 ]
             }
         },
@@ -131436,13 +131435,12 @@
                 "zh": "\u5713\u7384\u5b78\u9662"
             },
             "route": "32P",
-            "seq": 3,
+            "seq": 2,
             "serviceType": "1",
             "stops": {
                 "kmb": [
                     "B32791B3E5EF4287",
-                    "D4C5C8BD5FC05C2E",
-                    "F5C42400BB24BA5B"
+                    "D4C5C8BD5FC05C2E"
                 ]
             }
         },
@@ -417706,15 +417704,14 @@
                 "zh": "\u897f\u6c99 GO PARK"
             },
             "route": "PB1",
-            "seq": 5,
+            "seq": 4,
             "serviceType": "1",
             "stops": {
                 "kmb": [
                     "8B9E121BB71771F4",
                     "8C90768E30E981C6",
                     "B1882202E2B36620",
-                    "2B011CC82C51D518",
-                    "F02A1646BD4FC0E2"
+                    "2B011CC82C51D518"
                 ]
             }
         },
@@ -417751,6 +417748,40 @@
                     "8C90768E30E981C6",
                     "AE77FAE78AB50667",
                     "8B9E121BB71771F4"
+                ]
+            }
+        },
+        "PB1+2+GO PARK+Sheung Shui": {
+            "bound": {
+                "kmb": "O"
+            },
+            "co": [
+                "kmb"
+            ],
+            "dest": {
+                "en": "Sheung Shui",
+                "zh": "\u4e0a\u6c34"
+            },
+            "fares": null,
+            "faresHoliday": null,
+            "freq": null,
+            "gtfsId": null,
+            "jt": null,
+            "nlbId": null,
+            "orig": {
+                "en": "GO PARK",
+                "zh": "\u897f\u6c99 GO PARK"
+            },
+            "route": "PB1",
+            "seq": 5,
+            "serviceType": "2",
+            "stops": {
+                "kmb": [
+                    "8B9E121BB71771F4",
+                    "8C90768E30E981C6",
+                    "B1882202E2B36620",
+                    "2B011CC82C51D518",
+                    "F02A1646BD4FC0E2"
                 ]
             }
         },
@@ -417985,14 +418016,10 @@
                 "zh": "\u9999\u6e2f\u6545\u5bae\u6587\u5316\u535a\u7269\u9928"
             },
             "route": "PB4",
-            "seq": 3,
+            "seq": 0,
             "serviceType": "1",
             "stops": {
-                "kmb": [
-                    "321060BAE1447BEE",
-                    "0678C85600B1A019",
-                    "F493236404A4FABF"
-                ]
+                "kmb": []
             }
         },
         "PB4+1+YOHO MALL (YUEN LONG)+HONG KONG PALACE MUSEUM": {
@@ -418027,6 +418054,39 @@
                     "654D32C3AC9FAEF7",
                     "321060BAE1447BEE",
                     "F050648C108571ED"
+                ]
+            }
+        },
+        "PB4+2+HONG KONG PALACE MUSEUM+YOHO MALL (YUEN LONG)": {
+            "bound": {
+                "kmb": "O"
+            },
+            "co": [
+                "kmb"
+            ],
+            "dest": {
+                "en": "YOHO MALL (YUEN LONG)",
+                "zh": "\u5143\u6717 \u5f62\u9ede"
+            },
+            "fares": null,
+            "faresHoliday": null,
+            "freq": null,
+            "gtfsId": null,
+            "jt": null,
+            "nlbId": null,
+            "orig": {
+                "en": "HONG KONG PALACE MUSEUM",
+                "zh": "\u9999\u6e2f\u6545\u5bae\u6587\u5316\u535a\u7269\u9928"
+            },
+            "route": "PB4",
+            "seq": 4,
+            "serviceType": "2",
+            "stops": {
+                "kmb": [
+                    "F050648C108571ED",
+                    "321060BAE1447BEE",
+                    "0678C85600B1A019",
+                    "F493236404A4FABF"
                 ]
             }
         },
@@ -419262,27 +419322,123 @@
                 "kmb": "O"
             },
             "co": [
-                "kmb"
+                "kmb",
+                "ctb"
             ],
             "dest": {
                 "en": "Lantau Link BBI (Circular)",
                 "zh": "\u9752\u5dbc\u5e79\u7dda\u8f49\u8eca\u7ad9(\u5faa\u74b0\u7dda)"
             },
-            "fares": null,
+            "fares": [
+                "7.4",
+                "7.4",
+                "7.4",
+                "7.4"
+            ],
             "faresHoliday": null,
-            "freq": null,
-            "gtfsId": null,
-            "jt": null,
+            "freq": {
+                "287": {
+                    "0900": [
+                        "0915",
+                        "900"
+                    ],
+                    "0915": [
+                        "0935",
+                        "1200"
+                    ],
+                    "0935": [
+                        "0950",
+                        "900"
+                    ],
+                    "0950": [
+                        "1010",
+                        "1200"
+                    ],
+                    "1010": [
+                        "1025",
+                        "900"
+                    ],
+                    "1025": [
+                        "1045",
+                        "1200"
+                    ],
+                    "1045": [
+                        "1100",
+                        "900"
+                    ],
+                    "1100": [
+                        "1120",
+                        "1200"
+                    ],
+                    "1120": [
+                        "1135",
+                        "900"
+                    ],
+                    "1135": [
+                        "1155",
+                        "1200"
+                    ],
+                    "1155": [
+                        "1200",
+                        "900"
+                    ],
+                    "1200": [
+                        "1700",
+                        "1800"
+                    ],
+                    "1700": [
+                        "1900",
+                        "1200"
+                    ]
+                },
+                "480": {
+                    "0900": [
+                        "0915",
+                        "900"
+                    ],
+                    "0915": [
+                        "0935",
+                        "1200"
+                    ],
+                    "0935": [
+                        "0950",
+                        "900"
+                    ],
+                    "0950": [
+                        "1010",
+                        "1200"
+                    ],
+                    "1010": [
+                        "1025",
+                        "900"
+                    ],
+                    "1025": [
+                        "1045",
+                        "1200"
+                    ],
+                    "1045": [
+                        "1100",
+                        "900"
+                    ],
+                    "1100": [
+                        "1900",
+                        "1200"
+                    ]
+                }
+            },
+            "gtfsId": "8769",
+            "jt": "19",
             "nlbId": null,
             "orig": {
                 "en": "DISNEYLAND",
                 "zh": "\u8fea\u58eb\u5c3c\u6a02\u5712"
             },
             "route": "R8",
-            "seq": 4,
+            "seq": 5,
             "serviceType": "3",
             "stops": {
                 "kmb": [
+                    "E0A5FA73176D78A8",
                     "6314A92BE85A8A9A",
                     "BB78072EA5359090",
                     "E1FF672AE45F06FE",
@@ -537396,6 +537552,16 @@
                 "zh": "\u65b0\u5a01\u5712"
             }
         },
+        "74CBD919F18ACF61": {
+            "location": {
+                "lat": 22.2998,
+                "lng": 114.23871
+            },
+            "name": {
+                "en": "YAU TONG (LEI YUE MUN ROAD)",
+                "zh": "\u6cb9\u5858(\u9bc9\u9b5a\u9580\u9053)"
+            }
+        },
         "74EE2ECB1A3773E9": {
             "location": {
                 "lat": 22.28307,
@@ -540804,16 +540970,6 @@
             "name": {
                 "en": "TAI PO CENTRAL BUS TERMINUS (TP905)",
                 "zh": "\u5927\u57d4\u4e2d\u5fc3\u7e3d\u7ad9 (TP905)"
-            }
-        },
-        "825B78271286D8DE": {
-            "location": {
-                "lat": 22.36645,
-                "lng": 114.05871
-            },
-            "name": {
-                "en": "SHAM TSENG",
-                "zh": "\u6df1\u4e95(\u5357\u884c)"
             }
         },
         "82867084F4E7B92E": {
@@ -565332,8 +565488,8 @@
                 "lng": 114.24033
             },
             "name": {
-                "en": "YAU TONG (ALIGHTING BUS STOP) (LT384)",
-                "zh": "\u6cb9\u5858(\u843d\u5ba2\u7ad9) (LT384)"
+                "en": "YAU TONG (KO CHIU ROAD) (LT384)",
+                "zh": "\u6cb9\u5858(\u9ad8\u8d85\u9053) (LT384)"
             }
         },
         "E105131B41FBAF33": {
@@ -601665,6 +601821,10 @@
             ],
             [
                 "kmb",
+                "74CBD919F18ACF61"
+            ],
+            [
+                "kmb",
                 "9C839C3824F47A6A"
             ]
         ],
@@ -612738,10 +612898,6 @@
             [
                 "kmb",
                 "ED1B11038B7F6955"
-            ],
-            [
-                "kmb",
-                "F050648C108571ED"
             ],
             [
                 "gmb",
@@ -665957,6 +666113,10 @@
             ],
             [
                 "kmb",
+                "74CBD919F18ACF61"
+            ],
+            [
+                "kmb",
                 "9C839C3824F47A6A"
             ]
         ],
@@ -687788,10 +687948,6 @@
             [
                 "kmb",
                 "ED1B11038B7F6955"
-            ],
-            [
-                "kmb",
-                "F050648C108571ED"
             ]
         ],
         "3DDE81FE5DB08180": [
@@ -712688,10 +712844,6 @@
             [
                 "kmb",
                 "ED1B11038B7F6955"
-            ],
-            [
-                "kmb",
-                "F050648C108571ED"
             ]
         ],
         "7459D3AB11AFD6B5": [
@@ -712912,6 +713064,20 @@
             [
                 "kmb",
                 "A77FC2D2F11EC88B"
+            ]
+        ],
+        "74CBD919F18ACF61": [
+            [
+                "ctb",
+                "002662"
+            ],
+            [
+                "gmb",
+                "20016539"
+            ],
+            [
+                "kmb",
+                "9C839C3824F47A6A"
             ]
         ],
         "74EE2ECB1A3773E9": [
@@ -718266,12 +718432,6 @@
             [
                 "kmb",
                 "89240EC55B8818BC"
-            ]
-        ],
-        "825B78271286D8DE": [
-            [
-                "gmb",
-                "20001889"
             ]
         ],
         "82867084F4E7B92E": [
@@ -728680,6 +728840,10 @@
             [
                 "gmb",
                 "20016539"
+            ],
+            [
+                "kmb",
+                "74CBD919F18ACF61"
             ]
         ],
         "9C884013EBA1D548": [
@@ -745958,10 +746122,6 @@
             [
                 "kmb",
                 "ED1B11038B7F6955"
-            ],
-            [
-                "kmb",
-                "F050648C108571ED"
             ]
         ],
         "C5294C92C5C6E334": [
@@ -762258,10 +762418,6 @@
             [
                 "kmb",
                 "C50C67D1BFF70DDF"
-            ],
-            [
-                "kmb",
-                "F050648C108571ED"
             ]
         ],
         "ED244F7BBACAB14D": [
@@ -763692,28 +763848,8 @@
         ],
         "F050648C108571ED": [
             [
-                "ctb",
-                "003763"
-            ],
-            [
                 "gmb",
                 "20018842"
-            ],
-            [
-                "kmb",
-                "3DDE01E36E19036E"
-            ],
-            [
-                "kmb",
-                "74553C232C1FF6CF"
-            ],
-            [
-                "kmb",
-                "C50C67D1BFF70DDF"
-            ],
-            [
-                "kmb",
-                "ED1B11038B7F6955"
             ]
         ],
         "F0536729876AA9D0": [
