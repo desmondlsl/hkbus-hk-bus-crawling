@@ -39918,7 +39918,7 @@
                 ]
             }
         },
-        "14S+1+YAU TONG+TSEUNG KWAN O CHINESE PERMANENT CEMETERY(CIRCULAR)": {
+        "14S+1+YAU TONG (LEI YUE MUN ROAD)+TSEUNG KWAN O CHINESE PERMANENT CEMETERY(CIRCULAR)": {
             "bound": {
                 "kmb": "O"
             },
@@ -39936,8 +39936,8 @@
             "jt": null,
             "nlbId": null,
             "orig": {
-                "en": "YAU TONG",
-                "zh": "\u6cb9\u5858"
+                "en": "YAU TONG (LEI YUE MUN ROAD)",
+                "zh": "\u6cb9\u5858(\u9bc9\u9b5a\u9580\u9053)"
             },
             "route": "14S",
             "seq": 3,
@@ -88315,7 +88315,7 @@
                     "E70EDF92FE8553E2",
                     "D52BE142BBBD69D9",
                     "2C7BF1ADFCFB5545",
-                    "671775E6AF279B42",
+                    "0306B53F46955E3E",
                     "4B17C55C032D3A37",
                     "266A4CDA19461A42",
                     "99D25E17B32126B4",
@@ -88898,7 +88898,7 @@
                     "E70EDF92FE8553E2",
                     "D52BE142BBBD69D9",
                     "2C7BF1ADFCFB5545",
-                    "671775E6AF279B42",
+                    "0306B53F46955E3E",
                     "4B17C55C032D3A37",
                     "266A4CDA19461A42",
                     "99D25E17B32126B4",
@@ -89367,7 +89367,7 @@
                     "E70EDF92FE8553E2",
                     "D52BE142BBBD69D9",
                     "2C7BF1ADFCFB5545",
-                    "671775E6AF279B42",
+                    "0306B53F46955E3E",
                     "4B17C55C032D3A37",
                     "266A4CDA19461A42",
                     "99D25E17B32126B4",
@@ -90898,7 +90898,7 @@
                     "E70EDF92FE8553E2",
                     "D52BE142BBBD69D9",
                     "2C7BF1ADFCFB5545",
-                    "671775E6AF279B42",
+                    "0306B53F46955E3E",
                     "4B17C55C032D3A37",
                     "266A4CDA19461A42",
                     "99D25E17B32126B4",
@@ -117213,7 +117213,7 @@
                     "403881982F9E7209",
                     "AB5CF1D729028A16",
                     "E0BAA3364D0CE860",
-                    "0306B53F46955E3E",
+                    "8BAB6AA783EE0508",
                     "C057639478BE0168",
                     "14CF94DF66FCD0C8",
                     "2A5B424322D35B0A",
@@ -147509,7 +147509,7 @@
             "stops": {
                 "kmb": [
                     "38F4F6A39C28DEB5",
-                    "8BAB6AA783EE0508",
+                    "20B34B5CA0E66973",
                     "7380707A36C032B9",
                     "52AE04E9C3E77BE1",
                     "06E1120EA9A7BF69",
@@ -148105,7 +148105,7 @@
             "stops": {
                 "kmb": [
                     "38F4F6A39C28DEB5",
-                    "8BAB6AA783EE0508",
+                    "20B34B5CA0E66973",
                     "7380707A36C032B9",
                     "52AE04E9C3E77BE1",
                     "06E1120EA9A7BF69",
@@ -238410,7 +238410,7 @@
                     "E70EDF92FE8553E2",
                     "D52BE142BBBD69D9",
                     "2C7BF1ADFCFB5545",
-                    "671775E6AF279B42",
+                    "0306B53F46955E3E",
                     "4B17C55C032D3A37",
                     "266A4CDA19461A42",
                     "99D25E17B32126B4",
@@ -316729,7 +316729,7 @@
                     "E0BAA3364D0CE860",
                     "CB341BEEABF66D6E",
                     "3D40B78AACF268D7",
-                    "0306B53F46955E3E"
+                    "8BAB6AA783EE0508"
                 ]
             }
         },
@@ -340547,7 +340547,7 @@
                     "0A1D83D50B49933D",
                     "A9478A97C59FE581",
                     "E0BAA3364D0CE860",
-                    "0306B53F46955E3E",
+                    "8BAB6AA783EE0508",
                     "C057639478BE0168",
                     "14CF94DF66FCD0C8",
                     "2A5B424322D35B0A",
@@ -340723,7 +340723,7 @@
                     "0A1D83D50B49933D",
                     "A9478A97C59FE581",
                     "E0BAA3364D0CE860",
-                    "0306B53F46955E3E",
+                    "8BAB6AA783EE0508",
                     "C057639478BE0168"
                 ]
             }
@@ -342588,7 +342588,7 @@
                     "AE0DC8745DFCA0FA",
                     "25863CD2A364E72F",
                     "1E3A342DF7D5B8B5",
-                    "0306B53F46955E3E",
+                    "8BAB6AA783EE0508",
                     "3F9AE21DC3A540B9",
                     "5FD7848A339751B6",
                     "36385EAEB9B9D091",
@@ -342613,7 +342613,7 @@
                 ]
             }
         },
-        "98A+2+KWUN TONG BBI - MILLENNIUM CITY (KT641)+HANG HAU (NORTH) (TSEUNG KWAN O HOSPITAL) (TK950)": {
+        "98A+2+KWUN TONG BBI - MILLENNIUM CITY (KT640)+HANG HAU (NORTH) (TSEUNG KWAN O HOSPITAL) (TK950)": {
             "bound": {
                 "kmb": "O"
             },
@@ -342664,15 +342664,15 @@
             "jt": "36",
             "nlbId": null,
             "orig": {
-                "en": "KWUN TONG BBI - MILLENNIUM CITY (KT641)",
-                "zh": "\u89c0\u5858\u8f49\u8eca\u7ad9 - \u5275\u7d00\u4e4b\u57ce (KT641)"
+                "en": "KWUN TONG BBI - MILLENNIUM CITY (KT640)",
+                "zh": "\u89c0\u5858\u8f49\u8eca\u7ad9 - \u5275\u7d00\u4e4b\u57ce (KT640)"
             },
             "route": "98A",
             "seq": 22,
             "serviceType": "2",
             "stops": {
                 "kmb": [
-                    "0306B53F46955E3E",
+                    "8BAB6AA783EE0508",
                     "3F9AE21DC3A540B9",
                     "5FD7848A339751B6",
                     "36385EAEB9B9D091",
@@ -342804,7 +342804,7 @@
                     "883E42D32C6AD101",
                     "E0BAA3364D0CE860",
                     "CB341BEEABF66D6E",
-                    "0306B53F46955E3E",
+                    "8BAB6AA783EE0508",
                     "3F9AE21DC3A540B9",
                     "5FD7848A339751B6"
                 ]
@@ -408028,7 +408028,7 @@
             "stops": {
                 "kmb": [
                     "38F4F6A39C28DEB5",
-                    "8BAB6AA783EE0508",
+                    "20B34B5CA0E66973",
                     "7380707A36C032B9",
                     "52AE04E9C3E77BE1",
                     "06E1120EA9A7BF69",
@@ -417704,14 +417704,15 @@
                 "zh": "\u897f\u6c99 GO PARK"
             },
             "route": "PB1",
-            "seq": 4,
+            "seq": 5,
             "serviceType": "1",
             "stops": {
                 "kmb": [
                     "8B9E121BB71771F4",
                     "8C90768E30E981C6",
                     "B1882202E2B36620",
-                    "2B011CC82C51D518"
+                    "2B011CC82C51D518",
+                    "F02A1646BD4FC0E2"
                 ]
             }
         },
@@ -417748,40 +417749,6 @@
                     "8C90768E30E981C6",
                     "AE77FAE78AB50667",
                     "8B9E121BB71771F4"
-                ]
-            }
-        },
-        "PB1+2+GO PARK+Sheung Shui": {
-            "bound": {
-                "kmb": "O"
-            },
-            "co": [
-                "kmb"
-            ],
-            "dest": {
-                "en": "Sheung Shui",
-                "zh": "\u4e0a\u6c34"
-            },
-            "fares": null,
-            "faresHoliday": null,
-            "freq": null,
-            "gtfsId": null,
-            "jt": null,
-            "nlbId": null,
-            "orig": {
-                "en": "GO PARK",
-                "zh": "\u897f\u6c99 GO PARK"
-            },
-            "route": "PB1",
-            "seq": 5,
-            "serviceType": "2",
-            "stops": {
-                "kmb": [
-                    "8B9E121BB71771F4",
-                    "8C90768E30E981C6",
-                    "B1882202E2B36620",
-                    "2B011CC82C51D518",
-                    "F02A1646BD4FC0E2"
                 ]
             }
         },
@@ -418016,10 +417983,15 @@
                 "zh": "\u9999\u6e2f\u6545\u5bae\u6587\u5316\u535a\u7269\u9928"
             },
             "route": "PB4",
-            "seq": 0,
+            "seq": 4,
             "serviceType": "1",
             "stops": {
-                "kmb": []
+                "kmb": [
+                    "F050648C108571ED",
+                    "321060BAE1447BEE",
+                    "0678C85600B1A019",
+                    "F493236404A4FABF"
+                ]
             }
         },
         "PB4+1+YOHO MALL (YUEN LONG)+HONG KONG PALACE MUSEUM": {
@@ -418054,39 +418026,6 @@
                     "654D32C3AC9FAEF7",
                     "321060BAE1447BEE",
                     "F050648C108571ED"
-                ]
-            }
-        },
-        "PB4+2+HONG KONG PALACE MUSEUM+YOHO MALL (YUEN LONG)": {
-            "bound": {
-                "kmb": "O"
-            },
-            "co": [
-                "kmb"
-            ],
-            "dest": {
-                "en": "YOHO MALL (YUEN LONG)",
-                "zh": "\u5143\u6717 \u5f62\u9ede"
-            },
-            "fares": null,
-            "faresHoliday": null,
-            "freq": null,
-            "gtfsId": null,
-            "jt": null,
-            "nlbId": null,
-            "orig": {
-                "en": "HONG KONG PALACE MUSEUM",
-                "zh": "\u9999\u6e2f\u6545\u5bae\u6587\u5316\u535a\u7269\u9928"
-            },
-            "route": "PB4",
-            "seq": 4,
-            "serviceType": "2",
-            "stops": {
-                "kmb": [
-                    "F050648C108571ED",
-                    "321060BAE1447BEE",
-                    "0678C85600B1A019",
-                    "F493236404A4FABF"
                 ]
             }
         },
@@ -540972,6 +540911,16 @@
                 "zh": "\u5927\u57d4\u4e2d\u5fc3\u7e3d\u7ad9 (TP905)"
             }
         },
+        "825B78271286D8DE": {
+            "location": {
+                "lat": 22.36645,
+                "lng": 114.05871
+            },
+            "name": {
+                "en": "SHAM TSENG",
+                "zh": "\u6df1\u4e95(\u5357\u884c)"
+            }
+        },
         "82867084F4E7B92E": {
             "location": {
                 "lat": 22.33187,
@@ -572470,6 +572419,16 @@
             "name": {
                 "en": "TAI PING INDUSTRIAL CENTRE (TP616)",
                 "zh": "\u592a\u5e73\u5de5\u696d\u4e2d\u5fc3 (TP616)"
+            }
+        },
+        "F9D89A6B45DFD0A0": {
+            "location": {
+                "lat": 22.37353,
+                "lng": 113.99124
+            },
+            "name": {
+                "en": "GOLDEN BEACH",
+                "zh": "\u9ec3\u91d1\u6cf3\u7058"
             }
         },
         "F9F4E00007242BED": {
@@ -718434,6 +718393,12 @@
                 "89240EC55B8818BC"
             ]
         ],
+        "825B78271286D8DE": [
+            [
+                "gmb",
+                "20001889"
+            ]
+        ],
         "82867084F4E7B92E": [
             [
                 "ctb",
@@ -768368,6 +768333,72 @@
             [
                 "kmb",
                 "8BF41341E058D6A6"
+            ]
+        ],
+        "F9D89A6B45DFD0A0": [
+            [
+                "ctb",
+                "001889"
+            ],
+            [
+                "ctb",
+                "001901"
+            ],
+            [
+                "gmb",
+                "20002037"
+            ],
+            [
+                "gmb",
+                "20002053"
+            ],
+            [
+                "kmb",
+                "813A44129E51981F"
+            ],
+            [
+                "kmb",
+                "9585FB90C56F451F"
+            ],
+            [
+                "lrtfeeder",
+                "K51-D100"
+            ],
+            [
+                "lrtfeeder",
+                "K51A-D080"
+            ],
+            [
+                "lrtfeeder",
+                "K53-D060"
+            ],
+            [
+                "lrtfeeder",
+                "K53-U100"
+            ],
+            [
+                "lrtfeeder",
+                "K58-D008"
+            ],
+            [
+                "lrtfeeder",
+                "K58-U240"
+            ],
+            [
+                "kmb",
+                "971554761E4413EF"
+            ],
+            [
+                "kmb",
+                "C6F1D1D8DF180508"
+            ],
+            [
+                "lrtfeeder",
+                "K51-U170"
+            ],
+            [
+                "lrtfeeder",
+                "K51A-U170"
             ]
         ],
         "F9F4E00007242BED": [
