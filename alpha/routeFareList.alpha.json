@@ -131404,12 +131404,14 @@
                 "zh": "\u8343\u7063(\u9752\u5c71\u516c\u8def)"
             },
             "route": "32P",
-            "seq": 2,
+            "seq": 4,
             "serviceType": "1",
             "stops": {
                 "kmb": [
                     "F5C42400BB24BA5B",
-                    "6BE57F75FCD84DBB"
+                    "6BE57F75FCD84DBB",
+                    "EEBC9C001FC420B8",
+                    "B32791B3E5EF4287"
                 ]
             }
         },
@@ -131435,12 +131437,14 @@
                 "zh": "\u5713\u7384\u5b78\u9662"
             },
             "route": "32P",
-            "seq": 2,
+            "seq": 4,
             "serviceType": "1",
             "stops": {
                 "kmb": [
                     "B32791B3E5EF4287",
-                    "D4C5C8BD5FC05C2E"
+                    "E9BD263C719AFEC6",
+                    "D4C5C8BD5FC05C2E",
+                    "F5C42400BB24BA5B"
                 ]
             }
         },
@@ -162003,7 +162007,7 @@
                     "20002035",
                     "20002036",
                     "20002037",
-                    "20006914",
+                    "20009273",
                     "20001351",
                     "20001352",
                     "20002053",
@@ -255868,6 +255872,38 @@
                     "2BD35970A9125DB3",
                     "2EAB4A9D81722720",
                     "60952B4A38F3D82E"
+                ]
+            }
+        },
+        "73S+2+FANLING STATION+WO HOP SHEK (KIU TAU ROAD)": {
+            "bound": {
+                "kmb": "O"
+            },
+            "co": [
+                "kmb"
+            ],
+            "dest": {
+                "en": "WO HOP SHEK (KIU TAU ROAD)",
+                "zh": "\u548c\u5408\u77f3(\u6a4b\u982d\u8def)"
+            },
+            "fares": null,
+            "faresHoliday": null,
+            "freq": null,
+            "gtfsId": null,
+            "jt": null,
+            "nlbId": null,
+            "orig": {
+                "en": "FANLING STATION",
+                "zh": "\u7c89\u5dba\u7ad9"
+            },
+            "route": "73S",
+            "seq": 3,
+            "serviceType": "2",
+            "stops": {
+                "kmb": [
+                    "60952B4A38F3D82E",
+                    "2EAB4A9D81722720",
+                    "2BD35970A9125DB3"
                 ]
             }
         },
@@ -483768,7 +483804,7 @@
             },
             "name": {
                 "en": "Castle Peak Road- So Kwun Wat, Hong Kong Gold Coast Piazza",
-                "zh": "\u9752\u5c71\u516c\u8def\u9752\u5c71\u7063\u6bb5, \u9ec3\u91d1\u6d77\u5cb8\u5546\u5834"
+                "zh": "\u9752\u5c71\u516c\u8def\u6383\u7ba1\u7b0f\u6bb5, \u9ec3\u91d1\u6d77\u5cb8\u5546\u5834"
             }
         },
         "20009274": {
@@ -567711,6 +567747,16 @@
                 "zh": "\u7a57\u79be\u82d1\u5df4\u58eb\u7e3d\u7ad9 (FT920)"
             }
         },
+        "E9BD263C719AFEC6": {
+            "location": {
+                "lat": 22.38142,
+                "lng": 114.12422
+            },
+            "name": {
+                "en": "WESTERN MONASTERY (TW730)",
+                "zh": "\u897f\u65b9\u5bfa (TW730)"
+            }
+        },
         "E9CA5B9AFBBDADBA": {
             "location": {
                 "lat": 22.26262,
@@ -569029,6 +569075,16 @@
             "name": {
                 "en": "CHEUNG SHA WAN PATH (SS233)",
                 "zh": "\u9577\u6c99\u7063\u5f91 (SS233)"
+            }
+        },
+        "EEBC9C001FC420B8": {
+            "location": {
+                "lat": 22.38117,
+                "lng": 114.12455
+            },
+            "name": {
+                "en": "SHEUNG KOK SHAN ROAD (TW470)",
+                "zh": "\u4e0a\u89d2\u5c71\u8def (TW470)"
             }
         },
         "EEBF538FE7455434": {
