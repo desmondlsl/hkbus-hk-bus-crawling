@@ -26530,7 +26530,7 @@
                     "20015238",
                     "20015602",
                     "20002648",
-                    "20022405",
+                    "20022801",
                     "20018775"
                 ]
             }
@@ -508814,7 +508814,7 @@
             },
             "name": {
                 "en": "Princess Magaret Hospital",
-                "zh": "\u746a\u5609\u5217\u91ab\u9662"
+                "zh": "\u746a\u5609\u70c8\u91ab\u9662"
             }
         },
         "20018676": {
@@ -512593,8 +512593,8 @@
                 "lng": 114.27343
             },
             "name": {
-                "en": "Pak Shing Kok Road, outside The Chinese Medicine Hospital of Hong Kong",
-                "zh": "\u767e\u52dd\u89d2\u8def, \u9999\u6e2f\u4e2d\u91ab\u91ab\u9662\u5916"
+                "en": "The Chinese Medicine Hospital of Hong Kong",
+                "zh": "\u9999\u6e2f\u4e2d\u91ab\u91ab\u9662"
             }
         },
         "20022406": {
@@ -512965,6 +512965,16 @@
             "name": {
                 "en": "Muk Hung Street southbound bus lay-by",
                 "zh": "\u6c90\u8679\u8857\u5357\u884c\u7dda\u5df4\u58eb\u505c\u8eca\u7063"
+            }
+        },
+        "20022801": {
+            "location": {
+                "lat": 22.30417,
+                "lng": 114.27408
+            },
+            "name": {
+                "en": "Pak Shing Kok Road, outside The Chinese Medicine Hospital of Hong Kong",
+                "zh": "\u767e\u52dd\u89d2\u8def, \u9999\u6e2f\u4e2d\u91ab\u91ab\u9662\u5916"
             }
         },
         "201": {
