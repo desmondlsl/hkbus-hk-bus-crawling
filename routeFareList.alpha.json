@@ -419107,20 +419107,59 @@
         },
         "R8+1+DISNEYLAND+Lantau Link BBI (Circular)": {
             "bound": {
+                "ctb": "O",
                 "kmb": "O"
             },
             "co": [
-                "kmb"
+                "kmb",
+                "ctb"
             ],
             "dest": {
                 "en": "Lantau Link BBI (Circular)",
                 "zh": "\u9752\u5dbc\u5e79\u7dda\u8f49\u8eca\u7ad9(\u5faa\u74b0\u7dda)"
             },
-            "fares": null,
+            "fares": [
+                "7.4",
+                "7.4",
+                "7.4"
+            ],
             "faresHoliday": null,
-            "freq": null,
-            "gtfsId": null,
-            "jt": null,
+            "freq": {
+                "287": {
+                    "0630": [
+                        "0830",
+                        "1800"
+                    ],
+                    "1920": [
+                        "2000",
+                        "1200"
+                    ],
+                    "2000": [
+                        "2200",
+                        "1800"
+                    ],
+                    "2235": null,
+                    "2310": null
+                },
+                "480": {
+                    "0630": [
+                        "0830",
+                        "1800"
+                    ],
+                    "1920": [
+                        "2100",
+                        "1200"
+                    ],
+                    "2100": [
+                        "2200",
+                        "1800"
+                    ],
+                    "2235": null,
+                    "2310": null
+                }
+            },
+            "gtfsId": "1453",
+            "jt": "17",
             "nlbId": null,
             "orig": {
                 "en": "DISNEYLAND",
@@ -419130,25 +419169,32 @@
             "seq": 4,
             "serviceType": "1",
             "stops": {
+                "ctb": [
+                    "002658",
+                    "001854",
+                    "001853",
+                    "002658"
+                ],
                 "kmb": [
                     "E0A5FA73176D78A8",
-                    "6314A92BE85A8A9A",
                     "BB78072EA5359090",
-                    "E1FF672AE45F06FE"
+                    "E1FF672AE45F06FE",
+                    "FE235D7DCABCA944"
                 ]
             }
         },
-        "R8+1+Disneyland+Lantau Link Bus-Bus Interchange": {
+        "R8+2+DISNEYLAND+Lantau Link BBI (Circular)": {
             "bound": {
-                "ctb": "O"
+                "ctb": "O",
+                "kmb": "O"
             },
             "co": [
                 "kmb",
                 "ctb"
             ],
             "dest": {
-                "en": "Lantau Link Bus-Bus Interchange",
-                "zh": "\u9752\u5dbc\u5e79\u7dda\u5df4\u58eb\u8f49\u4e58\u7ad9"
+                "en": "Lantau Link BBI (Circular)",
+                "zh": "\u9752\u5dbc\u5e79\u7dda\u8f49\u8eca\u7ad9(\u5faa\u74b0\u7dda)"
             },
             "fares": [
                 "7.4",
@@ -419252,97 +419298,27 @@
             "jt": "19",
             "nlbId": null,
             "orig": {
-                "en": "Disneyland",
-                "zh": "\u8fea\u58eb\u5c3c\u6a02\u5712"
-            },
-            "route": "R8",
-            "seq": 6,
-            "serviceType": 1,
-            "stops": {
-                "ctb": [
-                    "002658",
-                    "002664",
-                    "001854",
-                    "001853",
-                    "002664",
-                    "002658"
-                ]
-            }
-        },
-        "R8+2+DISNEYLAND+Lantau Link BBI (Circular)": {
-            "bound": {
-                "ctb": "O",
-                "kmb": "O"
-            },
-            "co": [
-                "kmb",
-                "ctb"
-            ],
-            "dest": {
-                "en": "Lantau Link BBI (Circular)",
-                "zh": "\u9752\u5dbc\u5e79\u7dda\u8f49\u8eca\u7ad9(\u5faa\u74b0\u7dda)"
-            },
-            "fares": [
-                "7.4",
-                "7.4",
-                "7.4"
-            ],
-            "faresHoliday": null,
-            "freq": {
-                "287": {
-                    "0630": [
-                        "0830",
-                        "1800"
-                    ],
-                    "1920": [
-                        "2000",
-                        "1200"
-                    ],
-                    "2000": [
-                        "2200",
-                        "1800"
-                    ],
-                    "2235": null,
-                    "2310": null
-                },
-                "480": {
-                    "0630": [
-                        "0830",
-                        "1800"
-                    ],
-                    "1920": [
-                        "2100",
-                        "1200"
-                    ],
-                    "2100": [
-                        "2200",
-                        "1800"
-                    ],
-                    "2235": null,
-                    "2310": null
-                }
-            },
-            "gtfsId": "1453",
-            "jt": "17",
-            "nlbId": null,
-            "orig": {
                 "en": "DISNEYLAND",
                 "zh": "\u8fea\u58eb\u5c3c\u6a02\u5712"
             },
             "route": "R8",
-            "seq": 4,
+            "seq": 6,
             "serviceType": "2",
             "stops": {
                 "ctb": [
                     "002658",
+                    "002664",
                     "001854",
                     "001853",
+                    "002664",
                     "002658"
                 ],
                 "kmb": [
                     "E0A5FA73176D78A8",
+                    "6314A92BE85A8A9A",
                     "BB78072EA5359090",
                     "E1FF672AE45F06FE",
+                    "5971529D89929BEA",
                     "FE235D7DCABCA944"
                 ]
             }
@@ -419352,112 +419328,17 @@
                 "kmb": "O"
             },
             "co": [
-                "kmb",
-                "ctb"
+                "kmb"
             ],
             "dest": {
                 "en": "Lantau Link BBI (Circular)",
                 "zh": "\u9752\u5dbc\u5e79\u7dda\u8f49\u8eca\u7ad9(\u5faa\u74b0\u7dda)"
             },
-            "fares": [
-                "7.4",
-                "7.4",
-                "7.4",
-                "7.4"
-            ],
+            "fares": null,
             "faresHoliday": null,
-            "freq": {
-                "287": {
-                    "0900": [
-                        "0915",
-                        "900"
-                    ],
-                    "0915": [
-                        "0935",
-                        "1200"
-                    ],
-                    "0935": [
-                        "0950",
-                        "900"
-                    ],
-                    "0950": [
-                        "1010",
-                        "1200"
-                    ],
-                    "1010": [
-                        "1025",
-                        "900"
-                    ],
-                    "1025": [
-                        "1045",
-                        "1200"
-                    ],
-                    "1045": [
-                        "1100",
-                        "900"
-                    ],
-                    "1100": [
-                        "1120",
-                        "1200"
-                    ],
-                    "1120": [
-                        "1135",
-                        "900"
-                    ],
-                    "1135": [
-                        "1155",
-                        "1200"
-                    ],
-                    "1155": [
-                        "1200",
-                        "900"
-                    ],
-                    "1200": [
-                        "1700",
-                        "1800"
-                    ],
-                    "1700": [
-                        "1900",
-                        "1200"
-                    ]
-                },
-                "480": {
-                    "0900": [
-                        "0915",
-                        "900"
-                    ],
-                    "0915": [
-                        "0935",
-                        "1200"
-                    ],
-                    "0935": [
-                        "0950",
-                        "900"
-                    ],
-                    "0950": [
-                        "1010",
-                        "1200"
-                    ],
-                    "1010": [
-                        "1025",
-                        "900"
-                    ],
-                    "1025": [
-                        "1045",
-                        "1200"
-                    ],
-                    "1045": [
-                        "1100",
-                        "900"
-                    ],
-                    "1100": [
-                        "1900",
-                        "1200"
-                    ]
-                }
-            },
-            "gtfsId": "8769",
-            "jt": "19",
+            "freq": null,
+            "gtfsId": null,
+            "jt": null,
             "nlbId": null,
             "orig": {
                 "en": "DISNEYLAND",
