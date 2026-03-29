@@ -24857,7 +24857,7 @@
             "serviceType": 1,
             "stops": {
                 "gmb": [
-                    "20018775",
+                    "20022802",
                     "20022406",
                     "20002650",
                     "20002652",
@@ -24869,8 +24869,8 @@
                     "20018778",
                     "20007713",
                     "20002648",
-                    "20022405",
-                    "20018775"
+                    "20022801",
+                    "20022802"
                 ]
             }
         },
@@ -26425,7 +26425,7 @@
                 ]
             }
         },
-        "116H+2+The Chinese Medicine Hospital+Tseung Kwan O Station Public Transport Interchange(Circular)": {
+        "116H+2+Tseung Kwan O Station Public Transport Interchange+The Chinese Medicine Hospital (Circular)": {
             "bound": {
                 "gmb": "O"
             },
@@ -26433,10 +26433,12 @@
                 "gmb"
             ],
             "dest": {
-                "en": "Tseung Kwan O Station Public Transport Interchange(Circular)",
-                "zh": "\u5c07\u8ecd\u6fb3\u7ad9\u516c\u5171\u904b\u8f38\u4ea4\u532f\u8655(\u5faa\u74b0\u7dda)"
+                "en": "The Chinese Medicine Hospital (Circular)",
+                "zh": "\u9999\u6e2f\u4e2d\u91ab\u91ab\u9662(\u5faa\u74b0\u7dda)"
             },
             "fares": [
+                "8.2",
+                "8.2",
                 "8.2",
                 "8.2",
                 "8.2",
@@ -26458,26 +26460,28 @@
             "jt": null,
             "nlbId": null,
             "orig": {
-                "en": "The Chinese Medicine Hospital",
-                "zh": "\u9999\u6e2f\u4e2d\u91ab\u91ab\u9662"
+                "en": "Tseung Kwan O Station Public Transport Interchange",
+                "zh": "\u5c07\u8ecd\u6fb3\u7ad9\u516c\u5171\u904b\u8f38\u4ea4\u532f\u8655"
             },
             "route": "116H",
-            "seq": 8,
+            "seq": 10,
             "serviceType": 2,
             "stops": {
                 "gmb": [
+                    "20015602",
+                    "20002648",
                     "20022405",
+                    "20022801",
+                    "20022802",
                     "20022406",
                     "20002650",
                     "20002652",
                     "20015238",
-                    "20015602",
-                    "20002648",
-                    "20022405"
+                    "20015602"
                 ]
             }
         },
-        "116M+2+Pak Shing Kok+Tseung Kwan O Station Public Transport Interchange(Circular)": {
+        "116M+2+Tseung Kwan O Station Public Transport Interchange+Pak Shing Kok (Circular)": {
             "bound": {
                 "gmb": "O"
             },
@@ -26485,8 +26489,8 @@
                 "gmb"
             ],
             "dest": {
-                "en": "Tseung Kwan O Station Public Transport Interchange(Circular)",
-                "zh": "\u5c07\u8ecd\u6fb3\u7ad9\u516c\u5171\u904b\u8f38\u4ea4\u532f\u8655(\u5faa\u74b0\u7dda)"
+                "en": "Pak Shing Kok (Circular)",
+                "zh": "\u767e\u52dd\u89d2(\u5faa\u74b0\u7dda)"
             },
             "fares": [
                 "8.2",
@@ -26501,12 +26505,8 @@
             "faresHoliday": null,
             "freq": {
                 "63": {
-                    "0700": [
-                        "0900",
-                        "600"
-                    ],
-                    "1630": [
-                        "1900",
+                    "1900": [
+                        "1930",
                         "600"
                     ]
                 }
@@ -26515,23 +26515,23 @@
             "jt": null,
             "nlbId": null,
             "orig": {
-                "en": "Pak Shing Kok",
-                "zh": "\u767e\u52dd\u89d2"
+                "en": "Tseung Kwan O Station Public Transport Interchange",
+                "zh": "\u5c07\u8ecd\u6fb3\u7ad9\u516c\u5171\u904b\u8f38\u4ea4\u532f\u8655"
             },
             "route": "116M",
             "seq": 9,
             "serviceType": 2,
             "stops": {
                 "gmb": [
-                    "20018775",
+                    "20015602",
+                    "20002648",
+                    "20022801",
+                    "20022802",
                     "20022406",
                     "20002650",
                     "20002652",
                     "20015238",
-                    "20015602",
-                    "20002648",
-                    "20022801",
-                    "20018775"
+                    "20015602"
                 ]
             }
         },
@@ -156675,6 +156675,7 @@
                 "11",
                 "11",
                 "11",
+                "11",
                 "11"
             ],
             "faresHoliday": null,
@@ -156708,7 +156709,7 @@
                 "zh": "\u6771\u5317\u8475\u6d8c"
             },
             "route": "410",
-            "seq": 6,
+            "seq": 7,
             "serviceType": 1,
             "stops": {
                 "gmb": [
@@ -156717,6 +156718,7 @@
                     "20019336",
                     "20012781",
                     "20012782",
+                    "20022834",
                     "20012777"
                 ]
             }
@@ -156733,6 +156735,7 @@
                 "zh": "\u6771\u5317\u8475\u6d8c"
             },
             "fares": [
+                "11",
                 "11",
                 "11",
                 "11",
@@ -156773,11 +156776,12 @@
                 "zh": "\u746a\u5609\u70c8\u91ab\u9662"
             },
             "route": "410",
-            "seq": 9,
+            "seq": 10,
             "serviceType": 1,
             "stops": {
                 "gmb": [
                     "20012777",
+                    "20022834",
                     "20012778",
                     "20012779",
                     "20019171",
@@ -156885,6 +156889,7 @@
                 "9.2",
                 "9.2",
                 "9.2",
+                "9.2",
                 "9.2"
             ],
             "faresHoliday": null,
@@ -156932,11 +156937,12 @@
                 "zh": "\u746a\u5609\u70c8\u91ab\u9662"
             },
             "route": "413",
-            "seq": 14,
+            "seq": 15,
             "serviceType": 1,
             "stops": {
                 "gmb": [
                     "20002102",
+                    "20022834",
                     "20001801",
                     "20009602",
                     "20001418",
@@ -156965,6 +156971,7 @@
                 "zh": "\u746a\u5609\u70c8\u91ab\u9662"
             },
             "fares": [
+                "9.2",
                 "9.2",
                 "9.2",
                 "9.2",
@@ -157013,7 +157020,7 @@
                 "zh": "\u9752\u8863\u516c\u773e\u78bc\u982d"
             },
             "route": "413",
-            "seq": 15,
+            "seq": 16,
             "serviceType": 1,
             "stops": {
                 "gmb": [
@@ -157031,6 +157038,7 @@
                     "20001428",
                     "20009420",
                     "20001837",
+                    "20022834",
                     "20002102"
                 ]
             }
@@ -312438,7 +312446,7 @@
             "serviceType": 1,
             "stops": {
                 "gmb": [
-                    "20009634",
+                    "20022834",
                     "20014386"
                 ]
             }
@@ -312479,7 +312487,7 @@
                 "gmb": [
                     "20013693",
                     "20003105",
-                    "20009634"
+                    "20022834"
                 ]
             }
         },
@@ -346121,7 +346129,7 @@
                         "1200"
                     ],
                     "1450": [
-                        "1810",
+                        "1840",
                         "900"
                     ]
                 }
@@ -346169,7 +346177,7 @@
                         "1200"
                     ],
                     "1500": [
-                        "1830",
+                        "1900",
                         "900"
                     ]
                 }
@@ -483993,16 +484001,6 @@
                 "zh": "\u8354\u666f\u5c71\u8def, \u8fd1\u8354\u666f\u90f5\u653f\u5c40"
             }
         },
-        "20009634": {
-            "location": {
-                "lat": 22.34188,
-                "lng": 114.13451
-            },
-            "name": {
-                "en": "Kwai Chung Hospital",
-                "zh": "\u8475\u6d8c\u91ab\u9662"
-            }
-        },
         "20009667": {
             "location": {
                 "lat": 22.33014,
@@ -508833,16 +508831,6 @@
                 "zh": "\u82f1\u7687\u9053,\u8fd1\u592a\u53e4\u574a"
             }
         },
-        "20018775": {
-            "location": {
-                "lat": 22.30583,
-                "lng": 114.27457
-            },
-            "name": {
-                "en": "Pak Shing Kok Road (northbound)",
-                "zh": "\u767e\u52dd\u89d2\u8def(\u5317\u884c)"
-            }
-        },
         "20018776": {
             "location": {
                 "lat": 22.30725,
@@ -512911,6 +512899,26 @@
             "name": {
                 "en": "Pak Shing Kok Road, outside The Chinese Medicine Hospital of Hong Kong",
                 "zh": "\u767e\u52dd\u89d2\u8def, \u9999\u6e2f\u4e2d\u91ab\u91ab\u9662\u5916"
+            }
+        },
+        "20022802": {
+            "location": {
+                "lat": 22.30562,
+                "lng": 114.27452
+            },
+            "name": {
+                "en": "Pak Shing Kok Road, opposite Fire Services Department Pak Shing Kok Married Quarters",
+                "zh": "\u767e\u52dd\u89d2\u8def, \u6d88\u9632\u8655\u767e\u52dd\u89d2\u5df2\u5a5a\u4eba\u54e1\u5bbf\u820d\u5c0d\u9762"
+            }
+        },
+        "20022834": {
+            "location": {
+                "lat": 22.34291,
+                "lng": 114.13285
+            },
+            "name": {
+                "en": "Kwai Chung Hospital",
+                "zh": "\u8475\u6d8c\u91ab\u9662"
             }
         },
         "201": {
@@ -612692,7 +612700,7 @@
         "003751": [
             [
                 "gmb",
-                "20018775"
+                "20022802"
             ],
             [
                 "kmb",
@@ -638012,6 +638020,10 @@
         "20002102": [
             [
                 "gmb",
+                "20012777"
+            ],
+            [
+                "gmb",
                 "20018643"
             ]
         ],
@@ -652510,6 +652522,10 @@
             ]
         ],
         "20012777": [
+            [
+                "gmb",
+                "20002102"
+            ],
             [
                 "gmb",
                 "20018643"
@@ -670663,24 +670679,6 @@
                 "FB4ACCBAB77BE615"
             ]
         ],
-        "20018775": [
-            [
-                "ctb",
-                "003751"
-            ],
-            [
-                "kmb",
-                "BED3E96AAC2B3B3D"
-            ],
-            [
-                "kmb",
-                "CC2353289CD0EE66"
-            ],
-            [
-                "kmb",
-                "F3209DBC2E7E5C1A"
-            ]
-        ],
         "20018777": [
             [
                 "ctb",
@@ -674603,6 +674601,24 @@
             [
                 "ctb",
                 "003370"
+            ]
+        ],
+        "20022802": [
+            [
+                "ctb",
+                "003751"
+            ],
+            [
+                "kmb",
+                "CC2353289CD0EE66"
+            ],
+            [
+                "kmb",
+                "F3209DBC2E7E5C1A"
+            ],
+            [
+                "kmb",
+                "BED3E96AAC2B3B3D"
             ]
         ],
         "201": [
@@ -743306,7 +743322,7 @@
             ],
             [
                 "gmb",
-                "20018775"
+                "20022802"
             ]
         ],
         "BEEBDDB542A7E709": [
@@ -749091,16 +749107,16 @@
                 "003751"
             ],
             [
+                "gmb",
+                "20022802"
+            ],
+            [
                 "kmb",
                 "BED3E96AAC2B3B3D"
             ],
             [
                 "kmb",
                 "F3209DBC2E7E5C1A"
-            ],
-            [
-                "gmb",
-                "20018775"
             ]
         ],
         "CC2886532E162A85": [
@@ -765005,16 +765021,16 @@
                 "003751"
             ],
             [
+                "gmb",
+                "20022802"
+            ],
+            [
                 "kmb",
                 "BED3E96AAC2B3B3D"
             ],
             [
                 "kmb",
                 "CC2353289CD0EE66"
-            ],
-            [
-                "gmb",
-                "20018775"
             ]
         ],
         "F3243F2A0BC4DEAD": [
