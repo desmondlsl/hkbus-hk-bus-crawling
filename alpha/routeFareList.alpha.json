@@ -208669,6 +208669,7 @@
                 "7.8",
                 "7.8",
                 "7.8",
+                "7.8",
                 "7.8"
             ],
             "faresHoliday": null,
@@ -208692,13 +208693,14 @@
                 "zh": "\u5927\u6c5f\u57d4"
             },
             "route": "602",
-            "seq": 8,
+            "seq": 9,
             "serviceType": 1,
             "stops": {
                 "gmb": [
                     "20016896",
                     "20016897",
                     "20017688",
+                    "20022867",
                     "20001280",
                     "20001286",
                     "20004199",
@@ -208724,6 +208726,7 @@
                 "7.8",
                 "7.8",
                 "7.8",
+                "7.8",
                 "7.8"
             ],
             "faresHoliday": null,
@@ -208743,7 +208746,7 @@
                 "zh": "\u5143\u6717 (\u9cf3\u7fd4\u8def)"
             },
             "route": "602",
-            "seq": 7,
+            "seq": 8,
             "serviceType": 1,
             "stops": {
                 "gmb": [
@@ -208752,6 +208755,7 @@
                     "20001282",
                     "20001283",
                     "20017686",
+                    "20022867",
                     "20016895",
                     "20016896"
                 ]
@@ -211832,6 +211836,8 @@
                 "7.8",
                 "7.8",
                 "7.8",
+                "7.8",
+                "7.8",
                 "7.8"
             ],
             "faresHoliday": null,
@@ -211863,7 +211869,7 @@
                 "zh": "\u6a6b\u53f0\u5c71"
             },
             "route": "608",
-            "seq": 24,
+            "seq": 26,
             "serviceType": 1,
             "stops": {
                 "gmb": [
@@ -211871,6 +211877,7 @@
                     "20007541",
                     "20007542",
                     "20002366",
+                    "20022867",
                     "20003183",
                     "20002465",
                     "20007107",
@@ -211888,6 +211895,7 @@
                     "20007102",
                     "20003184",
                     "20002366",
+                    "20022867",
                     "20007543",
                     "20003179",
                     "20002474"
@@ -459529,8 +459537,8 @@
                 "lng": 113.94777
             },
             "name": {
-                "en": "TUEN MUN CHEK LAP KOK TUNNEL BBI (T1) (TM664)",
-                "zh": "\u5c6f\u9580\u8d64\u9c72\u89d2\u96a7\u9053\u8f49\u8eca\u7ad9(T1)"
+                "en": "TUEN MUN CHEK LAP KOK TUNNEL BBI (TM664)",
+                "zh": "\u5c6f\u9580\u8d64\u9c72\u89d2\u96a7\u9053\u8f49\u8eca\u7ad9 (TM664)"
             }
         },
         "0EF525CD78152127": {
@@ -460099,8 +460107,8 @@
                 "lng": 114.15271
             },
             "name": {
-                "en": "FANLING HIGHWAY BBI (A3) (TP101)",
-                "zh": "\u7c89\u5dba\u516c\u8def\u8f49\u8eca\u7ad9(A3) (TP101)"
+                "en": "FANLING HIGHWAY BBI (TP101)",
+                "zh": "\u7c89\u5dba\u516c\u8def\u8f49\u8eca\u7ad9 (TP101)"
             }
         },
         "101E821CA2F6D853": {
@@ -512923,6 +512931,16 @@
                 "zh": "\u8475\u6d8c\u91ab\u9662"
             }
         },
+        "20022867": {
+            "location": {
+                "lat": 22.43563,
+                "lng": 114.06702
+            },
+            "name": {
+                "en": "The bus lay-by near Sha Tin Hang on Tung Wui Road eastbound",
+                "zh": "\u6771\u532f\u8def(\u6771\u884c)\u8fd1\u6c99\u7530\u5751\u5df4\u58eb\u505c\u8eca\u7063"
+            }
+        },
         "20022900": {
             "location": {
                 "lat": 22.41111,
@@ -526039,8 +526057,8 @@
                 "lng": 113.9477
             },
             "name": {
-                "en": "TUEN MUN CHEK LAP KOK TUNNEL BBI (T2) (TM663)",
-                "zh": "\u5c6f\u9580\u8d64\u9c72\u89d2\u96a7\u9053\u8f49\u8eca\u7ad9 (T2)"
+                "en": "TUEN MUN CHEK LAP KOK TUNNEL BBI (TM663)",
+                "zh": "\u5c6f\u9580\u8d64\u9c72\u89d2\u96a7\u9053\u8f49\u8eca\u7ad9 (TM663)"
             }
         },
         "4B5F39DBC6671C81": {
@@ -530999,8 +531017,8 @@
                 "lng": 113.94758
             },
             "name": {
-                "en": "TUEN MUN CHEK LAP KOK TUNNEL BBI (T4) (TM661)",
-                "zh": "\u5c6f\u9580\u8d64\u9c72\u89d2\u96a7\u9053\u8f49\u8eca\u7ad9 (T4)"
+                "en": "TUEN MUN CHEK LAP KOK TUNNEL BBI (TM661)",
+                "zh": "\u5c6f\u9580\u8d64\u9c72\u89d2\u96a7\u9053\u8f49\u8eca\u7ad9 (TM661)"
             }
         },
         "5CE1C1296F98C6C4": {
@@ -540299,8 +540317,8 @@
                 "lng": 113.94762
             },
             "name": {
-                "en": "TUEN MUN CHEK LAP KOK TUNNEL BBI (T3) (TM662)",
-                "zh": "\u5c6f\u9580\u8d64\u9c72\u89d2\u96a7\u9053\u8f49\u8eca\u7ad9 (T3)"
+                "en": "TUEN MUN CHEK LAP KOK TUNNEL BBI (TM662)",
+                "zh": "\u5c6f\u9580\u8d64\u9c72\u89d2\u96a7\u9053\u8f49\u8eca\u7ad9 (TM662)"
             }
         },
         "8081C7B2F395A6D0": {
@@ -541499,8 +541517,8 @@
                 "lng": 114.1529
             },
             "name": {
-                "en": "FANLING HIGHWAY BBI (A2) (TP102)",
-                "zh": "\u7c89\u5dba\u516c\u8def\u8f49\u8eca\u7ad9 (A2) (TP102)"
+                "en": "FANLING HIGHWAY BBI (TP102)",
+                "zh": "\u7c89\u5dba\u516c\u8def\u8f49\u8eca\u7ad9 (TP102)"
             }
         },
         "84B384771F1CE484": {
@@ -559679,8 +559697,8 @@
                 "lng": 114.15271
             },
             "name": {
-                "en": "FANLING HIGHWAY BBI (A4) (TP100)",
-                "zh": "\u7c89\u5dba\u516c\u8def\u8f49\u8eca\u7ad9(A4) (TP100)"
+                "en": "FANLING HIGHWAY BBI (TP100)",
+                "zh": "\u7c89\u5dba\u516c\u8def\u8f49\u8eca\u7ad9 (TP100)"
             }
         },
         "CAD1ABCBA72CF365": {
@@ -561689,8 +561707,8 @@
                 "lng": 114.1529
             },
             "name": {
-                "en": "FANLING HIGHWAY BBI (A1) (TP102)",
-                "zh": "\u7c89\u5dba\u516c\u8def\u8f49\u8eca\u7ad9 (A1) (TP102)"
+                "en": "FANLING HIGHWAY BBI (TP102)",
+                "zh": "\u7c89\u5dba\u516c\u8def\u8f49\u8eca\u7ad9 (TP102)"
             }
         },
         "D2C1DACCC74B69C5": {
@@ -566759,8 +566777,8 @@
                 "lng": 114.15271
             },
             "name": {
-                "en": "FANLING HIGHWAY BBI (A3) (TP101)",
-                "zh": "\u7c89\u5dba\u516c\u8def\u8f49\u8eca\u7ad9(A3) (TP101)"
+                "en": "FANLING HIGHWAY BBI (TP101)",
+                "zh": "\u7c89\u5dba\u516c\u8def\u8f49\u8eca\u7ad9 (TP101)"
             }
         },
         "E611BF0137D10098": {
@@ -622075,6 +622093,10 @@
         ],
         "13211112A23954EC": [
             [
+                "gmb",
+                "20022867"
+            ],
+            [
                 "kmb",
                 "EA74F13EEC20AD91"
             ]
@@ -639875,6 +639897,10 @@
             [
                 "gmb",
                 "20017686"
+            ],
+            [
+                "gmb",
+                "20017688"
             ],
             [
                 "kmb",
@@ -670007,10 +670033,6 @@
                 "20017686"
             ],
             [
-                "gmb",
-                "20017688"
-            ],
-            [
                 "kmb",
                 "FD27DF93530C7540"
             ]
@@ -670022,6 +670044,10 @@
             ],
             [
                 "gmb",
+                "20002366"
+            ],
+            [
+                "gmb",
                 "20016894"
             ],
             [
@@ -670029,16 +670055,12 @@
                 "20017686"
             ],
             [
-                "gmb",
-                "20017687"
+                "kmb",
+                "4EBE182141C52094"
             ],
             [
                 "kmb",
-                "EFB2FCFCD7E9950A"
-            ],
-            [
-                "kmb",
-                "FD27DF93530C7540"
+                "E909A45B1FB3213B"
             ]
         ],
         "20017719": [
@@ -674623,6 +674645,16 @@
             [
                 "kmb",
                 "BED3E96AAC2B3B3D"
+            ]
+        ],
+        "20022867": [
+            [
+                "kmb",
+                "13211112A23954EC"
+            ],
+            [
+                "kmb",
+                "EA74F13EEC20AD91"
             ]
         ],
         "201": [
@@ -695559,6 +695591,10 @@
             [
                 "gmb",
                 "20017686"
+            ],
+            [
+                "gmb",
+                "20017688"
             ],
             [
                 "kmb",
@@ -760849,6 +760885,10 @@
                 "20017686"
             ],
             [
+                "gmb",
+                "20017688"
+            ],
+            [
                 "kmb",
                 "4EBE182141C52094"
             ]
@@ -761249,6 +761289,10 @@
             [
                 "kmb",
                 "13211112A23954EC"
+            ],
+            [
+                "gmb",
+                "20022867"
             ]
         ],
         "EA7E50D4ADE95CC2": [
@@ -763651,10 +763695,6 @@
             [
                 "kmb",
                 "1E81121E54BA1E71"
-            ],
-            [
-                "gmb",
-                "20017688"
             ],
             [
                 "kmb",
@@ -769895,10 +769935,6 @@
             [
                 "gmb",
                 "20017687"
-            ],
-            [
-                "gmb",
-                "20017688"
             ],
             [
                 "kmb",
