@@ -109786,6 +109786,8 @@
                 "10.6",
                 "10.6",
                 "10.6",
+                "10.6",
+                "10.6",
                 "10.6"
             ],
             "faresHoliday": null,
@@ -109806,7 +109808,7 @@
                 "zh": "\u78a7\u7464\u7063(\u4e0a)"
             },
             "route": "28",
-            "seq": 16,
+            "seq": 18,
             "serviceType": 2,
             "stops": {
                 "gmb": [
@@ -109823,6 +109825,8 @@
                     "20014533",
                     "20014534",
                     "20014535",
+                    "20020294",
+                    "20020295",
                     "20000310",
                     "20020296",
                     "20014536"
@@ -424777,6 +424781,66 @@
                 ]
             }
         },
+        "X797+1+Fire and Ambulance Services Academy+Tiu Keng Leng Station": {
+            "bound": {
+                "ctb": "I"
+            },
+            "co": [
+                "ctb"
+            ],
+            "dest": {
+                "en": "Tiu Keng Leng Station",
+                "zh": "\u8abf\u666f\u5dba\u7ad9"
+            },
+            "fares": null,
+            "faresHoliday": null,
+            "freq": null,
+            "gtfsId": null,
+            "jt": null,
+            "nlbId": null,
+            "orig": {
+                "en": "Fire and Ambulance Services Academy",
+                "zh": "\u6d88\u9632\u53ca\u6551\u8b77\u5b78\u9662"
+            },
+            "route": "X797",
+            "seq": 1,
+            "serviceType": 1,
+            "stops": {
+                "ctb": [
+                    "002917"
+                ]
+            }
+        },
+        "X797+1+Tiu Keng Leng Station+Fire and Ambulance Services Academy": {
+            "bound": {
+                "ctb": "O"
+            },
+            "co": [
+                "ctb"
+            ],
+            "dest": {
+                "en": "Fire and Ambulance Services Academy",
+                "zh": "\u6d88\u9632\u53ca\u6551\u8b77\u5b78\u9662"
+            },
+            "fares": null,
+            "faresHoliday": null,
+            "freq": null,
+            "gtfsId": null,
+            "jt": null,
+            "nlbId": null,
+            "orig": {
+                "en": "Tiu Keng Leng Station",
+                "zh": "\u8abf\u666f\u5dba\u7ad9"
+            },
+            "route": "X797",
+            "seq": 1,
+            "serviceType": 1,
+            "stops": {
+                "ctb": [
+                    "002917"
+                ]
+            }
+        },
         "X8+1+Happy Valley (Upper)+Siu Sai Wan (Island Resort)": {
             "bound": {
                 "ctb": "O"
@@ -495593,7 +495657,7 @@
             },
             "name": {
                 "en": "Kennedy Road, outside Hopewell Centre",
-                "zh": "\u5805\u5c3c\u5730\u9053, \u8fd1\u5408\u548c\u4e2d\u5fc3"
+                "zh": "\u5805\u5c3c\u5730\u9053, \u5408\u548c\u4e2d\u5fc3\u5916"
             }
         },
         "20014536": {
@@ -549582,8 +549646,8 @@
                 "lng": 114.0623
             },
             "name": {
-                "en": "KAM SHEUNG ROAD STATION CAR PARK (YL673)",
-                "zh": "\u9326\u4e0a\u8def\u7ad9\u505c\u8eca\u5834 (YL673)"
+                "en": "GRAND MAYFAIR (YL673)",
+                "zh": "\u67cf\u74cf (YL673)"
             }
         },
         "A51DD43F6382CCDE": {
@@ -552362,8 +552426,8 @@
                 "lng": 114.06225
             },
             "name": {
-                "en": "KAM SHEUNG ROAD STATION CAR PARK (YL708)",
-                "zh": "\u9326\u4e0a\u8def\u7ad9\u505c\u8eca\u5834 (YL708)"
+                "en": "GRAND MAYFAIR (YL708)",
+                "zh": "\u67cf\u74cf (YL708)"
             }
         },
         "AEE2BF6EF1B0E46E": {
@@ -559242,8 +559306,8 @@
                 "lng": 114.06225
             },
             "name": {
-                "en": "KAM SHEUNG ROAD STATION CAR PARK (YL707a)",
-                "zh": "\u9326\u4e0a\u8def\u7ad9\u505c\u8eca\u5834 (YL707a)"
+                "en": "GRAND MAYFAIR (YL707a)",
+                "zh": "\u67cf\u74cf (YL707a)"
             }
         },
         "C9E264A3F9D4CEB3": {
