@@ -424726,10 +424726,11 @@
                 "zh": "\u6d88\u9632\u53ca\u6551\u8b77\u5b78\u9662"
             },
             "route": "X797",
-            "seq": 1,
+            "seq": 2,
             "serviceType": 1,
             "stops": {
                 "ctb": [
+                    "003444",
                     "002917"
                 ]
             }
@@ -424756,11 +424757,12 @@
                 "zh": "\u8abf\u666f\u5dba\u7ad9"
             },
             "route": "X797",
-            "seq": 1,
+            "seq": 2,
             "serviceType": 1,
             "stops": {
                 "ctb": [
-                    "002917"
+                    "002917",
+                    "003444"
                 ]
             }
         },
@@ -425044,7 +425046,7 @@
                 ]
             }
         },
-        "X9+1+Shek O+Central (Star Ferry)": {
+        "X9+1+Shek O+Central Ferry - Star Ferry": {
             "bound": {
                 "ctb": "I"
             },
@@ -425052,8 +425054,8 @@
                 "ctb"
             ],
             "dest": {
-                "en": "Central (Star Ferry)",
-                "zh": "\u4e2d\u74b0 (\u5929\u661f\u78bc\u982d)"
+                "en": "Central Ferry - Star Ferry",
+                "zh": "\u4e2d\u74b0\u78bc\u982d - \u5929\u661f\u5c0f\u8f2a"
             },
             "fares": [
                 "22.8",
@@ -425090,7 +425092,7 @@
             },
             "route": "X9",
             "seq": 10,
-            "serviceType": 1,
+            "serviceType": "1",
             "stops": {
                 "ctb": [
                     "002939",
@@ -451741,6 +451743,16 @@
             "name": {
                 "en": "Ying Hei Road",
                 "zh": "\u8fce\u79a7\u8def"
+            }
+        },
+        "003444": {
+            "location": {
+                "lat": 22.30635,
+                "lng": 114.27463
+            },
+            "name": {
+                "en": "Fire and Ambulance Services Academy",
+                "zh": "\u6d88\u9632\u53ca\u6551\u8b77\u5b78\u9662"
             }
         },
         "003445": {
