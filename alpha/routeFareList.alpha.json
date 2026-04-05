@@ -425108,6 +425108,75 @@
                 ]
             }
         },
+        "X90+1+FIRE AND AMBULANCE SERVICES ACADEMY+HUNG NGOK HOUSE": {
+            "bound": {
+                "kmb": "O"
+            },
+            "co": [
+                "kmb"
+            ],
+            "dest": {
+                "en": "HUNG NGOK HOUSE",
+                "zh": "\u7d05\u843c\u6a13"
+            },
+            "fares": null,
+            "faresHoliday": null,
+            "freq": null,
+            "gtfsId": null,
+            "jt": null,
+            "nlbId": null,
+            "orig": {
+                "en": "FIRE AND AMBULANCE SERVICES ACADEMY",
+                "zh": "\u6d88\u9632\u53ca\u6551\u8b77\u5b78\u9662"
+            },
+            "route": "X90",
+            "seq": 5,
+            "serviceType": "1",
+            "stops": {
+                "kmb": [
+                    "CC2353289CD0EE66",
+                    "E0BAA3364D0CE860",
+                    "179C182ADEF1070D",
+                    "D45CEDE6A9DFA30B",
+                    "58584BC1AC41723C"
+                ]
+            }
+        },
+        "X90+1+WONG TAI SIN STATION+FIRE AND AMBULANCE SERVICES ACADEMY": {
+            "bound": {
+                "kmb": "I"
+            },
+            "co": [
+                "kmb"
+            ],
+            "dest": {
+                "en": "FIRE AND AMBULANCE SERVICES ACADEMY",
+                "zh": "\u6d88\u9632\u53ca\u6551\u8b77\u5b78\u9662"
+            },
+            "fares": null,
+            "faresHoliday": null,
+            "freq": null,
+            "gtfsId": null,
+            "jt": null,
+            "nlbId": null,
+            "orig": {
+                "en": "WONG TAI SIN STATION",
+                "zh": "\u9ec3\u5927\u4ed9\u7ad9"
+            },
+            "route": "X90",
+            "seq": 6,
+            "serviceType": "1",
+            "stops": {
+                "kmb": [
+                    "5536C9E3A0CE1228",
+                    "D0F8772D043C207E",
+                    "C057639478BE0168",
+                    "14CF94DF66FCD0C8",
+                    "97D1981DE7ECBCE7",
+                    "CC2353289CD0EE66"
+                ]
+            }
+        },
         "X962+1+Admiralty (West)+Tuen Mun (Lung Mun Oasis)": {
             "bound": {
                 "ctb": "O"
