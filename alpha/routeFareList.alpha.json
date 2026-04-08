@@ -218304,73 +218304,6 @@
                 ]
             }
         },
-        "61S+1+TUEN MUN CENTRAL+WO HOP SHEK": {
-            "bound": {
-                "kmb": "O"
-            },
-            "co": [
-                "kmb"
-            ],
-            "dest": {
-                "en": "WO HOP SHEK",
-                "zh": "\u548c\u5408\u77f3"
-            },
-            "fares": null,
-            "faresHoliday": null,
-            "freq": null,
-            "gtfsId": null,
-            "jt": null,
-            "nlbId": null,
-            "orig": {
-                "en": "TUEN MUN CENTRAL",
-                "zh": "\u5c6f\u9580\u5dff\u4e2d\u5fc3"
-            },
-            "route": "61S",
-            "seq": 5,
-            "serviceType": "1",
-            "stops": {
-                "kmb": [
-                    "8660BDF2C013FAC2",
-                    "EC49B6F5634BC0C2",
-                    "7AC6625D894BA101",
-                    "CBE54DB551C24A02",
-                    "AA5CBDB0758443A9"
-                ]
-            }
-        },
-        "61S+1+WO HOP SHEK+TUEN MUN CENTRAL": {
-            "bound": {
-                "kmb": "I"
-            },
-            "co": [
-                "kmb"
-            ],
-            "dest": {
-                "en": "TUEN MUN CENTRAL",
-                "zh": "\u5c6f\u9580\u5dff\u4e2d\u5fc3"
-            },
-            "fares": null,
-            "faresHoliday": null,
-            "freq": null,
-            "gtfsId": null,
-            "jt": null,
-            "nlbId": null,
-            "orig": {
-                "en": "WO HOP SHEK",
-                "zh": "\u548c\u5408\u77f3"
-            },
-            "route": "61S",
-            "seq": 4,
-            "serviceType": "1",
-            "stops": {
-                "kmb": [
-                    "AA5CBDB0758443A9",
-                    "6FB7BC1E5BC1E4EE",
-                    "5238463F47B490D6",
-                    "8660BDF2C013FAC2"
-                ]
-            }
-        },
         "61X+1+KOWLOON CITY FERRY+TUEN MUN CENTRAL": {
             "bound": {
                 "kmb": "I"
@@ -415184,7 +415117,7 @@
                 ]
             }
         },
-        "NA36+1+KAM SHEUNG ROAD STATION+Cathay City": {
+        "NA36+1+KAM SHEUNG ROAD STATION+Cathay Pacific City": {
             "bound": {
                 "kmb": "I"
             },
@@ -415192,7 +415125,7 @@
                 "kmb"
             ],
             "dest": {
-                "en": "Cathay City",
+                "en": "Cathay Pacific City",
                 "zh": "\u570b\u6cf0\u57ce"
             },
             "fares": [
@@ -425046,7 +424979,7 @@
                 ]
             }
         },
-        "X9+1+Shek O+Central Ferry - Star Ferry": {
+        "X9+1+Shek O+Central (Star Ferry)": {
             "bound": {
                 "ctb": "I"
             },
@@ -425054,8 +424987,8 @@
                 "ctb"
             ],
             "dest": {
-                "en": "Central Ferry - Star Ferry",
-                "zh": "\u4e2d\u74b0\u78bc\u982d - \u5929\u661f\u5c0f\u8f2a"
+                "en": "Central (Star Ferry)",
+                "zh": "\u4e2d\u74b0 (\u5929\u661f\u78bc\u982d)"
             },
             "fares": [
                 "22.8",
@@ -425092,7 +425025,7 @@
             },
             "route": "X9",
             "seq": 10,
-            "serviceType": "1",
+            "serviceType": 1,
             "stops": {
                 "ctb": [
                     "002939",
@@ -425103,7 +425036,7 @@
                     "001279",
                     "002568",
                     "001033",
-                    "001181",
+                    "001034",
                     "001171"
                 ]
             }
@@ -480900,8 +480833,8 @@
                 "lng": 114.16186
             },
             "name": {
-                "en": "Murray Road, outside Murray Road multi-story car park",
-                "zh": "\u7f8e\u5229\u9053, \u7f8e\u5229\u9053\u591a\u5c64\u505c\u8eca\u5834\u5927\u5ec8\u5916"
+                "en": "No. 2 Murray Road",
+                "zh": "\u7f8e\u5229\u90532\u865f"
             }
         },
         "20007409": {
@@ -551430,7 +551363,7 @@
                 "lng": 113.93336
             },
             "name": {
-                "en": "CATHAY CITY (CL221)",
+                "en": "CATHAY PACIFIC CITY (CL221)",
                 "zh": "\u570b\u6cf0\u57ce (CL221)"
             }
         },
@@ -606932,14 +606865,6 @@
             [
                 "lrtfeeder",
                 "K58-U160"
-            ],
-            [
-                "kmb",
-                "8660BDF2C013FAC2"
-            ],
-            [
-                "kmb",
-                "10DABE0380229B4D"
             ]
         ],
         "003221": [
@@ -720042,16 +719967,8 @@
                 "F490C6051AA2E1F3"
             ],
             [
-                "lrtfeeder",
-                "K54-U070"
-            ],
-            [
                 "gmb",
                 "20001314"
-            ],
-            [
-                "ctb",
-                "003219"
             ],
             [
                 "gmb",
@@ -720060,30 +719977,6 @@
             [
                 "lightRail",
                 "LR280"
-            ],
-            [
-                "kmb",
-                "4521D614AE85C1A5"
-            ],
-            [
-                "kmb",
-                "818F12340BA8CA4B"
-            ],
-            [
-                "lrtfeeder",
-                "K51-D200"
-            ],
-            [
-                "lrtfeeder",
-                "K51A-D180"
-            ],
-            [
-                "ctb",
-                "003198"
-            ],
-            [
-                "gmb",
-                "20001319"
             ]
         ],
         "8667AD096EEED0A8": [
@@ -777698,10 +777591,6 @@
             [
                 "ctb",
                 "003219"
-            ],
-            [
-                "kmb",
-                "8660BDF2C013FAC2"
             ]
         ],
         "K54A-D010": [
