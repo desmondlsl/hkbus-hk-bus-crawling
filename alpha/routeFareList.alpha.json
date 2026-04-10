@@ -220368,6 +220368,41 @@
                 ]
             }
         },
+        "63+1+LONG TIN COURT+TUEN MUN ROAD BBI (TUEN MUN BOUND)": {
+            "bound": {
+                "kmb": "O"
+            },
+            "co": [
+                "kmb"
+            ],
+            "dest": {
+                "en": "TUEN MUN ROAD BBI (TUEN MUN BOUND)",
+                "zh": "\u5c6f\u9580\u516c\u8def\u8f49\u8eca\u7ad9 (\u5c6f\u9580\u65b9\u5411)"
+            },
+            "fares": null,
+            "faresHoliday": null,
+            "freq": null,
+            "gtfsId": null,
+            "jt": null,
+            "nlbId": null,
+            "orig": {
+                "en": "LONG TIN COURT",
+                "zh": "\u6717\u5929\u82d1"
+            },
+            "route": "63",
+            "seq": 6,
+            "serviceType": "1",
+            "stops": {
+                "kmb": [
+                    "BF81DC97F81D5AAD",
+                    "8121695666A4D9CE",
+                    "8081C7B2F395A6D0",
+                    "212BFF5737D0116C",
+                    "E3E5521CAFDD5DCE",
+                    "BF8EAED2AF086669"
+                ]
+            }
+        },
         "63+1+Lam Tin (Kwong Tin Estate)+Yue Man Square Public Transport Interchange (Circular)": {
             "bound": {
                 "gmb": "O"
@@ -221043,6 +221078,129 @@
                     "001262",
                     "001310",
                     "001249"
+                ]
+            }
+        },
+        "63+1+TUEN MUN ROAD BBI (TUEN MUN BOUND)+LONG TIN COURT": {
+            "bound": {
+                "kmb": "I"
+            },
+            "co": [
+                "kmb"
+            ],
+            "dest": {
+                "en": "LONG TIN COURT",
+                "zh": "\u6717\u5929\u82d1"
+            },
+            "fares": null,
+            "faresHoliday": null,
+            "freq": null,
+            "gtfsId": null,
+            "jt": null,
+            "nlbId": null,
+            "orig": {
+                "en": "TUEN MUN ROAD BBI (TUEN MUN BOUND)",
+                "zh": "\u5c6f\u9580\u516c\u8def\u8f49\u8eca\u7ad9 (\u5c6f\u9580\u65b9\u5411)"
+            },
+            "route": "63",
+            "seq": 5,
+            "serviceType": "1",
+            "stops": {
+                "kmb": [
+                    "BF8EAED2AF086669",
+                    "3CCF4F6EA48CF505",
+                    "7AECAF57AF679EE7",
+                    "F26CC0CB9587F2F9",
+                    "BF81DC97F81D5AAD"
+                ]
+            }
+        },
+        "63+2+LONG TIN COURT+TUEN MUN ROAD BBI (TUEN MUN BOUND)": {
+            "bound": {
+                "kmb": "O"
+            },
+            "co": [
+                "kmb"
+            ],
+            "dest": {
+                "en": "TUEN MUN ROAD BBI (TUEN MUN BOUND)",
+                "zh": "\u5c6f\u9580\u516c\u8def\u8f49\u8eca\u7ad9 (\u5c6f\u9580\u65b9\u5411)"
+            },
+            "fares": null,
+            "faresHoliday": null,
+            "freq": null,
+            "gtfsId": null,
+            "jt": null,
+            "nlbId": null,
+            "orig": {
+                "en": "LONG TIN COURT",
+                "zh": "\u6717\u5929\u82d1"
+            },
+            "route": "63",
+            "seq": 17,
+            "serviceType": "2",
+            "stops": {
+                "kmb": [
+                    "BF81DC97F81D5AAD",
+                    "A1A1B10F5CE291AC",
+                    "44DD070290F93074",
+                    "3F312934CDF4C38D",
+                    "E9F5F6ED88ED3616",
+                    "5BD4FF66AE704CF5",
+                    "A4A70D25E7E80482",
+                    "CB136E1C378BC183",
+                    "60A4F4A41CD61FAC",
+                    "8F6C8CEB9F17D97D",
+                    "B09E18636F184247",
+                    "2FA997A1BE419A52",
+                    "8121695666A4D9CE",
+                    "8081C7B2F395A6D0",
+                    "212BFF5737D0116C",
+                    "E3E5521CAFDD5DCE",
+                    "BF8EAED2AF086669"
+                ]
+            }
+        },
+        "63+2+TUEN MUN ROAD BBI (TUEN MUN BOUND)+LONG TIN COURT": {
+            "bound": {
+                "kmb": "I"
+            },
+            "co": [
+                "kmb"
+            ],
+            "dest": {
+                "en": "LONG TIN COURT",
+                "zh": "\u6717\u5929\u82d1"
+            },
+            "fares": null,
+            "faresHoliday": null,
+            "freq": null,
+            "gtfsId": null,
+            "jt": null,
+            "nlbId": null,
+            "orig": {
+                "en": "TUEN MUN ROAD BBI (TUEN MUN BOUND)",
+                "zh": "\u5c6f\u9580\u516c\u8def\u8f49\u8eca\u7ad9 (\u5c6f\u9580\u65b9\u5411)"
+            },
+            "route": "63",
+            "seq": 14,
+            "serviceType": "2",
+            "stops": {
+                "kmb": [
+                    "BF8EAED2AF086669",
+                    "3CCF4F6EA48CF505",
+                    "7AECAF57AF679EE7",
+                    "F26CC0CB9587F2F9",
+                    "5F616585205DDDF9",
+                    "147D513A708AA741",
+                    "B88640E0CA83F12C",
+                    "3F312934CDF4C38D",
+                    "E9F5F6ED88ED3616",
+                    "5BD4FF66AE704CF5",
+                    "A4A70D25E7E80482",
+                    "CB136E1C378BC183",
+                    "A8482B15AD6E89A3",
+                    "BF81DC97F81D5AAD"
                 ]
             }
         },
@@ -262718,7 +262876,6 @@
                 "9.6",
                 "9.6",
                 "9.6",
-                "6",
                 "6"
             ],
             "faresHoliday": null,
@@ -262810,7 +262967,7 @@
                 "zh": "\u6717\u5c4f\u90a8"
             },
             "route": "76K",
-            "seq": 38,
+            "seq": 37,
             "serviceType": "1",
             "stops": {
                 "kmb": [
@@ -262850,8 +263007,7 @@
                     "8717C0140C940AE3",
                     "093289C2E4F6F408",
                     "3FAC6C2592812331",
-                    "396DD38F2E41E117",
-                    "B32FA6CD250F0F6B"
+                    "396DD38F2E41E117"
                 ]
             }
         },
@@ -262887,7 +263043,6 @@
                 "8.4",
                 "8.4",
                 "8.4",
-                "6",
                 "6",
                 "6",
                 "6",
@@ -262985,7 +263140,7 @@
                 "zh": "\u4e0a\u6c34(\u6e05\u6cb3)"
             },
             "route": "76K",
-            "seq": 43,
+            "seq": 42,
             "serviceType": "1",
             "stops": {
                 "kmb": [
@@ -263030,8 +263185,7 @@
                     "D8F0A3AD8E765CE0",
                     "6723518D536070AB",
                     "0CF8C59B80E70369",
-                    "76DD0B50D30CF140",
-                    "72B24F5DD57E3AE3"
+                    "76DD0B50D30CF140"
                 ]
             }
         },
@@ -263094,7 +263248,6 @@
                 "6",
                 "6",
                 "6",
-                "6",
                 "6"
             ],
             "faresHoliday": null,
@@ -263112,7 +263265,7 @@
                 "zh": "\u7c89\u5dba(\u83ef\u660e)"
             },
             "route": "76K",
-            "seq": 50,
+            "seq": 49,
             "serviceType": "2",
             "stops": {
                 "kmb": [
@@ -263164,8 +263317,7 @@
                     "D8F0A3AD8E765CE0",
                     "6723518D536070AB",
                     "0CF8C59B80E70369",
-                    "76DD0B50D30CF140",
-                    "72B24F5DD57E3AE3"
+                    "76DD0B50D30CF140"
                 ]
             }
         },
@@ -356032,57 +356184,6 @@
                 ]
             }
         },
-        "A41+5+AIRPORT (GROUND TRANSPORTATION CENTRE)+SHEK MUN ESTATE": {
-            "bound": {
-                "kmb": "I"
-            },
-            "co": [
-                "kmb"
-            ],
-            "dest": {
-                "en": "SHEK MUN ESTATE",
-                "zh": "\u78a9\u9580\u90a8"
-            },
-            "fares": null,
-            "faresHoliday": null,
-            "freq": null,
-            "gtfsId": null,
-            "jt": null,
-            "nlbId": null,
-            "orig": {
-                "en": "AIRPORT (GROUND TRANSPORTATION CENTRE)",
-                "zh": "\u6a5f\u5834(\u5730\u9762\u904b\u8f38\u4e2d\u5fc3)"
-            },
-            "route": "A41",
-            "seq": 22,
-            "serviceType": "5",
-            "stops": {
-                "kmb": [
-                    "AFCA97F6E77FA669",
-                    "9C9F817064169CE7",
-                    "B0851FD6C20D738D",
-                    "0879D399E5B5FE0C",
-                    "897B26110ECE76B3",
-                    "AB52CEC256B299BE",
-                    "156FFE36D7D42EFE",
-                    "65F5585B72A99D7F",
-                    "94BA372E9FDC87C4",
-                    "A6631CAD2E2DE2A6",
-                    "84FC122EC64D8885",
-                    "04EA3349BDD260C8",
-                    "225D34B4D891AFB1",
-                    "5F80607D7F73A18B",
-                    "179D40F1BB78ACDC",
-                    "467BDDF7A510D52D",
-                    "1319087BC40F4003",
-                    "A76720B899F88D03",
-                    "73F1F8AA0F9077D2",
-                    "CB0585244877B9B9",
-                    "02CF8D1FE31E9A09",
-                    "24F7097D1D913EC5"
-                ]
-            }
-        },
         "A41+5+SHEK MUN ESTATE+AIRPORT (GROUND TRANSPORTATION CENTRE)": {
             "bound": {
                 "kmb": "O"
@@ -356132,58 +356233,6 @@
                     "9C9F817064169CE7",
                     "0D5759F7A4B185FE",
                     "21466046C6868AA7"
-                ]
-            }
-        },
-        "A41+6+AIRPORT (GROUND TRANSPORTATION CENTRE)+SHEK MUN ESTATE": {
-            "bound": {
-                "kmb": "I"
-            },
-            "co": [
-                "kmb"
-            ],
-            "dest": {
-                "en": "SHEK MUN ESTATE",
-                "zh": "\u78a9\u9580\u90a8"
-            },
-            "fares": null,
-            "faresHoliday": null,
-            "freq": null,
-            "gtfsId": null,
-            "jt": null,
-            "nlbId": null,
-            "orig": {
-                "en": "AIRPORT (GROUND TRANSPORTATION CENTRE)",
-                "zh": "\u6a5f\u5834(\u5730\u9762\u904b\u8f38\u4e2d\u5fc3)"
-            },
-            "route": "A41",
-            "seq": 23,
-            "serviceType": "6",
-            "stops": {
-                "kmb": [
-                    "AFCA97F6E77FA669",
-                    "9C9F817064169CE7",
-                    "D3B54388E91DAB57",
-                    "B0851FD6C20D738D",
-                    "0879D399E5B5FE0C",
-                    "897B26110ECE76B3",
-                    "AB52CEC256B299BE",
-                    "156FFE36D7D42EFE",
-                    "65F5585B72A99D7F",
-                    "94BA372E9FDC87C4",
-                    "A6631CAD2E2DE2A6",
-                    "84FC122EC64D8885",
-                    "04EA3349BDD260C8",
-                    "225D34B4D891AFB1",
-                    "5F80607D7F73A18B",
-                    "179D40F1BB78ACDC",
-                    "467BDDF7A510D52D",
-                    "1319087BC40F4003",
-                    "A76720B899F88D03",
-                    "73F1F8AA0F9077D2",
-                    "CB0585244877B9B9",
-                    "02CF8D1FE31E9A09",
-                    "24F7097D1D913EC5"
                 ]
             }
         },
@@ -522182,6 +522231,16 @@
                 "zh": "\u5143\u5d17\u6751 (YL690)"
             }
         },
+        "3F312934CDF4C38D": {
+            "location": {
+                "lat": 22.43617,
+                "lng": 114.01201
+            },
+            "name": {
+                "en": "THE ELDORADO (YL303)",
+                "zh": "\u91d1\u78a7\u82b1\u5712 (YL303)"
+            }
+        },
         "3F34A16B40CB1C7F": {
             "location": {
                 "lat": 22.31884,
@@ -523800,6 +523859,16 @@
             "name": {
                 "en": "SHEUNG CHUI COURT (TW257)",
                 "zh": "\u5c1a\u7fe0\u82d1 (TW257)"
+            }
+        },
+        "44DD070290F93074": {
+            "location": {
+                "lat": 22.441,
+                "lng": 114.01112
+            },
+            "name": {
+                "en": "PING HONG LANE (YL190)",
+                "zh": "\u5c4f\u5eb7\u91cc (YL190)"
             }
         },
         "44DE41D495197976": {
@@ -530200,6 +530269,16 @@
             "name": {
                 "en": "ST. PAUL'S HOSPITAL",
                 "zh": "\u8056\u4fdd\u797f\u91ab\u9662"
+            }
+        },
+        "5BD4FF66AE704CF5": {
+            "location": {
+                "lat": 22.43264,
+                "lng": 114.01069
+            },
+            "name": {
+                "en": "THE BYRN (YL307)",
+                "zh": "\u743c\u9716 (YL307)"
             }
         },
         "5BD8484E82721AF9": {
@@ -549292,6 +549371,16 @@
                 "zh": "\u5587\u6c99\u66f8\u9662 (KC432)"
             }
         },
+        "A4A70D25E7E80482": {
+            "location": {
+                "lat": 22.4341,
+                "lng": 114.00814
+            },
+            "name": {
+                "en": "PARK HILLCREST (YL308)",
+                "zh": "\u67cf\u9038 (YL308)"
+            }
+        },
         "A4AA1D2CA4E92950": {
             "location": {
                 "lat": 22.50432,
@@ -556342,6 +556431,16 @@
                 "zh": "\u5c0f\u79c0\u6751 (TM318)"
             }
         },
+        "BF81DC97F81D5AAD": {
+            "location": {
+                "lat": 22.44291,
+                "lng": 114.01624
+            },
+            "name": {
+                "en": "LONG TIN COURT (YL844)",
+                "zh": "\u6717\u5929\u82d1 (YL844)"
+            }
+        },
         "BF85B8D218CD0FF6": {
             "location": {
                 "lat": 22.44468,
@@ -556370,6 +556469,16 @@
             "name": {
                 "en": "HOW MING STREET, KWUN TONG (KT202)",
                 "zh": "\u89c0\u5858\u5de7\u660e\u8857 (KT202)"
+            }
+        },
+        "BF8EAED2AF086669": {
+            "location": {
+                "lat": 22.35849,
+                "lng": 114.01911
+            },
+            "name": {
+                "en": "TUEN MUN ROAD BBI (C1) (TM112a)",
+                "zh": "\u5c6f\u9580\u516c\u8def\u8f49\u8eca\u7ad9 (C1) (TM112a)"
             }
         },
         "BF9CD8F3D1FB7066": {
@@ -559370,6 +559479,16 @@
             "name": {
                 "en": "ELIZABETH HOUSE (WC720)",
                 "zh": "\u4f0a\u5229\u838e\u4f2f\u5927\u5ec8 (WC720)"
+            }
+        },
+        "CB136E1C378BC183": {
+            "location": {
+                "lat": 22.43635,
+                "lng": 114.00993
+            },
+            "name": {
+                "en": "TONG YAN SAN TSUEN GARDEN (YL309)",
+                "zh": "\u5510\u4eba\u65b0\u6751\u82b1\u5712 (YL309)"
             }
         },
         "CB1F6E0BE13D469D": {
@@ -567370,6 +567489,16 @@
             "name": {
                 "en": "PEI HO STREET SHAM SHUI PO (SS206)",
                 "zh": "\u6df1\u6c34\u57d7\u5317\u6cb3\u8857 (SS206)"
+            }
+        },
+        "E9F5F6ED88ED3616": {
+            "location": {
+                "lat": 22.43327,
+                "lng": 114.01166
+            },
+            "name": {
+                "en": "WINDSOR VILLA (YL304)",
+                "zh": "\u91d1\u6c99\u82b1\u5712 (YL304)"
             }
         },
         "E9F673D418FA9E71": {
@@ -601008,12 +601137,6 @@
                 "K58-U170"
             ]
         ],
-        "002603": [
-            [
-                "kmb",
-                "E3E5521CAFDD5DCE"
-            ]
-        ],
         "002604": [
             [
                 "kmb",
@@ -608004,6 +608127,10 @@
             [
                 "kmb",
                 "F80DF64ABE690251"
+            ],
+            [
+                "kmb",
+                "BF8EAED2AF086669"
             ]
         ],
         "003365": [
@@ -614522,6 +614649,10 @@
             [
                 "kmb",
                 "47FF0EDCD6926932"
+            ],
+            [
+                "kmb",
+                "BF8EAED2AF086669"
             ],
             [
                 "kmb",
@@ -669866,6 +669997,18 @@
                 "20018562"
             ]
         ],
+        "20018480": [
+            [
+                "kmb",
+                "3F312934CDF4C38D"
+            ]
+        ],
+        "20018483": [
+            [
+                "kmb",
+                "5BD4FF66AE704CF5"
+            ]
+        ],
         "20018492": [
             [
                 "kmb",
@@ -679299,6 +679442,10 @@
             ],
             [
                 "kmb",
+                "BF8EAED2AF086669"
+            ],
+            [
+                "kmb",
                 "D0937674DF369B23"
             ],
             [
@@ -688280,6 +688427,12 @@
             [
                 "kmb",
                 "A67A34E89E860BB8"
+            ]
+        ],
+        "3F312934CDF4C38D": [
+            [
+                "gmb",
+                "20018480"
             ]
         ],
         "3F34A16B40CB1C7F": [
@@ -701616,6 +701769,12 @@
                 "20014729"
             ]
         ],
+        "5BD4FF66AE704CF5": [
+            [
+                "gmb",
+                "20018483"
+            ]
+        ],
         "5BD8484E82721AF9": [
             [
                 "ctb",
@@ -711046,6 +711205,10 @@
             [
                 "ctb",
                 "003364"
+            ],
+            [
+                "kmb",
+                "BF8EAED2AF086669"
             ],
             [
                 "kmb",
@@ -743138,6 +743301,36 @@
                 "003594"
             ]
         ],
+        "BF8EAED2AF086669": [
+            [
+                "kmb",
+                "2B3A6C000BB085CD"
+            ],
+            [
+                "kmb",
+                "70E8546DD7753FEF"
+            ],
+            [
+                "kmb",
+                "DFE346B2C7332BC0"
+            ],
+            [
+                "kmb",
+                "F80DF64ABE690251"
+            ],
+            [
+                "ctb",
+                "003364"
+            ],
+            [
+                "kmb",
+                "C1590716F6FABC50"
+            ],
+            [
+                "kmb",
+                "0269A1F9D98C737E"
+            ]
+        ],
         "BF9DD31FEADA2A05": [
             [
                 "ctb",
@@ -743840,6 +744033,10 @@
             [
                 "kmb",
                 "F80DF64ABE690251"
+            ],
+            [
+                "kmb",
+                "BF8EAED2AF086669"
             ]
         ],
         "C160C8F46BBBEF99": [
@@ -756723,6 +756920,10 @@
             ],
             [
                 "kmb",
+                "BF8EAED2AF086669"
+            ],
+            [
+                "kmb",
                 "D0937674DF369B23"
             ],
             [
@@ -758342,12 +758543,6 @@
             [
                 "kmb",
                 "E0A5FA73176D78A8"
-            ]
-        ],
-        "E3E5521CAFDD5DCE": [
-            [
-                "ctb",
-                "002603"
             ]
         ],
         "E3EEF07674DE3B98": [
@@ -767156,6 +767351,10 @@
             [
                 "kmb",
                 "70E8546DD7753FEF"
+            ],
+            [
+                "kmb",
+                "BF8EAED2AF086669"
             ],
             [
                 "kmb",
