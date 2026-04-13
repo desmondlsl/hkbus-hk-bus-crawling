@@ -186377,70 +186377,6 @@
                 ]
             }
         },
-        "52S+1+TSANG TSUI+TUEN MUN ROAD BBI": {
-            "bound": {
-                "kmb": "I"
-            },
-            "co": [
-                "kmb"
-            ],
-            "dest": {
-                "en": "TUEN MUN ROAD BBI",
-                "zh": "\u5c6f\u9580\u516c\u8def\u8f49\u8eca\u7ad9"
-            },
-            "fares": null,
-            "faresHoliday": null,
-            "freq": null,
-            "gtfsId": null,
-            "jt": null,
-            "nlbId": null,
-            "orig": {
-                "en": "TSANG TSUI",
-                "zh": "\u66fe\u5480"
-            },
-            "route": "52S",
-            "seq": 3,
-            "serviceType": "1",
-            "stops": {
-                "kmb": [
-                    "D6001B758148778A",
-                    "76441824D4E31948",
-                    "212BFF5737D0116C"
-                ]
-            }
-        },
-        "52S+1+TUEN MUN ROAD BBI+TSANG TSUI": {
-            "bound": {
-                "kmb": "O"
-            },
-            "co": [
-                "kmb"
-            ],
-            "dest": {
-                "en": "TSANG TSUI",
-                "zh": "\u66fe\u5480"
-            },
-            "fares": null,
-            "faresHoliday": null,
-            "freq": null,
-            "gtfsId": null,
-            "jt": null,
-            "nlbId": null,
-            "orig": {
-                "en": "TUEN MUN ROAD BBI",
-                "zh": "\u5c6f\u9580\u516c\u8def\u8f49\u8eca\u7ad9"
-            },
-            "route": "52S",
-            "seq": 3,
-            "serviceType": "1",
-            "stops": {
-                "kmb": [
-                    "D0937674DF369B23",
-                    "09A5D5C90F15C08C",
-                    "D6001B758148778A"
-                ]
-            }
-        },
         "52X+1+MONG KOK (PARK AVENUE)+TUEN MUN CENTRAL": {
             "bound": {
                 "kmb": "I"
@@ -191713,72 +191649,6 @@
                     "20007809",
                     "20001456",
                     "20007811"
-                ]
-            }
-        },
-        "56S+1+TSANG TSUI+TUEN MUN STATION": {
-            "bound": {
-                "kmb": "I"
-            },
-            "co": [
-                "kmb"
-            ],
-            "dest": {
-                "en": "TUEN MUN STATION",
-                "zh": "\u5c6f\u9580\u7ad9"
-            },
-            "fares": null,
-            "faresHoliday": null,
-            "freq": null,
-            "gtfsId": null,
-            "jt": null,
-            "nlbId": null,
-            "orig": {
-                "en": "TSANG TSUI",
-                "zh": "\u66fe\u5480"
-            },
-            "route": "56S",
-            "seq": 4,
-            "serviceType": "1",
-            "stops": {
-                "kmb": [
-                    "F64076F7E14E38D4",
-                    "76441824D4E31948",
-                    "5D14B75687F60509",
-                    "584E6744385F6463"
-                ]
-            }
-        },
-        "56S+1+TUEN MUN STATION+TSANG TSUI": {
-            "bound": {
-                "kmb": "O"
-            },
-            "co": [
-                "kmb"
-            ],
-            "dest": {
-                "en": "TSANG TSUI",
-                "zh": "\u66fe\u5480"
-            },
-            "fares": null,
-            "faresHoliday": null,
-            "freq": null,
-            "gtfsId": null,
-            "jt": null,
-            "nlbId": null,
-            "orig": {
-                "en": "TUEN MUN STATION",
-                "zh": "\u5c6f\u9580\u7ad9"
-            },
-            "route": "56S",
-            "seq": 4,
-            "serviceType": "1",
-            "stops": {
-                "kmb": [
-                    "584E6744385F6463",
-                    "C1BF4509359B0895",
-                    "09A5D5C90F15C08C",
-                    "F64076F7E14E38D4"
                 ]
             }
         },
@@ -457881,16 +457751,6 @@
                 "zh": "\u8354\u679d\u89d2\u7ad9 (SS467)"
             }
         },
-        "09A5D5C90F15C08C": {
-            "location": {
-                "lat": 22.38905,
-                "lng": 113.92031
-            },
-            "name": {
-                "en": "LUNG KWU TAN",
-                "zh": "\u9f8d\u9f13\u7058"
-            }
-        },
         "09AC1B6D147CA643": {
             "location": {
                 "lat": 22.36268,
@@ -537591,16 +537451,6 @@
                 "zh": "\u5bcc\u5b89\u82b1\u5712 (MA390)"
             }
         },
-        "76441824D4E31948": {
-            "location": {
-                "lat": 22.38905,
-                "lng": 113.92031
-            },
-            "name": {
-                "en": "LUNG KWU TAN",
-                "zh": "\u9f8d\u9f13\u7058"
-            }
-        },
         "76457B949CBCDE7B": {
             "location": {
                 "lat": 22.3701,
@@ -556453,8 +556303,8 @@
         },
         "BF81DC97F81D5AAD": {
             "location": {
-                "lat": 22.44291,
-                "lng": 114.01624
+                "lat": 22.44143,
+                "lng": 114.01571
             },
             "name": {
                 "en": "LONG TIN COURT (YL844)",
@@ -560841,16 +560691,6 @@
                 "zh": "\u5929\u6a02\u91cc (WC665)"
             }
         },
-        "D0937674DF369B23": {
-            "location": {
-                "lat": 22.35849,
-                "lng": 114.01911
-            },
-            "name": {
-                "en": "TUEN MUN ROAD BBI (C1) (TM113)",
-                "zh": "\u5c6f\u9580\u516c\u8def\u8f49\u8eca\u7ad9 (C1) (TM113)"
-            }
-        },
         "D09590C6061D9FE7": {
             "location": {
                 "lat": 22.39655,
@@ -562429,16 +562269,6 @@
             "name": {
                 "en": "STATUE SQUARE (CW145)",
                 "zh": "\u7687\u540e\u50cf\u5ee3\u5834 (CW145)"
-            }
-        },
-        "D6001B758148778A": {
-            "location": {
-                "lat": 22.41939,
-                "lng": 113.92137
-            },
-            "name": {
-                "en": "TSANG TSUI (TM876)",
-                "zh": "\u66fe\u5480 (TM876)"
             }
         },
         "D617FE3785FAC79A": {
@@ -567518,7 +567348,7 @@
             },
             "name": {
                 "en": "WINDSOR VILLA (YL304)",
-                "zh": "\u91d1\u6c99\u82b1\u5712 (YL304)"
+                "zh": "\u91d1\u838e\u82b1\u5712 (YL304)"
             }
         },
         "E9F673D418FA9E71": {
@@ -570999,16 +570829,6 @@
             "name": {
                 "en": "SYMPHONY BAY, CHEUNG MUK TAU (SK221)",
                 "zh": "\u6a1f\u6728\u982d\u5e1d\u7434\u7063 (SK221)"
-            }
-        },
-        "F64076F7E14E38D4": {
-            "location": {
-                "lat": 22.41939,
-                "lng": 113.92137
-            },
-            "name": {
-                "en": "TSANG TSUI (TM875)",
-                "zh": "\u66fe\u5480 (TM875)"
             }
         },
         "F646F96A5D18D121": {
@@ -614676,10 +614496,6 @@
             ],
             [
                 "kmb",
-                "D0937674DF369B23"
-            ],
-            [
-                "kmb",
                 "F80DF64ABE690251"
             ],
             [
@@ -617481,16 +617297,6 @@
             [
                 "kmb",
                 "8BCB786E1F1A2457"
-            ]
-        ],
-        "09A5D5C90F15C08C": [
-            [
-                "lrtfeeder",
-                "K52-nU300"
-            ],
-            [
-                "lrtfeeder",
-                "K52A-U170"
             ]
         ],
         "09AC1B6D147CA643": [
@@ -679484,10 +679290,6 @@
             ],
             [
                 "kmb",
-                "D0937674DF369B23"
-            ],
-            [
-                "kmb",
                 "DFE346B2C7332BC0"
             ],
             [
@@ -692591,10 +692393,6 @@
             [
                 "kmb",
                 "A8B22902BD665766"
-            ],
-            [
-                "kmb",
-                "D0937674DF369B23"
             ],
             [
                 "kmb",
@@ -720140,10 +719938,6 @@
             ],
             [
                 "kmb",
-                "D0937674DF369B23"
-            ],
-            [
-                "kmb",
                 "DFE346B2C7332BC0"
             ],
             [
@@ -720691,10 +720485,6 @@
             [
                 "kmb",
                 "A8B22902BD665766"
-            ],
-            [
-                "kmb",
-                "D0937674DF369B23"
             ],
             [
                 "kmb",
@@ -734125,10 +733915,6 @@
             [
                 "kmb",
                 "88229183EDC0B6E9"
-            ],
-            [
-                "kmb",
-                "D0937674DF369B23"
             ],
             [
                 "kmb",
@@ -750629,40 +750415,6 @@
                 "002441"
             ]
         ],
-        "D0937674DF369B23": [
-            [
-                "kmb",
-                "2B3A6C000BB085CD"
-            ],
-            [
-                "kmb",
-                "47FF0EDCD6926932"
-            ],
-            [
-                "kmb",
-                "A8B22902BD665766"
-            ],
-            [
-                "kmb",
-                "DFE346B2C7332BC0"
-            ],
-            [
-                "kmb",
-                "872110C8ADA14DA1"
-            ],
-            [
-                "kmb",
-                "88229183EDC0B6E9"
-            ],
-            [
-                "kmb",
-                "0269A1F9D98C737E"
-            ],
-            [
-                "kmb",
-                "DB516EC0B8DAF046"
-            ]
-        ],
         "D09590C6061D9FE7": [
             [
                 "kmb",
@@ -752841,12 +752593,6 @@
             [
                 "kmb",
                 "A9069A17B1474D76"
-            ]
-        ],
-        "D6001B758148778A": [
-            [
-                "kmb",
-                "F64076F7E14E38D4"
             ]
         ],
         "D617FE3785FAC79A": [
@@ -755412,10 +755158,6 @@
             ],
             [
                 "kmb",
-                "D0937674DF369B23"
-            ],
-            [
-                "kmb",
                 "2B3A6C000BB085CD"
             ],
             [
@@ -756967,10 +756709,6 @@
             [
                 "kmb",
                 "BF8EAED2AF086669"
-            ],
-            [
-                "kmb",
-                "D0937674DF369B23"
             ],
             [
                 "kmb",
@@ -766409,12 +766147,6 @@
                 "A39754C80FFB1590"
             ]
         ],
-        "F64076F7E14E38D4": [
-            [
-                "kmb",
-                "D6001B758148778A"
-            ]
-        ],
         "F6512E7C4A6D5C2E": [
             [
                 "ctb",
@@ -775155,10 +774887,6 @@
         ],
         "K52-nU300": [
             [
-                "kmb",
-                "09A5D5C90F15C08C"
-            ],
-            [
                 "lrtfeeder",
                 "K52A-U170"
             ]
@@ -775760,10 +775488,6 @@
             ]
         ],
         "K52A-U170": [
-            [
-                "kmb",
-                "09A5D5C90F15C08C"
-            ],
             [
                 "lrtfeeder",
                 "K52-nU300"
