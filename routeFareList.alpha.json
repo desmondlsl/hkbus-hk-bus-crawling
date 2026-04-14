@@ -281828,6 +281828,52 @@
                 ]
             }
         },
+        "811B+2+Yiu On+Fo Tan (Cheung Lek Mei Street)": {
+            "bound": {
+                "gmb": "O"
+            },
+            "co": [
+                "gmb"
+            ],
+            "dest": {
+                "en": "Fo Tan (Cheung Lek Mei Street)",
+                "zh": "\u706b\u70ad(\u9577\u701d\u5c3e\u8857)"
+            },
+            "fares": null,
+            "faresHoliday": null,
+            "freq": {
+                "31": {
+                    "1630": [
+                        "1630",
+                        "60"
+                    ]
+                }
+            },
+            "gtfsId": "2011490",
+            "jt": null,
+            "nlbId": null,
+            "orig": {
+                "en": "Yiu On",
+                "zh": "\u8000\u5b89"
+            },
+            "route": "811B",
+            "seq": 10,
+            "serviceType": 2,
+            "stops": {
+                "gmb": [
+                    "20015772",
+                    "20001228",
+                    "20002225",
+                    "20002320",
+                    "20002226",
+                    "20002288",
+                    "20002228",
+                    "20015651",
+                    "20001564",
+                    "20015773"
+                ]
+            }
+        },
         "811B+2+Yiu On+Fo Tan (Cheung Lek Mei Street)(Circular)": {
             "bound": {
                 "gmb": "O"
@@ -281870,7 +281916,7 @@
                         "0930",
                         "900"
                     ],
-                    "1720": [
+                    "1700": [
                         "1940",
                         "1200"
                     ]
