@@ -421391,6 +421391,40 @@
                 ]
             }
         },
+        "SP2A+1+Kai Tak Sports Park+Tsim Sha Tsui": {
+            "bound": {
+                "ctb": "O"
+            },
+            "co": [
+                "ctb"
+            ],
+            "dest": {
+                "en": "Tsim Sha Tsui",
+                "zh": "\u5c16\u6c99\u5480"
+            },
+            "fares": null,
+            "faresHoliday": null,
+            "freq": null,
+            "gtfsId": null,
+            "jt": null,
+            "nlbId": null,
+            "orig": {
+                "en": "Kai Tak Sports Park",
+                "zh": "\u555f\u5fb7\u9ad4\u80b2\u5712"
+            },
+            "route": "SP2A",
+            "seq": 5,
+            "serviceType": 1,
+            "stops": {
+                "ctb": [
+                    "003874",
+                    "001568",
+                    "001569",
+                    "001570",
+                    "001571"
+                ]
+            }
+        },
         "SP3+1+KAI TAK SPORTS PARK+CHING FU COURT": {
             "bound": {
                 "kmb": "O"
@@ -442809,7 +442843,7 @@
         },
         "002392": {
             "location": {
-                "lat": 22.26199,
+                "lat": 22.262,
                 "lng": 114.13067
             },
             "name": {
@@ -457513,8 +457547,8 @@
                 "lng": 114.04167
             },
             "name": {
-                "en": "LANTAU LINK BBI (N2) (TW705)",
-                "zh": "\u9752\u5dbc\u5e79\u7dda\u8f49\u8eca\u7ad9 (N2) (TW705)"
+                "en": "LANTAU LINK BBI (TW705)",
+                "zh": "\u9752\u5dbc\u5e79\u7dda\u8f49\u8eca\u7ad9 (TW705)"
             }
         },
         "087B8E4687A0872B": {
@@ -459033,8 +459067,8 @@
                 "lng": 114.04167
             },
             "name": {
-                "en": "LANTAU LINK BBI (N3) (TW704)",
-                "zh": "\u9752\u5dbc\u5e79\u7dda\u8f49\u8eca\u7ad9 (N3) (TW704)"
+                "en": "LANTAU LINK BBI (TW704)",
+                "zh": "\u9752\u5dbc\u5e79\u7dda\u8f49\u8eca\u7ad9 (TW704)"
             }
         },
         "0E9E4997C2B89CA9": {
@@ -515673,8 +515707,8 @@
                 "lng": 114.04167
             },
             "name": {
-                "en": "LANTAU LINK BBI (N5) (TW702)",
-                "zh": "\u9752\u5dbc\u5e79\u7dda\u8f49\u8eca\u7ad9 (N5) (TW702)"
+                "en": "LANTAU LINK BBI (TW702)",
+                "zh": "\u9752\u5dbc\u5e79\u7dda\u8f49\u8eca\u7ad9 (TW702)"
             }
         },
         "291": {
@@ -522733,8 +522767,8 @@
                 "lng": 114.04219
             },
             "name": {
-                "en": "LANTAU LINK BBI (A1) (TW606)",
-                "zh": "\u9752\u5dbc\u5e79\u7dda\u8f49\u8eca\u7ad9 (A1) (TW606)"
+                "en": "LANTAU LINK BBI (TW606)",
+                "zh": "\u9752\u5dbc\u5e79\u7dda\u8f49\u8eca\u7ad9 (TW606)"
             }
         },
         "4139F73177AF267D": {
@@ -523643,8 +523677,8 @@
                 "lng": 114.04227
             },
             "name": {
-                "en": "LANTAU LINK BBI (A7) (TW600)",
-                "zh": "\u9752\u5dbc\u5e79\u7dda\u8f49\u8eca\u7ad9 (A7) (TW600)"
+                "en": "LANTAU LINK BBI (TW600)",
+                "zh": "\u9752\u5dbc\u5e79\u7dda\u8f49\u8eca\u7ad9 (TW600)"
             }
         },
         "4455776ABFCD1605": {
@@ -528683,8 +528717,8 @@
                 "lng": 114.04167
             },
             "name": {
-                "en": "LANTAU LINK BBI (N1) (TW706)",
-                "zh": "\u9752\u5dbc\u5e79\u7dda\u8f49\u8eca\u7ad9 (N1) (TW706)"
+                "en": "LANTAU LINK BBI (TW706)",
+                "zh": "\u9752\u5dbc\u5e79\u7dda\u8f49\u8eca\u7ad9 (TW706)"
             }
         },
         "55950D2113A80E72": {
@@ -534313,8 +534347,8 @@
                 "lng": 114.04175
             },
             "name": {
-                "en": "LANTAU LINK BBI (N4) (TW703)",
-                "zh": "\u9752\u5dbc\u5e79\u7dda\u8f49\u8eca\u7ad9 (N4) (TW703)"
+                "en": "LANTAU LINK BBI (TW703)",
+                "zh": "\u9752\u5dbc\u5e79\u7dda\u8f49\u8eca\u7ad9 (TW703)"
             }
         },
         "6A24FDC5EF64C20A": {
@@ -540843,8 +540877,8 @@
                 "lng": 114.0421
             },
             "name": {
-                "en": "LANTAU LINK BBI (A4) (TW603)",
-                "zh": "\u9752\u5dbc\u5e79\u7dda\u8f49\u8eca\u7ad9 (A4) (TW603)"
+                "en": "LANTAU LINK BBI (TW603)",
+                "zh": "\u9752\u5dbc\u5e79\u7dda\u8f49\u8eca\u7ad9 (TW603)"
             }
         },
         "83A02749D0CB2EE8": {
@@ -542963,8 +542997,8 @@
                 "lng": 114.04159
             },
             "name": {
-                "en": "LANTAU LINK BBI (N7) (TW700)",
-                "zh": "\u9752\u5dbc\u5e79\u7dda\u8f49\u8eca\u7ad9 (N7) (TW700)"
+                "en": "LANTAU LINK BBI (TW700)",
+                "zh": "\u9752\u5dbc\u5e79\u7dda\u8f49\u8eca\u7ad9 (TW700)"
             }
         },
         "8C87D5196ECC1057": {
@@ -555413,8 +555447,8 @@
                 "lng": 114.0415
             },
             "name": {
-                "en": "LANTAU LINK BBI (N6) (TW701)",
-                "zh": "\u9752\u5dbc\u5e79\u7dda\u8f49\u8eca\u7ad9 (N6) (TW701)"
+                "en": "LANTAU LINK BBI (TW701)",
+                "zh": "\u9752\u5dbc\u5e79\u7dda\u8f49\u8eca\u7ad9 (TW701)"
             }
         },
         "BB8D798D19066A35": {
@@ -558333,8 +558367,8 @@
                 "lng": 114.04219
             },
             "name": {
-                "en": "LANTAU LINK BBI (A3) (TW604)",
-                "zh": "\u9752\u5dbc\u5e79\u7dda\u8f49\u8eca\u7ad9 (A3) (TW604)"
+                "en": "LANTAU LINK BBI (TW604)",
+                "zh": "\u9752\u5dbc\u5e79\u7dda\u8f49\u8eca\u7ad9 (TW604)"
             }
         },
         "C72D7C053FC3AEBB": {
@@ -559983,8 +560017,8 @@
                 "lng": 114.04219
             },
             "name": {
-                "en": "LANTAU LINK BBI (A2) (TW605)",
-                "zh": "\u9752\u5dbc\u5e79\u7dda\u8f49\u8eca\u7ad9 (A2) (TW605)"
+                "en": "LANTAU LINK BBI (TW605)",
+                "zh": "\u9752\u5dbc\u5e79\u7dda\u8f49\u8eca\u7ad9 (TW605)"
             }
         },
         "CD9E21CA712C9F96": {
@@ -563923,8 +563957,8 @@
                 "lng": 114.04219
             },
             "name": {
-                "en": "LANTAU LINK BBI (A5) (TW602)",
-                "zh": "\u9752\u5dbc\u5e79\u7dda\u8f49\u8eca\u7ad9 (A5) (TW602)"
+                "en": "LANTAU LINK BBI (TW602)",
+                "zh": "\u9752\u5dbc\u5e79\u7dda\u8f49\u8eca\u7ad9 (TW602)"
             }
         },
         "DBB8E01BBE8C66ED": {
@@ -565303,8 +565337,8 @@
                 "lng": 114.04234
             },
             "name": {
-                "en": "LANTAU LINK BBI (A6) (TW601)",
-                "zh": "\u9752\u5dbc\u5e79\u7dda\u8f49\u8eca\u7ad9 (A6) (TW601)"
+                "en": "LANTAU LINK BBI (TW601)",
+                "zh": "\u9752\u5dbc\u5e79\u7dda\u8f49\u8eca\u7ad9 (TW601)"
             }
         },
         "E1FF74B455D86144": {
