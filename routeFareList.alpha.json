@@ -115282,6 +115282,7 @@
                 "6.5",
                 "6.5",
                 "6.5",
+                "6.5",
                 "6.5"
             ],
             "faresHoliday": null,
@@ -115331,7 +115332,7 @@
                 "zh": "\u5751\u53e3(\u5317)(\u5c07\u8ecd\u6fb3\u91ab\u9662)"
             },
             "route": "290",
-            "seq": 25,
+            "seq": 26,
             "serviceType": "1",
             "stops": {
                 "kmb": [
@@ -115359,7 +115360,8 @@
                     "40A8EA2850B0979B",
                     "B943DBEE65B0B18F",
                     "5AF593F7A11180E2",
-                    "92A8281D80524F78"
+                    "92A8281D80524F78",
+                    "716D84D1B7EA256E"
                 ]
             }
         },
@@ -115535,6 +115537,7 @@
                 "6.5",
                 "6.5",
                 "6.5",
+                "6.5",
                 "6.5"
             ],
             "faresHoliday": null,
@@ -115576,7 +115579,7 @@
                 "zh": "\u5c07\u8ecd\u6fb3(\u5f69\u660e)"
             },
             "route": "290A",
-            "seq": 38,
+            "seq": 39,
             "serviceType": "1",
             "stops": {
                 "kmb": [
@@ -115617,7 +115620,8 @@
                     "40A8EA2850B0979B",
                     "B943DBEE65B0B18F",
                     "5AF593F7A11180E2",
-                    "92A8281D80524F78"
+                    "92A8281D80524F78",
+                    "716D84D1B7EA256E"
                 ]
             }
         },
@@ -115803,6 +115807,7 @@
                 "6.5",
                 "6.5",
                 "6.5",
+                "6.5",
                 "6.5"
             ],
             "faresHoliday": null,
@@ -115819,7 +115824,7 @@
                 "zh": "\u4e0a\u79c0\u8302\u576a"
             },
             "route": "290A",
-            "seq": 24,
+            "seq": 25,
             "serviceType": "2",
             "stops": {
                 "kmb": [
@@ -115846,7 +115851,8 @@
                     "40A8EA2850B0979B",
                     "B943DBEE65B0B18F",
                     "5AF593F7A11180E2",
-                    "92A8281D80524F78"
+                    "92A8281D80524F78",
+                    "716D84D1B7EA256E"
                 ]
             }
         },
@@ -115889,6 +115895,7 @@
                 "6.5",
                 "6.5",
                 "6.5",
+                "6.5",
                 "6.5"
             ],
             "faresHoliday": null,
@@ -115908,7 +115915,7 @@
                 "zh": "\u5c07\u8ecd\u6fb3\u5de5\u696d\u90a8"
             },
             "route": "290E",
-            "seq": 29,
+            "seq": 30,
             "serviceType": "1",
             "stops": {
                 "kmb": [
@@ -115940,7 +115947,8 @@
                     "40A8EA2850B0979B",
                     "B943DBEE65B0B18F",
                     "5AF593F7A11180E2",
-                    "92A8281D80524F78"
+                    "92A8281D80524F78",
+                    "716D84D1B7EA256E"
                 ]
             }
         },
@@ -116035,7 +116043,7 @@
                 ]
             }
         },
-        "290X+1+LOHAS PARK STATION+TSUEN WAN WEST STATION (VIA: WONG TAI SIN, ON TAI)": {
+        "290X+1+LOHAS PARK STATION+TSUEN WAN WEST STATION": {
             "bound": {
                 "kmb": "O"
             },
@@ -116043,8 +116051,8 @@
                 "kmb"
             ],
             "dest": {
-                "en": "TSUEN WAN WEST STATION (VIA: WONG TAI SIN, ON TAI)",
-                "zh": "\u8343\u7063\u897f\u7ad9 (\u7d93: \u5b89\u6cf0\u53ca\u9ec3\u5927\u4ed9)"
+                "en": "TSUEN WAN WEST STATION",
+                "zh": "\u8343\u7063\u897f\u7ad9"
             },
             "fares": [
                 "12.1",
@@ -116073,6 +116081,7 @@
                 "10.1",
                 "10.1",
                 "10.1",
+                "6.5",
                 "6.5",
                 "6.5",
                 "6.5",
@@ -116155,7 +116164,7 @@
                 "zh": "\u5eb7\u57ce\u7ad9"
             },
             "route": "290X",
-            "seq": 33,
+            "seq": 34,
             "serviceType": "1",
             "stops": {
                 "kmb": [
@@ -116191,7 +116200,8 @@
                     "40A8EA2850B0979B",
                     "B943DBEE65B0B18F",
                     "5AF593F7A11180E2",
-                    "92A8281D80524F78"
+                    "92A8281D80524F78",
+                    "716D84D1B7EA256E"
                 ]
             }
         },
@@ -116357,7 +116367,7 @@
                 ]
             }
         },
-        "290X+2+TIU KENG LENG STATION+TSUEN WAN WEST STATION (VIA: WONG TAI SIN, ON TAI)": {
+        "290X+2+TIU KENG LENG STATION+TSUEN WAN WEST STATION": {
             "bound": {
                 "kmb": "O"
             },
@@ -116365,8 +116375,8 @@
                 "kmb"
             ],
             "dest": {
-                "en": "TSUEN WAN WEST STATION (VIA: WONG TAI SIN, ON TAI)",
-                "zh": "\u8343\u7063\u897f\u7ad9 (\u7d93: \u5b89\u6cf0\u53ca\u9ec3\u5927\u4ed9)"
+                "en": "TSUEN WAN WEST STATION",
+                "zh": "\u8343\u7063\u897f\u7ad9"
             },
             "fares": [
                 "12.1",
@@ -116391,6 +116401,7 @@
                 "6.5",
                 "6.5",
                 "6.5",
+                "6.5",
                 "6.5"
             ],
             "faresHoliday": null,
@@ -116408,7 +116419,7 @@
                 "zh": "\u8abf\u666f\u5dba\u7ad9"
             },
             "route": "290X",
-            "seq": 24,
+            "seq": 25,
             "serviceType": "2",
             "stops": {
                 "kmb": [
@@ -116435,7 +116446,8 @@
                     "40A8EA2850B0979B",
                     "B943DBEE65B0B18F",
                     "5AF593F7A11180E2",
-                    "92A8281D80524F78"
+                    "92A8281D80524F78",
+                    "716D84D1B7EA256E"
                 ]
             }
         },
@@ -116554,7 +116566,7 @@
                 ]
             }
         },
-        "290X+3+LOHAS PARK STATION+TSUEN WAN WEST STATION (VIA: WONG TAI SIN, ON TAI)": {
+        "290X+3+LOHAS PARK STATION+TSUEN WAN WEST STATION": {
             "bound": {
                 "kmb": "O"
             },
@@ -116562,8 +116574,8 @@
                 "kmb"
             ],
             "dest": {
-                "en": "TSUEN WAN WEST STATION (VIA: WONG TAI SIN, ON TAI)",
-                "zh": "\u8343\u7063\u897f\u7ad9 (\u7d93: \u5b89\u6cf0\u53ca\u9ec3\u5927\u4ed9)"
+                "en": "TSUEN WAN WEST STATION",
+                "zh": "\u8343\u7063\u897f\u7ad9"
             },
             "fares": [
                 "12.1",
@@ -116599,6 +116611,7 @@
                 "6.5",
                 "6.5",
                 "6.5",
+                "6.5",
                 "6.5"
             ],
             "faresHoliday": null,
@@ -116615,7 +116628,7 @@
                 "zh": "\u5eb7\u57ce\u7ad9"
             },
             "route": "290X",
-            "seq": 35,
+            "seq": 36,
             "serviceType": "3",
             "stops": {
                 "kmb": [
@@ -116653,7 +116666,8 @@
                     "40A8EA2850B0979B",
                     "B943DBEE65B0B18F",
                     "5AF593F7A11180E2",
-                    "92A8281D80524F78"
+                    "92A8281D80524F78",
+                    "716D84D1B7EA256E"
                 ]
             }
         },
@@ -457394,16 +457408,6 @@
                 "zh": "\u57ce\u9580\u96a7\u9053\u8f49\u8eca\u7ad9 (B3) (TW303)"
             }
         },
-        "09B6F28D05DA00F4": {
-            "location": {
-                "lat": 22.33014,
-                "lng": 114.20796
-            },
-            "name": {
-                "en": "WANG CHI COURT (KT120a)",
-                "zh": "\u5b8f\u7dfb\u82d1 (KT120a)"
-            }
-        },
         "09C223E13435C61D": {
             "location": {
                 "lat": 22.31641,
@@ -524576,8 +524580,8 @@
         },
         "48D55BCE2E97E1DE": {
             "location": {
-                "lat": 22.45484,
-                "lng": 114.00183
+                "lat": 22.45457,
+                "lng": 114.00266
             },
             "name": {
                 "en": "TIN SHUI WAI PARK (TN220)",
@@ -595134,6 +595138,10 @@
                 "20015611"
             ],
             [
+                "kmb",
+                "48D55BCE2E97E1DE"
+            ],
+            [
                 "lrtfeeder",
                 "K74-D090"
             ],
@@ -616976,16 +616984,6 @@
                 "620E14F31DA31490"
             ]
         ],
-        "09B6F28D05DA00F4": [
-            [
-                "ctb",
-                "001645"
-            ],
-            [
-                "kmb",
-                "F663E12DC37F3C5A"
-            ]
-        ],
         "09C223E13435C61D": [
             [
                 "kmb",
@@ -623236,6 +623234,10 @@
             [
                 "gmb",
                 "20015611"
+            ],
+            [
+                "kmb",
+                "48D55BCE2E97E1DE"
             ],
             [
                 "lrtfeeder",
@@ -642032,6 +642034,10 @@
             [
                 "gmb",
                 "20015611"
+            ],
+            [
+                "kmb",
+                "48D55BCE2E97E1DE"
             ],
             [
                 "lrtfeeder",
@@ -662178,6 +662184,10 @@
             [
                 "gmb",
                 "20004201"
+            ],
+            [
+                "kmb",
+                "48D55BCE2E97E1DE"
             ],
             [
                 "lrtfeeder",
@@ -692280,8 +692290,28 @@
         ],
         "48D55BCE2E97E1DE": [
             [
-                "kmb",
-                "6174C11305616FCA"
+                "ctb",
+                "001993"
+            ],
+            [
+                "nlb",
+                "167"
+            ],
+            [
+                "gmb",
+                "20004201"
+            ],
+            [
+                "gmb",
+                "20015611"
+            ],
+            [
+                "lrtfeeder",
+                "K74-D090"
+            ],
+            [
+                "lrtfeeder",
+                "K75P-D080"
             ]
         ],
         "48D7576D3F243169": [
@@ -703806,12 +703836,6 @@
             [
                 "ctb",
                 "001722"
-            ]
-        ],
-        "6174C11305616FCA": [
-            [
-                "kmb",
-                "48D55BCE2E97E1DE"
             ]
         ],
         "617893F4DBBEDE21": [
@@ -780728,6 +780752,10 @@
                 "20015611"
             ],
             [
+                "kmb",
+                "48D55BCE2E97E1DE"
+            ],
+            [
                 "lrtfeeder",
                 "K75P-D080"
             ]
@@ -781384,6 +781412,10 @@
             [
                 "gmb",
                 "20015611"
+            ],
+            [
+                "kmb",
+                "48D55BCE2E97E1DE"
             ],
             [
                 "lrtfeeder",
