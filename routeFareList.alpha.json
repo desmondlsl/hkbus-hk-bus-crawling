@@ -376207,41 +376207,6 @@
                 ]
             }
         },
-        "HK2+2+CANTON ROAD+KOWLOON STATION": {
-            "bound": {
-                "kmb": "O"
-            },
-            "co": [
-                "kmb"
-            ],
-            "dest": {
-                "en": "KOWLOON STATION",
-                "zh": "\u4e5d\u9f8d\u7ad9"
-            },
-            "fares": null,
-            "faresHoliday": null,
-            "freq": null,
-            "gtfsId": null,
-            "jt": null,
-            "nlbId": null,
-            "orig": {
-                "en": "CANTON ROAD",
-                "zh": "\u5ee3\u6771\u9053"
-            },
-            "route": "HK2",
-            "seq": 6,
-            "serviceType": "2",
-            "stops": {
-                "kmb": [
-                    "5612949E7487F309",
-                    "24AD31E3F8DF42AE",
-                    "55852875C9223A6C",
-                    "D6D0F24D89C90323",
-                    "1F170F80E7CB2C2E",
-                    "24AA3CCF69A6572D"
-                ]
-            }
-        },
         "IICHCMUW+1+CHEUNG CHAU+MUI WO": {
             "bound": {
                 "sunferry": "I"
@@ -562224,8 +562189,8 @@
         },
         "D6D0F24D89C90323": {
             "location": {
-                "lat": 22.32545,
-                "lng": 114.16788
+                "lat": 22.30726,
+                "lng": 114.16751
             },
             "name": {
                 "en": "FERRY STREET, YAU MA TEI POLICE STATION (YT325a)",
@@ -588492,10 +588457,6 @@
             [
                 "kmb",
                 "DEB3135B3EBB8E9C"
-            ],
-            [
-                "kmb",
-                "D6D0F24D89C90323"
             ]
         ],
         "001557": [
@@ -631328,6 +631289,10 @@
             [
                 "kmb",
                 "98F2067168C267FE"
+            ],
+            [
+                "kmb",
+                "55852875C9223A6C"
             ]
         ],
         "20000694": [
@@ -698902,6 +698867,10 @@
             [
                 "kmb",
                 "7B4FD0F182DCC294"
+            ],
+            [
+                "gmb",
+                "20000693"
             ]
         ],
         "558599642E78BB9B": [
@@ -720719,10 +720688,6 @@
             ],
             [
                 "kmb",
-                "D6D0F24D89C90323"
-            ],
-            [
-                "kmb",
                 "DEB3135B3EBB8E9C"
             ]
         ],
@@ -733225,10 +733190,6 @@
             ],
             [
                 "kmb",
-                "D6D0F24D89C90323"
-            ],
-            [
-                "kmb",
                 "DEB3135B3EBB8E9C"
             ]
         ],
@@ -739834,10 +739795,6 @@
             [
                 "kmb",
                 "A70DCB46EC98F43E"
-            ],
-            [
-                "kmb",
-                "D6D0F24D89C90323"
             ],
             [
                 "kmb",
@@ -752904,28 +752861,6 @@
                 "9429666D064419BE"
             ]
         ],
-        "D6D0F24D89C90323": [
-            [
-                "kmb",
-                "889F84EBA6D9571A"
-            ],
-            [
-                "kmb",
-                "A70DCB46EC98F43E"
-            ],
-            [
-                "kmb",
-                "B71D38598F3C942D"
-            ],
-            [
-                "ctb",
-                "001556"
-            ],
-            [
-                "kmb",
-                "DEB3135B3EBB8E9C"
-            ]
-        ],
         "D6D316FEAEC6793A": [
             [
                 "ctb",
@@ -756398,10 +756333,6 @@
             [
                 "kmb",
                 "B71D38598F3C942D"
-            ],
-            [
-                "kmb",
-                "D6D0F24D89C90323"
             ]
         ],
         "DEB36380E32DCD53": [
