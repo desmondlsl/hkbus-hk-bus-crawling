@@ -37728,7 +37728,7 @@
                 "kmb": [
                     "A41B940A93D63D60",
                     "500EB63FD4A41F66",
-                    "D024B008AB77435B",
+                    "3EAFE91BF6223FA6",
                     "40FF132FB8E77051",
                     "B08CA4B3CDCF142A",
                     "72155034783E2E96",
@@ -39608,7 +39608,7 @@
             "serviceType": "1",
             "stops": {
                 "kmb": [
-                    "0D8135B0D81F29A1",
+                    "D024B008AB77435B",
                     "40FF132FB8E77051",
                     "B08CA4B3CDCF142A",
                     "CF18D17DE7B40350",
@@ -39650,7 +39650,7 @@
                     "57A0D4D6D4D57497",
                     "0F9D050D4229C0F7",
                     "19171A194D7507D5",
-                    "0D8135B0D81F29A1"
+                    "D024B008AB77435B"
                 ]
             }
         },
@@ -40072,7 +40072,7 @@
                 "kmb": [
                     "F7E9B87F47F0A3F9",
                     "27CD14DCDF87F746",
-                    "D024B008AB77435B",
+                    "3EAFE91BF6223FA6",
                     "40FF132FB8E77051",
                     "B08CA4B3CDCF142A",
                     "72155034783E2E96",
@@ -40473,6 +40473,7 @@
             "stops": {
                 "kmb": [
                     "12C9A74EEAE58238",
+                    "36F7DCE4723C2C44",
                     "EF5A5CD9C3A038C9",
                     "A5E27C280260D008",
                     "B9343464EDE68947",
@@ -40498,8 +40499,7 @@
                     "F49FA120DE5E6582",
                     "1EF0671DB830C59D",
                     "23727783D2D3E994",
-                    "EF17FDCDDF170D38",
-                    "B3B4603C5AD48682"
+                    "EF17FDCDDF170D38"
                 ]
             }
         },
@@ -40725,7 +40725,6 @@
                 "7.8",
                 "7.8",
                 "6.3",
-                "6.3",
                 "6.3"
             ],
             "faresHoliday": null,
@@ -40821,7 +40820,7 @@
                 "zh": "\u5e73\u7530"
             },
             "route": "15",
-            "seq": 27,
+            "seq": 26,
             "serviceType": "1",
             "stops": {
                 "kmb": [
@@ -40850,8 +40849,7 @@
                     "ED03E689B88CE0E8",
                     "3D47C2B2D3342C85",
                     "EB1702F877E4D077",
-                    "C39037A588387F32",
-                    "12C9A74EEAE58238"
+                    "C39037A588387F32"
                 ]
             }
         },
@@ -79974,7 +79972,7 @@
                 "kmb": [
                     "CD3092383ACEF208",
                     "500EB63FD4A41F66",
-                    "D024B008AB77435B",
+                    "3EAFE91BF6223FA6",
                     "5309D748976029CB",
                     "3C6DAB7267F9E54F",
                     "73E85E88E124EF2C",
@@ -132192,7 +132190,7 @@
                     "8A928A173E67CD96",
                     "9C839C3824F47A6A",
                     "CB4BB0008A87E4FC",
-                    "3EAFE91BF6223FA6"
+                    "D024B008AB77435B"
                 ]
             }
         },
@@ -132276,7 +132274,7 @@
             "serviceType": "1",
             "stops": {
                 "kmb": [
-                    "3EAFE91BF6223FA6",
+                    "D024B008AB77435B",
                     "5309D748976029CB",
                     "3C6DAB7267F9E54F",
                     "73E85E88E124EF2C",
@@ -132980,7 +132978,7 @@
                     "7459D3AB11AFD6B5",
                     "9C839C3824F47A6A",
                     "CB4BB0008A87E4FC",
-                    "3EAFE91BF6223FA6"
+                    "D024B008AB77435B"
                 ]
             }
         },
@@ -133049,7 +133047,7 @@
             "serviceType": "1",
             "stops": {
                 "kmb": [
-                    "3EAFE91BF6223FA6",
+                    "D024B008AB77435B",
                     "5309D748976029CB",
                     "3C6DAB7267F9E54F",
                     "73E85E88E124EF2C",
@@ -133837,7 +133835,7 @@
                     "41E95E283D770EF7",
                     "9C839C3824F47A6A",
                     "CB4BB0008A87E4FC",
-                    "3EAFE91BF6223FA6"
+                    "D024B008AB77435B"
                 ]
             }
         },
@@ -133889,7 +133887,7 @@
             "serviceType": "1",
             "stops": {
                 "kmb": [
-                    "3EAFE91BF6223FA6",
+                    "D024B008AB77435B",
                     "5309D748976029CB",
                     "3C6DAB7267F9E54F",
                     "73E85E88E124EF2C",
@@ -154112,7 +154110,7 @@
                 ]
             }
         },
-        "40B+1+KWAI CHUNG ESTATE+PING TIN": {
+        "40B+1+KWAI CHUNG ESTATE BUS TERMINUS (KW939)+PING TIN (LT932)": {
             "bound": {
                 "kmb": "O"
             },
@@ -154120,8 +154118,8 @@
                 "kmb"
             ],
             "dest": {
-                "en": "PING TIN",
-                "zh": "\u5e73\u7530"
+                "en": "PING TIN (LT932)",
+                "zh": "\u5e73\u7530 (LT932)"
             },
             "fares": [
                 "10.1",
@@ -154170,8 +154168,8 @@
             "jt": "67",
             "nlbId": null,
             "orig": {
-                "en": "KWAI CHUNG ESTATE",
-                "zh": "\u8475\u6d8c\u90a8"
+                "en": "KWAI CHUNG ESTATE BUS TERMINUS (KW939)",
+                "zh": "\u8475\u6d8c\u90a8\u7e3d\u7ad9 (KW939)"
             },
             "route": "40B",
             "seq": 36,
@@ -154187,7 +154185,7 @@
                     "7467287ACB876529",
                     "952DD8539E6DAC75",
                     "E3AB394138EDE467",
-                    "F275A85A9CF9BBC4",
+                    "D597E0A9258D0894",
                     "FA343B97309B84B4",
                     "E7E5E3C1F761966F",
                     "647AB0AD358F10DF",
@@ -219986,7 +219984,7 @@
                 "kmb": [
                     "E6FDF44FB2844B19",
                     "500EB63FD4A41F66",
-                    "D024B008AB77435B",
+                    "3EAFE91BF6223FA6",
                     "5309D748976029CB",
                     "3C6DAB7267F9E54F",
                     "73E85E88E124EF2C",
@@ -240491,7 +240489,7 @@
                 "kmb": [
                     "E4E008D61686FB33",
                     "500EB63FD4A41F66",
-                    "D024B008AB77435B",
+                    "3EAFE91BF6223FA6",
                     "5309D748976029CB",
                     "3C6DAB7267F9E54F",
                     "73E85E88E124EF2C",
@@ -240927,7 +240925,7 @@
                 "kmb": [
                     "E4E008D61686FB33",
                     "500EB63FD4A41F66",
-                    "D024B008AB77435B",
+                    "3EAFE91BF6223FA6",
                     "40FF132FB8E77051",
                     "B08CA4B3CDCF142A",
                     "CF18D17DE7B40350",
@@ -274283,6 +274281,7 @@
             "stops": {
                 "kmb": [
                     "ED18A55B2C83BAD2",
+                    "36F7DCE4723C2C44",
                     "EF5A5CD9C3A038C9",
                     "3DEB0D13043F4C17",
                     "B0095CE9771BFC17",
@@ -274303,8 +274302,7 @@
                     "FD45CEE7D2E4A9BF",
                     "C6F9EC39B9F09F32",
                     "EAAAF871D43F7B6F",
-                    "EB471522ACF7B803",
-                    "97D5170205CB0515"
+                    "EB471522ACF7B803"
                 ]
             }
         },
@@ -274338,7 +274336,6 @@
                 "6.7",
                 "6.7",
                 "6.7",
-                "6.3",
                 "6.3",
                 "6.3"
             ],
@@ -274395,7 +274392,7 @@
                 "zh": "\u6a02\u5bcc"
             },
             "route": "7B",
-            "seq": 22,
+            "seq": 21,
             "serviceType": "1",
             "stops": {
                 "kmb": [
@@ -274419,8 +274416,7 @@
                     "8D5FB973BE9429B4",
                     "3D47C2B2D3342C85",
                     "EB1702F877E4D077",
-                    "C39037A588387F32",
-                    "ED18A55B2C83BAD2"
+                    "C39037A588387F32"
                 ]
             }
         },
@@ -401569,7 +401565,7 @@
             "serviceType": "1",
             "stops": {
                 "kmb": [
-                    "D024B008AB77435B",
+                    "3EAFE91BF6223FA6",
                     "40FF132FB8E77051",
                     "B08CA4B3CDCF142A",
                     "CF18D17DE7B40350",
@@ -401757,7 +401753,7 @@
                     "19171A194D7507D5",
                     "AFE8CE5FCE951B89",
                     "500EB63FD4A41F66",
-                    "0D8135B0D81F29A1"
+                    "D024B008AB77435B"
                 ]
             }
         },
@@ -401846,7 +401842,7 @@
             "serviceType": "1",
             "stops": {
                 "kmb": [
-                    "0D8135B0D81F29A1",
+                    "D024B008AB77435B",
                     "40FF132FB8E77051",
                     "B08CA4B3CDCF142A",
                     "CF18D17DE7B40350",
@@ -423906,7 +423902,7 @@
                     "5AAC6A858427D04E",
                     "7459D3AB11AFD6B5",
                     "9C839C3824F47A6A",
-                    "3EAFE91BF6223FA6"
+                    "0D8135B0D81F29A1"
                 ]
             }
         },
@@ -424001,7 +423997,7 @@
             "serviceType": "1",
             "stops": {
                 "kmb": [
-                    "3EAFE91BF6223FA6",
+                    "0D8135B0D81F29A1",
                     "73E85E88E124EF2C",
                     "2EF9764BE18FC290",
                     "F1A90CEE2B8C40CC",
@@ -424111,7 +424107,7 @@
                     "5AAC6A858427D04E",
                     "7459D3AB11AFD6B5",
                     "9C839C3824F47A6A",
-                    "3EAFE91BF6223FA6"
+                    "0D8135B0D81F29A1"
                 ]
             }
         },
@@ -424237,7 +424233,7 @@
                     "5AAC6A858427D04E",
                     "7459D3AB11AFD6B5",
                     "9C839C3824F47A6A",
-                    "3EAFE91BF6223FA6"
+                    "0D8135B0D81F29A1"
                 ]
             }
         },
@@ -451680,8 +451676,8 @@
                 "lng": 113.95046
             },
             "name": {
-                "en": "Ying Hei Road",
-                "zh": "\u8fce\u79a7\u8def"
+                "en": "Century Link, Ying Hei Road",
+                "zh": "\u6771\u74b0, \u8fce\u79a7\u8def"
             }
         },
         "003444": {
@@ -451780,8 +451776,8 @@
                 "lng": 113.95334
             },
             "name": {
-                "en": "Ying Tung Estate",
-                "zh": "\u8fce\u6771\u90a8"
+                "en": "Ying Tung Estate, Ying Tung Road",
+                "zh": "\u8fce\u6771\u90a8, \u8fce\u6771\u8def"
             }
         },
         "003454": {
@@ -452780,8 +452776,8 @@
                 "lng": 113.93262
             },
             "name": {
-                "en": "Mun Wo House Mun Tung Estate, Yu Tung Road",
-                "zh": "\u6eff\u6771\u90a8\u6eff\u548c\u6a13, \u88d5\u6771\u8def"
+                "en": "Mun Tung Estate",
+                "zh": "\u6eff\u6771\u90a8"
             }
         },
         "003567": {
