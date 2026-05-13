@@ -56416,7 +56416,7 @@
                 ]
             }
         },
-        "20A+1+HSR West Kowloon Station+Kai Tak Cruise Terminal": {
+        "20A+1+HSR West Kowloon Station (via: Mong Kok)+Kai Tak Cruise Terminal (via: Mong Kok)": {
             "bound": {
                 "ctb": "I"
             },
@@ -56424,8 +56424,8 @@
                 "ctb"
             ],
             "dest": {
-                "en": "Kai Tak Cruise Terminal",
-                "zh": "\u555f\u5fb7\u90f5\u8f2a\u78bc\u982d"
+                "en": "Kai Tak Cruise Terminal (via: Mong Kok)",
+                "zh": "\u555f\u5fb7\u90f5\u8f2a\u78bc\u982d (\u7d93:\u65fa\u89d2)"
             },
             "fares": [
                 "7.5",
@@ -56475,12 +56475,12 @@
             "jt": "75",
             "nlbId": null,
             "orig": {
-                "en": "HSR West Kowloon Station",
-                "zh": "\u9ad8\u9435\u897f\u4e5d\u9f8d\u7ad9"
+                "en": "HSR West Kowloon Station (via: Mong Kok)",
+                "zh": "\u9ad8\u9435\u897f\u4e5d\u9f8d\u7ad9 (\u7d93:\u65fa\u89d2)"
             },
             "route": "20A",
             "seq": 37,
-            "serviceType": "1",
+            "serviceType": 1,
             "stops": {
                 "ctb": [
                     "003549",
@@ -56730,7 +56730,7 @@
                 ]
             }
         },
-        "20A+2+HSR West Kowloon Station+Kai Tak Cruise Terminal": {
+        "20A+2+HSR West Kowloon Station (via: Mong Kok)+Kai Tak Cruise Terminal (via: Mong Kok)": {
             "bound": {
                 "ctb": "I"
             },
@@ -56738,8 +56738,8 @@
                 "ctb"
             ],
             "dest": {
-                "en": "Kai Tak Cruise Terminal",
-                "zh": "\u555f\u5fb7\u90f5\u8f2a\u78bc\u982d"
+                "en": "Kai Tak Cruise Terminal (via: Mong Kok)",
+                "zh": "\u555f\u5fb7\u90f5\u8f2a\u78bc\u982d (\u7d93:\u65fa\u89d2)"
             },
             "fares": [
                 "7.5",
@@ -56821,8 +56821,8 @@
             "jt": "68",
             "nlbId": null,
             "orig": {
-                "en": "HSR West Kowloon Station",
-                "zh": "\u9ad8\u9435\u897f\u4e5d\u9f8d\u7ad9"
+                "en": "HSR West Kowloon Station (via: Mong Kok)",
+                "zh": "\u9ad8\u9435\u897f\u4e5d\u9f8d\u7ad9 (\u7d93:\u65fa\u89d2)"
             },
             "route": "20A",
             "seq": 36,
@@ -56868,7 +56868,7 @@
                 ]
             }
         },
-        "20A+2+Kai Tak Cruise Terminal+HSR West Kowloon Station": {
+        "20A+2+Kai Tak Cruise Terminal (via: Mong Kok)+HSR West Kowloon Station (via: Mong Kok)": {
             "bound": {
                 "ctb": "O"
             },
@@ -56876,8 +56876,8 @@
                 "ctb"
             ],
             "dest": {
-                "en": "HSR West Kowloon Station",
-                "zh": "\u9ad8\u9435\u897f\u4e5d\u9f8d\u7ad9"
+                "en": "HSR West Kowloon Station (via: Mong Kok)",
+                "zh": "\u9ad8\u9435\u897f\u4e5d\u9f8d\u7ad9 (\u7d93:\u65fa\u89d2)"
             },
             "fares": [
                 "7.5",
@@ -56960,8 +56960,8 @@
             "jt": "68",
             "nlbId": null,
             "orig": {
-                "en": "Kai Tak Cruise Terminal",
-                "zh": "\u555f\u5fb7\u90f5\u8f2a\u78bc\u982d"
+                "en": "Kai Tak Cruise Terminal (via: Mong Kok)",
+                "zh": "\u555f\u5fb7\u90f5\u8f2a\u78bc\u982d (\u7d93:\u65fa\u89d2)"
             },
             "route": "20A",
             "seq": 37,
@@ -435588,7 +435588,7 @@
             },
             "name": {
                 "en": "The Latitude, Prince Edward Road East",
-                "zh": "\u8b7d\u6e2f\u7063, \u592a\u5b50\u9053\u6771"
+                "zh": "\u8b7d\uff0e\u6e2f\u7063, \u592a\u5b50\u9053\u6771"
             }
         },
         "001574": {
@@ -435618,7 +435618,7 @@
             },
             "name": {
                 "en": "The Latitude, Prince Edward Road East",
-                "zh": "\u8b7d\u6e2f\u7063, \u592a\u5b50\u9053\u6771"
+                "zh": "\u8b7d\uff0e\u6e2f\u7063, \u592a\u5b50\u9053\u6771"
             }
         },
         "001577": {
@@ -436938,7 +436938,7 @@
             },
             "name": {
                 "en": "Lung Pak House Hong Pak Court, Pik Wan Road",
-                "zh": "\u5eb7\u67cf\u82d1\u9f8d\u67cf\u95a3, \u78a7\u96f2\u9053"
+                "zh": "\u5eb7\u6822\u82d1\u9f8d\u6822\u95a3, \u78a7\u96f2\u9053"
             }
         },
         "001714": {
@@ -437738,7 +437738,7 @@
             },
             "name": {
                 "en": "Kam Pak House Hong Pak Court, Pik Wan Road",
-                "zh": "\u5eb7\u67cf\u82d1\u91d1\u67cf\u95a3, \u78a7\u96f2\u9053"
+                "zh": "\u5eb7\u6822\u82d1\u91d1\u6822\u95a3, \u78a7\u96f2\u9053"
             }
         },
         "001796": {
