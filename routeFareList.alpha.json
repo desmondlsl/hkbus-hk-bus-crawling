@@ -356094,91 +356094,6 @@
                 ]
             }
         },
-        "A41P+2+WU KAI SHA STATION+AIRPORT (GROUND TRANSPORTATION CENTRE)": {
-            "bound": {
-                "kmb": "O"
-            },
-            "co": [
-                "kmb"
-            ],
-            "dest": {
-                "en": "AIRPORT (GROUND TRANSPORTATION CENTRE)",
-                "zh": "\u6a5f\u5834(\u5730\u9762\u904b\u8f38\u4e2d\u5fc3)"
-            },
-            "fares": [
-                "29",
-                "29",
-                "29",
-                "29",
-                "29",
-                "29",
-                "29",
-                "29",
-                "29",
-                "29",
-                "29",
-                "29",
-                "29",
-                "29",
-                "29",
-                "29",
-                "23.4",
-                "23.4",
-                "23.4",
-                "19.8",
-                "19.8",
-                "19.8",
-                "19.8",
-                "19.8"
-            ],
-            "faresHoliday": null,
-            "freq": {
-                "511": {
-                    "0620": null,
-                    "0640": null,
-                    "0700": null
-                }
-            },
-            "gtfsId": "1000023",
-            "jt": "94",
-            "nlbId": null,
-            "orig": {
-                "en": "WU KAI SHA STATION",
-                "zh": "\u70cf\u6eaa\u6c99\u7ad9"
-            },
-            "route": "A41P",
-            "seq": 25,
-            "serviceType": "2",
-            "stops": {
-                "kmb": [
-                    "BA72214DFE48AA86",
-                    "6E42FB38EBBE1C42",
-                    "118212ABD14E1580",
-                    "EEF73B5695D2AB0F",
-                    "0AA7219BB2418438",
-                    "844648D1EDB4A4CD",
-                    "3DD89EF20A237A4C",
-                    "24CD3B0F3389F822",
-                    "5EDA0C1BE5CE95CF",
-                    "424003F7939E9F01",
-                    "4EFF1135BD93EE9E",
-                    "F88D7720B4F389B0",
-                    "FA141FB0FF048F32",
-                    "FBE33E1EA7BA6051",
-                    "DCDF76EA791EDED7",
-                    "6E2A182F0DD98D48",
-                    "51E6C8BD0176D660",
-                    "E757600B79B0B2AC",
-                    "673B33867260EBB7",
-                    "412DEEF534E127AF",
-                    "C552CE565E1F0C85",
-                    "9C9F817064169CE7",
-                    "E48E4C46F64FFB0E",
-                    "0D5759F7A4B185FE",
-                    "21466046C6868AA7"
-                ]
-            }
-        },
         "A41P+3+AIRPORT (GROUND TRANSPORTATION CENTRE)+Sai Sha Residences Transport Interchange": {
             "bound": {
                 "kmb": "I"
@@ -357972,79 +357887,6 @@
                     "4C1CD2009B21E9A1",
                     "F9AB54847EF884BB",
                     "5B5C877D02DF4C31"
-                ]
-            }
-        },
-        "A47X+4+TAI PO (TAI WO)+AIRPORT (GROUND TRANSPORTATION CENTRE)": {
-            "bound": {
-                "kmb": "O"
-            },
-            "co": [
-                "kmb"
-            ],
-            "dest": {
-                "en": "AIRPORT (GROUND TRANSPORTATION CENTRE)",
-                "zh": "\u6a5f\u5834(\u5730\u9762\u904b\u8f38\u4e2d\u5fc3)"
-            },
-            "fares": [
-                "29",
-                "29",
-                "29",
-                "29",
-                "29",
-                "29",
-                "29",
-                "29",
-                "29",
-                "29",
-                "29",
-                "29",
-                "29",
-                "29",
-                "19.8",
-                "19.8",
-                "19.8",
-                "19.8",
-                "19.8"
-            ],
-            "faresHoliday": null,
-            "freq": {
-                "511": {
-                    "0600": null
-                }
-            },
-            "gtfsId": "8780",
-            "jt": "99",
-            "nlbId": null,
-            "orig": {
-                "en": "TAI PO (TAI WO)",
-                "zh": "\u5927\u57d4(\u592a\u548c)"
-            },
-            "route": "A47X",
-            "seq": 20,
-            "serviceType": "4",
-            "stops": {
-                "kmb": [
-                    "5B5C877D02DF4C31",
-                    "442F0B8C94311306",
-                    "7A47A23B960DD4FF",
-                    "638851B5496C1765",
-                    "8BF41341E058D6A6",
-                    "17B30F17DCD149D3",
-                    "DAB252A4BC687441",
-                    "67CE6F9B4ACB8421",
-                    "89240EC55B8818BC",
-                    "259B42E9BB57199D",
-                    "E39225003155E094",
-                    "919C2FE90FDCAD6A",
-                    "EE212E6FD5124813",
-                    "673B33867260EBB7",
-                    "412DEEF534E127AF",
-                    "C552CE565E1F0C85",
-                    "9C9F817064169CE7",
-                    "E48E4C46F64FFB0E",
-                    "0D5759F7A4B185FE",
-                    "21466046C6868AA7"
                 ]
             }
         },
@@ -531521,7 +531363,7 @@
                 "lng": 113.9329
             },
             "name": {
-                "en": "CATHAY PACIFIC CITY (CL342)",
+                "en": "CATHAY CITY (CL342)",
                 "zh": "\u570b\u6cf0\u57ce (CL342)"
             }
         },
@@ -551301,7 +551143,7 @@
                 "lng": 113.93336
             },
             "name": {
-                "en": "CATHAY PACIFIC CITY (CL221)",
+                "en": "CATHAY CITY (CL221)",
                 "zh": "\u570b\u6cf0\u57ce (CL221)"
             }
         },
