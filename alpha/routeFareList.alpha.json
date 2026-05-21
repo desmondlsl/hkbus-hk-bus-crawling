@@ -10576,6 +10576,42 @@
                 ]
             }
         },
+        "104R+1+Central (Ferry Piers)+Mong Kok": {
+            "bound": {
+                "ctb": "O"
+            },
+            "co": [
+                "ctb"
+            ],
+            "dest": {
+                "en": "Mong Kok",
+                "zh": "\u65fa\u89d2"
+            },
+            "fares": null,
+            "faresHoliday": null,
+            "freq": null,
+            "gtfsId": null,
+            "jt": null,
+            "nlbId": null,
+            "orig": {
+                "en": "Central (Ferry Piers)",
+                "zh": "\u4e2d\u74b0\u78bc\u982d"
+            },
+            "route": "104R",
+            "seq": 7,
+            "serviceType": 1,
+            "stops": {
+                "ctb": [
+                    "001195",
+                    "001475",
+                    "001769",
+                    "001547",
+                    "001548",
+                    "001552",
+                    "001554"
+                ]
+            }
+        },
         "105+1+Hong Sing Garden+To Kwa Wan": {
             "bound": {
                 "gmb": "I"
@@ -112616,7 +112652,6 @@
                 "9.3",
                 "5.1",
                 "5.1",
-                "5.1",
                 "5.1"
             ],
             "faresHoliday": null,
@@ -112658,7 +112693,7 @@
                 "zh": "\u897f\u6c99\u7063\u4ea4\u901a\u4ea4\u532f\u8655"
             },
             "route": "287",
-            "seq": 11,
+            "seq": 10,
             "serviceType": "1",
             "stops": {
                 "kmb": [
@@ -112671,8 +112706,7 @@
                     "0D4E07F475845DB3",
                     "B071B60F5566934B",
                     "E2602DD1C8EA1AC8",
-                    "664BAA2EA12B80B1",
-                    "3E10F323161F4ADB"
+                    "664BAA2EA12B80B1"
                 ]
             }
         },
@@ -112687,63 +112721,21 @@
                 "en": "Sai Sha Residences Transport Interchange",
                 "zh": "\u897f\u6c99\u7063\u4ea4\u901a\u4ea4\u532f\u8655"
             },
-            "fares": [
-                "9.3",
-                "9.3",
-                "9.3",
-                "9.3",
-                "9.3",
-                "9.3",
-                "9.3",
-                "9.3",
-                "9.3",
-                "9.3",
-                "9.3"
-            ],
+            "fares": null,
             "faresHoliday": null,
-            "freq": {
-                "287": {
-                    "0830": [
-                        "1800",
-                        "1800"
-                    ],
-                    "1800": [
-                        "2000",
-                        "1200"
-                    ],
-                    "2000": [
-                        "2230",
-                        "1800"
-                    ]
-                },
-                "480": {
-                    "0830": [
-                        "1100",
-                        "1800"
-                    ],
-                    "1100": [
-                        "2000",
-                        "1200"
-                    ],
-                    "2000": [
-                        "2230",
-                        "1800"
-                    ]
-                }
-            },
-            "gtfsId": "1000678",
-            "jt": "25",
+            "freq": null,
+            "gtfsId": null,
+            "jt": null,
             "nlbId": null,
             "orig": {
                 "en": "UNIVERSITY STATION",
                 "zh": "\u5927\u5b78\u7ad9"
             },
             "route": "287",
-            "seq": 12,
+            "seq": 11,
             "serviceType": "1",
             "stops": {
                 "kmb": [
-                    "3E10F323161F4ADB",
                     "E27820FF0AF73D52",
                     "0209A3C455B1DBE9",
                     "507E8F5167002BC5",
@@ -345052,7 +345044,7 @@
                     "5D86C919F15C0611",
                     "F63D25B428F1C1D9",
                     "7E2611CD03F9450A",
-                    "9F542D4B6CF41651"
+                    "3E10F323161F4ADB"
                 ]
             }
         },
@@ -345108,7 +345100,7 @@
             "serviceType": "1",
             "stops": {
                 "kmb": [
-                    "9F542D4B6CF41651",
+                    "3E10F323161F4ADB",
                     "3A450B5AD5AF1605",
                     "2C5CA5F47FB6EB3F",
                     "6B775855F6FB16D9",
@@ -414863,7 +414855,7 @@
                 ]
             }
         },
-        "NA36+1+KAM SHEUNG ROAD STATION+Cathay Pacific City": {
+        "NA36+1+KAM SHEUNG ROAD STATION+Cathay City": {
             "bound": {
                 "kmb": "I"
             },
@@ -414871,7 +414863,7 @@
                 "kmb"
             ],
             "dest": {
-                "en": "Cathay Pacific City",
+                "en": "Cathay City",
                 "zh": "\u570b\u6cf0\u57ce"
             },
             "fares": [
@@ -688008,6 +688000,10 @@
             ],
             [
                 "kmb",
+                "878A6FDD75689A2D"
+            ],
+            [
+                "kmb",
                 "D4D322BE3E5B2A4B"
             ]
         ],
@@ -720725,6 +720721,10 @@
             [
                 "ctb",
                 "003841"
+            ],
+            [
+                "kmb",
+                "3E10F323161F4ADB"
             ]
         ],
         "878E5C4AF6C4B0D4": [
@@ -730317,10 +730317,6 @@
             [
                 "kmb",
                 "888C8A612C998895"
-            ],
-            [
-                "kmb",
-                "D4D322BE3E5B2A4B"
             ],
             [
                 "kmb",
@@ -752699,10 +752695,6 @@
             [
                 "kmb",
                 "888C8A612C998895"
-            ],
-            [
-                "kmb",
-                "9F542D4B6CF41651"
             ],
             [
                 "gmb",
