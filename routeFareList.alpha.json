@@ -350571,7 +350571,6 @@
                 "19.8",
                 "19.8",
                 "19.8",
-                "19.8",
                 "19.8"
             ],
             "faresHoliday": null,
@@ -350615,7 +350614,7 @@
                 "zh": "\u68a8\u6728\u6a39"
             },
             "route": "A30",
-            "seq": 17,
+            "seq": 16,
             "serviceType": "1",
             "stops": {
                 "kmb": [
@@ -350634,8 +350633,7 @@
                     "073EAEA8EDD7265C",
                     "412DEEF534E127AF",
                     "0D5759F7A4B185FE",
-                    "C552CE565E1F0C85",
-                    "23F3D6C7BDAD87EB"
+                    "C552CE565E1F0C85"
                 ]
             }
         },
@@ -350703,45 +350701,18 @@
                 "en": "AIRPORT (GROUND TRANSPORTATION CENTRE)",
                 "zh": "\u6a5f\u5834(\u5730\u9762\u904b\u8f38\u4e2d\u5fc3)"
             },
-            "fares": [
-                "18.9",
-                "18.9",
-                "18.9",
-                "18.9",
-                "18.9",
-                "18.9",
-                "18.9",
-                "18.9",
-                "18.9",
-                "18.9",
-                "18.9",
-                "18.9",
-                "18.9",
-                "18.9",
-                "18.9",
-                "18.9",
-                "18.9",
-                "18.9"
-            ],
+            "fares": null,
             "faresHoliday": null,
-            "freq": {
-                "511": {
-                    "0615": null,
-                    "0640": null,
-                    "0705": null,
-                    "0725": null,
-                    "0745": null
-                }
-            },
-            "gtfsId": "1000384",
-            "jt": "70",
+            "freq": null,
+            "gtfsId": null,
+            "jt": null,
             "nlbId": null,
             "orig": {
                 "en": "LEI MUK SHUE",
                 "zh": "\u68a8\u6728\u6a39"
             },
             "route": "A30",
-            "seq": 19,
+            "seq": 18,
             "serviceType": "2",
             "stops": {
                 "kmb": [
@@ -350762,8 +350733,7 @@
                     "0D5759F7A4B185FE",
                     "C552CE565E1F0C85",
                     "9C9F817064169CE7",
-                    "E48E4C46F64FFB0E",
-                    "23F3D6C7BDAD87EB"
+                    "E48E4C46F64FFB0E"
                 ]
             }
         },
@@ -350900,7 +350870,6 @@
                 "19.8",
                 "19.8",
                 "19.8",
-                "19.8",
                 "19.8"
             ],
             "faresHoliday": null,
@@ -350942,7 +350911,7 @@
                 "zh": "\u8343\u7063(\u5982\u5fc3\u5ee3\u5834)"
             },
             "route": "A31",
-            "seq": 16,
+            "seq": 15,
             "serviceType": "1",
             "stops": {
                 "kmb": [
@@ -350960,8 +350929,7 @@
                     "412DEEF534E127AF",
                     "C552CE565E1F0C85",
                     "0D5759F7A4B185FE",
-                    "21466046C6868AA7",
-                    "5E1FA939586B3FD1"
+                    "21466046C6868AA7"
                 ]
             }
         },
@@ -351022,44 +350990,18 @@
                 "en": "AIRPORT (GROUND TRANSPORTATION CENTRE)",
                 "zh": "\u6a5f\u5834(\u5730\u9762\u904b\u8f38\u4e2d\u5fc3)"
             },
-            "fares": [
-                "19.8",
-                "19.8",
-                "19.8",
-                "19.8",
-                "19.8",
-                "19.8",
-                "19.8",
-                "19.8",
-                "19.8",
-                "19.8",
-                "19.8",
-                "19.8",
-                "19.8",
-                "19.8",
-                "19.8",
-                "19.8",
-                "19.8"
-            ],
+            "fares": null,
             "faresHoliday": null,
-            "freq": {
-                "511": {
-                    "0635": null,
-                    "0650": null,
-                    "0705": null,
-                    "0720": null,
-                    "0735": null
-                }
-            },
-            "gtfsId": "1000088",
-            "jt": "80",
+            "freq": null,
+            "gtfsId": null,
+            "jt": null,
             "nlbId": null,
             "orig": {
                 "en": "TSUEN WAN (NINA TOWER)",
                 "zh": "\u8343\u7063(\u5982\u5fc3\u5ee3\u5834)"
             },
             "route": "A31",
-            "seq": 18,
+            "seq": 17,
             "serviceType": "3",
             "stops": {
                 "kmb": [
@@ -351079,8 +351021,7 @@
                     "9C9F817064169CE7",
                     "E48E4C46F64FFB0E",
                     "0D5759F7A4B185FE",
-                    "21466046C6868AA7",
-                    "5E1FA939586B3FD1"
+                    "21466046C6868AA7"
                 ]
             }
         },
@@ -351202,7 +351143,6 @@
                 "19.8",
                 "19.8",
                 "19.8",
-                "19.8",
                 "19.8"
             ],
             "faresHoliday": null,
@@ -351231,7 +351171,7 @@
                 "zh": "\u8475\u6d8c\u90a8"
             },
             "route": "A32",
-            "seq": 23,
+            "seq": 22,
             "serviceType": "1",
             "stops": {
                 "kmb": [
@@ -351256,8 +351196,7 @@
                     "A78ABC54E2286C0D",
                     "412DEEF534E127AF",
                     "C552CE565E1F0C85",
-                    "0D5759F7A4B185FE",
-                    "23F3D6C7BDAD87EB"
+                    "0D5759F7A4B185FE"
                 ]
             }
         },
@@ -351478,7 +351417,6 @@
                 "15.7",
                 "15.7",
                 "15.7",
-                "15.7",
                 "15.7"
             ],
             "faresHoliday": null,
@@ -351536,7 +351474,7 @@
                 "zh": "\u5c6f\u9580\u516c\u8def\u8f49\u8eca\u7ad9"
             },
             "route": "A33",
-            "seq": 34,
+            "seq": 33,
             "serviceType": "1",
             "stops": {
                 "kmb": [
@@ -351572,8 +351510,7 @@
                     "0221966C1116C4EC",
                     "C70342BF7C6A4732",
                     "0D5759F7A4B185FE",
-                    "C552CE565E1F0C85",
-                    "21466046C6868AA7"
+                    "C552CE565E1F0C85"
                 ]
             }
         },
@@ -351588,68 +351525,18 @@
                 "en": "AIRPORT (GROUND TRANSPORTATION CENTRE)",
                 "zh": "\u6a5f\u5834(\u5730\u9762\u904b\u8f38\u4e2d\u5fc3)"
             },
-            "fares": [
-                "15.7",
-                "15.7",
-                "15.7",
-                "15.7",
-                "15.7",
-                "15.7",
-                "15.7",
-                "15.7",
-                "15.7",
-                "15.7",
-                "15.7",
-                "15.7",
-                "15.7",
-                "15.7",
-                "15.7",
-                "15.7",
-                "15.7",
-                "15.7",
-                "15.7",
-                "15.7",
-                "15.7",
-                "15.7",
-                "15.7",
-                "15.7",
-                "15.7",
-                "15.7",
-                "15.7",
-                "15.7",
-                "15.7",
-                "15.7",
-                "15.7",
-                "15.7",
-                "15.7",
-                "15.7",
-                "15.7"
-            ],
+            "fares": null,
             "faresHoliday": null,
-            "freq": {
-                "287": {
-                    "0620": null,
-                    "0640": null,
-                    "0655": null,
-                    "0710": null,
-                    "0725": null
-                },
-                "480": {
-                    "0620": null,
-                    "0645": null,
-                    "0705": null,
-                    "0725": null
-                }
-            },
-            "gtfsId": "8778",
-            "jt": "72",
+            "freq": null,
+            "gtfsId": null,
+            "jt": null,
             "nlbId": null,
             "orig": {
                 "en": "TUEN MUN ROAD BBI",
                 "zh": "\u5c6f\u9580\u516c\u8def\u8f49\u8eca\u7ad9"
             },
             "route": "A33",
-            "seq": 36,
+            "seq": 35,
             "serviceType": "2",
             "stops": {
                 "kmb": [
@@ -351687,8 +351574,7 @@
                     "0D5759F7A4B185FE",
                     "C552CE565E1F0C85",
                     "9C9F817064169CE7",
-                    "E48E4C46F64FFB0E",
-                    "21466046C6868AA7"
+                    "E48E4C46F64FFB0E"
                 ]
             }
         },
@@ -351816,6 +351702,164 @@
                 "en": "TUEN MUN (FU TAI ESTATE)",
                 "zh": "\u5c6f\u9580(\u5bcc\u6cf0\u90a8)"
             },
+            "fares": null,
+            "faresHoliday": null,
+            "freq": null,
+            "gtfsId": null,
+            "jt": null,
+            "nlbId": null,
+            "orig": {
+                "en": "AIRPORT (GROUND TRANSPORTATION CENTRE)",
+                "zh": "\u6a5f\u5834(\u5730\u9762\u904b\u8f38\u4e2d\u5fc3)"
+            },
+            "route": "A33X",
+            "seq": 15,
+            "serviceType": "1",
+            "stops": {
+                "kmb": [
+                    "0713774B2DB5E4D3",
+                    "09C223E13435C61D",
+                    "4B5144408E60BF11",
+                    "4566E35B3D2C20B5",
+                    "5055F6D68F0DD49D",
+                    "4D02E857ADDE8AAF",
+                    "818F12340BA8CA4B",
+                    "571FE1F0FBB26545",
+                    "C18A68BBD21DC5A6",
+                    "EE1D84187D47C96C",
+                    "A8B141D2ED68F7E1",
+                    "5A781879E83B56A6",
+                    "6B3EF5D982B399E6",
+                    "CDE9BBBDE0226995",
+                    "CBCE32D56C5263A9"
+                ]
+            }
+        },
+        "A33X+1+TUEN MUN (FU TAI ESTATE)+AIRPORT (GROUND TRANSPORTATION CENTRE)": {
+            "bound": {
+                "kmb": "O"
+            },
+            "co": [
+                "kmb"
+            ],
+            "dest": {
+                "en": "AIRPORT (GROUND TRANSPORTATION CENTRE)",
+                "zh": "\u6a5f\u5834(\u5730\u9762\u904b\u8f38\u4e2d\u5fc3)"
+            },
+            "fares": [
+                "15.7",
+                "15.7",
+                "15.7",
+                "15.7",
+                "15.7",
+                "15.7",
+                "15.7",
+                "15.7",
+                "15.7",
+                "15.7",
+                "15.7",
+                "15.7",
+                "15.7",
+                "15.7",
+                "15.7"
+            ],
+            "faresHoliday": null,
+            "freq": {
+                "287": {
+                    "0500": [
+                        "0520",
+                        "1200"
+                    ],
+                    "0520": [
+                        "0545",
+                        "1500"
+                    ],
+                    "0545": [
+                        "0645",
+                        "1200"
+                    ],
+                    "0645": [
+                        "0745",
+                        "900"
+                    ],
+                    "0745": [
+                        "0925",
+                        "1200"
+                    ],
+                    "0925": [
+                        "2255",
+                        "1800"
+                    ],
+                    "2255": [
+                        "2345",
+                        "1500"
+                    ]
+                },
+                "480": {
+                    "0500": [
+                        "0520",
+                        "1200"
+                    ],
+                    "0520": [
+                        "0545",
+                        "1500"
+                    ],
+                    "0545": [
+                        "1425",
+                        "1200"
+                    ],
+                    "1425": [
+                        "2255",
+                        "1800"
+                    ],
+                    "2255": [
+                        "2345",
+                        "1500"
+                    ]
+                }
+            },
+            "gtfsId": "8372",
+            "jt": "55",
+            "nlbId": null,
+            "orig": {
+                "en": "TUEN MUN (FU TAI ESTATE)",
+                "zh": "\u5c6f\u9580(\u5bcc\u6cf0\u90a8)"
+            },
+            "route": "A33X",
+            "seq": 16,
+            "serviceType": "1",
+            "stops": {
+                "kmb": [
+                    "CBCE32D56C5263A9",
+                    "5D7715C4BFFC9979",
+                    "CC3EF4757AA0964A",
+                    "E92E2723C1DBA061",
+                    "03E44C30CECCFCEC",
+                    "642F7D358D36F715",
+                    "F269ACD809D1B43E",
+                    "D74B67D55C63895F",
+                    "A859FDC2ED9ECEA1",
+                    "AF9FE138E3D5D5F0",
+                    "1D44677AEFBA8773",
+                    "18580F35B0A312CF",
+                    "C70342BF7C6A4732",
+                    "0D5759F7A4B185FE",
+                    "C552CE565E1F0C85",
+                    "21466046C6868AA7"
+                ]
+            }
+        },
+        "A33X+2+Cathay City+TUEN MUN (FU TAI ESTATE)": {
+            "bound": {
+                "kmb": "I"
+            },
+            "co": [
+                "kmb"
+            ],
+            "dest": {
+                "en": "TUEN MUN (FU TAI ESTATE)",
+                "zh": "\u5c6f\u9580(\u5bcc\u6cf0\u90a8)"
+            },
             "fares": [
                 "15.7",
                 "15.7",
@@ -351912,199 +351956,16 @@
             "jt": "55",
             "nlbId": null,
             "orig": {
-                "en": "AIRPORT (GROUND TRANSPORTATION CENTRE)",
-                "zh": "\u6a5f\u5834(\u5730\u9762\u904b\u8f38\u4e2d\u5fc3)"
-            },
-            "route": "A33X",
-            "seq": 16,
-            "serviceType": "1",
-            "stops": {
-                "kmb": [
-                    "0713774B2DB5E4D3",
-                    "79C1BD3A3E91091D",
-                    "09C223E13435C61D",
-                    "4B5144408E60BF11",
-                    "4566E35B3D2C20B5",
-                    "5055F6D68F0DD49D",
-                    "4D02E857ADDE8AAF",
-                    "818F12340BA8CA4B",
-                    "571FE1F0FBB26545",
-                    "C18A68BBD21DC5A6",
-                    "EE1D84187D47C96C",
-                    "A8B141D2ED68F7E1",
-                    "5A781879E83B56A6",
-                    "6B3EF5D982B399E6",
-                    "CDE9BBBDE0226995",
-                    "CBCE32D56C5263A9"
-                ]
-            }
-        },
-        "A33X+1+TUEN MUN (FU TAI ESTATE)+AIRPORT (GROUND TRANSPORTATION CENTRE)": {
-            "bound": {
-                "kmb": "O"
-            },
-            "co": [
-                "kmb"
-            ],
-            "dest": {
-                "en": "AIRPORT (GROUND TRANSPORTATION CENTRE)",
-                "zh": "\u6a5f\u5834(\u5730\u9762\u904b\u8f38\u4e2d\u5fc3)"
-            },
-            "fares": [
-                "15.7",
-                "15.7",
-                "15.7",
-                "15.7",
-                "15.7",
-                "15.7",
-                "15.7",
-                "15.7",
-                "15.7",
-                "15.7",
-                "15.7",
-                "15.7",
-                "15.7",
-                "15.7",
-                "15.7",
-                "15.7"
-            ],
-            "faresHoliday": null,
-            "freq": {
-                "287": {
-                    "0500": [
-                        "0520",
-                        "1200"
-                    ],
-                    "0520": [
-                        "0545",
-                        "1500"
-                    ],
-                    "0545": [
-                        "0645",
-                        "1200"
-                    ],
-                    "0645": [
-                        "0745",
-                        "900"
-                    ],
-                    "0745": [
-                        "0925",
-                        "1200"
-                    ],
-                    "0925": [
-                        "2255",
-                        "1800"
-                    ],
-                    "2255": [
-                        "2345",
-                        "1500"
-                    ]
-                },
-                "480": {
-                    "0500": [
-                        "0520",
-                        "1200"
-                    ],
-                    "0520": [
-                        "0545",
-                        "1500"
-                    ],
-                    "0545": [
-                        "1425",
-                        "1200"
-                    ],
-                    "1425": [
-                        "2255",
-                        "1800"
-                    ],
-                    "2255": [
-                        "2345",
-                        "1500"
-                    ]
-                }
-            },
-            "gtfsId": "8372",
-            "jt": "55",
-            "nlbId": null,
-            "orig": {
-                "en": "TUEN MUN (FU TAI ESTATE)",
-                "zh": "\u5c6f\u9580(\u5bcc\u6cf0\u90a8)"
-            },
-            "route": "A33X",
-            "seq": 17,
-            "serviceType": "1",
-            "stops": {
-                "kmb": [
-                    "CBCE32D56C5263A9",
-                    "5D7715C4BFFC9979",
-                    "CC3EF4757AA0964A",
-                    "E92E2723C1DBA061",
-                    "03E44C30CECCFCEC",
-                    "642F7D358D36F715",
-                    "F269ACD809D1B43E",
-                    "D74B67D55C63895F",
-                    "A859FDC2ED9ECEA1",
-                    "AF9FE138E3D5D5F0",
-                    "1D44677AEFBA8773",
-                    "18580F35B0A312CF",
-                    "C70342BF7C6A4732",
-                    "0D5759F7A4B185FE",
-                    "C552CE565E1F0C85",
-                    "F32C8A98A5D64A72",
-                    "21466046C6868AA7"
-                ]
-            }
-        },
-        "A33X+2+Cathay City+TUEN MUN (FU TAI ESTATE)": {
-            "bound": {
-                "kmb": "I"
-            },
-            "co": [
-                "kmb"
-            ],
-            "dest": {
-                "en": "TUEN MUN (FU TAI ESTATE)",
-                "zh": "\u5c6f\u9580(\u5bcc\u6cf0\u90a8)"
-            },
-            "fares": [
-                "15.7",
-                "15.7",
-                "15.7",
-                "15.7",
-                "15.7",
-                "6.8",
-                "6.8",
-                "6.8",
-                "6.8",
-                "6.8",
-                "6.8",
-                "6.8",
-                "6.8",
-                "6.8",
-                "6.8",
-                "6.8"
-            ],
-            "faresHoliday": null,
-            "freq": {
-                "287": {
-                    "1730": null
-                }
-            },
-            "gtfsId": "1000452",
-            "jt": "52",
-            "nlbId": null,
-            "orig": {
                 "en": "Cathay City",
                 "zh": "\u570b\u6cf0\u57ce"
             },
             "route": "A33X",
-            "seq": 17,
+            "seq": 16,
             "serviceType": "2",
             "stops": {
                 "kmb": [
                     "86201D4BB45ED201",
                     "0713774B2DB5E4D3",
-                    "79C1BD3A3E91091D",
                     "09C223E13435C61D",
                     "4B5144408E60BF11",
                     "4566E35B3D2C20B5",
@@ -352150,7 +352011,6 @@
                 "15.7",
                 "15.7",
                 "15.7",
-                "15.7",
                 "15.7"
             ],
             "faresHoliday": null,
@@ -352168,7 +352028,7 @@
                 "zh": "\u5c6f\u9580(\u5bcc\u6cf0\u90a8)"
             },
             "route": "A33X",
-            "seq": 19,
+            "seq": 18,
             "serviceType": "2",
             "stops": {
                 "kmb": [
@@ -352189,7 +352049,6 @@
                     "AAC64BCDD5B55A86",
                     "A99B6BB7F1628A08",
                     "C552CE565E1F0C85",
-                    "F32C8A98A5D64A72",
                     "21466046C6868AA7"
                 ]
             }
@@ -352361,7 +352220,6 @@
                 "15.7",
                 "15.7",
                 "15.7",
-                "15.7",
                 "15.7"
             ],
             "faresHoliday": null,
@@ -352409,7 +352267,7 @@
                 "zh": "\u6d2a\u6c34\u6a4b(\u6d2a\u5143\u8def)"
             },
             "route": "A34",
-            "seq": 32,
+            "seq": 31,
             "serviceType": "1",
             "stops": {
                 "kmb": [
@@ -352443,8 +352301,7 @@
                     "0221966C1116C4EC",
                     "C70342BF7C6A4732",
                     "0D5759F7A4B185FE",
-                    "C552CE565E1F0C85",
-                    "21466046C6868AA7"
+                    "C552CE565E1F0C85"
                 ]
             }
         },
@@ -352578,7 +352435,6 @@
                 "15.7",
                 "15.7",
                 "15.7",
-                "15.7",
                 "15.7"
             ],
             "faresHoliday": null,
@@ -352596,7 +352452,7 @@
                 "zh": "\u5146\u5eb7\u8def"
             },
             "route": "A34",
-            "seq": 22,
+            "seq": 21,
             "serviceType": "2",
             "stops": {
                 "kmb": [
@@ -352620,8 +352476,7 @@
                     "0221966C1116C4EC",
                     "C70342BF7C6A4732",
                     "0D5759F7A4B185FE",
-                    "C552CE565E1F0C85",
-                    "21466046C6868AA7"
+                    "C552CE565E1F0C85"
                 ]
             }
         },
@@ -352636,62 +352491,18 @@
                 "en": "AIRPORT (GROUND TRANSPORTATION CENTRE)",
                 "zh": "\u6a5f\u5834(\u5730\u9762\u904b\u8f38\u4e2d\u5fc3)"
             },
-            "fares": [
-                "15.7",
-                "15.7",
-                "15.7",
-                "15.7",
-                "15.7",
-                "15.7",
-                "15.7",
-                "15.7",
-                "15.7",
-                "15.7",
-                "15.7",
-                "15.7",
-                "15.7",
-                "15.7",
-                "15.7",
-                "15.7",
-                "15.7",
-                "15.7",
-                "15.7",
-                "15.7",
-                "15.7",
-                "15.7",
-                "15.7",
-                "15.7",
-                "15.7",
-                "15.7",
-                "15.7",
-                "15.7",
-                "15.7",
-                "15.7",
-                "15.7",
-                "15.7",
-                "15.7"
-            ],
+            "fares": null,
             "faresHoliday": null,
-            "freq": {
-                "511": {
-                    "0540": null,
-                    "0600": null,
-                    "0620": null,
-                    "0635": null,
-                    "0650": null,
-                    "0705": null,
-                    "0725": null
-                }
-            },
-            "gtfsId": "1000047",
-            "jt": "79",
+            "freq": null,
+            "gtfsId": null,
+            "jt": null,
             "nlbId": null,
             "orig": {
                 "en": "HUNG SHUI KIU (HUNG YUEN ROAD)",
                 "zh": "\u6d2a\u6c34\u6a4b(\u6d2a\u5143\u8def)"
             },
             "route": "A34",
-            "seq": 34,
+            "seq": 33,
             "serviceType": "3",
             "stops": {
                 "kmb": [
@@ -352727,8 +352538,7 @@
                     "0D5759F7A4B185FE",
                     "C552CE565E1F0C85",
                     "9C9F817064169CE7",
-                    "E48E4C46F64FFB0E",
-                    "21466046C6868AA7"
+                    "E48E4C46F64FFB0E"
                 ]
             }
         },
@@ -352743,46 +352553,18 @@
                 "en": "AIRPORT (GROUND TRANSPORTATION CENTRE)",
                 "zh": "\u6a5f\u5834(\u5730\u9762\u904b\u8f38\u4e2d\u5fc3)"
             },
-            "fares": [
-                "15.7",
-                "15.7",
-                "15.7",
-                "15.7",
-                "15.7",
-                "15.7",
-                "15.7",
-                "15.7",
-                "15.7",
-                "15.7",
-                "15.7",
-                "15.7",
-                "15.7",
-                "15.7",
-                "15.7",
-                "15.7",
-                "15.7",
-                "15.7",
-                "15.7",
-                "15.7",
-                "15.7",
-                "15.7",
-                "15.7"
-            ],
+            "fares": null,
             "faresHoliday": null,
-            "freq": {
-                "511": {
-                    "0600": null
-                }
-            },
-            "gtfsId": "1000049",
-            "jt": "60",
+            "freq": null,
+            "gtfsId": null,
+            "jt": null,
             "nlbId": null,
             "orig": {
                 "en": "Siu Hong Road",
                 "zh": "\u5146\u5eb7\u8def"
             },
             "route": "A34",
-            "seq": 24,
+            "seq": 23,
             "serviceType": "4",
             "stops": {
                 "kmb": [
@@ -352808,8 +352590,7 @@
                     "0D5759F7A4B185FE",
                     "C552CE565E1F0C85",
                     "9C9F817064169CE7",
-                    "E48E4C46F64FFB0E",
-                    "21466046C6868AA7"
+                    "E48E4C46F64FFB0E"
                 ]
             }
         },
@@ -354241,7 +354022,6 @@
                 "19.8",
                 "19.8",
                 "15.7",
-                "15.7",
                 "15.7"
             ],
             "faresHoliday": null,
@@ -354333,7 +354113,7 @@
                 "zh": "\u9326\u4e0a\u8def\u7ad9"
             },
             "route": "A36",
-            "seq": 19,
+            "seq": 18,
             "serviceType": "1",
             "stops": {
                 "kmb": [
@@ -354354,8 +354134,7 @@
                     "210978D525EEDF4F",
                     "C70342BF7C6A4732",
                     "0D5759F7A4B185FE",
-                    "C552CE565E1F0C85",
-                    "21466046C6868AA7"
+                    "C552CE565E1F0C85"
                 ]
             }
         },
@@ -354388,7 +354167,6 @@
                 "19.8",
                 "15.7",
                 "15.7",
-                "15.7",
                 "15.7"
             ],
             "faresHoliday": null,
@@ -354408,7 +354186,7 @@
                 "zh": "\u9326\u4e0a\u8def\u7ad9"
             },
             "route": "A36",
-            "seq": 20,
+            "seq": 19,
             "serviceType": "2",
             "stops": {
                 "kmb": [
@@ -354430,8 +354208,7 @@
                     "C70342BF7C6A4732",
                     "0D5759F7A4B185FE",
                     "AAC64BCDD5B55A86",
-                    "C552CE565E1F0C85",
-                    "21466046C6868AA7"
+                    "C552CE565E1F0C85"
                 ]
             }
         },
@@ -354535,7 +354312,6 @@
                 "15.7",
                 "15.7",
                 "15.7",
-                "15.7",
                 "15.7"
             ],
             "faresHoliday": null,
@@ -354552,7 +354328,7 @@
                 "zh": "\u9326\u4e0a\u8def\u7ad9"
             },
             "route": "A36",
-            "seq": 21,
+            "seq": 20,
             "serviceType": "3",
             "stops": {
                 "kmb": [
@@ -354575,8 +354351,7 @@
                     "0D5759F7A4B185FE",
                     "AAC64BCDD5B55A86",
                     "C552CE565E1F0C85",
-                    "D3B54388E91DAB57",
-                    "21466046C6868AA7"
+                    "D3B54388E91DAB57"
                 ]
             }
         },
@@ -354649,7 +354424,7 @@
                 "zh": "\u9326\u4e0a\u8def\u7ad9"
             },
             "route": "A36",
-            "seq": 20,
+            "seq": 19,
             "serviceType": "5",
             "stops": {
                 "kmb": [
@@ -354671,8 +354446,7 @@
                     "C70342BF7C6A4732",
                     "0D5759F7A4B185FE",
                     "C552CE565E1F0C85",
-                    "9C9F817064169CE7",
-                    "21466046C6868AA7"
+                    "9C9F817064169CE7"
                 ]
             }
         },
@@ -354899,7 +354673,6 @@
                 "19.8",
                 "19.8",
                 "15.7",
-                "15.7",
                 "15.7"
             ],
             "faresHoliday": null,
@@ -354991,7 +354764,7 @@
                 "zh": "\u6717\u5c4f\u7ad9"
             },
             "route": "A37",
-            "seq": 20,
+            "seq": 19,
             "serviceType": "1",
             "stops": {
                 "kmb": [
@@ -355013,8 +354786,7 @@
                     "241BD0C151A1B393",
                     "C70342BF7C6A4732",
                     "0D5759F7A4B185FE",
-                    "C552CE565E1F0C85",
-                    "21466046C6868AA7"
+                    "C552CE565E1F0C85"
                 ]
             }
         },
@@ -355077,47 +354849,18 @@
                 "en": "AIRPORT (GROUND TRANSPORTATION CENTRE)",
                 "zh": "\u6a5f\u5834(\u5730\u9762\u904b\u8f38\u4e2d\u5fc3)"
             },
-            "fares": [
-                "19.8",
-                "19.8",
-                "19.8",
-                "19.8",
-                "19.8",
-                "19.8",
-                "19.8",
-                "19.8",
-                "19.8",
-                "19.8",
-                "19.8",
-                "19.8",
-                "19.8",
-                "19.8",
-                "19.8",
-                "19.8",
-                "15.7",
-                "15.7",
-                "15.7",
-                "15.7",
-                "15.7"
-            ],
+            "fares": null,
             "faresHoliday": null,
-            "freq": {
-                "511": {
-                    "0600": [
-                        "0720",
-                        "1200"
-                    ]
-                }
-            },
-            "gtfsId": "8779",
-            "jt": "85",
+            "freq": null,
+            "gtfsId": null,
+            "jt": null,
             "nlbId": null,
             "orig": {
                 "en": "LONG PING STATION",
                 "zh": "\u6717\u5c4f\u7ad9"
             },
             "route": "A37",
-            "seq": 22,
+            "seq": 21,
             "serviceType": "2",
             "stops": {
                 "kmb": [
@@ -355141,8 +354884,7 @@
                     "0D5759F7A4B185FE",
                     "C552CE565E1F0C85",
                     "9C9F817064169CE7",
-                    "E48E4C46F64FFB0E",
-                    "21466046C6868AA7"
+                    "E48E4C46F64FFB0E"
                 ]
             }
         },
@@ -355276,7 +355018,6 @@
                 "19.8",
                 "19.8",
                 "19.8",
-                "19.8",
                 "19.8"
             ],
             "faresHoliday": null,
@@ -355304,7 +355045,7 @@
                 "zh": "\u8343\u7063(\u8343\u5a01\u82b1\u5712)"
             },
             "route": "A38",
-            "seq": 27,
+            "seq": 26,
             "serviceType": "1",
             "stops": {
                 "kmb": [
@@ -355333,8 +355074,7 @@
                     "412DEEF534E127AF",
                     "C552CE565E1F0C85",
                     "0D5759F7A4B185FE",
-                    "21466046C6868AA7",
-                    "5E1FA939586B3FD1"
+                    "21466046C6868AA7"
                 ]
             }
         },
@@ -355498,7 +355238,7 @@
                 ]
             }
         },
-        "A41+1+SHEK MUN ESTATE+AIRPORT (GROUND TRANSPORTATION CENTRE)": {
+        "A41+1+SHEK MUN BUS TERMINUS (ST992)+AIRPORT (GTC) BUS TERMINUS (CL900)": {
             "bound": {
                 "kmb": "O"
             },
@@ -355506,8 +355246,8 @@
                 "kmb"
             ],
             "dest": {
-                "en": "AIRPORT (GROUND TRANSPORTATION CENTRE)",
-                "zh": "\u6a5f\u5834(\u5730\u9762\u904b\u8f38\u4e2d\u5fc3)"
+                "en": "AIRPORT (GTC) BUS TERMINUS (CL900)",
+                "zh": "\u6a5f\u5834(\u5730\u9762\u904b\u8f38\u4e2d\u5fc3)\u5df4\u58eb\u7e3d\u7ad9"
             },
             "fares": [
                 "23.4",
@@ -355583,8 +355323,8 @@
             "jt": "84",
             "nlbId": null,
             "orig": {
-                "en": "SHEK MUN ESTATE",
-                "zh": "\u78a9\u9580\u90a8"
+                "en": "SHEK MUN BUS TERMINUS (ST992)",
+                "zh": "\u77f3\u9580\u7e3d\u7ad9 (ST992)"
             },
             "route": "A41",
             "seq": 22,
@@ -355613,6 +355353,56 @@
                     "C552CE565E1F0C85",
                     "0D5759F7A4B185FE",
                     "21466046C6868AA7"
+                ]
+            }
+        },
+        "A41+1+SHEK MUN ESTATE+AIRPORT (GROUND TRANSPORTATION CENTRE)": {
+            "bound": {
+                "kmb": "O"
+            },
+            "co": [
+                "kmb"
+            ],
+            "dest": {
+                "en": "AIRPORT (GROUND TRANSPORTATION CENTRE)",
+                "zh": "\u6a5f\u5834(\u5730\u9762\u904b\u8f38\u4e2d\u5fc3)"
+            },
+            "fares": null,
+            "faresHoliday": null,
+            "freq": null,
+            "gtfsId": null,
+            "jt": null,
+            "nlbId": null,
+            "orig": {
+                "en": "SHEK MUN ESTATE",
+                "zh": "\u78a9\u9580\u90a8"
+            },
+            "route": "A41",
+            "seq": 21,
+            "serviceType": "1",
+            "stops": {
+                "kmb": [
+                    "24F7097D1D913EC5",
+                    "F0B624403EB4108C",
+                    "4C236D0FBDFDDA6E",
+                    "9F527C21FE33EF58",
+                    "EFB9F85F98113CB0",
+                    "55B5E2A727CAA86D",
+                    "E757600B79B0B2AC",
+                    "4039C75BB85BF238",
+                    "FCCAC3FC3C8A66E2",
+                    "197315C40E767929",
+                    "6ACFA599CC0EA4E0",
+                    "CA89494AD121A8DC",
+                    "FCA7A9D99D36338B",
+                    "2E0FD54FCF000E13",
+                    "4F09976CA4CF80C9",
+                    "F01D5D94B03AA8A2",
+                    "1983BD4319FB2713",
+                    "673B33867260EBB7",
+                    "412DEEF534E127AF",
+                    "C552CE565E1F0C85",
+                    "0D5759F7A4B185FE"
                 ]
             }
         },
@@ -355797,7 +355587,7 @@
                 "zh": "\u78a9\u9580\u90a8"
             },
             "route": "A41",
-            "seq": 23,
+            "seq": 22,
             "serviceType": "5",
             "stops": {
                 "kmb": [
@@ -355822,8 +355612,7 @@
                     "412DEEF534E127AF",
                     "C552CE565E1F0C85",
                     "9C9F817064169CE7",
-                    "0D5759F7A4B185FE",
-                    "21466046C6868AA7"
+                    "0D5759F7A4B185FE"
                 ]
             }
         },
@@ -355967,7 +355756,6 @@
                 "23.4",
                 "23.4",
                 "19.8",
-                "19.8",
                 "19.8"
             ],
             "faresHoliday": null,
@@ -355999,7 +355787,7 @@
                 "zh": "\u70cf\u6eaa\u6c99\u7ad9"
             },
             "route": "A41P",
-            "seq": 23,
+            "seq": 22,
             "serviceType": "1",
             "stops": {
                 "kmb": [
@@ -356024,8 +355812,7 @@
                     "673B33867260EBB7",
                     "412DEEF534E127AF",
                     "C552CE565E1F0C85",
-                    "0D5759F7A4B185FE",
-                    "21466046C6868AA7"
+                    "0D5759F7A4B185FE"
                 ]
             }
         },
@@ -356212,7 +355999,6 @@
                 "23.4",
                 "23.4",
                 "19.8",
-                "19.8",
                 "19.8"
             ],
             "faresHoliday": null,
@@ -356229,7 +356015,7 @@
                 "zh": "\u897f\u6c99\u7063\u4ea4\u901a\u4ea4\u532f\u8655"
             },
             "route": "A41P",
-            "seq": 28,
+            "seq": 27,
             "serviceType": "3",
             "stops": {
                 "kmb": [
@@ -356259,8 +356045,7 @@
                     "673B33867260EBB7",
                     "412DEEF534E127AF",
                     "C552CE565E1F0C85",
-                    "0D5759F7A4B185FE",
-                    "21466046C6868AA7"
+                    "0D5759F7A4B185FE"
                 ]
             }
         },
@@ -356396,7 +356181,6 @@
                 "23.4",
                 "23.4",
                 "19.8",
-                "19.8",
                 "19.8"
             ],
             "faresHoliday": null,
@@ -356434,7 +356218,7 @@
                 "zh": "\u9ec3\u6ce5\u982d"
             },
             "route": "A42",
-            "seq": 23,
+            "seq": 22,
             "serviceType": "1",
             "stops": {
                 "kmb": [
@@ -356459,8 +356243,7 @@
                     "673B33867260EBB7",
                     "412DEEF534E127AF",
                     "0D5759F7A4B185FE",
-                    "C552CE565E1F0C85",
-                    "21466046C6868AA7"
+                    "C552CE565E1F0C85"
                 ]
             }
         },
@@ -356608,7 +356391,6 @@
                 "32.4",
                 "29",
                 "19.8",
-                "19.8",
                 "19.8"
             ],
             "faresHoliday": null,
@@ -356658,7 +356440,7 @@
                 "zh": "\u7c89\u5dba(\u806f\u548c\u589f)"
             },
             "route": "A43",
-            "seq": 21,
+            "seq": 20,
             "serviceType": "1",
             "stops": {
                 "kmb": [
@@ -356681,8 +356463,7 @@
                     "564C0ECAAC09C371",
                     "412DEEF534E127AF",
                     "C552CE565E1F0C85",
-                    "0D5759F7A4B185FE",
-                    "21466046C6868AA7"
+                    "0D5759F7A4B185FE"
                 ]
             }
         },
@@ -356717,7 +356498,6 @@
                 "29",
                 "19.8",
                 "19.8",
-                "19.8",
                 "19.8"
             ],
             "faresHoliday": null,
@@ -356747,7 +356527,7 @@
                 "zh": "\u7c89\u5dba(\u806f\u548c\u589f)"
             },
             "route": "A43",
-            "seq": 22,
+            "seq": 21,
             "serviceType": "2",
             "stops": {
                 "kmb": [
@@ -356771,8 +356551,7 @@
                     "412DEEF534E127AF",
                     "AAC64BCDD5B55A86",
                     "C552CE565E1F0C85",
-                    "0D5759F7A4B185FE",
-                    "21466046C6868AA7"
+                    "0D5759F7A4B185FE"
                 ]
             }
         },
@@ -356866,7 +356645,6 @@
                 "29",
                 "19.8",
                 "19.8",
-                "19.8",
                 "19.8"
             ],
             "faresHoliday": null,
@@ -356888,7 +356666,7 @@
                 "zh": "\u7c89\u5dba(\u806f\u548c\u589f)"
             },
             "route": "A43P",
-            "seq": 15,
+            "seq": 14,
             "serviceType": "1",
             "stops": {
                 "kmb": [
@@ -356905,8 +356683,7 @@
                     "412DEEF534E127AF",
                     "C552CE565E1F0C85",
                     "9C9F817064169CE7",
-                    "0D5759F7A4B185FE",
-                    "21466046C6868AA7"
+                    "0D5759F7A4B185FE"
                 ]
             }
         },
@@ -357075,7 +356852,6 @@
                 "29",
                 "19.8",
                 "19.8",
-                "19.8",
                 "19.8"
             ],
             "faresHoliday": null,
@@ -357093,7 +356869,7 @@
                 "zh": "\u7687\u540e\u5c71"
             },
             "route": "A43P",
-            "seq": 19,
+            "seq": 18,
             "serviceType": "3",
             "stops": {
                 "kmb": [
@@ -357114,8 +356890,7 @@
                     "412DEEF534E127AF",
                     "C552CE565E1F0C85",
                     "9C9F817064169CE7",
-                    "0D5759F7A4B185FE",
-                    "21466046C6868AA7"
+                    "0D5759F7A4B185FE"
                 ]
             }
         },
@@ -357262,7 +357037,6 @@
                 "23.4",
                 "23.4",
                 "19.8",
-                "19.8",
                 "19.8"
             ],
             "faresHoliday": null,
@@ -357320,7 +357094,7 @@
                 "zh": "\u706b\u70ad(\u99ff\u666f\u5712)"
             },
             "route": "A46",
-            "seq": 16,
+            "seq": 15,
             "serviceType": "1",
             "stops": {
                 "kmb": [
@@ -357338,8 +357112,7 @@
                     "673B33867260EBB7",
                     "412DEEF534E127AF",
                     "0D5759F7A4B185FE",
-                    "C552CE565E1F0C85",
-                    "21466046C6868AA7"
+                    "C552CE565E1F0C85"
                 ]
             }
         },
@@ -357440,7 +357213,6 @@
                 "29",
                 "29",
                 "19.8",
-                "19.8",
                 "19.8"
             ],
             "faresHoliday": null,
@@ -357475,7 +357247,7 @@
                 "zh": "\u5927\u57d4(\u592a\u548c)"
             },
             "route": "A47X",
-            "seq": 18,
+            "seq": 17,
             "serviceType": "1",
             "stops": {
                 "kmb": [
@@ -357495,8 +357267,7 @@
                     "673B33867260EBB7",
                     "412DEEF534E127AF",
                     "C552CE565E1F0C85",
-                    "0D5759F7A4B185FE",
-                    "21466046C6868AA7"
+                    "0D5759F7A4B185FE"
                 ]
             }
         },
@@ -357614,7 +357385,6 @@
                 "29",
                 "29",
                 "19.8",
-                "19.8",
                 "19.8"
             ],
             "faresHoliday": null,
@@ -357634,7 +357404,7 @@
                 "zh": "\u5927\u57d4(\u592a\u548c)"
             },
             "route": "A47X",
-            "seq": 27,
+            "seq": 26,
             "serviceType": "2",
             "stops": {
                 "kmb": [
@@ -357663,8 +357433,7 @@
                     "673B33867260EBB7",
                     "412DEEF534E127AF",
                     "C552CE565E1F0C85",
-                    "0D5759F7A4B185FE",
-                    "21466046C6868AA7"
+                    "0D5759F7A4B185FE"
                 ]
             }
         },
@@ -357782,7 +357551,6 @@
                 "29",
                 "19.8",
                 "19.8",
-                "19.8",
                 "19.8"
             ],
             "faresHoliday": null,
@@ -357799,7 +357567,7 @@
                 "zh": "\u5927\u57d4(\u592a\u548c)"
             },
             "route": "A47X",
-            "seq": 28,
+            "seq": 27,
             "serviceType": "3",
             "stops": {
                 "kmb": [
@@ -357829,8 +357597,7 @@
                     "412DEEF534E127AF",
                     "AAC64BCDD5B55A86",
                     "C552CE565E1F0C85",
-                    "0D5759F7A4B185FE",
-                    "21466046C6868AA7"
+                    "0D5759F7A4B185FE"
                 ]
             }
         },
@@ -413954,7 +413721,7 @@
                 "zh": "\u5927\u89d2\u5480 (\u6d77\u8f1d\u9053)"
             },
             "route": "NA21",
-            "seq": 9,
+            "seq": 10,
             "serviceType": 1,
             "stops": {
                 "ctb": [
@@ -413965,6 +413732,7 @@
                     "001853",
                     "001844",
                     "002714",
+                    "002715",
                     "003550",
                     "003540"
                 ]
@@ -414232,7 +414000,6 @@
                 "34.6",
                 "34.6",
                 "34.6",
-                "34.6",
                 "34.6"
             ],
             "faresHoliday": null,
@@ -414250,7 +414017,7 @@
                 "zh": "\u68a8\u6728\u6a39"
             },
             "route": "NA30",
-            "seq": 18,
+            "seq": 17,
             "serviceType": "1",
             "stops": {
                 "kmb": [
@@ -414270,8 +414037,7 @@
                     "412DEEF534E127AF",
                     "AAC64BCDD5B55A86",
                     "C552CE565E1F0C85",
-                    "0D5759F7A4B185FE",
-                    "9F9D5E46754C52D4"
+                    "0D5759F7A4B185FE"
                 ]
             }
         },
@@ -414366,7 +414132,6 @@
                 "34.6",
                 "34.6",
                 "34.6",
-                "34.6",
                 "34.6"
             ],
             "faresHoliday": null,
@@ -414385,7 +414150,7 @@
                 "zh": "\u8343\u7063(\u5982\u5fc3\u5ee3\u5834)"
             },
             "route": "NA31",
-            "seq": 16,
+            "seq": 15,
             "serviceType": "1",
             "stops": {
                 "kmb": [
@@ -414403,8 +414168,7 @@
                     "412DEEF534E127AF",
                     "AAC64BCDD5B55A86",
                     "C552CE565E1F0C85",
-                    "0D5759F7A4B185FE",
-                    "35178229BDA14084"
+                    "0D5759F7A4B185FE"
                 ]
             }
         },
@@ -414516,7 +414280,6 @@
                 "34.6",
                 "34.6",
                 "34.6",
-                "34.6",
                 "34.6"
             ],
             "faresHoliday": null,
@@ -414534,7 +414297,7 @@
                 "zh": "\u8475\u6d8c\u90a8"
             },
             "route": "NA32",
-            "seq": 24,
+            "seq": 23,
             "serviceType": "1",
             "stops": {
                 "kmb": [
@@ -414560,8 +414323,7 @@
                     "412DEEF534E127AF",
                     "AAC64BCDD5B55A86",
                     "C552CE565E1F0C85",
-                    "0D5759F7A4B185FE",
-                    "9F9D5E46754C52D4"
+                    "0D5759F7A4B185FE"
                 ]
             }
         },
@@ -414703,7 +414465,6 @@
                 "29.3",
                 "29.3",
                 "29.3",
-                "29.3",
                 "29.3"
             ],
             "faresHoliday": null,
@@ -414725,7 +414486,7 @@
                 "zh": "\u5c6f\u9580(\u5bcc\u6cf0\u90a8)"
             },
             "route": "NA33",
-            "seq": 31,
+            "seq": 30,
             "serviceType": "1",
             "stops": {
                 "kmb": [
@@ -414758,8 +414519,7 @@
                     "0221966C1116C4EC",
                     "C70342BF7C6A4732",
                     "0D5759F7A4B185FE",
-                    "C552CE565E1F0C85",
-                    "AAC64BCDD5B55A86"
+                    "C552CE565E1F0C85"
                 ]
             }
         },
@@ -414873,7 +414633,6 @@
                 "34.6",
                 "34.6",
                 "29.3",
-                "29.3",
                 "29.3"
             ],
             "faresHoliday": null,
@@ -414897,7 +414656,7 @@
                 "zh": "\u9326\u4e0a\u8def\u7ad9"
             },
             "route": "NA36",
-            "seq": 21,
+            "seq": 20,
             "serviceType": "1",
             "stops": {
                 "kmb": [
@@ -414920,8 +414679,7 @@
                     "98197302E98C548E",
                     "C70342BF7C6A4732",
                     "0D5759F7A4B185FE",
-                    "C552CE565E1F0C85",
-                    "AAC64BCDD5B55A86"
+                    "C552CE565E1F0C85"
                 ]
             }
         },
@@ -415058,7 +414816,6 @@
                 "34.6",
                 "34.6",
                 "29.3",
-                "29.3",
                 "29.3"
             ],
             "faresHoliday": null,
@@ -415079,7 +414836,7 @@
                 "zh": "\u5929\u6c34\u570d\u5e02\u4e2d\u5fc3"
             },
             "route": "NA37",
-            "seq": 30,
+            "seq": 29,
             "serviceType": "1",
             "stops": {
                 "kmb": [
@@ -415111,8 +414868,7 @@
                     "98197302E98C548E",
                     "C70342BF7C6A4732",
                     "0D5759F7A4B185FE",
-                    "C552CE565E1F0C85",
-                    "AAC64BCDD5B55A86"
+                    "C552CE565E1F0C85"
                 ]
             }
         },
@@ -415241,7 +414997,6 @@
                 "41.9",
                 "41.9",
                 "41.9",
-                "41.9",
                 "41.9"
             ],
             "faresHoliday": null,
@@ -415261,7 +415016,7 @@
                 "zh": "\u70cf\u6eaa\u6c99\u7ad9"
             },
             "route": "NA40",
-            "seq": 28,
+            "seq": 27,
             "serviceType": "1",
             "stops": {
                 "kmb": [
@@ -415291,8 +415046,7 @@
                     "412DEEF534E127AF",
                     "AAC64BCDD5B55A86",
                     "C552CE565E1F0C85",
-                    "0D5759F7A4B185FE",
-                    "A7378EEEBFA0C76C"
+                    "0D5759F7A4B185FE"
                 ]
             }
         },
@@ -415433,7 +415187,6 @@
                 "41.9",
                 "41.9",
                 "41.9",
-                "41.9",
                 "41.9"
             ],
             "faresHoliday": null,
@@ -415451,7 +415204,7 @@
                 "zh": "\u6c34\u6cc9\u6fb3"
             },
             "route": "NA41",
-            "seq": 34,
+            "seq": 33,
             "serviceType": "1",
             "stops": {
                 "kmb": [
@@ -415487,8 +415240,7 @@
                     "412DEEF534E127AF",
                     "AAC64BCDD5B55A86",
                     "C552CE565E1F0C85",
-                    "0D5759F7A4B185FE",
-                    "38A38CABCA7969CF"
+                    "0D5759F7A4B185FE"
                 ]
             }
         },
@@ -415524,7 +415276,6 @@
                 "41.9",
                 "41.9",
                 "41.9",
-                "41.9",
                 "41.9"
             ],
             "faresHoliday": null,
@@ -415545,7 +415296,7 @@
                 "zh": "\u7c89\u5dba(\u806f\u548c\u589f)"
             },
             "route": "NA43",
-            "seq": 23,
+            "seq": 22,
             "serviceType": "1",
             "stops": {
                 "kmb": [
@@ -415570,8 +415321,7 @@
                     "412DEEF534E127AF",
                     "AAC64BCDD5B55A86",
                     "C552CE565E1F0C85",
-                    "0D5759F7A4B185FE",
-                    "192BF77E794E87E1"
+                    "0D5759F7A4B185FE"
                 ]
             }
         },
@@ -415772,7 +415522,6 @@
                 "44.5",
                 "34.6",
                 "34.6",
-                "34.6",
                 "34.6"
             ],
             "faresHoliday": null,
@@ -415791,7 +415540,7 @@
                 "zh": "\u5927\u57d4(\u592a\u548c)"
             },
             "route": "NA47",
-            "seq": 27,
+            "seq": 26,
             "serviceType": "1",
             "stops": {
                 "kmb": [
@@ -415820,8 +415569,7 @@
                     "412DEEF534E127AF",
                     "AAC64BCDD5B55A86",
                     "C552CE565E1F0C85",
-                    "0D5759F7A4B185FE",
-                    "09836E367F4BA3E2"
+                    "0D5759F7A4B185FE"
                 ]
             }
         },
@@ -415970,7 +415718,6 @@
                 "29.3",
                 "29.3",
                 "29.3",
-                "29.3",
                 "29.3"
             ],
             "faresHoliday": null,
@@ -415988,7 +415735,7 @@
                 "zh": "\u5c6f\u9580\u516c\u8def\u8f49\u8eca\u7ad9(\u4e5d\u9f8d\u65b9\u5411)"
             },
             "route": "NA52",
-            "seq": 34,
+            "seq": 33,
             "serviceType": "1",
             "stops": {
                 "kmb": [
@@ -416024,8 +415771,7 @@
                     "0221966C1116C4EC",
                     "C70342BF7C6A4732",
                     "0D5759F7A4B185FE",
-                    "C552CE565E1F0C85",
-                    "AAC64BCDD5B55A86"
+                    "C552CE565E1F0C85"
                 ]
             }
         },
@@ -445375,6 +445121,16 @@
                 "zh": "\u6a5f\u5834 (1 \u865f\u5ba2\u904b\u5927\u6a13)"
             }
         },
+        "002715": {
+            "location": {
+                "lat": 22.31564,
+                "lng": 113.93779
+            },
+            "name": {
+                "en": "Airport (Terminal Two)",
+                "zh": "\u6a5f\u5834 (2 \u865f\u5ba2\u904b\u5927\u6a13)"
+            }
+        },
         "002716": {
             "location": {
                 "lat": 22.32117,
@@ -455137,8 +454893,8 @@
         },
         "003877": {
             "location": {
-                "lat": 22.31569,
-                "lng": 114.20301
+                "lat": 22.31544,
+                "lng": 114.20362
             },
             "name": {
                 "en": "Twin Victoria, Shing Fung Road",
@@ -612883,10 +612639,6 @@
             [
                 "kmb",
                 "79C1BD3A3E91091D"
-            ],
-            [
-                "kmb",
-                "F32C8A98A5D64A72"
             ]
         ],
         "003817": [
@@ -619649,10 +619401,6 @@
             [
                 "kmb",
                 "79C1BD3A3E91091D"
-            ],
-            [
-                "kmb",
-                "F32C8A98A5D64A72"
             ]
         ],
         "0F4D809AED62F6E9": [
@@ -669901,6 +669649,12 @@
                 "600158E293C9354E"
             ]
         ],
+        "20018016": [
+            [
+                "kmb",
+                "D3B54388E91DAB57"
+            ]
+        ],
         "20018017": [
             [
                 "ctb",
@@ -700227,10 +699981,6 @@
             [
                 "kmb",
                 "79C1BD3A3E91091D"
-            ],
-            [
-                "kmb",
-                "F32C8A98A5D64A72"
             ]
         ],
         "57ED9CF67F4D6AC4": [
@@ -714899,10 +714649,6 @@
             [
                 "kmb",
                 "57EB54AE06E21275"
-            ],
-            [
-                "kmb",
-                "F32C8A98A5D64A72"
             ]
         ],
         "79D10A715EAC0EFF": [
@@ -746305,6 +746051,10 @@
             [
                 "ctb",
                 "003395"
+            ],
+            [
+                "nlb",
+                "117"
             ]
         ],
         "C55F50E43F6108EB": [
@@ -752293,6 +752043,16 @@
             [
                 "gmb",
                 "20012992"
+            ]
+        ],
+        "D3B54388E91DAB57": [
+            [
+                "gmb",
+                "20018016"
+            ],
+            [
+                "ctb",
+                "003588"
             ]
         ],
         "D3BE07119A817573": [
