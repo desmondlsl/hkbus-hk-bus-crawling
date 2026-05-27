@@ -77192,7 +77192,7 @@
                     "A4F1BEF1EEAD0910",
                     "4EBE182141C52094",
                     "E1C5246F946E2D86",
-                    "34AD4356DEF0E0BD"
+                    "0E129862160C8DAD"
                 ]
             }
         },
@@ -88377,7 +88377,7 @@
                     "A4F1BEF1EEAD0910",
                     "4EBE182141C52094",
                     "E1C5246F946E2D86",
-                    "131A8DDFC3837AD7"
+                    "0E129862160C8DAD"
                 ]
             }
         },
@@ -347973,9 +347973,9 @@
                 ]
             }
         },
-        "A23+1+Airport (via HZMB Hong Kong Port)+Tsz Wan Shan (North)": {
+        "A23+1+Airport (Ground Transportation Centre)+Tsz Wan Shan (North)": {
             "bound": {
-                "ctb": "I"
+                "ctb": "OI"
             },
             "co": [
                 "ctb"
@@ -348031,16 +348031,77 @@
             "jt": "96",
             "nlbId": null,
             "orig": {
+                "en": "Airport (Ground Transportation Centre)",
+                "zh": "\u6a5f\u5834 (\u5730\u9762\u904b\u8f38\u4e2d\u5fc3)"
+            },
+            "route": "A23",
+            "seq": 33,
+            "serviceType": "1",
+            "stops": {
+                "ctb": [
+                    "001837",
+                    "001837",
+                    "003540",
+                    "001854",
+                    "002032",
+                    "001435",
+                    "001436",
+                    "001437",
+                    "001438",
+                    "001442",
+                    "001802",
+                    "001445",
+                    "003806",
+                    "003144",
+                    "002824",
+                    "003807",
+                    "001460",
+                    "001461",
+                    "001462",
+                    "001485",
+                    "001467",
+                    "001468",
+                    "003803",
+                    "001816",
+                    "001469",
+                    "001708",
+                    "001709",
+                    "001710",
+                    "003033",
+                    "001711",
+                    "001712",
+                    "001758",
+                    "001757"
+                ]
+            }
+        },
+        "A23+1+Airport (via HZMB Hong Kong Port)+Tsz Wan Shan (North)": {
+            "bound": {
+                "ctb": "I"
+            },
+            "co": [
+                "ctb"
+            ],
+            "dest": {
+                "en": "Tsz Wan Shan (North)",
+                "zh": "\u6148\u96f2\u5c71 (\u5317)"
+            },
+            "fares": null,
+            "faresHoliday": null,
+            "freq": null,
+            "gtfsId": null,
+            "jt": null,
+            "nlbId": null,
+            "orig": {
                 "en": "Airport (via HZMB Hong Kong Port)",
                 "zh": "\u6a5f\u5834 (\u7d93\u6e2f\u73e0\u6fb3\u5927\u6a4b\u9999\u6e2f\u53e3\u5cb8)"
             },
             "route": "A23",
-            "seq": 33,
+            "seq": 32,
             "serviceType": 1,
             "stops": {
                 "ctb": [
                     "001837",
-                    "003816",
                     "003540",
                     "001854",
                     "002032",
@@ -445376,7 +445437,7 @@
                 "lng": 113.93595
             },
             "name": {
-                "en": "Airport (Terminal One)",
+                "en": "Airport (Terminal 1)",
                 "zh": "\u6a5f\u5834 (1 \u865f\u5ba2\u904b\u5927\u6a13)"
             }
         },
@@ -445386,7 +445447,7 @@
                 "lng": 113.93779
             },
             "name": {
-                "en": "Airport (Terminal Two)",
+                "en": "Airport (Terminal 2)",
                 "zh": "\u6a5f\u5834 (2 \u865f\u5ba2\u904b\u5927\u6a13)"
             }
         },
@@ -458768,6 +458829,16 @@
             "name": {
                 "en": "FU TUNG PLAZA (TC418)",
                 "zh": "\u5bcc\u6771\u5ee3\u5834 (TC418)"
+            }
+        },
+        "0E129862160C8DAD": {
+            "location": {
+                "lat": 22.42134,
+                "lng": 114.06439
+            },
+            "name": {
+                "en": "PAT HEUNG ROAD B/T (TAI LAM TUNNEL BBI)",
+                "zh": "\u516b\u9109\u8def\u7e3d\u7ad9 (\u5927\u6b16\u96a7\u9053\u8f49\u8eca\u7ad9)"
             }
         },
         "0E2175C0750054FE": {
@@ -542716,8 +542787,8 @@
                 "lng": 114.22487
             },
             "name": {
-                "en": "KWUN TONG (YUE MAN SQUARE) BUS TERMINUS (KT920)",
-                "zh": "\u89c0\u5858(\u88d5\u6c11\u574a)\u7e3d\u7ad9 (KT920)"
+                "en": "KWUN TONG (YUE MAN SQUARE) BUS TERMINUS (KT919)",
+                "zh": "\u89c0\u5858(\u88d5\u6c11\u574a)\u7e3d\u7ad9 (KT919)"
             }
         },
         "8B9E121BB71771F4": {
@@ -619152,6 +619223,12 @@
             [
                 "kmb",
                 "F2F74DC6ADD35CFF"
+            ]
+        ],
+        "0E129862160C8DAD": [
+            [
+                "gmb",
+                "20016446"
             ]
         ],
         "0E2175C0750054FE": [
