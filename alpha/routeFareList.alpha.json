@@ -169519,7 +169519,7 @@
                 ]
             }
         },
-        "47P+1+Kennedy Town (Belcher Bay)+Wong Chuk Hang": {
+        "47P+1+Kennedy Town+Wong Chuk Hang": {
             "bound": {
                 "ctb": "O"
             },
@@ -169574,8 +169574,8 @@
             "jt": "53",
             "nlbId": null,
             "orig": {
-                "en": "Kennedy Town (Belcher Bay)",
-                "zh": "\u5805\u5c3c\u5730\u57ce (\u5351\u8def\u4e4d\u7063)"
+                "en": "Kennedy Town",
+                "zh": "\u5805\u5c3c\u5730\u57ce"
             },
             "route": "47P",
             "seq": 31,
@@ -309380,7 +309380,7 @@
                     "AFC5E64568DBB2D5",
                     "739A5DDE0CF1970C",
                     "9E95343C77BB85E2",
-                    "F808AF482CCA028E",
+                    "2D1A8946EF054FC9",
                     "BE940A2F1B154D6E",
                     "E8F5E085BAEFE100",
                     "3313B37BF82AFF18",
@@ -309458,7 +309458,7 @@
                     "548DB838B4673D93",
                     "739A5DDE0CF1970C",
                     "9E95343C77BB85E2",
-                    "F808AF482CCA028E",
+                    "2D1A8946EF054FC9",
                     "BE940A2F1B154D6E",
                     "E8F5E085BAEFE100",
                     "3313B37BF82AFF18",
@@ -361386,7 +361386,7 @@
                 ]
             }
         },
-        "B7+1+Heung Yuen Wai (Liantang) Port (via Fanling Station)+Sheung Shui (Po Wan Road) (via Fanling Station)": {
+        "B7+1+Heung Yuen Wai Port (via Fanling Station)+Sheung Shui (Po Wan Road) (via Fanling Station)": {
             "bound": {
                 "ctb": "I"
             },
@@ -361504,8 +361504,8 @@
             "jt": "32",
             "nlbId": null,
             "orig": {
-                "en": "Heung Yuen Wai (Liantang) Port (via Fanling Station)",
-                "zh": "\u9999\u5712\u570d (\u84ee\u5858) \u53e3\u5cb8 (\u7d93\u7c89\u5dba\u7ad9)"
+                "en": "Heung Yuen Wai Port (via Fanling Station)",
+                "zh": "\u9999\u5712\u570d\u53e3\u5cb8 (\u7d93\u7c89\u5dba\u7ad9)"
             },
             "route": "B7",
             "seq": 9,
@@ -361524,7 +361524,7 @@
                 ]
             }
         },
-        "B7+1+Sheung Shui (Po Wan Road) (via Fanling Station)+Heung Yuen Wai (Liantang) Port (via Fanling Station)": {
+        "B7+1+Sheung Shui (Po Wan Road) (via Fanling Station)+Heung Yuen Wai Port (via Fanling Station)": {
             "bound": {
                 "ctb": "O"
             },
@@ -361532,8 +361532,8 @@
                 "ctb"
             ],
             "dest": {
-                "en": "Heung Yuen Wai (Liantang) Port (via Fanling Station)",
-                "zh": "\u9999\u5712\u570d (\u84ee\u5858) \u53e3\u5cb8 (\u7d93\u7c89\u5dba\u7ad9)"
+                "en": "Heung Yuen Wai Port (via Fanling Station)",
+                "zh": "\u9999\u5712\u570d\u53e3\u5cb8 (\u7d93\u7c89\u5dba\u7ad9)"
             },
             "fares": [
                 "11.3",
@@ -361636,7 +361636,7 @@
                 ]
             }
         },
-        "B8+1+Heung Yuen Wai (Liantang) Port (via Tai Po)+Tai Wai Station (via Tai Po)": {
+        "B8+1+Heung Yuen Wai Port (via Tai Po)+Tai Wai Station (via Tai Po)": {
             "bound": {
                 "ctb": "I"
             },
@@ -362160,8 +362160,8 @@
             "jt": "53",
             "nlbId": null,
             "orig": {
-                "en": "Heung Yuen Wai (Liantang) Port (via Tai Po)",
-                "zh": "\u9999\u5712\u570d (\u84ee\u5858) \u53e3\u5cb8 (\u7d93\u5927\u57d4)"
+                "en": "Heung Yuen Wai Port (via Tai Po)",
+                "zh": "\u9999\u5712\u570d\u53e3\u5cb8 (\u7d93\u5927\u57d4)"
             },
             "route": "B8",
             "seq": 15,
@@ -362186,7 +362186,7 @@
                 ]
             }
         },
-        "B8+1+Tai Wai Station (via Tai Po)+Heung Yuen Wai (Liantang) Port (via Tai Po)": {
+        "B8+1+Tai Wai Station (via Tai Po)+Heung Yuen Wai Port (via Tai Po)": {
             "bound": {
                 "ctb": "O"
             },
@@ -362194,8 +362194,8 @@
                 "ctb"
             ],
             "dest": {
-                "en": "Heung Yuen Wai (Liantang) Port (via Tai Po)",
-                "zh": "\u9999\u5712\u570d (\u84ee\u5858) \u53e3\u5cb8 (\u7d93\u5927\u57d4)"
+                "en": "Heung Yuen Wai Port (via Tai Po)",
+                "zh": "\u9999\u5712\u570d\u53e3\u5cb8 (\u7d93\u5927\u57d4)"
             },
             "fares": [
                 "18.1",
