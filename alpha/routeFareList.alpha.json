@@ -99567,150 +99567,6 @@
                 ]
             }
         },
-        "273A+4+CHOI SHEK ESTATE+WAH MING (CIRCULAR)": {
-            "bound": {
-                "kmb": "O"
-            },
-            "co": [
-                "kmb"
-            ],
-            "dest": {
-                "en": "WAH MING (CIRCULAR)",
-                "zh": "\u83ef\u660e(\u5faa\u74b0\u7dda)"
-            },
-            "fares": [
-                "5.1",
-                "5.1",
-                "5.1",
-                "5.1",
-                "5.1",
-                "5.1",
-                "5.1",
-                "5.1",
-                "5.1",
-                "5.1",
-                "5.1",
-                "5.1",
-                "5.1",
-                "5.1",
-                "5.1",
-                "5.1",
-                "5.1",
-                "5.1",
-                "5.1",
-                "5.1",
-                "5.1",
-                "5.1",
-                "5.1",
-                "5.1",
-                "5.1",
-                "5.1",
-                "5.1",
-                "5.1",
-                "5.1",
-                "5.1"
-            ],
-            "faresHoliday": null,
-            "freq": {
-                "287": {
-                    "0525": [
-                        "0555",
-                        "1800"
-                    ],
-                    "0835": [
-                        "1455",
-                        "1200"
-                    ],
-                    "1715": [
-                        "1735",
-                        "1200"
-                    ],
-                    "1735": [
-                        "1835",
-                        "900"
-                    ],
-                    "1835": [
-                        "2215",
-                        "1200"
-                    ],
-                    "2215": [
-                        "2355",
-                        "1500"
-                    ],
-                    "2355": [
-                        "2455",
-                        "1800"
-                    ]
-                },
-                "480": {
-                    "0525": [
-                        "0705",
-                        "1500"
-                    ],
-                    "0705": [
-                        "1045",
-                        "1200"
-                    ],
-                    "1045": [
-                        "2115",
-                        "900"
-                    ],
-                    "2115": [
-                        "2255",
-                        "1500"
-                    ],
-                    "2255": [
-                        "2455",
-                        "1800"
-                    ]
-                }
-            },
-            "gtfsId": "1000676",
-            "jt": "31",
-            "nlbId": null,
-            "orig": {
-                "en": "CHOI SHEK ESTATE",
-                "zh": "\u5f69\u77f3\u90a8"
-            },
-            "route": "273A",
-            "seq": 31,
-            "serviceType": "4",
-            "stops": {
-                "kmb": [
-                    "80C387D87AFBCE3E",
-                    "31005C82D70F6B09",
-                    "26A1D2969A15C3AF",
-                    "F8C20FE9111D486A",
-                    "D97A36CE8D65B198",
-                    "CF94083CB24CF4E5",
-                    "4A76CDB32FA69BC6",
-                    "6F11F73C749338DB",
-                    "98EBAB9468C80DD2",
-                    "CA1317F5A0B8A8B2",
-                    "AFD29CB1A4F71AB9",
-                    "65ECD19EFD09FB74",
-                    "4C97BE87FBF959C4",
-                    "FA52803E2628A212",
-                    "3AD4DADA5B941CF2",
-                    "8237ED597A8A948B",
-                    "A4455CCA999A234C",
-                    "3C821C86ADED2B9D",
-                    "14BDB94A8F3ED3EC",
-                    "FA7A3D77713061E9",
-                    "C7120BD9A94B4F6A",
-                    "825199DC3BC0C5A3",
-                    "A8F178C255CF9783",
-                    "ADB9356BBF06F7C7",
-                    "8E3F5AE0A97053F9",
-                    "68C7CBB4CAB9FE69",
-                    "9CD9BFAE2BC91336",
-                    "E86A26B1A389C290",
-                    "4E655B25ABAE103A",
-                    "AD4E0E8DC8ACEFB6",
-                    "A4AA1D2CA4E92950"
-                ]
-            }
-        },
         "273A+5+CHOI SHEK ESTATE+WAH MING (CIRCULAR)": {
             "bound": {
                 "kmb": "O"
@@ -99814,6 +99670,124 @@
                     "68C7CBB4CAB9FE69",
                     "9CD9BFAE2BC91336",
                     "017BCFA7DC246519",
+                    "E86A26B1A389C290",
+                    "4E655B25ABAE103A",
+                    "AD4E0E8DC8ACEFB6",
+                    "A4AA1D2CA4E92950"
+                ]
+            }
+        },
+        "273A+6+SHEUNG SHUI (CHOI YUEN)+WAH MING (CIRCULAR)": {
+            "bound": {
+                "kmb": "O"
+            },
+            "co": [
+                "kmb"
+            ],
+            "dest": {
+                "en": "WAH MING (CIRCULAR)",
+                "zh": "\u83ef\u660e(\u5faa\u74b0\u7dda)"
+            },
+            "fares": null,
+            "faresHoliday": null,
+            "freq": null,
+            "gtfsId": null,
+            "jt": null,
+            "nlbId": null,
+            "orig": {
+                "en": "SHEUNG SHUI (CHOI YUEN)",
+                "zh": "\u4e0a\u6c34(\u5f69\u5712)"
+            },
+            "route": "273A",
+            "seq": 29,
+            "serviceType": "6",
+            "stops": {
+                "kmb": [
+                    "26A1D2969A15C3AF",
+                    "F8C20FE9111D486A",
+                    "D97A36CE8D65B198",
+                    "CF94083CB24CF4E5",
+                    "08A46530B241544D",
+                    "4A76CDB32FA69BC6",
+                    "6F11F73C749338DB",
+                    "98EBAB9468C80DD2",
+                    "CA1317F5A0B8A8B2",
+                    "AFD29CB1A4F71AB9",
+                    "65ECD19EFD09FB74",
+                    "4C97BE87FBF959C4",
+                    "FA52803E2628A212",
+                    "3AD4DADA5B941CF2",
+                    "8237ED597A8A948B",
+                    "A4455CCA999A234C",
+                    "3C821C86ADED2B9D",
+                    "14BDB94A8F3ED3EC",
+                    "FA7A3D77713061E9",
+                    "C7120BD9A94B4F6A",
+                    "825199DC3BC0C5A3",
+                    "A8F178C255CF9783",
+                    "ADB9356BBF06F7C7",
+                    "8E3F5AE0A97053F9",
+                    "68C7CBB4CAB9FE69",
+                    "9CD9BFAE2BC91336",
+                    "E86A26B1A389C290",
+                    "4E655B25ABAE103A",
+                    "18785E68EAD3D9B8"
+                ]
+            }
+        },
+        "273A+7+CHOI SHEK ESTATE+WAH MING (CIRCULAR)": {
+            "bound": {
+                "kmb": "O"
+            },
+            "co": [
+                "kmb"
+            ],
+            "dest": {
+                "en": "WAH MING (CIRCULAR)",
+                "zh": "\u83ef\u660e(\u5faa\u74b0\u7dda)"
+            },
+            "fares": null,
+            "faresHoliday": null,
+            "freq": null,
+            "gtfsId": null,
+            "jt": null,
+            "nlbId": null,
+            "orig": {
+                "en": "CHOI SHEK ESTATE",
+                "zh": "\u5f69\u77f3\u90a8"
+            },
+            "route": "273A",
+            "seq": 31,
+            "serviceType": "7",
+            "stops": {
+                "kmb": [
+                    "80C387D87AFBCE3E",
+                    "31005C82D70F6B09",
+                    "26A1D2969A15C3AF",
+                    "F8C20FE9111D486A",
+                    "D97A36CE8D65B198",
+                    "CF94083CB24CF4E5",
+                    "4A76CDB32FA69BC6",
+                    "6F11F73C749338DB",
+                    "98EBAB9468C80DD2",
+                    "CA1317F5A0B8A8B2",
+                    "AFD29CB1A4F71AB9",
+                    "65ECD19EFD09FB74",
+                    "4C97BE87FBF959C4",
+                    "FA52803E2628A212",
+                    "3AD4DADA5B941CF2",
+                    "8237ED597A8A948B",
+                    "A4455CCA999A234C",
+                    "3C821C86ADED2B9D",
+                    "14BDB94A8F3ED3EC",
+                    "FA7A3D77713061E9",
+                    "C7120BD9A94B4F6A",
+                    "825199DC3BC0C5A3",
+                    "A8F178C255CF9783",
+                    "ADB9356BBF06F7C7",
+                    "8E3F5AE0A97053F9",
+                    "68C7CBB4CAB9FE69",
+                    "9CD9BFAE2BC91336",
                     "E86A26B1A389C290",
                     "4E655B25ABAE103A",
                     "AD4E0E8DC8ACEFB6",
@@ -119272,6 +119246,7 @@
                     "33A4BFE372C06BA8",
                     "B8BBCCA288E1F862",
                     "1CF4AE2F7045B848",
+                    "E27820FF0AF73D52",
                     "2C5CA5F47FB6EB3F",
                     "6B775855F6FB16D9",
                     "40C9465E380F04C5",
@@ -119286,8 +119261,7 @@
                     "888D5E0DD7261BB3",
                     "C7548A3C37ADC1AA",
                     "7BA7AF0DB4924B4E",
-                    "DAFAF65DCEA183D8",
-                    "7547D90C500629AF"
+                    "DAFAF65DCEA183D8"
                 ]
             }
         },
@@ -154067,6 +154041,7 @@
                     "DEDD6247441C8C05",
                     "81B719F7DC3F0FAD",
                     "C8276DF869656712",
+                    "E27820FF0AF73D52",
                     "0209A3C455B1DBE9",
                     "4B5F39DBC6671C81",
                     "4CC126E0B1E42F14",
@@ -154074,8 +154049,7 @@
                     "9AD30F8EDBC3F139",
                     "1E471172708B5C5D",
                     "2479788748627B65",
-                    "2C5CA5F47FB6EB3F",
-                    "B493CF03406C0B5E"
+                    "2C5CA5F47FB6EB3F"
                 ]
             }
         },
@@ -154090,34 +154064,11 @@
                 "en": "KWAI CHUNG (KWAI FONG ESTATE)",
                 "zh": "\u8475\u6d8c(\u8475\u82b3\u90a8)"
             },
-            "fares": [
-                "14.3",
-                "14.3",
-                "14.3",
-                "14.3",
-                "14.3",
-                "14.3",
-                "14.3",
-                "14.3",
-                "14.3",
-                "0",
-                "0",
-                "6.7",
-                "6.7",
-                "6.7",
-                "6.7",
-                "6.7",
-                "6.7"
-            ],
+            "fares": null,
             "faresHoliday": null,
-            "freq": {
-                "287": {
-                    "0720": null,
-                    "0740": null
-                }
-            },
-            "gtfsId": "1000196",
-            "jt": "52",
+            "freq": null,
+            "gtfsId": null,
+            "jt": null,
             "nlbId": null,
             "orig": {
                 "en": "NAI CHUNG",
@@ -154137,6 +154088,7 @@
                     "0D4E07F475845DB3",
                     "B071B60F5566934B",
                     "E2602DD1C8EA1AC8",
+                    "2021D186A889FA2E",
                     "620E14F31DA31490",
                     "32F5F33FA68B77D6",
                     "0A1DAEAFFDFF0B66",
@@ -154144,8 +154096,7 @@
                     "066AA1A504714A20",
                     "1423FCFF61709EAC",
                     "898337E6181E5E66",
-                    "4E3FEA4E559A5D16",
-                    "DA17B01A4A61A358"
+                    "4E3FEA4E559A5D16"
                 ]
             }
         },
@@ -316446,6 +316397,59 @@
                 ]
             }
         },
+        "91R+1+CLEAR WATER BAY+TSEUNG KWAN O (CHOI MING)": {
+            "bound": {
+                "kmb": "O"
+            },
+            "co": [
+                "kmb"
+            ],
+            "dest": {
+                "en": "TSEUNG KWAN O (CHOI MING)",
+                "zh": "\u5c07\u8ecd\u6fb3(\u5f69\u660e)"
+            },
+            "fares": null,
+            "faresHoliday": null,
+            "freq": null,
+            "gtfsId": null,
+            "jt": null,
+            "nlbId": null,
+            "orig": {
+                "en": "CLEAR WATER BAY",
+                "zh": "\u6e05\u6c34\u7063"
+            },
+            "route": "91R",
+            "seq": 24,
+            "serviceType": "1",
+            "stops": {
+                "kmb": [
+                    "440AEE375A242B6D",
+                    "55950D2113A80E72",
+                    "31C7E8E4A4626178",
+                    "F7EE3594526686DB",
+                    "80D6E715DA51CA02",
+                    "225FBE9D52AD0ED2",
+                    "2A62A6244F598604",
+                    "0CF0429A4BEE8F4C",
+                    "F937BECF8C53EEF3",
+                    "EA5AF653CB5975F8",
+                    "7BFE214AF3036D86",
+                    "5B4EE863B18FED7D",
+                    "8353D95EF9733231",
+                    "511D1F0A4F2B25C0",
+                    "C9E33E7E7EDAA459",
+                    "5016E25156D72ADA",
+                    "10590D40479607E8",
+                    "54FCA9F5D8F3587E",
+                    "711927A9FAEF1158",
+                    "F09FF6C6349030C6",
+                    "D13C7436B13B4A4B",
+                    "C37E7CF06680272D",
+                    "26F23B1B4A5AB703",
+                    "938667F4F953DFCA"
+                ]
+            }
+        },
         "91S+1+CLEAR WATER BAY+KWUN TONG": {
             "bound": {
                 "kmb": "O"
@@ -415259,7 +415263,7 @@
                 ]
             }
         },
-        "NA36+1+Cathay City+KAM SHEUNG ROAD STATION": {
+        "NA36+1+Cathay City+Kam Sheung Road Station": {
             "bound": {
                 "kmb": "O"
             },
@@ -415267,7 +415271,7 @@
                 "kmb"
             ],
             "dest": {
-                "en": "KAM SHEUNG ROAD STATION",
+                "en": "Kam Sheung Road Station",
                 "zh": "\u9326\u4e0a\u8def\u7ad9"
             },
             "fares": [
@@ -415337,7 +415341,7 @@
                 ]
             }
         },
-        "NA36+1+KAM SHEUNG ROAD STATION+Cathay City": {
+        "NA36+1+Kam Sheung Road Station+Cathay City": {
             "bound": {
                 "kmb": "I"
             },
@@ -415355,11 +415359,11 @@
             "jt": null,
             "nlbId": null,
             "orig": {
-                "en": "KAM SHEUNG ROAD STATION",
+                "en": "Kam Sheung Road Station",
                 "zh": "\u9326\u4e0a\u8def\u7ad9"
             },
             "route": "NA36",
-            "seq": 21,
+            "seq": 20,
             "serviceType": "1",
             "stops": {
                 "kmb": [
@@ -415382,8 +415386,7 @@
                     "C70342BF7C6A4732",
                     "0D5759F7A4B185FE",
                     "C552CE565E1F0C85",
-                    "9A43D6FA1AC3D2EA",
-                    "AAC64BCDD5B55A86"
+                    "9A43D6FA1AC3D2EA"
                 ]
             }
         },
@@ -557886,6 +557889,16 @@
             "name": {
                 "en": "HAPPY VALLEY RACECOURSE",
                 "zh": "\u8dd1\u99ac\u5730\u99ac\u5834"
+            }
+        },
+        "C37E7CF06680272D": {
+            "location": {
+                "lat": 22.30473,
+                "lng": 114.25385
+            },
+            "name": {
+                "en": "CHUI LING ROAD",
+                "zh": "\u7fe0\u5dba\u8def"
             }
         },
         "C39037A588387F32": {
