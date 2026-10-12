@@ -256177,10 +256177,22 @@
                 "zh": "\u9999\u6e2f\u6559\u80b2\u5927\u5b78"
             },
             "route": "73B",
-            "seq": 0,
+            "seq": 11,
             "serviceType": "4",
             "stops": {
-                "kmb": []
+                "kmb": [
+                    "A1A1CE1BACE1973D",
+                    "43531EDD45A4B0C1",
+                    "1A0BF02F827F6A20",
+                    "9FDEEC09AD1B601B",
+                    "0F3FA9B7D07A91F3",
+                    "C837C3C549793472",
+                    "9BE3D659E4C144D2",
+                    "650809D260BC7C6E",
+                    "F81DACC5F39E6D53",
+                    "D417A444017171C6",
+                    "D876A83244ECB838"
+                ]
             }
         },
         "73D+1+KWONG FUK MARKET+TSUEN WAN (NINA TOWER)": {
@@ -297666,7 +297678,7 @@
                 ]
             }
         },
-        "87E+1+NAI CHUNG+TSIM SHA TSUI": {
+        "87E+1+NAI CHUNG (SK970)+TSIM SHA TSUI BBI - MIDDLE ROAD (YT563)": {
             "bound": {
                 "kmb": "O"
             },
@@ -297674,18 +297686,38 @@
                 "kmb"
             ],
             "dest": {
-                "en": "TSIM SHA TSUI",
-                "zh": "\u5c16\u6c99\u5480"
+                "en": "TSIM SHA TSUI BBI - MIDDLE ROAD (YT563)",
+                "zh": "\u5c16\u6c99\u5480\u8f49\u8eca\u7ad9 - \u4e2d\u9593\u9053 (YT563)"
             },
-            "fares": null,
+            "fares": [
+                "14.3",
+                "14.3",
+                "14.3",
+                "14.3",
+                "14.3",
+                "7.4",
+                "7.4",
+                "7.4",
+                "7.4",
+                "7.4",
+                "7.4",
+                "7.4",
+                "7.4",
+                "7.4",
+                "7.4"
+            ],
             "faresHoliday": null,
-            "freq": null,
-            "gtfsId": null,
-            "jt": null,
+            "freq": {
+                "287": {
+                    "0740": null
+                }
+            },
+            "gtfsId": "8318",
+            "jt": "56",
             "nlbId": null,
             "orig": {
-                "en": "NAI CHUNG",
-                "zh": "\u6ce5\u6d8c"
+                "en": "NAI CHUNG (SK970)",
+                "zh": "\u6ce5\u6d8c (SK970)"
             },
             "route": "87E",
             "seq": 16,
@@ -297697,17 +297729,17 @@
                     "1E471172708B5C5D",
                     "2479788748627B65",
                     "0CB1F7979192FBB2",
-                    "8337F935242C5CC3",
-                    "013F884CBCB1CBE4",
-                    "41E806B7927291BE",
-                    "496BF5ECB5F376CB",
-                    "A07D2012213FC19D",
                     "DF9E89A391CAC245",
                     "657E5836BC932790",
                     "7A1C43F91CF8A6FC",
                     "60F1DDDCB555E319",
                     "F7CAA2D4FF9D61F7",
-                    "14F176D358D65A8B"
+                    "14F176D358D65A8B",
+                    "8E3A5C15E42020BB",
+                    "96442B84082D4DF5",
+                    "508D99EBC9AB3A9B",
+                    "FE56DD70DEDE0395",
+                    "D2217D7746597D10"
                 ]
             }
         },
@@ -611664,10 +611696,6 @@
             ],
             [
                 "kmb",
-                "9FDEEC09AD1B601B"
-            ],
-            [
-                "kmb",
                 "DC32010F7B9206C4"
             ],
             [
@@ -641001,6 +641029,10 @@
             [
                 "kmb",
                 "25721F85DC026ACA"
+            ],
+            [
+                "kmb",
+                "9BE3D659E4C144D2"
             ]
         ],
         "20001457": [
@@ -662889,6 +662921,10 @@
             [
                 "kmb",
                 "25721F85DC026ACA"
+            ],
+            [
+                "kmb",
+                "9BE3D659E4C144D2"
             ],
             [
                 "kmb",
@@ -693352,10 +693388,6 @@
             ],
             [
                 "kmb",
-                "9FDEEC09AD1B601B"
-            ],
-            [
-                "kmb",
                 "B78076CC8F628B2B"
             ],
             [
@@ -709433,10 +709465,6 @@
             [
                 "kmb",
                 "8C1810DE2419A30B"
-            ],
-            [
-                "kmb",
-                "9FDEEC09AD1B601B"
             ],
             [
                 "kmb",
@@ -736787,6 +736815,14 @@
         ],
         "9BE3D659E4C144D2": [
             [
+                "gmb",
+                "20001456"
+            ],
+            [
+                "gmb",
+                "20014456"
+            ],
+            [
                 "kmb",
                 "2AC85D87661D5AF6"
             ],
@@ -738631,10 +738667,6 @@
         ],
         "9FDEEC09AD1B601B": [
             [
-                "ctb",
-                "003244"
-            ],
-            [
                 "gmb",
                 "20008423"
             ],
@@ -738644,23 +738676,7 @@
             ],
             [
                 "kmb",
-                "399EF919E10C7F33"
-            ],
-            [
-                "kmb",
                 "CCC4773031BC0FD8"
-            ],
-            [
-                "kmb",
-                "5B5C877D02DF4C31"
-            ],
-            [
-                "kmb",
-                "DC32010F7B9206C4"
-            ],
-            [
-                "kmb",
-                "FB7E3001FDAB2CB1"
             ],
             [
                 "mtr",
@@ -764428,10 +764444,6 @@
             ],
             [
                 "kmb",
-                "9FDEEC09AD1B601B"
-            ],
-            [
-                "kmb",
                 "B78076CC8F628B2B"
             ],
             [
@@ -777753,10 +777765,6 @@
             [
                 "kmb",
                 "8C1810DE2419A30B"
-            ],
-            [
-                "kmb",
-                "9FDEEC09AD1B601B"
             ],
             [
                 "kmb",
