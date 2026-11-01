@@ -360734,10 +360734,15 @@
                 "zh": "\u8475\u82b3(\u8475\u7fe0\u90a8)"
             },
             "route": "B10S",
-            "seq": 0,
+            "seq": 4,
             "serviceType": "1",
             "stops": {
-                "kmb": []
+                "kmb": [
+                    "376B94FDBA371A25",
+                    "9E42D981C59B5762",
+                    "E16B85415973C1A2",
+                    "C9A6689E84F83D1A"
+                ]
             }
         },
         "B11+1+HUANGGANG PORT+TIN FU": {
