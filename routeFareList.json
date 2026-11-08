@@ -229953,6 +229953,34 @@
                 ]
             }
         },
+        "67M+3+TUEN MUN (PO TIN ESTATE)+TUEN MUN GOVERNMENT SECONDARY SCHOOL": {
+            "bound": {
+                "kmb": "O"
+            },
+            "co": [
+                "kmb"
+            ],
+            "dest": {
+                "en": "TUEN MUN GOVERNMENT SECONDARY SCHOOL",
+                "zh": "\u5c6f\u9580\u5b98\u7acb\u4e2d\u5b78"
+            },
+            "fares": null,
+            "faresHoliday": null,
+            "freq": null,
+            "gtfsId": null,
+            "jt": null,
+            "nlbId": null,
+            "orig": {
+                "en": "TUEN MUN (PO TIN ESTATE)",
+                "zh": "\u5c6f\u9580(\u5bf6\u7530\u90a8)"
+            },
+            "route": "67M",
+            "seq": 0,
+            "serviceType": "3",
+            "stops": {
+                "kmb": []
+            }
+        },
         "67X+1+MONG KOK EAST STATION+TUEN MUN (SIU HONG COURT)": {
             "bound": {
                 "kmb": "I"
